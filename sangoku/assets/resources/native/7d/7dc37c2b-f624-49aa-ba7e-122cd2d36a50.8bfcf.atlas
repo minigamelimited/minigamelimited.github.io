@@ -1,0 +1,153 @@
+
+hero_tower9.png
+size: 166,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cici
+  rotate: true
+  xy: 120, 106
+  size: 64, 10
+  orig: 72, 24
+  offset: 3, 7
+  index: -1
+light2
+  rotate: false
+  xy: 151, 113
+  size: 12, 12
+  orig: 18, 18
+  offset: 3, 3
+  index: -1
+ring2
+  rotate: true
+  xy: 132, 113
+  size: 23, 17
+  orig: 28, 28
+  offset: 3, 6
+  index: -1
+zy_00
+  rotate: false
+  xy: 146, 33
+  size: 17, 21
+  orig: 18, 22
+  offset: 1, 1
+  index: -1
+zy_01
+  rotate: false
+  xy: 132, 91
+  size: 20, 20
+  orig: 21, 22
+  offset: 1, 1
+  index: -1
+zy_02
+  rotate: false
+  xy: 129, 65
+  size: 20, 24
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+zy_03
+  rotate: true
+  xy: 150, 5
+  size: 15, 13
+  orig: 16, 15
+  offset: 1, 1
+  index: -1
+zy_04
+  rotate: false
+  xy: 83, 171
+  size: 35, 22
+  orig: 36, 23
+  offset: 1, 0
+  index: -1
+zy_05
+  rotate: 270
+  xy: 120, 171
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+zy_06
+  rotate: false
+  xy: 82, 57
+  size: 46, 51
+  orig: 47, 51
+  offset: 1, 0
+  index: -1
+zy_07
+  rotate: false
+  xy: 97, 16
+  size: 28, 25
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+zy_08
+  rotate: false
+  xy: 78, 114
+  size: 29, 55
+  orig: 31, 57
+  offset: 1, 1
+  index: -1
+zy_09
+  rotate: true
+  xy: 2, 125
+  size: 23, 11
+  orig: 25, 12
+  offset: 1, 0
+  index: -1
+zy_11
+  rotate: false
+  xy: 2, 116
+  size: 79, 83
+  orig: 79, 84
+  offset: 0, 1
+  index: -1
+zy_12
+  rotate: false
+  xy: 135, 139
+  size: 17, 36
+  orig: 21, 37
+  offset: 2, 1
+  index: -1
+zy_13
+  rotate: true
+  xy: 2, 61
+  size: 57, 81
+  orig: 59, 82
+  offset: 0, 1
+  index: -1
+zy_14
+  rotate: true
+  xy: 2, 17
+  size: 42, 49
+  orig: 49, 50
+  offset: 3, 1
+  index: -1
+zy_15
+  rotate: false
+  xy: 53, 16
+  size: 42, 43
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+zy_16
+  rotate: 180
+  xy: 124, 4
+  size: 27, 32
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+zy_17
+  rotate: true
+  xy: 111, 42
+  size: 22, 34
+  orig: 24, 35
+  offset: 1, 0
+  index: -1
+zy_18
+  rotate: true
+  xy: 2, 3
+  size: 11, 120
+  orig: 14, 125
+  offset: 2, 2
+  index: -1

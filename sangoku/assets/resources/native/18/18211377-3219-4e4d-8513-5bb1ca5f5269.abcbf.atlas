@@ -1,0 +1,34 @@
+
+tower4_5.png
+size: 274,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 235, 55
+  size: 28, 28
+  orig: 36, 36
+  offset: 4, 4
+  index: -1
+4
+  rotate: false
+  xy: 235, 85
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+arrow_12
+  rotate: true
+  xy: 144, 3
+  size: 116, 89
+  orig: 126, 98
+  offset: 3, 3
+  index: -1
+ta
+  rotate: false
+  xy: 2, 3
+  size: 141, 119
+  orig: 141, 119
+  offset: 0, 0
+  index: -1

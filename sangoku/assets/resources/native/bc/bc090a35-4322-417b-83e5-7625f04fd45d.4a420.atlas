@@ -1,0 +1,237 @@
+
+hero_tower13.png
+size: 249,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 175, 69
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 2, 2
+  size: 36, 35
+  orig: 42, 42
+  offset: 3, 3
+  index: -1
+blastmark11_diffuse
+  rotate: false
+  xy: 91, 175
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+dg_00
+  rotate: false
+  xy: 215, 183
+  size: 23, 9
+  orig: 36, 36
+  offset: 5, 26
+  index: -1
+dg_01
+  rotate: true
+  xy: 189, 9
+  size: 29, 20
+  orig: 36, 36
+  offset: 6, 15
+  index: -1
+dg_02
+  rotate: true
+  xy: 130, 34
+  size: 30, 29
+  orig: 36, 36
+  offset: 6, 6
+  index: -1
+dg_03
+  rotate: true
+  xy: 210, 72
+  size: 30, 34
+  orig: 36, 36
+  offset: 6, 1
+  index: -1
+dg_04
+  rotate: false
+  xy: 87, 7
+  size: 27, 32
+  orig: 36, 36
+  offset: 9, 1
+  index: -1
+dg_05
+  rotate: false
+  xy: 40, 6
+  size: 26, 26
+  orig: 36, 36
+  offset: 9, 1
+  index: -1
+dg_06
+  rotate: false
+  xy: 116, 13
+  size: 27, 19
+  orig: 36, 36
+  offset: 7, 1
+  index: -1
+dianwei_00
+  rotate: false
+  xy: 92, 84
+  size: 38, 39
+  orig: 39, 44
+  offset: 0, 1
+  index: -1
+dianwei_01
+  rotate: false
+  xy: 50, 34
+  size: 35, 46
+  orig: 40, 50
+  offset: 1, 0
+  index: -1
+dianwei_02
+  rotate: true
+  xy: 153, 104
+  size: 69, 63
+  orig: 73, 65
+  offset: 2, 1
+  index: -1
+dianwei_03
+  rotate: false
+  xy: 165, 176
+  size: 16, 16
+  orig: 20, 18
+  offset: 3, 2
+  index: -1
+dianwei_04
+  rotate: false
+  xy: 132, 110
+  size: 8, 13
+  orig: 12, 17
+  offset: 2, 2
+  index: -1
+dianwei_05
+  rotate: false
+  xy: 2, 125
+  size: 65, 69
+  orig: 69, 73
+  offset: 2, 2
+  index: -1
+dianwei_06
+  rotate: true
+  xy: 2, 81
+  size: 42, 46
+  orig: 47, 49
+  offset: 3, 2
+  index: -1
+dianwei_07
+  rotate: false
+  xy: 165, 194
+  size: 79, 53
+  orig: 85, 56
+  offset: 4, 1
+  index: -1
+dianwei_08
+  rotate: false
+  xy: 132, 66
+  size: 41, 36
+  orig: 45, 38
+  offset: 3, 1
+  index: -1
+dianwei_09
+  rotate: true
+  xy: 92, 41
+  size: 41, 36
+  orig: 47, 41
+  offset: 6, 4
+  index: -1
+dianwei_10
+  rotate: true
+  xy: 2, 39
+  size: 40, 35
+  orig: 43, 37
+  offset: 2, 1
+  index: -1
+dianwei_11
+  rotate: true
+  xy: 50, 82
+  size: 41, 40
+  orig: 45, 43
+  offset: 1, 2
+  index: -1
+dianwei_12
+  rotate: false
+  xy: 2, 196
+  size: 87, 51
+  orig: 92, 53
+  offset: 3, 0
+  index: -1
+dianwei_13
+  rotate: false
+  xy: 69, 125
+  size: 82, 48
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+dl2
+  rotate: false
+  xy: 69, 179
+  size: 20, 15
+  orig: 21, 21
+  offset: 0, 2
+  index: -1
+hit2_00000
+  rotate: false
+  xy: 175, 40
+  size: 38, 27
+  orig: 42, 42
+  offset: 3, 5
+  index: -1
+light
+  rotate: true
+  xy: 201, 182
+  size: 10, 12
+  orig: 14, 14
+  offset: 2, 1
+  index: -1
+lizi_03
+  rotate: false
+  xy: 183, 177
+  size: 16, 15
+  orig: 36, 36
+  offset: 10, 11
+  index: -1
+lizi_05
+  rotate: true
+  xy: 218, 159
+  size: 22, 19
+  orig: 36, 36
+  offset: 7, 9
+  index: -1
+lizi_07
+  rotate: false
+  xy: 161, 16
+  size: 26, 22
+  orig: 36, 36
+  offset: 5, 8
+  index: -1
+lizi_09
+  rotate: true
+  xy: 215, 41
+  size: 29, 25
+  orig: 36, 36
+  offset: 4, 6
+  index: -1
+lizi_11
+  rotate: true
+  xy: 215, 8
+  size: 31, 20
+  orig: 36, 36
+  offset: 3, 5
+  index: -1
+lizi_13
+  rotate: false
+  xy: 69, 176
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

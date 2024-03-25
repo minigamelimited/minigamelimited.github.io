@@ -1,0 +1,251 @@
+
+enemy1_2.png
+size: 237,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg
+  rotate: false
+  xy: 2, 155
+  size: 76, 80
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+soldier_00
+  rotate: true
+  xy: 104, 78
+  size: 37, 47
+  orig: 48, 49
+  offset: 6, 1
+  index: -1
+soldier_01
+  rotate: false
+  xy: 213, 139
+  size: 14, 24
+  orig: 20, 28
+  offset: 4, 2
+  index: -1
+soldier_03
+  rotate: false
+  xy: 136, 165
+  size: 18, 23
+  orig: 24, 28
+  offset: 4, 3
+  index: -1
+soldier_04
+  rotate: false
+  xy: 213, 119
+  size: 18, 18
+  orig: 29, 25
+  offset: 3, 5
+  index: -1
+soldier_05
+  rotate: true
+  xy: 2, 15
+  size: 138, 42
+  orig: 142, 42
+  offset: 4, 0
+  index: -1
+soldier_06
+  rotate: false
+  xy: 175, 198
+  size: 36, 37
+  orig: 38, 38
+  offset: 2, 0
+  index: -1
+soldier_07
+  rotate: false
+  xy: 153, 80
+  size: 29, 36
+  orig: 33, 38
+  offset: 2, 1
+  index: -1
+soldier_08
+  rotate: true
+  xy: 156, 165
+  size: 23, 16
+  orig: 28, 23
+  offset: 3, 4
+  index: -1
+soldier_09
+  rotate: true
+  xy: 156, 165
+  size: 23, 16
+  orig: 28, 23
+  offset: 3, 4
+  index: -1
+soldier_10
+  rotate: false
+  xy: 46, 78
+  size: 56, 75
+  orig: 57, 75
+  offset: 1, 0
+  index: -1
+soldier_11
+  rotate: true
+  xy: 184, 33
+  size: 15, 14
+  orig: 17, 15
+  offset: 1, 1
+  index: -1
+soldier_12
+  rotate: true
+  xy: 98, 27
+  size: 49, 45
+  orig: 57, 46
+  offset: 3, 1
+  index: -1
+soldier_down_00
+  rotate: false
+  xy: 174, 165
+  size: 15, 23
+  orig: 22, 28
+  offset: 4, 3
+  index: -1
+soldier_down_01
+  rotate: false
+  xy: 145, 31
+  size: 37, 45
+  orig: 41, 49
+  offset: 3, 1
+  index: -1
+soldier_down_02
+  rotate: false
+  xy: 46, 10
+  size: 50, 66
+  orig: 57, 76
+  offset: 5, 1
+  index: -1
+soldier_down_03
+  rotate: true
+  xy: 98, 6
+  size: 19, 24
+  orig: 24, 29
+  offset: 3, 2
+  index: -1
+soldier_down_04
+  rotate: true
+  xy: 124, 8
+  size: 17, 25
+  orig: 21, 29
+  offset: 2, 3
+  index: -1
+soldier_down_05
+  rotate: true
+  xy: 151, 2
+  size: 27, 35
+  orig: 32, 41
+  offset: 2, 3
+  index: -1
+soldier_down_06
+  rotate: false
+  xy: 191, 165
+  size: 27, 31
+  orig: 33, 37
+  offset: 3, 3
+  index: -1
+soldier_down_07
+  rotate: false
+  xy: 213, 218
+  size: 20, 17
+  orig: 26, 23
+  offset: 3, 2
+  index: -1
+soldier_down_08
+  rotate: true
+  xy: 217, 98
+  size: 19, 17
+  orig: 23, 20
+  offset: 2, 2
+  index: -1
+soldier_down_09
+  rotate: true
+  xy: 104, 117
+  size: 46, 41
+  orig: 48, 42
+  offset: 1, 1
+  index: -1
+soldier_up_00
+  rotate: false
+  xy: 220, 174
+  size: 14, 24
+  orig: 24, 30
+  offset: 5, 3
+  index: -1
+soldier_up_01
+  rotate: false
+  xy: 136, 190
+  size: 37, 45
+  orig: 48, 52
+  offset: 6, 3
+  index: -1
+soldier_up_02
+  rotate: false
+  xy: 80, 165
+  size: 54, 70
+  orig: 59, 84
+  offset: 3, 5
+  index: -1
+soldier_up_03
+  rotate: true
+  xy: 184, 88
+  size: 28, 31
+  orig: 38, 38
+  offset: 5, 5
+  index: -1
+soldier_up_04
+  rotate: false
+  xy: 184, 50
+  size: 14, 18
+  orig: 26, 27
+  offset: 6, 5
+  index: -1
+soldier_up_05
+  rotate: false
+  xy: 185, 130
+  size: 26, 33
+  orig: 33, 39
+  offset: 2, 4
+  index: -1
+soldier_up_06
+  rotate: true
+  xy: 184, 70
+  size: 16, 17
+  orig: 21, 20
+  offset: 2, 2
+  index: -1
+soldier_up_07
+  rotate: true
+  xy: 188, 16
+  size: 15, 13
+  orig: 23, 18
+  offset: 4, 3
+  index: -1
+soldier_up_08
+  rotate: false
+  xy: 200, 55
+  size: 14, 13
+  orig: 20, 18
+  offset: 3, 3
+  index: -1
+soldier_up_09
+  rotate: false
+  xy: 213, 200
+  size: 21, 16
+  orig: 26, 25
+  offset: 3, 6
+  index: -1
+soldier_up_10
+  rotate: true
+  xy: 217, 77
+  size: 19, 16
+  orig: 27, 25
+  offset: 4, 6
+  index: -1
+soldier_up_11
+  rotate: true
+  xy: 147, 118
+  size: 45, 36
+  orig: 47, 37
+  offset: 1, 0
+  index: -1

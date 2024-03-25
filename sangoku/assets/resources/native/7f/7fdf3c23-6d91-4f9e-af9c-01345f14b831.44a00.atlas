@@ -1,0 +1,62 @@
+
+tower2_2.png
+size: 393,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_12
+  rotate: false
+  xy: 2, 2
+  size: 116, 89
+  orig: 126, 98
+  offset: 3, 3
+  index: -1
+gun01
+  rotate: true
+  xy: 358, 4
+  size: 87, 33
+  orig: 91, 35
+  offset: 2, 1
+  index: -1
+gun02
+  rotate: false
+  xy: 251, 26
+  size: 54, 65
+  orig: 58, 70
+  offset: 2, 4
+  index: -1
+gun03
+  rotate: true
+  xy: 307, 27
+  size: 64, 49
+  orig: 69, 51
+  offset: 3, 1
+  index: -1
+gun04
+  rotate: true
+  xy: 120, 4
+  size: 87, 67
+  orig: 88, 69
+  offset: 1, 2
+  index: -1
+gun05
+  rotate: true
+  xy: 189, 7
+  size: 84, 60
+  orig: 86, 66
+  offset: 1, 2
+  index: -1
+light
+  rotate: false
+  xy: 251, 10
+  size: 14, 14
+  orig: 18, 18
+  offset: 2, 2
+  index: -1
+smoke
+  rotate: false
+  xy: 267, 10
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

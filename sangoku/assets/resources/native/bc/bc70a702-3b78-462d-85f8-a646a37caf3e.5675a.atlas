@@ -1,0 +1,104 @@
+
+tower4_1.png
+size: 539,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_12
+  rotate: false
+  xy: 2, 33
+  size: 198, 151
+  orig: 216, 168
+  offset: 6, 6
+  index: -1
+fs_00
+  rotate: false
+  xy: 373, 32
+  size: 46, 75
+  orig: 49, 77
+  offset: 2, 2
+  index: -1
+fs_01
+  rotate: true
+  xy: 494, 65
+  size: 24, 35
+  orig: 28, 38
+  offset: 2, 1
+  index: -1
+fs_02
+  rotate: false
+  xy: 55, 6
+  size: 19, 25
+  orig: 24, 29
+  offset: 3, 2
+  index: -1
+fs_03
+  rotate: false
+  xy: 475, 88
+  size: 62, 96
+  orig: 63, 96
+  offset: 0, 0
+  index: -1
+fs_04
+  rotate: 270
+  xy: 327, 9
+  size: 30, 31
+  orig: 35, 35
+  offset: 2, 2
+  index: -1
+fs_05
+  rotate: false
+  xy: 434, 15
+  size: 40, 36
+  orig: 46, 43
+  offset: 3, 3
+  index: -1
+fs_06
+  rotate: 270
+  xy: 198, 4
+  size: 34, 54
+  orig: 38, 56
+  offset: 4, 2
+  index: -1
+fs_07
+  rotate: false
+  xy: 475, 31
+  size: 59, 32
+  orig: 67, 39
+  offset: 4, 3
+  index: -1
+fs_08
+  rotate: 180
+  xy: 360, 41
+  size: 118, 143
+  orig: 119, 143
+  offset: 1, 0
+  index: -1
+fs_09
+  rotate: 270
+  xy: 358, 14
+  size: 31, 71
+  orig: 34, 74
+  offset: 2, 2
+  index: -1
+fs_10
+  rotate: false
+  xy: 202, 19
+  size: 170, 165
+  orig: 172, 165
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 6
+  size: 25, 25
+  orig: 31, 31
+  offset: 3, 3
+  index: -1
+ring
+  rotate: false
+  xy: 29, 7
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

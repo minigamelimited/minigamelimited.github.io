@@ -1,0 +1,55 @@
+
+hero4_pet.png
+size: 64,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pet_00
+  rotate: 270
+  xy: 2, 155
+  size: 66, 50
+  orig: 92, 65
+  offset: 18, 8
+  index: -1
+pet_01
+  rotate: true
+  xy: 2, 35
+  size: 85, 40
+  orig: 100, 65
+  offset: 6, 12
+  index: -1
+pet_02
+  rotate: false
+  xy: 2, 300
+  size: 56, 82
+  orig: 74, 93
+  offset: 1, 4
+  index: -1
+pet_03
+  rotate: 180
+  xy: 2, 118
+  size: 56, 38
+  orig: 76, 63
+  offset: 16, 12
+  index: -1
+pet_04
+  rotate: 270
+  xy: 2, 214
+  size: 88, 57
+  orig: 112, 65
+  offset: 10, 5
+  index: -1
+pet_05
+  rotate: 180
+  xy: 13, 71
+  size: 49, 47
+  orig: 62, 58
+  offset: 10, 5
+  index: -1
+pet_06
+  rotate: false
+  xy: 2, 4
+  size: 46, 42
+  orig: 58, 48
+  offset: 4, 0
+  index: -1

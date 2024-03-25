@@ -1,0 +1,97 @@
+
+hero_tower2.png
+size: 157,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy_00
+  rotate: 180
+  xy: 2, 6
+  size: 33, 37
+  orig: 34, 37
+  offset: 1, 0
+  index: -1
+gy_02
+  rotate: false
+  xy: 92, 88
+  size: 26, 42
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+gy_03
+  rotate: 270
+  xy: 96, 7
+  size: 32, 34
+  orig: 32, 43
+  offset: 0, 5
+  index: -1
+gy_04
+  rotate: false
+  xy: 2, 50
+  size: 6, 9
+  orig: 7, 10
+  offset: 1, 1
+  index: -1
+gy_05
+  rotate: false
+  xy: 2, 123
+  size: 10, 5
+  orig: 12, 7
+  offset: 1, 1
+  index: -1
+gy_06
+  rotate: false
+  xy: 31, 11
+  size: 62, 118
+  orig: 62, 119
+  offset: 0, 0
+  index: -1
+gy_09
+  rotate: true
+  xy: 118, 90
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+gy_10
+  rotate: false
+  xy: 2, 47
+  size: 61, 83
+  orig: 65, 85
+  offset: 3, 1
+  index: -1
+gy_11
+  rotate: false
+  xy: 114, 58
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+gy_12
+  rotate: false
+  xy: 130, 72
+  size: 21, 17
+  orig: 25, 19
+  offset: 2, 0
+  index: -1
+gy_15
+  rotate: false
+  xy: 123, 21
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+gy_16
+  rotate: 180
+  xy: 85, 38
+  size: 32, 41
+  orig: 40, 42
+  offset: 2, 1
+  index: -1
+qizi
+  rotate: false
+  xy: 46, 3
+  size: 57, 38
+  orig: 58, 43
+  offset: 1, 2
+  index: -1

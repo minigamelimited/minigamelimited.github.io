@@ -1,0 +1,13 @@
+
+hero4_Phoenix.png
+size: 84,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 3
+  size: 81, 150
+  orig: 150, 150
+  offset: 35, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+tower1_4.png
+size: 377,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_12
+  rotate: false
+  xy: 2, 14
+  size: 132, 101
+  orig: 144, 112
+  offset: 4, 4
+  index: -1
+eye
+  rotate: false
+  xy: 136, 6
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tower1
+  rotate: true
+  xy: 249, 7
+  size: 109, 79
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+tower2
+  rotate: 180
+  xy: 344, 75
+  size: 30, 42
+  orig: 33, 42
+  offset: 2, 0
+  index: -1
+tower3
+  rotate: true
+  xy: 291, 62
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+tower4
+  rotate: false
+  xy: 136, 3
+  size: 116, 112
+  orig: 117, 112
+  offset: 1, 0
+  index: -1
+tower5
+  rotate: 270
+  xy: 318, 10
+  size: 68, 44
+  orig: 70, 44
+  offset: 1, 0
+  index: -1

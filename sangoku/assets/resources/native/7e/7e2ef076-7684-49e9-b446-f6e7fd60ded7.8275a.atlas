@@ -1,0 +1,132 @@
+
+tower3_4.png
+size: 233,233
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_12
+  rotate: true
+  xy: 133, 115
+  size: 116, 89
+  orig: 126, 98
+  offset: 3, 3
+  index: -1
+bt01
+  rotate: false
+  xy: 2, 26
+  size: 92, 31
+  orig: 92, 31
+  offset: 0, 0
+  index: -1
+bt02
+  rotate: false
+  xy: 2, 59
+  size: 106, 172
+  orig: 106, 172
+  offset: 0, 0
+  index: -1
+fire_00
+  rotate: false
+  xy: 110, 197
+  size: 21, 34
+  orig: 22, 36
+  offset: 0, 2
+  index: -1
+fire_01
+  rotate: false
+  xy: 110, 161
+  size: 21, 34
+  orig: 22, 36
+  offset: 0, 2
+  index: -1
+fire_02
+  rotate: false
+  xy: 110, 125
+  size: 21, 34
+  orig: 22, 36
+  offset: 0, 2
+  index: -1
+fire_03
+  rotate: true
+  xy: 39, 2
+  size: 22, 34
+  orig: 22, 36
+  offset: 0, 2
+  index: -1
+fire_04
+  rotate: true
+  xy: 75, 2
+  size: 22, 34
+  orig: 22, 36
+  offset: 0, 2
+  index: -1
+fire_05
+  rotate: true
+  xy: 2, 2
+  size: 22, 35
+  orig: 22, 36
+  offset: 0, 1
+  index: -1
+fire_06
+  rotate: true
+  xy: 96, 36
+  size: 21, 35
+  orig: 22, 36
+  offset: 0, 1
+  index: -1
+fire_07
+  rotate: true
+  xy: 111, 13
+  size: 21, 35
+  orig: 22, 36
+  offset: 0, 1
+  index: -1
+fire_08
+  rotate: false
+  xy: 110, 89
+  size: 21, 34
+  orig: 22, 36
+  offset: 0, 1
+  index: -1
+fire_09
+  rotate: true
+  xy: 133, 44
+  size: 20, 34
+  orig: 22, 36
+  offset: 0, 1
+  index: -1
+fire_10
+  rotate: true
+  xy: 169, 93
+  size: 20, 33
+  orig: 22, 36
+  offset: 0, 2
+  index: -1
+fire_11
+  rotate: false
+  xy: 204, 80
+  size: 20, 33
+  orig: 22, 36
+  offset: 0, 2
+  index: -1
+fire_12
+  rotate: true
+  xy: 146, 70
+  size: 20, 34
+  orig: 22, 36
+  offset: 0, 2
+  index: -1
+fire_13
+  rotate: true
+  xy: 110, 66
+  size: 21, 34
+  orig: 22, 36
+  offset: 0, 2
+  index: -1
+fire_14
+  rotate: true
+  xy: 133, 92
+  size: 21, 34
+  orig: 22, 36
+  offset: 0, 2
+  index: -1

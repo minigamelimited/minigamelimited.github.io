@@ -1,0 +1,181 @@
+
+main_hero2.png
+size: 219,582
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fei_00
+  rotate: false
+  xy: 2, 408
+  size: 136, 173
+  orig: 140, 176
+  offset: 1, 1
+  index: -1
+fei_01
+  rotate: true
+  xy: 149, 118
+  size: 71, 66
+  orig: 71, 69
+  offset: 0, 3
+  index: -1
+fei_02
+  rotate: true
+  xy: 2, 69
+  size: 52, 59
+  orig: 56, 62
+  offset: 3, 0
+  index: -1
+fei_03
+  rotate: true
+  xy: 162, 63
+  size: 54, 54
+  orig: 57, 56
+  offset: 1, 2
+  index: -1
+fei_04
+  rotate: false
+  xy: 2, 5
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+fei_05
+  rotate: true
+  xy: 2, 331
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+fei_06
+  rotate: 180
+  xy: 40, 303
+  size: 113, 112
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+fei_07
+  rotate: false
+  xy: 106, 33
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+fei_07_2
+  rotate: false
+  xy: 31, 566
+  size: 21, 14
+  orig: 26, 18
+  offset: 3, 2
+  index: -1
+fei_08
+  rotate: false
+  xy: 2, 379
+  size: 41, 40
+  orig: 47, 43
+  offset: 3, 2
+  index: -1
+fei_09
+  rotate: 180
+  xy: 10, 189
+  size: 80, 60
+  orig: 86, 66
+  offset: 3, 3
+  index: -1
+fei_10
+  rotate: true
+  xy: 140, 193
+  size: 65, 71
+  orig: 69, 74
+  offset: 1, 1
+  index: -1
+fei_11
+  rotate: 180
+  xy: 2, 134
+  size: 80, 56
+  orig: 84, 60
+  offset: 2, 2
+  index: -1
+fei_12
+  rotate: false
+  xy: 82, 156
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+fei_13
+  rotate: 180
+  xy: 153, 324
+  size: 64, 78
+  orig: 69, 84
+  offset: 3, 2
+  index: -1
+fei_14
+  rotate: true
+  xy: 67, 231
+  size: 64, 79
+  orig: 71, 81
+  offset: 3, 2
+  index: -1
+fei_15
+  rotate: false
+  xy: 2, 73
+  size: 163, 68
+  orig: 176, 75
+  offset: 8, 1
+  index: -1
+fei_16
+  rotate: true
+  xy: 2, 251
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+fei_17
+  rotate: true
+  xy: 139, 402
+  size: 179, 61
+  orig: 179, 61
+  offset: 0, 0
+  index: -1
+fei_18
+  rotate: false
+  xy: 33, 32
+  size: 48, 43
+  orig: 55, 52
+  offset: 3, 4
+  index: -1
+fei_19
+  rotate: false
+  xy: 65, 4
+  size: 41, 42
+  orig: 52, 52
+  offset: 7, 5
+  index: -1
+fei_20
+  rotate: 270
+  xy: 60, 63
+  size: 47, 47
+  orig: 57, 54
+  offset: 4, 3
+  index: -1
+fei_21
+  rotate: 270
+  xy: 149, 30
+  size: 42, 43
+  orig: 52, 53
+  offset: 7, 5
+  index: -1
+feilight
+  rotate: false
+  xy: 2, 550
+  size: 27, 30
+  orig: 30, 30
+  offset: 3, 0
+  index: -1
+light
+  rotate: false
+  xy: 147, 258
+  size: 63, 63
+  orig: 77, 77
+  offset: 7, 7
+  index: -1

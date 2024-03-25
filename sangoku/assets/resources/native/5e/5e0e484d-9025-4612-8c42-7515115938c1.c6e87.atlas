@@ -1,0 +1,153 @@
+
+hero_tower8.png
+size: 107,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg
+  rotate: false
+  xy: 2, 221
+  size: 54, 57
+  orig: 70, 70
+  offset: 16, 5
+  index: -1
+g
+  rotate: true
+  xy: 2, 168
+  size: 51, 53
+  orig: 70, 70
+  offset: 10, 9
+  index: -1
+light
+  rotate: false
+  xy: 50, 6
+  size: 26, 26
+  orig: 36, 36
+  offset: 5, 5
+  index: -1
+lighting_00000
+  rotate: false
+  xy: 57, 214
+  size: 6, 5
+  orig: 18, 18
+  offset: 6, 7
+  index: -1
+lighting_00001
+  rotate: true
+  xy: 89, 263
+  size: 15, 14
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+lighting_00002
+  rotate: false
+  xy: 79, 48
+  size: 14, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+lighting_00003
+  rotate: false
+  xy: 57, 194
+  size: 10, 12
+  orig: 18, 18
+  offset: 5, 4
+  index: -1
+zgl_00
+  rotate: true
+  xy: 2, 83
+  size: 31, 63
+  orig: 35, 64
+  offset: 2, 1
+  index: -1
+zgl_01
+  rotate: false
+  xy: 57, 102
+  size: 42, 40
+  orig: 45, 41
+  offset: 0, 1
+  index: -1
+zgl_02
+  rotate: 270
+  xy: 56, 67
+  size: 34, 45
+  orig: 35, 49
+  offset: 1, 0
+  index: -1
+zgl_03
+  rotate: false
+  xy: 92, 212
+  size: 11, 28
+  orig: 16, 28
+  offset: 3, 0
+  index: -1
+zgl_04
+  rotate: true
+  xy: 2, 4
+  size: 21, 38
+  orig: 26, 42
+  offset: 2, 2
+  index: -1
+zgl_05
+  rotate: false
+  xy: 58, 189
+  size: 35, 89
+  orig: 36, 97
+  offset: 1, 8
+  index: -1
+zgl_06
+  rotate: true
+  xy: 2, 34
+  size: 33, 83
+  orig: 36, 83
+  offset: 1, 0
+  index: -1
+zgl_07
+  rotate: 270
+  xy: 28, 54
+  size: 33, 39
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+zgl_08
+  rotate: 270
+  xy: 90, 193
+  size: 21, 15
+  orig: 25, 17
+  offset: 2, 2
+  index: -1
+zgl_09
+  rotate: 270
+  xy: 92, 242
+  size: 20, 14
+  orig: 25, 18
+  offset: 2, 2
+  index: -1
+zgl_10
+  rotate: 180
+  xy: 78, 7
+  size: 25, 40
+  orig: 28, 43
+  offset: 1, 2
+  index: -1
+zgl_11
+  rotate: true
+  xy: 2, 25
+  size: 25, 47
+  orig: 32, 48
+  offset: 2, 1
+  index: -1
+zgl_12
+  rotate: 270
+  xy: 2, 121
+  size: 38, 63
+  orig: 39, 65
+  offset: 1, 2
+  index: -1
+zgl_13
+  rotate: true
+  xy: 50, 144
+  size: 48, 54
+  orig: 49, 57
+  offset: 1, 1
+  index: -1

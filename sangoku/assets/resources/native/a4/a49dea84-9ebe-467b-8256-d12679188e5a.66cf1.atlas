@@ -1,0 +1,27 @@
+
+tower3_3.png
+size: 109,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_12
+  rotate: true
+  xy: 2, 36
+  size: 116, 89
+  orig: 126, 98
+  offset: 3, 3
+  index: -1
+bt01
+  rotate: false
+  xy: 2, 4
+  size: 92, 31
+  orig: 92, 31
+  offset: 0, 0
+  index: -1
+bt02
+  rotate: false
+  xy: 2, 154
+  size: 105, 172
+  orig: 106, 172
+  offset: 0, 0
+  index: -1

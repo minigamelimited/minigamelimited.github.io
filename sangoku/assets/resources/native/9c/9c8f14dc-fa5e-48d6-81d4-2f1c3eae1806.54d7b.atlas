@@ -1,0 +1,90 @@
+
+tower3_1_soldier.png
+size: 355,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light3
+  rotate: true
+  xy: 336, 16
+  size: 23, 16
+  orig: 24, 24
+  offset: 0, 4
+  index: -1
+soldier_00
+  rotate: false
+  xy: 245, 13
+  size: 45, 55
+  orig: 58, 59
+  offset: 7, 2
+  index: -1
+soldier_01
+  rotate: true
+  xy: 319, 41
+  size: 17, 28
+  orig: 24, 33
+  offset: 4, 2
+  index: -1
+soldier_02
+  rotate: false
+  xy: 2, 8
+  size: 57, 29
+  orig: 62, 35
+  offset: 3, 3
+  index: -1
+soldier_03
+  rotate: false
+  xy: 144, 10
+  size: 21, 27
+  orig: 29, 34
+  offset: 5, 4
+  index: -1
+soldier_04
+  rotate: true
+  xy: 292, 41
+  size: 27, 25
+  orig: 35, 30
+  offset: 4, 2
+  index: -1
+soldier_05
+  rotate: false
+  xy: 2, 39
+  size: 163, 29
+  orig: 170, 34
+  offset: 4, 4
+  index: -1
+soldier_06
+  rotate: true
+  xy: 61, 3
+  size: 36, 42
+  orig: 41, 46
+  offset: 2, 2
+  index: -1
+soldier_07
+  rotate: true
+  xy: 101, 5
+  size: 31, 41
+  orig: 39, 46
+  offset: 6, 3
+  index: -1
+soldier_08
+  rotate: true
+  xy: 292, 11
+  size: 28, 20
+  orig: 34, 28
+  offset: 3, 4
+  index: -1
+soldier_09
+  rotate: true
+  xy: 314, 11
+  size: 28, 20
+  orig: 33, 28
+  offset: 3, 4
+  index: -1
+soldier_10
+  rotate: true
+  xy: 167, 9
+  size: 61, 77
+  orig: 68, 82
+  offset: 4, 2
+  index: -1

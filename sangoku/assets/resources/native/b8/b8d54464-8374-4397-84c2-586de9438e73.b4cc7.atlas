@@ -1,0 +1,55 @@
+
+tower1_6.png
+size: 396,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_12
+  rotate: false
+  xy: 2, 14
+  size: 132, 101
+  orig: 144, 112
+  offset: 4, 4
+  index: -1
+eye
+  rotate: false
+  xy: 136, 6
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tower1
+  rotate: true
+  xy: 249, 7
+  size: 109, 79
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+tower3
+  rotate: 180
+  xy: 300, 50
+  size: 71, 65
+  orig: 71, 68
+  offset: 0, 3
+  index: -1
+tower4
+  rotate: false
+  xy: 136, 3
+  size: 116, 112
+  orig: 117, 112
+  offset: 1, 0
+  index: -1
+tower5
+  rotate: 180
+  xy: 321, 7
+  size: 68, 44
+  orig: 70, 44
+  offset: 1, 0
+  index: -1
+tower7
+  rotate: true
+  xy: 366, 74
+  size: 30, 27
+  orig: 43, 38
+  offset: 8, 4
+  index: -1

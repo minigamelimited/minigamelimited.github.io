@@ -1,0 +1,62 @@
+
+store_box.png
+size: 397,940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 374
+  size: 197, 180
+  orig: 197, 180
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 200, 358
+  size: 197, 194
+  orig: 197, 194
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 130, 3
+  size: 118, 118
+  orig: 128, 128
+  offset: 5, 5
+  index: -1
+light2
+  rotate: false
+  xy: 2, 556
+  size: 369, 382
+  orig: 500, 500
+  offset: 70, 64
+  index: -1
+light3
+  rotate: true
+  xy: 191, 189
+  size: 166, 178
+  orig: 200, 200
+  offset: 10, 16
+  index: -1
+light4
+  rotate: true
+  xy: 2, 192
+  size: 180, 187
+  orig: 200, 200
+  offset: 10, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 130, 123
+  size: 238, 64
+  orig: 248, 70
+  offset: 5, 3
+  index: -1
+star2
+  rotate: false
+  xy: 2, 64
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1

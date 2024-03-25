@@ -1,0 +1,69 @@
+
+fireworks.png
+size: 283,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down
+  rotate: false
+  xy: 39, 153
+  size: 108, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fly
+  rotate: false
+  xy: 2, 2
+  size: 35, 279
+  orig: 64, 300
+  offset: 15, 4
+  index: -1
+guijib
+  rotate: true
+  xy: 233, 113
+  size: 168, 20
+  orig: 200, 50
+  offset: 10, 13
+  index: -1
+light
+  rotate: false
+  xy: 149, 199
+  size: 82, 82
+  orig: 100, 100
+  offset: 9, 9
+  index: -1
+point
+  rotate: true
+  xy: 39, 20
+  size: 131, 92
+  orig: 200, 200
+  offset: 34, 46
+  index: -1
+star1
+  rotate: false
+  xy: 149, 135
+  size: 63, 62
+  orig: 67, 65
+  offset: 2, 1
+  index: -1
+star2
+  rotate: false
+  xy: 133, 71
+  size: 63, 62
+  orig: 67, 65
+  offset: 2, 1
+  index: -1
+star3
+  rotate: false
+  xy: 133, 7
+  size: 63, 62
+  orig: 67, 65
+  offset: 2, 1
+  index: -1
+star4
+  rotate: true
+  xy: 198, 48
+  size: 63, 62
+  orig: 67, 65
+  offset: 2, 1
+  index: -1
