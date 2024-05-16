@@ -1,0 +1,91 @@
+/* 重置默认样式 */
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    background-color: #F0C716;
+    color: #fff;
+    padding: 20px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: calc(100% - 160px); /* 最小高度为页面高度减去头部和底部高度 */
+    padding: 20px;
+}
+
+.privacy-content {
+    text-align: left; /* 内容左对齐 */
+}
+
+.privacy-content p,
+.privacy-content ul {
+    text-align: left; /* 段落和列表左对齐 */
+    margin-left: 20px; /* 左边距 */
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    margin-bottom: 20px;
+}
+
+.centered-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+footer {
+    background-color: #F0C716;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* 示例样式表 */
+.text-with-outline {
+    color: #fff; /* 文字颜色 */
+    text-shadow: -1px -1px 0 #947b0d,  
+                  1px -1px 0 #947b0d,
+                  -1px 1px 0 #947b0d,
+                  1px 1px 0 #947b0d; /* 文本阴影，模拟描边效果 */
+}
+
+
+.datadel-content {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
