@@ -1,0 +1,237 @@
+
+shengjiheti.png
+size: 960, 472
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+0
+  rotate: false
+  xy: 492, 10
+  size: 86, 83
+  orig: 191, 160
+  offset: 49, 10
+  index: -1
+1
+  rotate: true
+  xy: 593, 6
+  size: 92, 96
+  orig: 191, 160
+  offset: 45, 10
+  index: -1
+10
+  rotate: false
+  xy: 331, 203
+  size: 100, 117
+  orig: 191, 160
+  offset: 41, 10
+  index: -1
+11
+  rotate: false
+  xy: 492, 95
+  size: 99, 115
+  orig: 191, 160
+  offset: 42, 10
+  index: -1
+12
+  rotate: false
+  xy: 593, 100
+  size: 99, 114
+  orig: 191, 160
+  offset: 42, 10
+  index: -1
+13
+  rotate: false
+  xy: 392, 85
+  size: 98, 116
+  orig: 191, 160
+  offset: 43, 6
+  index: -1
+14
+  rotate: false
+  xy: 292, 68
+  size: 98, 118
+  orig: 191, 160
+  offset: 43, 1
+  index: -1
+15
+  rotate: true
+  xy: 646, 235
+  size: 100, 111
+  orig: 191, 160
+  offset: 42, 0
+  index: -1
+16
+  rotate: false
+  xy: 793, 123
+  size: 98, 106
+  orig: 191, 160
+  offset: 43, 0
+  index: -1
+17
+  rotate: true
+  xy: 694, 23
+  size: 96, 101
+  orig: 191, 160
+  offset: 44, 2
+  index: -1
+18
+  rotate: true
+  xy: 797, 24
+  size: 97, 96
+  orig: 191, 160
+  offset: 43, 2
+  index: -1
+19
+  rotate: false
+  xy: 392, 48
+  size: 97, 35
+  orig: 191, 160
+  offset: 43, 1
+  index: -1
+2
+  rotate: false
+  xy: 694, 121
+  size: 97, 108
+  orig: 191, 160
+  offset: 42, 10
+  index: -1
+3
+  rotate: true
+  xy: 535, 216
+  size: 115, 105
+  orig: 191, 160
+  offset: 39, 10
+  index: -1
+4
+  rotate: true
+  xy: 646, 337
+  size: 135, 145
+  orig: 191, 160
+  offset: 29, 10
+  index: -1
+5
+  rotate: false
+  xy: 195, 322
+  size: 151, 150
+  orig: 191, 160
+  offset: 20, 10
+  index: -1
+6
+  rotate: false
+  xy: 2, 34
+  size: 159, 146
+  orig: 191, 160
+  offset: 16, 10
+  index: -1
+7
+  rotate: false
+  xy: 2, 182
+  size: 183, 145
+  orig: 191, 160
+  offset: 4, 10
+  index: -1
+8
+  rotate: false
+  xy: 2, 329
+  size: 191, 143
+  orig: 191, 160
+  offset: 0, 10
+  index: -1
+9
+  rotate: false
+  xy: 433, 212
+  size: 100, 117
+  orig: 191, 160
+  offset: 41, 10
+  index: -1
+b12
+  rotate: false
+  xy: 348, 331
+  size: 148, 141
+  orig: 148, 141
+  offset: 0, 0
+  index: -1
+b13
+  rotate: false
+  xy: 498, 333
+  size: 146, 139
+  orig: 148, 141
+  offset: 1, 1
+  index: -1
+b14
+  rotate: false
+  xy: 793, 336
+  size: 144, 136
+  orig: 148, 141
+  offset: 2, 3
+  index: -1
+b15
+  rotate: false
+  xy: 187, 188
+  size: 142, 132
+  orig: 148, 141
+  offset: 3, 4
+  index: -1
+b16
+  rotate: true
+  xy: 163, 42
+  size: 138, 127
+  orig: 148, 141
+  offset: 5, 8
+  index: -1
+b17
+  rotate: false
+  xy: 759, 231
+  size: 109, 103
+  orig: 148, 141
+  offset: 19, 15
+  index: -1
+b18
+  rotate: true
+  xy: 870, 241
+  size: 93, 88
+  orig: 148, 141
+  offset: 27, 23
+  index: -1
+b19
+  rotate: false
+  xy: 292, 4
+  size: 74, 62
+  orig: 148, 141
+  offset: 38, 26
+  index: -1
+b20
+  rotate: true
+  xy: 895, 86
+  size: 74, 58
+  orig: 148, 141
+  offset: 39, 26
+  index: -1
+b21
+  rotate: true
+  xy: 893, 162
+  size: 77, 63
+  orig: 148, 141
+  offset: 35, 27
+  index: -1
+b22
+  rotate: true
+  xy: 895, 11
+  size: 73, 59
+  orig: 148, 141
+  offset: 31, 36
+  index: -1
+b23
+  rotate: false
+  xy: 163, 4
+  size: 69, 36
+  orig: 148, 141
+  offset: 31, 59
+  index: -1
+b24
+  rotate: false
+  xy: 368, 52
+  size: 22, 14
+  orig: 148, 141
+  offset: 38, 69
+  index: -1

@@ -1,0 +1,187 @@
+
+lvbujineng.png
+size: 1002, 839
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: true
+  xy: 295, 692
+  size: 98, 284
+  orig: 136, 332
+  offset: 27, 8
+  index: -1
+11
+  rotate: true
+  xy: 674, 762
+  size: 77, 266
+  orig: 136, 332
+  offset: 38, 17
+  index: -1
+1_0000s_0000_dd7
+  rotate: true
+  xy: 2, 8
+  size: 158, 400
+  orig: 251, 462
+  offset: 48, 6
+  index: -1
+1_0000s_0001_dd6
+  rotate: true
+  xy: 404, 4
+  size: 162, 403
+  orig: 251, 462
+  offset: 48, 6
+  index: -1
+2
+  rotate: true
+  xy: 260, 589
+  size: 101, 309
+  orig: 136, 332
+  offset: 19, 9
+  index: -1
+22
+  rotate: true
+  xy: 2, 731
+  size: 83, 291
+  orig: 136, 332
+  offset: 28, 18
+  index: -1
+c1
+  rotate: false
+  xy: 739, 398
+  size: 217, 159
+  orig: 309, 159
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 581, 662
+  size: 293, 98
+  orig: 309, 159
+  offset: 0, 27
+  index: -1
+c3
+  rotate: false
+  xy: 377, 792
+  size: 295, 47
+  orig: 309, 159
+  offset: 9, 53
+  index: -1
+c4
+  rotate: false
+  xy: 157, 816
+  size: 218, 23
+  orig: 309, 159
+  offset: 91, 66
+  index: -1
+c5
+  rotate: false
+  xy: 2, 826
+  size: 153, 13
+  orig: 309, 159
+  offset: 156, 71
+  index: -1
+trail
+  rotate: true
+  xy: 2, 601
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+z0
+  rotate: false
+  xy: 571, 559
+  size: 346, 101
+  orig: 348, 103
+  offset: 1, 1
+  index: -1
+z1
+  rotate: false
+  xy: 2, 470
+  size: 396, 117
+  orig: 398, 119
+  offset: 1, 1
+  index: -1
+z2
+  rotate: false
+  xy: 2, 341
+  size: 395, 127
+  orig: 396, 128
+  offset: 1, 1
+  index: -1
+z3
+  rotate: false
+  xy: 400, 432
+  size: 337, 125
+  orig: 337, 126
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 333, 168
+  size: 345, 133
+  orig: 347, 136
+  offset: 1, 1
+  index: -1
+z5
+  rotate: false
+  xy: 2, 211
+  size: 329, 128
+  orig: 331, 130
+  offset: 1, 1
+  index: -1
+z6
+  rotate: false
+  xy: 680, 168
+  size: 320, 133
+  orig: 322, 134
+  offset: 1, 0
+  index: -1
+z7
+  rotate: false
+  xy: 399, 303
+  size: 326, 127
+  orig: 328, 130
+  offset: 1, 2
+  index: -1
+
+lvbujineng_2.png
+size: 783, 665
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_0000s_0002_dd5
+  rotate: false
+  xy: 456, 4
+  size: 227, 424
+  orig: 251, 462
+  offset: 23, 1
+  index: -1
+1_0000s_0003_dd4
+  rotate: true
+  xy: 2, 456
+  size: 209, 405
+  orig: 251, 462
+  offset: 23, 1
+  index: -1
+1_0000s_0004_dd3
+  rotate: true
+  xy: 2, 7
+  size: 210, 423
+  orig: 251, 462
+  offset: 22, 1
+  index: -1
+1_0000s_0005_dd2
+  rotate: true
+  xy: 2, 219
+  size: 209, 452
+  orig: 251, 462
+  offset: 22, 1
+  index: -1
+1_0000s_0006_dd1
+  rotate: true
+  xy: 409, 430
+  size: 235, 372
+  orig: 251, 462
+  offset: 8, 2
+  index: -1

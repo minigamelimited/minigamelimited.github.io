@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Cocos Creator | sangoku</title>
+  <title>Cocos Creator | SangokuHero</title>
 
   <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -16,14 +16,14 @@
   <meta name="force-rendering" content="webkit"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
-  <link rel="stylesheet" type="text/css" href="style-desktop.dfd76.css"/>
+  <link rel="stylesheet" type="text/css" href="style-desktop.81ede.css"/>
   <link rel="icon" href="favicon.8de18.ico"/>
 </head>
 <body>
-<h1 class="header">sangoku</h1>
+<h1 class="header">SangokuHero</h1>
 
-<div id="GameDiv" style="width:500px; height: 1000px;">
-  <canvas id="GameCanvas" width="500" height="1000"></canvas>
+<div id="GameDiv" style="width:720px; height: 1280px;">
+  <canvas id="GameCanvas" width="720" height="1280"></canvas>
   <div id="splash">
     <div class="progress-bar stripes">
       <span style="width: 0%"></span>
@@ -33,8 +33,8 @@
 
 <p class="footer">Made with <a href="https://www.cocos.com/products#CocosCreator" title="cocos creator">Cocos Creator</a></p>
 
-<script src="src/settings.7ed97.js" charset="utf-8"></script>
-<script src="main.f983a.js" charset="utf-8"></script>
+<script src="src/settings.4347d.js" charset="utf-8"></script>
+<script src="main.9181b.js" charset="utf-8"></script>
 
 <script type="text/javascript">
 (function () {
@@ -60,9 +60,9 @@
       document.body.appendChild(domScript);
     }
 
-    loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.8f49b.js', function () {
+    loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.b10e2.js', function () {
       if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
-        loadScript(debug ? 'physics.js' : 'physics-min.ce5ee.js', window.boot);
+        loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
       }
       else {
         window.boot();

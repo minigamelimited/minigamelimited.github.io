@@ -1,0 +1,41 @@
+
+yd.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+s
+  rotate: false
+  xy: 409, 2
+  size: 122, 83
+  orig: 124, 86
+  offset: 1, 1
+  index: -1
+xx
+  rotate: false
+  xy: 2, 5
+  size: 34, 35
+  orig: 41, 43
+  offset: 4, 4
+  index: -1
+椭圆 14
+  rotate: false
+  xy: 207, 45
+  size: 200, 200
+  orig: 202, 202
+  offset: 1, 1
+  index: -1
+椭圆 14 拷贝
+  rotate: false
+  xy: 409, 87
+  size: 158, 158
+  orig: 160, 160
+  offset: 1, 1
+  index: -1
+椭圆 14 拷贝 2
+  rotate: false
+  xy: 2, 42
+  size: 203, 203
+  orig: 205, 205
+  offset: 1, 1
+  index: -1
