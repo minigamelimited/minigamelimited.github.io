@@ -1,0 +1,34 @@
+
+toushiche.png
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+di
+  rotate: true
+  xy: 2, 19
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+mugun
+  rotate: true
+  xy: 2, 4
+  size: 13, 67
+  orig: 13, 67
+  offset: 0, 0
+  index: -1
+saozi
+  rotate: false
+  xy: 72, 47
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+stone
+  rotate: true
+  xy: 72, 13
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+fire.png
+size: 988, 925
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+W_00000
+  rotate: true
+  xy: 329, 786
+  size: 139, 16
+  orig: 210, 350
+  offset: 24, 0
+  index: -1
+W_00001
+  rotate: true
+  xy: 214, 715
+  size: 210, 113
+  orig: 210, 350
+  offset: 0, 0
+  index: -1
+W_00002
+  rotate: false
+  xy: 214, 446
+  size: 210, 267
+  orig: 210, 350
+  offset: 0, 0
+  index: -1
+W_00003
+  rotate: false
+  xy: 2, 575
+  size: 210, 350
+  orig: 210, 350
+  offset: 0, 0
+  index: -1
+W_00004
+  rotate: false
+  xy: 2, 223
+  size: 210, 350
+  orig: 210, 350
+  offset: 0, 0
+  index: -1
+W_00005
+  rotate: true
+  xy: 2, 11
+  size: 210, 350
+  orig: 210, 350
+  offset: 0, 0
+  index: -1
+W_00006
+  rotate: true
+  xy: 354, 715
+  size: 210, 318
+  orig: 210, 350
+  offset: 0, 32
+  index: -1
+W_00007
+  rotate: true
+  xy: 674, 715
+  size: 210, 287
+  orig: 210, 350
+  offset: 0, 63
+  index: -1
+W_00008
+  rotate: true
+  xy: 214, 234
+  size: 210, 267
+  orig: 210, 350
+  offset: 0, 83
+  index: -1
+W_00009
+  rotate: false
+  xy: 426, 460
+  size: 210, 253
+  orig: 210, 350
+  offset: 0, 97
+  index: -1
+W_00010
+  rotate: true
+  xy: 483, 248
+  size: 210, 239
+  orig: 210, 350
+  offset: 0, 111
+  index: -1
+W_00011
+  rotate: false
+  xy: 354, 4
+  size: 210, 228
+  orig: 210, 350
+  offset: 0, 122
+  index: -1
+W_00012
+  rotate: true
+  xy: 566, 36
+  size: 210, 208
+  orig: 210, 350
+  offset: 0, 142
+  index: -1
+W_00013
+  rotate: false
+  xy: 776, 514
+  size: 210, 199
+  orig: 210, 350
+  offset: 0, 151
+  index: -1
+W_00014
+  rotate: false
+  xy: 776, 318
+  size: 210, 194
+  orig: 210, 350
+  offset: 0, 156
+  index: -1
+W_00015
+  rotate: false
+  xy: 776, 167
+  size: 210, 149
+  orig: 210, 350
+  offset: 0, 161
+  index: -1
+W_00016
+  rotate: false
+  xy: 776, 18
+  size: 210, 147
+  orig: 210, 350
+  offset: 0, 164
+  index: -1
