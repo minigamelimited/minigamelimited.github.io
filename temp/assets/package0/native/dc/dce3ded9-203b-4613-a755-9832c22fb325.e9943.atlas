@@ -1,0 +1,13 @@
+
+xin.png
+size: 37, 34
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+xin
+  rotate: false
+  xy: 2, 4
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+zcjrz.png
+size: 177, 35
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dian
+  rotate: false
+  xy: 2, 29
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+中
+  rotate: true
+  xy: 10, 6
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+入
+  rotate: true
+  xy: 76, 4
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+场
+  rotate: false
+  xy: 110, 4
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+战
+  rotate: true
+  xy: 43, 5
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+进
+  rotate: true
+  xy: 143, 4
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1

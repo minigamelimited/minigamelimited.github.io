@@ -1,0 +1,240 @@
+
+shuibaozha.png
+size: 912, 962
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+waterrotation_00000
+  rotate: true
+  xy: 5, 908
+  size: 54, 164
+  orig: 500, 500
+  offset: 44, 174
+  index: -1
+waterrotation_00001
+  rotate: true
+  xy: 375, 807
+  size: 155, 240
+  orig: 500, 500
+  offset: 49, 201
+  index: -1
+waterrotation_00002
+  rotate: false
+  xy: 272, 16
+  size: 347, 256
+  orig: 500, 500
+  offset: 52, 208
+  index: -1
+waterrotation_00012
+  rotate: false
+  xy: 520, 274
+  size: 320, 253
+  orig: 500, 500
+  offset: 62, 139
+  index: -1
+waterrotation_00013
+  rotate: false
+  xy: 592, 529
+  size: 318, 237
+  orig: 500, 500
+  offset: 64, 159
+  index: -1
+waterrotation_00014
+  rotate: false
+  xy: 2, 612
+  size: 304, 234
+  orig: 500, 500
+  offset: 70, 161
+  index: -1
+waterrotation_00015
+  rotate: false
+  xy: 308, 571
+  size: 282, 234
+  orig: 500, 500
+  offset: 72, 161
+  index: -1
+waterrotation_00016
+  rotate: true
+  xy: 617, 768
+  size: 194, 233
+  orig: 500, 500
+  offset: 159, 162
+  index: -1
+waterrotation_00017
+  rotate: true
+  xy: 171, 848
+  size: 114, 202
+  orig: 500, 500
+  offset: 204, 190
+  index: -1
+xzs_00000
+  rotate: false
+  xy: 2, 363
+  size: 250, 247
+  orig: 500, 500
+  offset: 131, 116
+  index: -1
+xzs_00001
+  rotate: true
+  xy: 254, 318
+  size: 251, 264
+  orig: 500, 500
+  offset: 131, 108
+  index: -1
+xzs_00002
+  rotate: true
+  xy: 2, 63
+  size: 253, 268
+  orig: 500, 500
+  offset: 130, 107
+  index: -1
+xzs_00003
+  rotate: true
+  xy: 621, 4
+  size: 268, 270
+  orig: 500, 500
+  offset: 121, 106
+  index: -1
+xzs_00011
+  rotate: false
+  xy: 2, 961
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+shuibaozha_2.png
+size: 857, 751
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+xzs_00007
+  rotate: false
+  xy: 2, 8
+  size: 417, 364
+  orig: 500, 500
+  offset: 35, 57
+  index: -1
+xzs_00008
+  rotate: false
+  xy: 431, 377
+  size: 424, 374
+  orig: 500, 500
+  offset: 32, 53
+  index: -1
+xzs_00009
+  rotate: false
+  xy: 2, 374
+  size: 427, 377
+  orig: 500, 500
+  offset: 31, 52
+  index: -1
+xzs_00010
+  rotate: false
+  xy: 431, 4
+  size: 418, 371
+  orig: 500, 500
+  offset: 32, 58
+  index: -1
+
+shuibaozha_3.png
+size: 794, 818
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+waterrotation_00004
+  rotate: false
+  xy: 2, 5
+  size: 393, 403
+  orig: 500, 500
+  offset: 56, 61
+  index: -1
+waterrotation_00005
+  rotate: false
+  xy: 405, 411
+  size: 387, 407
+  orig: 500, 500
+  offset: 74, 49
+  index: -1
+waterrotation_00006
+  rotate: false
+  xy: 397, 4
+  size: 392, 404
+  orig: 500, 500
+  offset: 70, 49
+  index: -1
+waterrotation_00007
+  rotate: false
+  xy: 2, 410
+  size: 401, 408
+  orig: 500, 500
+  offset: 66, 43
+  index: -1
+
+shuibaozha_4.png
+size: 1009, 732
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+waterrotation_00008
+  rotate: false
+  xy: 2, 74
+  size: 398, 336
+  orig: 500, 500
+  offset: 70, 43
+  index: -1
+waterrotation_00009
+  rotate: false
+  xy: 402, 4
+  size: 391, 339
+  orig: 500, 500
+  offset: 72, 44
+  index: -1
+waterrotation_00011
+  rotate: true
+  xy: 681, 345
+  size: 387, 326
+  orig: 500, 500
+  offset: 54, 63
+  index: -1
+xzs_00004
+  rotate: false
+  xy: 2, 454
+  size: 292, 278
+  orig: 500, 500
+  offset: 108, 104
+  index: -1
+xzs_00005
+  rotate: false
+  xy: 296, 412
+  size: 383, 320
+  orig: 500, 500
+  offset: 53, 78
+  index: -1
+
+shuibaozha_5.png
+size: 747, 715
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+waterrotation_00003
+  rotate: false
+  xy: 2, 349
+  size: 388, 366
+  orig: 500, 500
+  offset: 54, 95
+  index: -1
+waterrotation_00010
+  rotate: false
+  xy: 2, 4
+  size: 400, 343
+  orig: 500, 500
+  offset: 56, 44
+  index: -1
+xzs_00006
+  rotate: true
+  xy: 404, 308
+  size: 407, 341
+  orig: 500, 500
+  offset: 42, 69
+  index: -1

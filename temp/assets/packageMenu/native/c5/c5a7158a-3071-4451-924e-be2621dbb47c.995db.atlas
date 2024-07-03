@@ -1,0 +1,34 @@
+
+shengjiguang.png
+size: 394, 248
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+baidian
+  rotate: false
+  xy: 294, 42
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1
+kuang
+  rotate: false
+  xy: 254, 71
+  size: 138, 177
+  orig: 138, 177
+  offset: 0, 0
+  index: -1
+sanguang
+  rotate: true
+  xy: 2, 4
+  size: 244, 250
+  orig: 295, 289
+  offset: 24, 19
+  index: -1
+xx
+  rotate: true
+  xy: 254, 39
+  size: 30, 38
+  orig: 32, 42
+  offset: 1, 2
+  index: -1
