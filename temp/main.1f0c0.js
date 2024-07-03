@@ -20,7 +20,7 @@
             });
         },
     }
-    
+
     var fbLoadProgress = 0;
     var fbProgressInterval = -1;
 
@@ -147,7 +147,7 @@
             console.log("===============>>> FBInstant.initializeAsync complete.");
 
             fbProgressInterval = setInterval(() => {
-                fbLoadProgress += Math.E;
+                fbLoadProgress = Math.min(90, fbLoadProgress + Math.E);
                 FBInstant.setLoadingProgress(fbLoadProgress);
             }, 100)
 
