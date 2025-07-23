@@ -1,0 +1,20 @@
+{
+    "engines": {
+        "5.4.1": {
+            "supports": [
+                "native"
+            ]
+        },
+        "5.2.33": {
+            "supports": [
+                "native"
+            ]
+        }
+    },
+    "supports": {
+        "native": {
+            "android": "https://minigame.limited/egret/android_1443523c87b1552163490a89d901451d.zip",
+            "ios": "https://minigame.limited/egret/ios_4a449a853ff59e2b3c8cd2bc5d474a13.zip"
+        }
+    }
+}
