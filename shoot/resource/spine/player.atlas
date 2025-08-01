@@ -1,0 +1,1237 @@
+
+player.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+七彩公主/头
+  rotate: true
+  xy: 1432, 1191
+  size: 284, 309
+  orig: 426, 544
+  offset: 66, 212
+  index: -1
+七彩公主/手L
+  rotate: false
+  xy: 709, 376
+  size: 67, 37
+  orig: 426, 544
+  offset: 260, 132
+  index: -1
+七彩公主/手R
+  rotate: true
+  xy: 655, 1630
+  size: 106, 70
+  orig: 426, 544
+  offset: 123, 103
+  index: -1
+七彩公主/背饰
+  rotate: true
+  xy: 1062, 1431
+  size: 318, 373
+  orig: 426, 544
+  offset: 29, 96
+  index: -1
+七彩公主/胳膊L
+  rotate: 270
+  xy: 1203, 24
+  size: 118, 101
+  orig: 426, 544
+  offset: 192, 112
+  index: -1
+七彩公主/脚L
+  rotate: 270
+  xy: 1784, 59
+  size: 95, 132
+  orig: 426, 544
+  offset: 179, 40
+  index: -1
+七彩公主/脚R
+  rotate: true
+  xy: 1375, 53
+  size: 94, 130
+  orig: 426, 544
+  offset: 116, 37
+  index: -1
+七彩公主/脚R2
+  rotate: 270
+  xy: 105, 81
+  size: 90, 124
+  orig: 426, 544
+  offset: 129, 37
+  index: -1
+七彩公主/身体
+  rotate: false
+  xy: 1708, 545
+  size: 137, 136
+  orig: 426, 544
+  offset: 128, 89
+  index: -1
+冰雪公主/大臂R
+  rotate: 180
+  xy: 289, 1038
+  size: 75, 95
+  orig: 426, 544
+  offset: 101, 137
+  index: -1
+冰雪公主/头
+  rotate: false
+  xy: 357, 1432
+  size: 296, 303
+  orig: 426, 544
+  offset: 45, 208
+  index: -1
+冰雪公主/小熊
+  rotate: false
+  xy: 1062, 1709
+  size: 38, 38
+  orig: 426, 544
+  offset: 79, 43
+  index: -1
+冰雪公主/小熊2
+  rotate: false
+  xy: 632, 341
+  size: 75, 72
+  orig: 426, 544
+  offset: 271, 50
+  index: -1
+冰雪公主/手L
+  rotate: false
+  xy: 1809, 1483
+  size: 76, 42
+  orig: 426, 544
+  offset: 253, 127
+  index: -1
+冰雪公主/手R
+  rotate: false
+  xy: 890, 8
+  size: 111, 66
+  orig: 426, 544
+  offset: 118, 103
+  index: -1
+冰雪公主/背饰
+  rotate: 270
+  xy: 606, 200
+  size: 174, 269
+  orig: 426, 544
+  offset: 42, 88
+  index: -1
+冰雪公主/身体
+  rotate: 180
+  xy: 1315, 252
+  size: 212, 193
+  orig: 426, 544
+  offset: 85, 38
+  index: -1
+冰雪公主/雪人
+  rotate: false
+  xy: 1943, 1799
+  size: 93, 125
+  orig: 426, 544
+  offset: 4, 37
+  index: -1
+冰雪公主/雪花
+  rotate: false
+  xy: 138, 1001
+  size: 76, 72
+  orig: 94, 91
+  offset: 8, 9
+  index: -1
+哪吒/头
+  rotate: false
+  xy: 1, 1452
+  size: 324, 271
+  orig: 426, 544
+  offset: 21, 212
+  index: -1
+哪吒/手L
+  rotate: true
+  xy: 97, 837
+  size: 67, 37
+  orig: 426, 544
+  offset: 260, 132
+  index: -1
+哪吒/手R
+  rotate: false
+  xy: 1708, 5
+  size: 106, 66
+  orig: 426, 544
+  offset: 123, 103
+  index: -1
+哪吒/混天绫
+  rotate: 180
+  xy: 220, 979
+  size: 479, 310
+  orig: 640, 544
+  offset: 35, 90
+  index: -1
+哪吒/背饰
+  rotate: false
+  xy: 994, 228
+  size: 221, 111
+  orig: 426, 544
+  offset: 66, 166
+  index: -1
+哪吒/脚L
+  rotate: 270
+  xy: 818, 62
+  size: 95, 132
+  orig: 426, 544
+  offset: 179, 40
+  index: -1
+哪吒/脚R
+  rotate: 270
+  xy: 1279, 76
+  size: 94, 130
+  orig: 426, 544
+  offset: 116, 37
+  index: -1
+哪吒/脚R2
+  rotate: true
+  xy: 1502, 108
+  size: 90, 124
+  orig: 426, 544
+  offset: 129, 37
+  index: -1
+哪吒/身体
+  rotate: true
+  xy: 617, 83
+  size: 81, 90
+  orig: 426, 544
+  offset: 154, 132
+  index: -1
+复仇女神/头
+  rotate: false
+  xy: 1743, 1192
+  size: 301, 283
+  orig: 426, 544
+  offset: 37, 211
+  index: -1
+复仇女神/手L
+  rotate: false
+  xy: 1887, 1485
+  size: 68, 40
+  orig: 426, 544
+  offset: 260, 129
+  index: -1
+复仇女神/手R
+  rotate: false
+  xy: 715, 13
+  size: 121, 72
+  orig: 426, 544
+  offset: 108, 101
+  index: -1
+复仇女神/脚L
+  rotate: 270
+  xy: 1692, 154
+  size: 95, 136
+  orig: 426, 544
+  offset: 179, 36
+  index: -1
+复仇女神/脚R
+  rotate: 270
+  xy: 250, 60
+  size: 94, 130
+  orig: 426, 544
+  offset: 116, 37
+  index: -1
+复仇女神/脚R2
+  rotate: true
+  xy: 620, 159
+  size: 94, 132
+  orig: 426, 544
+  offset: 129, 31
+  index: -1
+复仇女神/身体
+  rotate: true
+  xy: 1, 139
+  size: 79, 94
+  orig: 426, 544
+  offset: 154, 135
+  index: -1
+妖小猪/大臂R
+  rotate: true
+  xy: 487, 9
+  size: 59, 76
+  orig: 426, 544
+  offset: 117, 135
+  index: -1
+妖小猪/头
+  rotate: false
+  xy: 1445, 1477
+  size: 362, 283
+  orig: 426, 544
+  offset: 6, 211
+  index: -1
+妖小猪/手L
+  rotate: false
+  xy: 1957, 1486
+  size: 67, 39
+  orig: 426, 544
+  offset: 261, 129
+  index: -1
+妖小猪/手R
+  rotate: false
+  xy: 1933, 14
+  size: 114, 67
+  orig: 426, 544
+  offset: 115, 103
+  index: -1
+妖小猪/背饰
+  rotate: false
+  xy: 1528, 200
+  size: 129, 159
+  orig: 426, 544
+  offset: 43, 118
+  index: -1
+妖小猪/脚L
+  rotate: 270
+  xy: 1298, 170
+  size: 99, 135
+  orig: 426, 544
+  offset: 175, 40
+  index: -1
+妖小猪/脚R
+  rotate: false
+  xy: 138, 238
+  size: 117, 137
+  orig: 426, 544
+  offset: 114, 37
+  index: -1
+妖小猪/脚R2
+  rotate: true
+  xy: 1063, 194
+  size: 90, 126
+  orig: 426, 544
+  offset: 129, 37
+  index: -1
+妖小猪/身体
+  rotate: false
+  xy: 476, 266
+  size: 154, 147
+  orig: 426, 544
+  offset: 105, 112
+  index: -1
+小丑/头
+  rotate: false
+  xy: 357, 1737
+  size: 367, 310
+  orig: 426, 544
+  offset: 5, 205
+  index: -1
+小丑/小熊
+  rotate: false
+  xy: 1592, 1045
+  size: 126, 144
+  orig: 426, 544
+  offset: 17, 35
+  index: -1
+小丑/手L
+  rotate: false
+  xy: 1647, 1004
+  size: 67, 39
+  orig: 426, 544
+  offset: 261, 129
+  index: -1
+蓝梦/手L
+  rotate: false
+  xy: 1647, 1004
+  size: 67, 39
+  orig: 426, 544
+  offset: 261, 129
+  index: -1
+小丑/手R
+  rotate: false
+  xy: 252, 10
+  size: 114, 66
+  orig: 426, 544
+  offset: 115, 103
+  index: -1
+小丑/背饰
+  rotate: 180
+  xy: 1624, 474
+  size: 350, 281
+  orig: 532, 544
+  offset: 28, 150
+  index: -1
+小丑/胳膊L
+  rotate: 180
+  xy: 600, 1059
+  size: 85, 89
+  orig: 426, 544
+  offset: 199, 124
+  index: -1
+小丑/脚L
+  rotate: 270
+  xy: 396, 200
+  size: 109, 140
+  orig: 426, 544
+  offset: 170, 35
+  index: -1
+小丑/脚R
+  rotate: true
+  xy: 253, 201
+  size: 108, 143
+  orig: 426, 544
+  offset: 109, 37
+  index: -1
+小丑/脚R2
+  rotate: 180
+  xy: 1771, 211
+  size: 127, 132
+  orig: 426, 544
+  offset: 105, 35
+  index: -1
+小丑/身体
+  rotate: false
+  xy: 300, 716
+  size: 87, 100
+  orig: 426, 544
+  offset: 150, 139
+  index: -1
+开枪_00
+  rotate: false
+  xy: 1856, 757
+  size: 71, 69
+  orig: 125, 125
+  offset: 19, 27
+  index: -1
+开枪_01
+  rotate: false
+  xy: 1001, 14
+  size: 72, 69
+  orig: 125, 125
+  offset: 23, 26
+  index: -1
+开枪_02
+  rotate: true
+  xy: 655, 1559
+  size: 69, 68
+  orig: 125, 125
+  offset: 32, 28
+  index: -1
+开枪_03
+  rotate: false
+  xy: 1062, 1477
+  size: 36, 37
+  orig: 125, 125
+  offset: 55, 46
+  index: -1
+影卫/大臂R
+  rotate: true
+  xy: 1557, 839
+  size: 56, 72
+  orig: 426, 544
+  offset: 117, 135
+  index: -1
+影卫/头
+  rotate: false
+  xy: 1, 1725
+  size: 354, 322
+  orig: 426, 544
+  offset: 9, 210
+  index: -1
+影卫/手L
+  rotate: false
+  xy: 1897, 387
+  size: 67, 39
+  orig: 426, 544
+  offset: 260, 130
+  index: -1
+影卫/手R
+  rotate: false
+  xy: 1263, 1195
+  size: 115, 66
+  orig: 426, 544
+  offset: 114, 103
+  index: -1
+影卫/胳膊L
+  rotate: 270
+  xy: 1320, 3
+  size: 85, 96
+  orig: 426, 544
+  offset: 199, 117
+  index: -1
+影卫/脚L
+  rotate: 270
+  xy: 1827, 115
+  size: 95, 132
+  orig: 426, 544
+  offset: 179, 40
+  index: -1
+影卫/脚R
+  rotate: 270
+  xy: 934, 142
+  size: 99, 135
+  orig: 426, 544
+  offset: 113, 32
+  index: -1
+影卫/脚R2
+  rotate: 270
+  xy: 136, 157
+  size: 90, 124
+  orig: 426, 544
+  offset: 129, 37
+  index: -1
+影卫/身体
+  rotate: false
+  xy: 1930, 760
+  size: 110, 100
+  orig: 426, 544
+  offset: 127, 137
+  index: -1
+影子
+  rotate: false
+  xy: 885, 753
+  size: 97, 97
+  orig: 109, 109
+  offset: 6, 6
+  index: -1
+救世主/大臂R
+  rotate: true
+  xy: 716, 75
+  size: 93, 103
+  orig: 426, 544
+  offset: 102, 114
+  index: -1
+救世主/头
+  rotate: false
+  xy: 726, 1460
+  size: 334, 297
+  orig: 426, 544
+  offset: 4, 200
+  index: -1
+救世主/手L
+  rotate: false
+  xy: 1816, 19
+  size: 67, 39
+  orig: 426, 544
+  offset: 260, 130
+  index: -1
+救世主/手R
+  rotate: false
+  xy: 144, 33
+  size: 111, 76
+  orig: 426, 544
+  offset: 118, 92
+  index: -1
+救世主/背饰
+  rotate: true
+  xy: 1263, 1261
+  size: 168, 156
+  orig: 426, 544
+  offset: 71, 103
+  index: -1
+救世主/脚L
+  rotate: true
+  xy: 1061, 103
+  size: 97, 132
+  orig: 426, 544
+  offset: 177, 40
+  index: -1
+救世主/脚R
+  rotate: true
+  xy: 1918, 58
+  size: 94, 130
+  orig: 426, 544
+  offset: 116, 37
+  index: -1
+救世主/脚R2
+  rotate: 270
+  xy: 369, 134
+  size: 90, 124
+  orig: 426, 544
+  offset: 129, 37
+  index: -1
+救世主/身体
+  rotate: false
+  xy: 1943, 1702
+  size: 101, 95
+  orig: 426, 544
+  offset: 142, 131
+  index: -1
+末日终结者/大臂R
+  rotate: false
+  xy: 655, 1481
+  size: 57, 76
+  orig: 426, 544
+  offset: 119, 135
+  index: -1
+末日终结者/头
+  rotate: true
+  xy: 958, 1176
+  size: 281, 303
+  orig: 426, 544
+  offset: 51, 185
+  index: -1
+末日终结者/手L
+  rotate: false
+  xy: 1075, 12
+  size: 67, 39
+  orig: 426, 544
+  offset: 260, 130
+  index: -1
+末日终结者/手R
+  rotate: false
+  xy: 569, 14
+  size: 106, 68
+  orig: 426, 544
+  offset: 123, 103
+  index: -1
+末日终结者/背饰
+  rotate: true
+  xy: 138, 1075
+  size: 175, 149
+  orig: 426, 544
+  offset: 63, 110
+  index: -1
+末日终结者/脚L
+  rotate: 270
+  xy: 1187, 139
+  size: 95, 132
+  orig: 426, 544
+  offset: 179, 40
+  index: -1
+末日终结者/脚R
+  rotate: true
+  xy: 225, 122
+  size: 106, 132
+  orig: 426, 544
+  offset: 104, 35
+  index: -1
+末日终结者/脚R2
+  rotate: true
+  xy: 1920, 163
+  size: 90, 127
+  orig: 426, 544
+  offset: 129, 34
+  index: -1
+末日终结者/身体
+  rotate: true
+  xy: 1, 819
+  size: 85, 94
+  orig: 426, 544
+  offset: 148, 128
+  index: -1
+杂技白熊/大臂R
+  rotate: false
+  xy: 1659, 244
+  size: 135, 116
+  orig: 426, 544
+  offset: 73, 126
+  index: -1
+杂技白熊/头
+  rotate: false
+  xy: 655, 1175
+  size: 301, 283
+  orig: 426, 544
+  offset: 44, 210
+  index: -1
+杂技白熊/手L
+  rotate: false
+  xy: 1144, 10
+  size: 67, 39
+  orig: 426, 544
+  offset: 260, 130
+  index: -1
+杂技白熊/手R
+  rotate: false
+  xy: 943, 85
+  size: 133, 83
+  orig: 426, 544
+  offset: 99, 91
+  index: -1
+杂技白熊/胳膊L
+  rotate: 180
+  xy: 1403, 134
+  size: 126, 104
+  orig: 426, 544
+  offset: 165, 121
+  index: -1
+杂技白熊/脚L
+  rotate: true
+  xy: 1898, 402
+  size: 103, 135
+  orig: 426, 544
+  offset: 175, 37
+  index: -1
+杂技白熊/脚R
+  rotate: false
+  xy: 1941, 498
+  size: 106, 139
+  orig: 426, 544
+  offset: 104, 28
+  index: -1
+杂技白熊/脚R2
+  rotate: false
+  xy: 1216, 209
+  size: 99, 131
+  orig: 426, 544
+  offset: 127, 30
+  index: -1
+杂技白熊/身体
+  rotate: false
+  xy: 1809, 1527
+  size: 214, 155
+  orig: 426, 544
+  offset: 36, 125
+  index: -1
+枪/AK47
+  rotate: false
+  xy: 264, 416
+  size: 273, 139
+  orig: 273, 139
+  offset: 0, 0
+  index: -1
+枪/AK47-器灵
+  rotate: true
+  xy: 1809, 1684
+  size: 363, 132
+  orig: 363, 132
+  offset: 0, 0
+  index: -1
+枪/AK47-荣耀
+  rotate: false
+  xy: 539, 415
+  size: 275, 131
+  orig: 275, 131
+  offset: 0, 0
+  index: -1
+枪/AUG
+  rotate: false
+  xy: 1194, 578
+  size: 275, 154
+  orig: 275, 154
+  offset: 0, 0
+  index: -1
+枪/AUG-毒液
+  rotate: false
+  xy: 1280, 737
+  size: 275, 158
+  orig: 275, 158
+  offset: 0, 0
+  index: -1
+枪/AWP
+  rotate: false
+  xy: 1584, 361
+  size: 311, 111
+  orig: 311, 111
+  offset: 0, 0
+  index: -1
+枪/AWP-玩具
+  rotate: true
+  xy: 1471, 366
+  size: 313, 111
+  orig: 313, 111
+  offset: 0, 0
+  index: -1
+枪/M249
+  rotate: false
+  xy: 586, 705
+  size: 297, 145
+  orig: 297, 145
+  offset: 0, 0
+  index: -1
+枪/M249-圣诞
+  rotate: false
+  xy: 1557, 681
+  size: 297, 145
+  orig: 297, 145
+  offset: 0, 0
+  index: -1
+枪/M249-黄金
+  rotate: false
+  xy: 1, 671
+  size: 297, 145
+  orig: 297, 145
+  offset: 0, 0
+  index: -1
+枪/M4A1
+  rotate: false
+  xy: 1647, 828
+  size: 281, 161
+  orig: 281, 161
+  offset: 0, 0
+  index: -1
+枪/M4A1-榴弹
+  rotate: false
+  xy: 686, 1017
+  size: 309, 156
+  orig: 317, 164
+  offset: 4, 4
+  index: -1
+枪/M4A1-炫彩
+  rotate: false
+  xy: 138, 818
+  size: 281, 161
+  orig: 281, 161
+  offset: 0, 0
+  index: -1
+枪/M4A1-黄金
+  rotate: false
+  xy: 997, 734
+  size: 281, 161
+  orig: 281, 161
+  offset: 0, 0
+  index: -1
+枪/MK5
+  rotate: false
+  xy: 586, 548
+  size: 261, 155
+  orig: 261, 155
+  offset: 0, 0
+  index: -1
+枪/MK5-甜蜜
+  rotate: false
+  xy: 1, 514
+  size: 261, 155
+  orig: 261, 155
+  offset: 0, 0
+  index: -1
+枪/RPK
+  rotate: false
+  xy: 997, 897
+  size: 323, 141
+  orig: 323, 141
+  offset: 0, 0
+  index: -1
+枪/RPK-新纪元
+  rotate: true
+  xy: 1, 906
+  size: 344, 135
+  orig: 344, 135
+  offset: 0, 0
+  index: -1
+枪/RPK-黄金
+  rotate: false
+  xy: 1322, 897
+  size: 323, 141
+  orig: 323, 141
+  offset: 0, 0
+  index: -1
+枪/SCAR
+  rotate: false
+  xy: 300, 557
+  size: 284, 146
+  orig: 284, 146
+  offset: 0, 0
+  index: -1
+枪/SCAR-棱镜
+  rotate: false
+  xy: 1137, 446
+  size: 293, 130
+  orig: 293, 130
+  offset: 0, 0
+  index: -1
+枪/SCAR-炫魔
+  rotate: false
+  xy: 681, 852
+  size: 314, 144
+  orig: 314, 144
+  offset: 0, 0
+  index: -1
+枪/加特林
+  rotate: false
+  xy: 1, 375
+  size: 250, 137
+  orig: 250, 137
+  offset: 0, 0
+  index: -1
+枪/加特林-炼狱
+  rotate: false
+  xy: 1743, 991
+  size: 269, 199
+  orig: 310, 215
+  offset: 15, 16
+  index: -1
+枪/加特林-终结者
+  rotate: true
+  xy: 421, 733
+  size: 268, 163
+  orig: 276, 171
+  offset: 4, 4
+  index: -1
+枪/加特林-黄金
+  rotate: false
+  xy: 816, 318
+  size: 250, 137
+  orig: 250, 137
+  offset: 0, 0
+  index: -1
+枪/巴雷特
+  rotate: false
+  xy: 885, 593
+  size: 307, 139
+  orig: 307, 139
+  offset: 0, 0
+  index: -1
+枪/巴雷特-异色
+  rotate: false
+  xy: 1, 1252
+  size: 362, 178
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+枪/巴雷特-彩蝶
+  rotate: false
+  xy: 1263, 1040
+  size: 327, 149
+  orig: 327, 149
+  offset: 0, 0
+  index: -1
+枪/汤姆逊
+  rotate: false
+  xy: 365, 1296
+  size: 286, 134
+  orig: 286, 134
+  offset: 0, 0
+  index: -1
+枪/汤姆逊-烈焰
+  rotate: false
+  xy: 849, 457
+  size: 286, 134
+  orig: 286, 134
+  offset: 0, 0
+  index: -1
+枪/雷明顿
+  rotate: false
+  xy: 253, 310
+  size: 221, 104
+  orig: 221, 104
+  offset: 0, 0
+  index: -1
+枪/雷明顿-黄金
+  rotate: false
+  xy: 1068, 340
+  size: 275, 104
+  orig: 275, 104
+  offset: 0, 0
+  index: -1
+烟雾/大
+  rotate: false
+  xy: 530, 69
+  size: 72, 70
+  orig: 82, 74
+  offset: 2, 2
+  index: -1
+烟雾/烟雾1
+  rotate: false
+  xy: 1147, 1735
+  size: 12, 12
+  orig: 15, 14
+  offset: 2, 1
+  index: -1
+烟雾/烟雾2
+  rotate: false
+  xy: 1219, 1736
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+烟雾/烟雾3
+  rotate: false
+  xy: 1132, 1732
+  size: 13, 15
+  orig: 17, 17
+  offset: 2, 1
+  index: -1
+烟雾/烟雾4
+  rotate: false
+  xy: 1418, 1727
+  size: 22, 20
+  orig: 25, 22
+  offset: 1, 1
+  index: -1
+烟雾/烟雾5
+  rotate: false
+  xy: 1102, 1720
+  size: 28, 27
+  orig: 31, 29
+  offset: 1, 1
+  index: -1
+猎鹰/大臂R
+  rotate: false
+  xy: 1209, 1099
+  size: 51, 75
+  orig: 426, 544
+  offset: 119, 135
+  index: -1
+猎鹰/头
+  rotate: false
+  xy: 726, 1759
+  size: 368, 288
+  orig: 426, 544
+  offset: 12, 197
+  index: -1
+猎鹰/手L
+  rotate: true
+  xy: 1378, 1192
+  size: 67, 39
+  orig: 426, 544
+  offset: 260, 130
+  index: -1
+猎鹰/背饰
+  rotate: false
+  xy: 876, 215
+  size: 86, 101
+  orig: 426, 544
+  offset: 114, 125
+  index: -1
+猎鹰/脚L
+  rotate: 270
+  xy: 1076, 52
+  size: 95, 132
+  orig: 426, 544
+  offset: 179, 40
+  index: -1
+猎鹰/脚R
+  rotate: true
+  xy: 1466, 30
+  size: 94, 130
+  orig: 426, 544
+  offset: 116, 37
+  index: -1
+猎鹰/脚R2
+  rotate: true
+  xy: 405, 69
+  size: 90, 124
+  orig: 426, 544
+  offset: 129, 37
+  index: -1
+猎鹰/身体
+  rotate: false
+  xy: 586, 864
+  size: 85, 112
+  orig: 426, 544
+  offset: 152, 128
+  index: -1
+菲菲/大臂R
+  rotate: true
+  xy: 1471, 682
+  size: 53, 75
+  orig: 426, 544
+  offset: 119, 135
+  index: -1
+菲菲/头
+  rotate: false
+  xy: 1096, 1749
+  size: 347, 298
+  orig: 426, 544
+  offset: 11, 185
+  index: -1
+菲菲/手L
+  rotate: true
+  xy: 1425, 2
+  size: 67, 39
+  orig: 426, 544
+  offset: 260, 130
+  index: -1
+菲菲/背饰
+  rotate: false
+  xy: 1930, 862
+  size: 116, 127
+  orig: 426, 544
+  offset: 103, 92
+  index: -1
+菲菲/脚L
+  rotate: 270
+  xy: 1650, 103
+  size: 97, 136
+  orig: 426, 544
+  offset: 179, 36
+  index: -1
+菲菲/脚R
+  rotate: true
+  xy: 362, 27
+  size: 72, 130
+  orig: 426, 544
+  offset: 121, 37
+  index: -1
+菲菲/脚R2
+  rotate: 270
+  xy: 1624, 18
+  size: 98, 125
+  orig: 426, 544
+  offset: 128, 36
+  index: -1
+菲菲/身体
+  rotate: false
+  xy: 1943, 1926
+  size: 97, 121
+  orig: 426, 544
+  offset: 145, 117
+  index: -1
+蓝梦/大臂R
+  rotate: true
+  xy: 1527, 13
+  size: 69, 97
+  orig: 426, 544
+  offset: 104, 127
+  index: -1
+蓝梦/头
+  rotate: true
+  xy: 1445, 1762
+  size: 285, 362
+  orig: 426, 616
+  offset: 51, 221
+  index: -1
+蓝梦/手R
+  rotate: false
+  xy: 1, 26
+  size: 124, 74
+  orig: 426, 544
+  offset: 105, 95
+  index: -1
+蓝梦/背饰
+  rotate: false
+  xy: 997, 1045
+  size: 210, 129
+  orig: 426, 544
+  offset: 66, 125
+  index: -1
+蓝梦/背饰2
+  rotate: true
+  xy: 1848, 226
+  size: 170, 199
+  orig: 426, 544
+  offset: 35, 98
+  index: -1
+蓝梦/胳膊L
+  rotate: 270
+  xy: 1584, 484
+  size: 85, 110
+  orig: 426, 544
+  offset: 199, 103
+  index: -1
+蓝梦/脚L
+  rotate: true
+  xy: 805, 111
+  size: 95, 132
+  orig: 426, 544
+  offset: 179, 40
+  index: -1
+蓝梦/脚R
+  rotate: false
+  xy: 1966, 630
+  size: 78, 130
+  orig: 426, 544
+  offset: 116, 37
+  index: -1
+蓝梦/脚R2
+  rotate: 180
+  xy: 525, 141
+  size: 90, 124
+  orig: 426, 544
+  offset: 129, 37
+  index: -1
+蓝梦/身体
+  rotate: false
+  xy: 1, 220
+  size: 135, 153
+  orig: 426, 544
+  offset: 118, 87
+  index: -1
+
+player2.png
+size: 969,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+七彩公主/大臂R
+  rotate: false
+  xy: 478, 16
+  size: 86, 92
+  orig: 426, 544
+  offset: 98, 121
+  index: -1
+冰雪公主/胳膊L
+  rotate: 180
+  xy: 338, 19
+  size: 86, 89
+  orig: 426, 544
+  offset: 199, 124
+  index: -1
+哪吒/大臂R
+  rotate: false
+  xy: 900, 25
+  size: 66, 83
+  orig: 426, 544
+  offset: 112, 132
+  index: -1
+哪吒/胳膊L
+  rotate: true
+  xy: 592, 23
+  size: 85, 89
+  orig: 426, 544
+  offset: 199, 124
+  index: -1
+复仇女神/大臂R
+  rotate: false
+  xy: 542, 14
+  size: 81, 94
+  orig: 426, 544
+  offset: 107, 129
+  index: -1
+复仇女神/胳膊L
+  rotate: 180
+  xy: 211, 14
+  size: 87, 94
+  orig: 426, 544
+  offset: 197, 124
+  index: -1
+妖小猪/胳膊L
+  rotate: 180
+  xy: 818, 15
+  size: 85, 93
+  orig: 426, 544
+  offset: 199, 124
+  index: -1
+小丑/大臂R
+  rotate: false
+  xy: 422, 9
+  size: 86, 99
+  orig: 426, 544
+  offset: 105, 129
+  index: -1
+救世主/胳膊L
+  rotate: false
+  xy: 1, 15
+  size: 99, 93
+  orig: 426, 544
+  offset: 190, 120
+  index: -1
+末日终结者/胳膊L
+  rotate: false
+  xy: 283, 16
+  size: 94, 92
+  orig: 426, 544
+  offset: 194, 121
+  index: -1
+猎鹰/手R
+  rotate: true
+  xy: 96, 2
+  size: 106, 66
+  orig: 426, 544
+  offset: 123, 103
+  index: -1
+猎鹰/胳膊L
+  rotate: true
+  xy: 664, 23
+  size: 85, 89
+  orig: 426, 544
+  offset: 199, 124
+  index: -1
+菲菲/手R
+  rotate: 270
+  xy: 152, 2
+  size: 106, 66
+  orig: 426, 544
+  offset: 123, 103
+  index: -1
+菲菲/胳膊L
+  rotate: true
+  xy: 736, 23
+  size: 85, 89
+  orig: 426, 544
+  offset: 199, 124
+  index: -1

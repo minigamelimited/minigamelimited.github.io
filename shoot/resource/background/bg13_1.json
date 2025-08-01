@@ -1,0 +1,7 @@
+{"file":"bg13_1.png","frames":{
+"VineForest_Base_02":{"x":0,"y":0,"w":1024,"h":1280,"offX":0,"offY":0,"sourceW":1024,"sourceH":1280},
+"VineForest_FarA_02":{"x":1024,"y":1024,"w":1024,"h":284,"offX":0,"offY":228,"sourceW":1024,"sourceH":512},
+"VineForest_FarB_02":{"x":1024,"y":0,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512},
+"VineForest_FarC_02":{"x":0,"y":1280,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512},
+"VineForest_Front_02":{"x":1024,"y":1308,"w":1024,"h":260,"offX":0,"offY":252,"sourceW":1024,"sourceH":512},
+"VineForest_Sky_02":{"x":1024,"y":512,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512}}}

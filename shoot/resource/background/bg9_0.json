@@ -1,0 +1,7 @@
+{"file":"bg9_0.png","frames":{
+"Plains_Base_01":{"x":0,"y":0,"w":1024,"h":1107,"offX":0,"offY":173,"sourceW":1024,"sourceH":1280},
+"Plains_FarA_01":{"x":1024,"y":335,"w":1024,"h":300,"offX":0,"offY":212,"sourceW":1024,"sourceH":512},
+"Plains_FarB_01":{"x":1024,"y":0,"w":1024,"h":335,"offX":0,"offY":177,"sourceW":1024,"sourceH":512},
+"Plains_FarC_01":{"x":0,"y":1619,"w":1024,"h":387,"offX":0,"offY":125,"sourceW":1024,"sourceH":512},
+"Plains_Front_01":{"x":1024,"y":635,"w":1024,"h":250,"offX":0,"offY":262,"sourceW":1024,"sourceH":512},
+"Plains_Sky_01":{"x":0,"y":1107,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512}}}

@@ -1,0 +1,7 @@
+{"file":"bg2_0.png","frames":{
+"Desert_Base_01":{"x":0,"y":0,"w":1024,"h":1007,"offX":0,"offY":273,"sourceW":1024,"sourceH":1280},
+"Desert_FarA_01":{"x":0,"y":1007,"w":1024,"h":321,"offX":0,"offY":191,"sourceW":1024,"sourceH":512},
+"Desert_FarB_01":{"x":1024,"y":896,"w":1024,"h":368,"offX":0,"offY":144,"sourceW":1024,"sourceH":512},
+"Desert_FarC_01":{"x":1024,"y":512,"w":1024,"h":384,"offX":0,"offY":128,"sourceW":1024,"sourceH":512},
+"Desert_Front_01":{"x":1024,"y":1264,"w":1024,"h":249,"offX":0,"offY":263,"sourceW":1024,"sourceH":512},
+"Desert_Sky_01":{"x":1024,"y":0,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512}}}

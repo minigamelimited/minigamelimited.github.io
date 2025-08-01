@@ -1,0 +1,7 @@
+{"file":"bg8_0.png","frames":{
+"MysteriousForest_Base_01":{"x":0,"y":0,"w":1024,"h":1028,"offX":0,"offY":252,"sourceW":1024,"sourceH":1280},
+"MysteriousForest_FarA_01":{"x":990,"y":1848,"w":1024,"h":99,"offX":0,"offY":0,"sourceW":1024,"sourceH":512},
+"MysteriousForest_FarB_01":{"x":0,"y":1540,"w":990,"h":368,"offX":34,"offY":123,"sourceW":1024,"sourceH":512},
+"MysteriousForest_FarC_01":{"x":0,"y":1028,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512},
+"MysteriousForest_Front_01":{"x":990,"y":1540,"w":1000,"h":308,"offX":24,"offY":204,"sourceW":1024,"sourceH":512},
+"MysteriousForest_Sky_01":{"x":1024,"y":0,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512}}}

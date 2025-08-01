@@ -1,0 +1,31 @@
+{
+	"skins": {
+		"Scene.Game.Main": "resource/eui_skins/game/Main.exml",
+		"Scene.Cover.Main": "resource/eui_skins/cover/Main.exml",
+		"Scene.Cover.HeroCard": "resource/eui_skins/cover/HeroCard.exml",
+		"Scene.Cover.GunCard": "resource/eui_skins/cover/GunCard.exml",
+		"Scene.Common": "resource/eui_skins/Common.exml",
+		"Scene.BG": "resource/eui_skins/BG.exml",
+		"Scene.Game.Pause": "resource/eui_skins/game/Pause.exml",
+		"Scene.Game.GameOver": "resource/eui_skins/game/GameOver.exml",
+		"Scene.Game.HeroHP": "resource/eui_skins/game/HeroHP.exml",
+		"Scene.Game.EnemyHP": "resource/eui_skins/game/EnemyHP.exml",
+		"Scene.Game.DropedCoin": "resource/eui_skins/game/DropedCoin.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/BG.exml",
+		"resource/eui_skins/Common.exml",
+		"resource/eui_skins/cover/GunCard.exml",
+		"resource/eui_skins/cover/HeroCard.exml",
+		"resource/eui_skins/cover/Main.exml",
+		"resource/eui_skins/game/DropedCoin.exml",
+		"resource/eui_skins/game/EnemyHP.exml",
+		"resource/eui_skins/game/GameOver.exml",
+		"resource/eui_skins/game/HeroHP.exml",
+		"resource/eui_skins/game/Main.exml",
+		"resource/eui_skins/game/Pause.exml",
+		"resource/eui_skins/game/Unit.exml"
+	],
+	"path": "resource/default.thm.json"
+}

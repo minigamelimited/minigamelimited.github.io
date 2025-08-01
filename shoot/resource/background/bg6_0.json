@@ -1,0 +1,7 @@
+{"file":"bg6_0.png","frames":{
+"IceField_Base_01":{"x":0,"y":0,"w":1024,"h":910,"offX":0,"offY":370,"sourceW":1024,"sourceH":1280},
+"IceField_FarA_01":{"x":1024,"y":512,"w":1024,"h":496,"offX":0,"offY":16,"sourceW":1024,"sourceH":512},
+"IceField_FarB_01":{"x":0,"y":1317,"w":1024,"h":288,"offX":0,"offY":224,"sourceW":1024,"sourceH":512},
+"IceField_FarC_01":{"x":1024,"y":1008,"w":1024,"h":363,"offX":0,"offY":149,"sourceW":1024,"sourceH":512},
+"IceField_Front_01":{"x":0,"y":910,"w":1024,"h":407,"offX":0,"offY":105,"sourceW":1024,"sourceH":512},
+"IceField_Sky_01":{"x":1024,"y":0,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512}}}

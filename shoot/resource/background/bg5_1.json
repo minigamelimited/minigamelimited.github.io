@@ -1,0 +1,7 @@
+{"file":"bg5_1.png","frames":{
+"Forest_Base_02":{"x":0,"y":0,"w":1024,"h":1280,"offX":0,"offY":0,"sourceW":1024,"sourceH":1280},
+"Forest_FarA_02":{"x":1024,"y":0,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512},
+"Forest_FarB_02":{"x":0,"y":1280,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512},
+"Forest_FarC_02":{"x":1024,"y":1024,"w":1024,"h":446,"offX":0,"offY":66,"sourceW":1024,"sourceH":512},
+"Forest_Front_02":{"x":1024,"y":1470,"w":1024,"h":345,"offX":0,"offY":167,"sourceW":1024,"sourceH":512},
+"Forest_Sky_02":{"x":1024,"y":512,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512}}}

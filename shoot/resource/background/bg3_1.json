@@ -1,0 +1,7 @@
+{"file":"bg3_1.png","frames":{
+"DesertRuins_Base_02":{"x":0,"y":0,"w":1024,"h":1262,"offX":0,"offY":18,"sourceW":1024,"sourceH":1280},
+"DesertRuins_FarA_02":{"x":1024,"y":417,"w":912,"h":449,"offX":0,"offY":63,"sourceW":1024,"sourceH":512},
+"DesertRuins_FarB_02":{"x":1024,"y":866,"w":1024,"h":393,"offX":0,"offY":119,"sourceW":1024,"sourceH":512},
+"DesertRuins_FarC_02":{"x":1024,"y":0,"w":1024,"h":417,"offX":0,"offY":95,"sourceW":1024,"sourceH":512},
+"DesertRuins_Front_02":{"x":0,"y":1774,"w":1023,"h":250,"offX":0,"offY":262,"sourceW":1024,"sourceH":512},
+"DesertRuins_Sky_02":{"x":0,"y":1262,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512}}}

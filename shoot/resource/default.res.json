@@ -1,0 +1,651 @@
+{
+	"groups": [
+		{
+			"keys": "game0_json,icons_json,js_dk_shengLi_png,js_dk_shiBai_png,bottom_png,bj_home_jpg,bullet_json",
+			"name": "common"
+		},
+		{
+			"keys": "巴雷特_mp3,倒计时_mp3,enemydeath_mp3,回血_mp3,感染者叫声2_mp3,coin_mp3,加特林_mp3,雷明顿_mp3,榴弹发射器_mp3,herodeath_mp3,跑步声_02_mp3,gunsetup_mp3,汤姆逊_mp3,win_mp3,lose_mp3,bgm_mp3,AK47_mp3,AUG_mp3,AWP_mp3,M4A1_mp3,M249_mp3,MK5_mp3,RPK_mp3,SCAR_mp3,click_mp3",
+			"name": "sound"
+		},
+		{
+			"keys": "m10002_atlas,m10002_png,m10001_atlas,m10001_png,m10001_skel,m10002_skel,m10003_atlas,m10003_png,m10003_skel,m10004_atlas,m10004_png,m10004_skel,m10005_atlas,m10005_png,m10005_skel,m10006_atlas,m10006_png,m10006_skel,m10007_atlas,m10007_png,m10007_skel,m10008_atlas,m10008_png,m10008_skel,m10009_atlas,m10009_png,m10009_skel,m10045_atlas,m10045_png,m10045_skel,m10049_atlas,m10049_png,m10049_skel,m20004_atlas,m20004_png,m20004_skel,m20014_atlas,m20014_png,m20014_skel,m20015_atlas,m20015_png,m20015_skel,player_atlas,player_png,player2_png,player_json",
+			"name": "spine"
+		},
+		{
+			"keys": "bg0_1_json,bg0_0_json",
+			"name": "bg0"
+		},
+		{
+			"keys": "bg1_1_json,bg1_0_json",
+			"name": "bg1"
+		},
+		{
+			"keys": "bg2_1_json,bg2_0_json",
+			"name": "bg2"
+		},
+		{
+			"keys": "bg3_1_json,bg3_0_json",
+			"name": "bg3"
+		},
+		{
+			"keys": "bg4_1_json,bg4_0_json",
+			"name": "bg4"
+		},
+		{
+			"keys": "bg5_1_json,bg5_0_json",
+			"name": "bg5"
+		},
+		{
+			"keys": "bg6_1_json,bg6_0_json",
+			"name": "bg6"
+		},
+		{
+			"keys": "bg7_1_json,bg7_0_json",
+			"name": "bg7"
+		},
+		{
+			"keys": "bg8_1_json,bg8_0_json",
+			"name": "bg8"
+		},
+		{
+			"keys": "bg9_1_json,bg9_0_json",
+			"name": "bg9"
+		},
+		{
+			"keys": "bg10_1_json,bg10_0_json",
+			"name": "bg10"
+		},
+		{
+			"keys": "bg11_1_json,bg11_0_json",
+			"name": "bg11"
+		},
+		{
+			"keys": "bg12_1_json,bg12_0_json",
+			"name": "bg12"
+		},
+		{
+			"keys": "bg13_1_json,bg13_0_json",
+			"name": "bg13"
+		},
+		{
+			"keys": "bg14_1_json,bg14_0_json",
+			"name": "bg14"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/game0.json",
+			"type": "sheet",
+			"name": "game0_json",
+			"subkeys": "RR_1,RR_2,blueBtnBg,boom,btn,btn_1,btn_2,btn_3,comskill,dot,greenBtnBg,gunfire,gunsetup,icon_gun,icon_hero,joystick,js_img_shengLi_1,js_img_shengLi_2,js_img_shiBai_1,js_img_shiBai_2,pause,purpleBtnBg,qiu,sd_btn_fanHui,sd_dk_icon_xuanZe_1,sd_dk_icon_xuanZe_2,sd_dk_wuQiXuanZe,sd_dk_wuQi_kuang_1,shadow,yaogan,yellowBtnBg,yxn_dk_xueTiao_1,yxn_dk_xueTiao_2,yxn_dk_xueTiao_3,yxn_dk_xueTiao_4,zjm_dk_jinBi,zjm_dk_touXiang_1,zjm_icon_jinBi,生化危机"
+		},
+		{
+			"url": "enemy/m10002.atlas",
+			"type": "text",
+			"name": "m10002_atlas"
+		},
+		{
+			"url": "enemy/m10002.png",
+			"type": "image",
+			"name": "m10002_png"
+		},
+		{
+			"url": "enemy/m10001.atlas",
+			"type": "text",
+			"name": "m10001_atlas"
+		},
+		{
+			"url": "enemy/m10001.png",
+			"type": "image",
+			"name": "m10001_png"
+		},
+		{
+			"url": "enemy/m10001.skel",
+			"type": "bin",
+			"name": "m10001_skel"
+		},
+		{
+			"url": "enemy/m10002.skel",
+			"type": "bin",
+			"name": "m10002_skel"
+		},
+		{
+			"url": "enemy/m10003.atlas",
+			"type": "text",
+			"name": "m10003_atlas"
+		},
+		{
+			"url": "enemy/m10003.png",
+			"type": "image",
+			"name": "m10003_png"
+		},
+		{
+			"url": "enemy/m10003.skel",
+			"type": "bin",
+			"name": "m10003_skel"
+		},
+		{
+			"url": "enemy/m10004.atlas",
+			"type": "text",
+			"name": "m10004_atlas"
+		},
+		{
+			"url": "enemy/m10004.png",
+			"type": "image",
+			"name": "m10004_png"
+		},
+		{
+			"url": "enemy/m10004.skel",
+			"type": "bin",
+			"name": "m10004_skel"
+		},
+		{
+			"url": "enemy/m10005.atlas",
+			"type": "text",
+			"name": "m10005_atlas"
+		},
+		{
+			"url": "enemy/m10005.png",
+			"type": "image",
+			"name": "m10005_png"
+		},
+		{
+			"url": "enemy/m10005.skel",
+			"type": "bin",
+			"name": "m10005_skel"
+		},
+		{
+			"url": "enemy/m10006.atlas",
+			"type": "text",
+			"name": "m10006_atlas"
+		},
+		{
+			"url": "enemy/m10006.png",
+			"type": "image",
+			"name": "m10006_png"
+		},
+		{
+			"url": "enemy/m10006.skel",
+			"type": "bin",
+			"name": "m10006_skel"
+		},
+		{
+			"url": "enemy/m10007.atlas",
+			"type": "text",
+			"name": "m10007_atlas"
+		},
+		{
+			"url": "enemy/m10007.png",
+			"type": "image",
+			"name": "m10007_png"
+		},
+		{
+			"url": "enemy/m10007.skel",
+			"type": "bin",
+			"name": "m10007_skel"
+		},
+		{
+			"url": "enemy/m10008.atlas",
+			"type": "text",
+			"name": "m10008_atlas"
+		},
+		{
+			"url": "enemy/m10008.png",
+			"type": "image",
+			"name": "m10008_png"
+		},
+		{
+			"url": "enemy/m10008.skel",
+			"type": "bin",
+			"name": "m10008_skel"
+		},
+		{
+			"url": "enemy/m10009.atlas",
+			"type": "text",
+			"name": "m10009_atlas"
+		},
+		{
+			"url": "enemy/m10009.png",
+			"type": "image",
+			"name": "m10009_png"
+		},
+		{
+			"url": "enemy/m10009.skel",
+			"type": "bin",
+			"name": "m10009_skel"
+		},
+		{
+			"url": "enemy/m10045.atlas",
+			"type": "text",
+			"name": "m10045_atlas"
+		},
+		{
+			"url": "enemy/m10045.png",
+			"type": "image",
+			"name": "m10045_png"
+		},
+		{
+			"url": "enemy/m10045.skel",
+			"type": "bin",
+			"name": "m10045_skel"
+		},
+		{
+			"url": "enemy/m10049.atlas",
+			"type": "text",
+			"name": "m10049_atlas"
+		},
+		{
+			"url": "enemy/m10049.png",
+			"type": "image",
+			"name": "m10049_png"
+		},
+		{
+			"url": "enemy/m10049.skel",
+			"type": "bin",
+			"name": "m10049_skel"
+		},
+		{
+			"url": "enemy/m20004.atlas",
+			"type": "text",
+			"name": "m20004_atlas"
+		},
+		{
+			"url": "enemy/m20004.png",
+			"type": "image",
+			"name": "m20004_png"
+		},
+		{
+			"url": "enemy/m20004.skel",
+			"type": "bin",
+			"name": "m20004_skel"
+		},
+		{
+			"url": "enemy/m20014.atlas",
+			"type": "text",
+			"name": "m20014_atlas"
+		},
+		{
+			"url": "enemy/m20014.png",
+			"type": "image",
+			"name": "m20014_png"
+		},
+		{
+			"url": "enemy/m20014.skel",
+			"type": "bin",
+			"name": "m20014_skel"
+		},
+		{
+			"url": "enemy/m20015.atlas",
+			"type": "text",
+			"name": "m20015_atlas"
+		},
+		{
+			"url": "enemy/m20015.png",
+			"type": "image",
+			"name": "m20015_png"
+		},
+		{
+			"url": "enemy/m20015.skel",
+			"type": "bin",
+			"name": "m20015_skel"
+		},
+		{
+			"url": "assets/icons.json",
+			"type": "sheet",
+			"name": "icons_json",
+			"subkeys": "gun_0,gun_1,gun_10,gun_11,gun_12,gun_13,gun_14,gun_15,gun_16,gun_17,gun_18,gun_19,gun_2,gun_20,gun_21,gun_22,gun_23,gun_24,gun_25,gun_26,gun_27,gun_28,gun_29,gun_3,gun_30,gun_31,gun_32,gun_4,gun_5,gun_6,gun_7,gun_8,gun_9,hero_七彩公主,hero_冰雪公主,hero_哪吒,hero_复仇女神,hero_妖小猪,hero_小丑,hero_幽梦猎手,hero_影卫,hero_救世主,hero_末日终结者,hero_杂技白熊,hero_泰坦巨人,hero_猎鹰,hero_疯狂幽灵,hero_红色幽灵,hero_菲菲,hero_蓝梦,hero_蜘蛛精,hero_超体僵尸"
+		},
+		{
+			"url": "spine/player.atlas",
+			"type": "text",
+			"name": "player_atlas"
+		},
+		{
+			"url": "spine/player.png",
+			"type": "image",
+			"name": "player_png"
+		},
+		{
+			"url": "spine/player2.png",
+			"type": "image",
+			"name": "player2_png"
+		},
+		{
+			"url": "spine/player.json",
+			"type": "json",
+			"name": "player_json"
+		},
+		{
+			"url": "assets/js_dk_shengLi.png",
+			"type": "image",
+			"name": "js_dk_shengLi_png"
+		},
+		{
+			"url": "assets/js_dk_shiBai.png",
+			"type": "image",
+			"name": "js_dk_shiBai_png"
+		},
+		{
+			"url": "assets/bottom.png",
+			"type": "image",
+			"name": "bottom_png"
+		},
+		{
+			"url": "assets/bj_home.jpg",
+			"type": "image",
+			"name": "bj_home_jpg"
+		},
+		{
+			"url": "assets/bullet.json",
+			"type": "sheet",
+			"name": "bullet_json",
+			"subkeys": "lazer_0,lazer_1,lazer_10,lazer_11,lazer_12,lazer_13,lazer_14,lazer_15,lazer_16,lazer_17,lazer_18,lazer_2,lazer_3,lazer_4,lazer_5,lazer_6,lazer_7,lazer_8,lazer_9,tuoyuan13,tuoyuan13-1,ziDan_1_1,ziDan_1_3,ziDan_1_4,ziDan_1_5,ziDan_1_5_2,ziDan_1_6,ziDan_1_6_2,ziDan_2_1,ziDan_2_3,ziDan_2_4,ziDan_2_5,ziDan_2_5_2,ziDan_2_6_2,ziDan_light_1,ziDan_light_2"
+		},
+		{
+			"url": "sound/巴雷特.mp3",
+			"type": "sound",
+			"name": "巴雷特_mp3"
+		},
+		{
+			"url": "sound/倒计时.mp3",
+			"type": "sound",
+			"name": "倒计时_mp3"
+		},
+		{
+			"url": "sound/感染者叫声1.mp3",
+			"type": "sound",
+			"name": "enemydeath_mp3"
+		},
+		{
+			"url": "sound/回血.mp3",
+			"type": "sound",
+			"name": "回血_mp3"
+		},
+		{
+			"url": "sound/感染者叫声2.mp3",
+			"type": "sound",
+			"name": "感染者叫声2_mp3"
+		},
+		{
+			"url": "sound/获得货币.mp3",
+			"type": "sound",
+			"name": "coin_mp3"
+		},
+		{
+			"url": "sound/加特林.mp3",
+			"type": "sound",
+			"name": "加特林_mp3"
+		},
+		{
+			"url": "sound/雷明顿.mp3",
+			"type": "sound",
+			"name": "雷明顿_mp3"
+		},
+		{
+			"url": "sound/榴弹发射器.mp3",
+			"type": "sound",
+			"name": "榴弹发射器_mp3"
+		},
+		{
+			"url": "sound/男受伤1.mp3",
+			"type": "sound",
+			"name": "herodeath_mp3"
+		},
+		{
+			"url": "sound/跑步声_02.mp3",
+			"type": "sound",
+			"name": "跑步声_02_mp3"
+		},
+		{
+			"url": "sound/上子弹.mp3",
+			"type": "sound",
+			"name": "gunsetup_mp3"
+		},
+		{
+			"url": "sound/汤姆逊.mp3",
+			"type": "sound",
+			"name": "汤姆逊_mp3"
+		},
+		{
+			"url": "sound/游戏胜利.mp3",
+			"type": "sound",
+			"name": "win_mp3"
+		},
+		{
+			"url": "sound/游戏失败.mp3",
+			"type": "sound",
+			"name": "lose_mp3"
+		},
+		{
+			"url": "sound/游戏中bgm.mp3",
+			"type": "sound",
+			"name": "bgm_mp3"
+		},
+		{
+			"url": "sound/AK47.mp3",
+			"type": "sound",
+			"name": "AK47_mp3"
+		},
+		{
+			"url": "sound/AUG.mp3",
+			"type": "sound",
+			"name": "AUG_mp3"
+		},
+		{
+			"url": "sound/AWP.mp3",
+			"type": "sound",
+			"name": "AWP_mp3"
+		},
+		{
+			"url": "sound/M4A1.mp3",
+			"type": "sound",
+			"name": "M4A1_mp3"
+		},
+		{
+			"url": "sound/M249.mp3",
+			"type": "sound",
+			"name": "M249_mp3"
+		},
+		{
+			"url": "sound/MK5.mp3",
+			"type": "sound",
+			"name": "MK5_mp3"
+		},
+		{
+			"url": "sound/RPK.mp3",
+			"type": "sound",
+			"name": "RPK_mp3"
+		},
+		{
+			"url": "sound/SCAR.mp3",
+			"type": "sound",
+			"name": "SCAR_mp3"
+		},
+		{
+			"url": "sound/sfx_Btn.mp3",
+			"type": "sound",
+			"name": "click_mp3"
+		},
+		{
+			"url": "background/bg0_0.json",
+			"type": "sheet",
+			"name": "bg0_0_json",
+			"subkeys": "Beach_Base_01,Beach_FarA_01,Beach_FarB_01,Beach_FarC_01,Beach_Front_01,Beach_Sky_01"
+		},
+		{
+			"url": "background/bg10_0.json",
+			"type": "sheet",
+			"name": "bg10_0_json",
+			"subkeys": "RedRockSky_01,RedRock_Base_01,RedRock_FarA_01,RedRock_FarB_01,RedRock_FarC_01,RedRock_Front_01"
+		},
+		{
+			"url": "background/bg10_1.json",
+			"type": "sheet",
+			"name": "bg10_1_json",
+			"subkeys": "RedRockSky_02,RedRock_Base_02,RedRock_FarA_02,RedRock_FarB_02,RedRock_FarC_02,RedRock_Front_02"
+		},
+		{
+			"url": "background/bg11_0.json",
+			"type": "sheet",
+			"name": "bg11_0_json",
+			"subkeys": "Ruins_Base_01,Ruins_FarA_01,Ruins_FarB_01,Ruins_FarC_01,Ruins_Front_01,Ruins_Sky_01"
+		},
+		{
+			"url": "background/bg11_1.json",
+			"type": "sheet",
+			"name": "bg11_1_json",
+			"subkeys": "Ruins_Base_02,Ruins_FarA_02,Ruins_FarB_02,Ruins_FarC_02,Ruins_Front_02,Ruins_Sky_02"
+		},
+		{
+			"url": "background/bg0_1.json",
+			"type": "sheet",
+			"name": "bg0_1_json",
+			"subkeys": "Beach_Base_02,Beach_FarA_02,Beach_FarB_02,Beach_FarC_02,Beach_Front_02,Beach_Sky_02"
+		},
+		{
+			"url": "background/bg12_0.json",
+			"type": "sheet",
+			"name": "bg12_0_json",
+			"subkeys": "Swamp_Base_01,Swamp_FarA_01,Swamp_FarB_01,Swamp_FarC_01,Swamp_Front_01,Swamp_Sky_01"
+		},
+		{
+			"url": "background/bg12_1.json",
+			"type": "sheet",
+			"name": "bg12_1_json",
+			"subkeys": "Swamp_Base_02,Swamp_FarA_02,Swamp_FarB_02,Swamp_FarC_02,Swamp_Front_02,Swamp_Sky_02"
+		},
+		{
+			"url": "background/bg13_0.json",
+			"type": "sheet",
+			"name": "bg13_0_json",
+			"subkeys": "VineForest_Base_01,VineForest_FarA_01,VineForest_FarB_01,VineForest_FarC_01,VineForest_Front_01,VineForest_Sky_01"
+		},
+		{
+			"url": "background/bg13_1.json",
+			"type": "sheet",
+			"name": "bg13_1_json",
+			"subkeys": "VineForest_Base_02,VineForest_FarA_02,VineForest_FarB_02,VineForest_FarC_02,VineForest_Front_02,VineForest_Sky_02"
+		},
+		{
+			"url": "background/bg14_0.json",
+			"type": "sheet",
+			"name": "bg14_0_json",
+			"subkeys": "WinterForest_Base_01,WinterForest_FarA_01,WinterForest_FarB_01,WinterForest_FarC_01,WinterForest_Front_01,WinterForest_Sky_01"
+		},
+		{
+			"url": "background/bg14_1.json",
+			"type": "sheet",
+			"name": "bg14_1_json",
+			"subkeys": "WinterForest_Base_02,WinterForest_FarA_02,WinterForest_FarB_02,WinterForest_FarC_02,WinterForest_Front_02,WinterForest_Sky_02"
+		},
+		{
+			"url": "background/bg1_0.json",
+			"type": "sheet",
+			"name": "bg1_0_json",
+			"subkeys": "Cave_Base_01,Cave_FarA_01,Cave_FarB_01,Cave_FarC_01,Cave_Front_01,Cave_Sky_01"
+		},
+		{
+			"url": "background/bg1_1.json",
+			"type": "sheet",
+			"name": "bg1_1_json",
+			"subkeys": "Cave_Base_02,Cave_FarA_02,Cave_FarB_02,Cave_FarC_02,Cave_Front_02,Cave_Sky_02"
+		},
+		{
+			"url": "background/bg2_0.json",
+			"type": "sheet",
+			"name": "bg2_0_json",
+			"subkeys": "Desert_Base_01,Desert_FarA_01,Desert_FarB_01,Desert_FarC_01,Desert_Front_01,Desert_Sky_01"
+		},
+		{
+			"url": "background/bg2_1.json",
+			"type": "sheet",
+			"name": "bg2_1_json",
+			"subkeys": "Desert_Base_02,Desert_FarA_02,Desert_FarB_02,Desert_FarC_02,Desert_Front_02,Desert_Sky_02"
+		},
+		{
+			"url": "background/bg3_0.json",
+			"type": "sheet",
+			"name": "bg3_0_json",
+			"subkeys": "DesertRuins_Base_01,DesertRuins_FarA_01,DesertRuins_FarB_01,DesertRuins_FarC_01,DesertRuins_Front_01,DesertRuins_Sky_01"
+		},
+		{
+			"url": "background/bg3_1.json",
+			"type": "sheet",
+			"name": "bg3_1_json",
+			"subkeys": "DesertRuins_Base_02,DesertRuins_FarA_02,DesertRuins_FarB_02,DesertRuins_FarC_02,DesertRuins_Front_02,DesertRuins_Sky_02"
+		},
+		{
+			"url": "background/bg4_0.json",
+			"type": "sheet",
+			"name": "bg4_0_json",
+			"subkeys": "ElfCity_Base_01,ElfCity_FarA_01,ElfCity_FarB_01,ElfCity_FarC_01,ElfCity_Front_01,ElfCity_Sky_01"
+		},
+		{
+			"url": "background/bg4_1.json",
+			"type": "sheet",
+			"name": "bg4_1_json",
+			"subkeys": "ElfCity_Base_02,ElfCity_FarA_02,ElfCity_FarB_02,ElfCity_FarC_02,ElfCity_Front_02,ElfCity_Sky_02"
+		},
+		{
+			"url": "background/bg5_0.json",
+			"type": "sheet",
+			"name": "bg5_0_json",
+			"subkeys": "Forest_Base_01,Forest_FarA_01,Forest_FarB_01,Forest_FarC_01,Forest_Front_01,Forest_Sky_01"
+		},
+		{
+			"url": "background/bg5_1.json",
+			"type": "sheet",
+			"name": "bg5_1_json",
+			"subkeys": "Forest_Base_02,Forest_FarA_02,Forest_FarB_02,Forest_FarC_02,Forest_Front_02,Forest_Sky_02"
+		},
+		{
+			"url": "background/bg6_0.json",
+			"type": "sheet",
+			"name": "bg6_0_json",
+			"subkeys": "IceField_Base_01,IceField_FarA_01,IceField_FarB_01,IceField_FarC_01,IceField_Front_01,IceField_Sky_01"
+		},
+		{
+			"url": "background/bg6_1.json",
+			"type": "sheet",
+			"name": "bg6_1_json",
+			"subkeys": "IceField_Base_02,IceField_FarA_02,IceField_FarB_02,IceField_FarC_02,IceField_Front_02,IceField_Sky_02"
+		},
+		{
+			"url": "background/bg7_1.json",
+			"type": "sheet",
+			"name": "bg7_1_json",
+			"subkeys": "Lava_Base_02,Lava_FarA_02,Lava_FarB_02,Lava_FarC_02,Lava_Front_02,Lava_Sky_02"
+		},
+		{
+			"url": "background/bg8_0.json",
+			"type": "sheet",
+			"name": "bg8_0_json",
+			"subkeys": "MysteriousForest_Base_01,MysteriousForest_FarA_01,MysteriousForest_FarB_01,MysteriousForest_FarC_01,MysteriousForest_Front_01,MysteriousForest_Sky_01"
+		},
+		{
+			"url": "background/bg7_0.json",
+			"type": "sheet",
+			"name": "bg7_0_json",
+			"subkeys": "Lava_Base_01,Lava_FarA_01,Lava_FarB_01,Lava_FarC_01,Lava_Front_01,Lava_Sky_01"
+		},
+		{
+			"url": "background/bg8_1.json",
+			"type": "sheet",
+			"name": "bg8_1_json",
+			"subkeys": "MysteriousForest_Base_02,MysteriousForest_FarA_02,MysteriousForest_FarB_02,MysteriousForest_FarC_02,MysteriousForest_Front_02,MysteriousForest_Sky_02"
+		},
+		{
+			"url": "background/bg9_0.json",
+			"type": "sheet",
+			"name": "bg9_0_json",
+			"subkeys": "Plains_Base_01,Plains_FarA_01,Plains_FarB_01,Plains_FarC_01,Plains_Front_01,Plains_Sky_01"
+		},
+		{
+			"url": "background/bg9_1.json",
+			"type": "sheet",
+			"name": "bg9_1_json",
+			"subkeys": "Plains_Base_02,Plains_FarA_02,Plains_FarB_02,Plains_FarC_02,Plains_Front_02,Plains_Sky_02"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{"file":"bg10_0.png","frames":{
+"RedRock_Base_01":{"x":0,"y":0,"w":1024,"h":1280,"offX":0,"offY":0,"sourceW":1024,"sourceH":1280},
+"RedRock_FarA_01":{"x":1024,"y":0,"w":1024,"h":483,"offX":0,"offY":29,"sourceW":1024,"sourceH":512},
+"RedRock_FarB_01":{"x":1024,"y":483,"w":1024,"h":458,"offX":0,"offY":54,"sourceW":1024,"sourceH":512},
+"RedRock_FarC_01":{"x":1024,"y":941,"w":1024,"h":384,"offX":0,"offY":128,"sourceW":1024,"sourceH":512},
+"RedRock_Front_01":{"x":1024,"y":1325,"w":1024,"h":264,"offX":0,"offY":248,"sourceW":1024,"sourceH":512},
+"RedRockSky_01":{"x":0,"y":1280,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512}}}

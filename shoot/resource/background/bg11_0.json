@@ -1,0 +1,7 @@
+{"file":"bg11_0.png","frames":{
+"Ruins_Base_01":{"x":0,"y":0,"w":1024,"h":1267,"offX":0,"offY":13,"sourceW":1024,"sourceH":1280},
+"Ruins_FarA_01":{"x":1024,"y":0,"w":1024,"h":483,"offX":0,"offY":29,"sourceW":1024,"sourceH":512},
+"Ruins_FarB_01":{"x":1024,"y":483,"w":1024,"h":427,"offX":0,"offY":85,"sourceW":1024,"sourceH":512},
+"Ruins_FarC_01":{"x":0,"y":1779,"w":1024,"h":149,"offX":0,"offY":107,"sourceW":1024,"sourceH":512},
+"Ruins_Front_01":{"x":1024,"y":910,"w":865,"h":349,"offX":0,"offY":163,"sourceW":1024,"sourceH":512},
+"Ruins_Sky_01":{"x":0,"y":1267,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512}}}

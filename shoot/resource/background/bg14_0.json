@@ -1,0 +1,7 @@
+{"file":"bg14_0.png","frames":{
+"WinterForest_Base_01":{"x":0,"y":0,"w":1024,"h":1280,"offX":0,"offY":0,"sourceW":1024,"sourceH":1280},
+"WinterForest_FarA_01":{"x":1024,"y":512,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512},
+"WinterForest_FarB_01":{"x":1024,"y":0,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512},
+"WinterForest_FarC_01":{"x":0,"y":1280,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512},
+"WinterForest_Front_01":{"x":1024,"y":1536,"w":1024,"h":182,"offX":0,"offY":330,"sourceW":1024,"sourceH":512},
+"WinterForest_Sky_01":{"x":1024,"y":1024,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512}}}

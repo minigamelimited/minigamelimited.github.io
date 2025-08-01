@@ -1,0 +1,7 @@
+{"file":"bg0_0.png","frames":{
+"Beach_Sky_01":{"x":1024,"y":0,"w":1024,"h":512,"offX":0,"offY":0,"sourceW":1024,"sourceH":512},
+"Beach_Front_01":{"x":0,"y":1236,"w":1024,"h":212,"offX":0,"offY":300,"sourceW":1024,"sourceH":512},
+"Beach_FarC_01":{"x":0,"y":858,"w":1024,"h":378,"offX":0,"offY":134,"sourceW":1024,"sourceH":512},
+"Beach_FarB_01":{"x":1024,"y":977,"w":1024,"h":361,"offX":0,"offY":151,"sourceW":1024,"sourceH":512},
+"Beach_FarA_01":{"x":1024,"y":512,"w":1024,"h":465,"offX":0,"offY":47,"sourceW":1024,"sourceH":512},
+"Beach_Base_01":{"x":0,"y":0,"w":1024,"h":858,"offX":0,"offY":422,"sourceW":1024,"sourceH":1280}}}
