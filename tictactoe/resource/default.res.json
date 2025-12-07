@@ -1,0 +1,76 @@
+{
+	"groups": [
+		{
+			"keys": "bg3x3_png,bgr_1_png,bg15x15_png,game10_json,game1_json,base64imgs_json",
+			"name": "common"
+		},
+		{
+			"keys": "click_mp3,draw_mp3,lose_mp3,myturn_mp3,plece_mp3,win_mp3",
+			"name": "sound"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg3x3.png",
+			"type": "image",
+			"name": "bg3x3_png"
+		},
+		{
+			"url": "assets/bgr_1.png",
+			"type": "image",
+			"name": "bgr_1_png"
+		},
+		{
+			"url": "assets/bg15x15.png",
+			"type": "image",
+			"name": "bg15x15_png"
+		},
+		{
+			"url": "assets/game10.json",
+			"type": "sheet",
+			"name": "game10_json",
+			"subkeys": "ResultDraw,ResultLose,ResultLose2,ResultWin,ResultWin2,Setting_Icon_Music,Setting_Icon_Sound,Setting_SwitchOFF,Setting_SwitchON,Win_Butt_Home,Win_Butt_Next,Win_Butt_Replay,asset_block1_short,asset_block2_short,asset_block3_short,asset_player_blue,b_b_2,b_play,b_r_normal,bb_fx_2,br_ed_o,br_ed_x,br_heat,button_green,home_icon,ic_times,ic_xo_1,ic_xo_2,icon_refresh,icon_undo,img_lvl_1,img_lvl_3,wifi_0,wifi_1,wifi_2,wifi_3"
+		},
+		{
+			"url": "sounds/click.mp3",
+			"type": "sound",
+			"name": "click_mp3"
+		},
+		{
+			"url": "sounds/draw.mp3",
+			"type": "sound",
+			"name": "draw_mp3"
+		},
+		{
+			"url": "sounds/lose.mp3",
+			"type": "sound",
+			"name": "lose_mp3"
+		},
+		{
+			"url": "sounds/myturn.mp3",
+			"type": "sound",
+			"name": "myturn_mp3"
+		},
+		{
+			"url": "sounds/plece.mp3",
+			"type": "sound",
+			"name": "plece_mp3"
+		},
+		{
+			"url": "sounds/win.mp3",
+			"type": "sound",
+			"name": "win_mp3"
+		},
+		{
+			"url": "assets/game1.json",
+			"type": "sheet",
+			"name": "game1_json",
+			"subkeys": "avatar0,avatar1,chatbubble,chaticon"
+		},
+		{
+			"url": "assets/base64imgs.json",
+			"type": "json",
+			"name": "base64imgs_json"
+		}
+	]
+}

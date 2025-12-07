@@ -3,216 +3,168 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>迷你象棋 - 极简博弈乐趣</title>
+    <title>7x7 迷你象棋 - Mini Xiangqi (图片版)</title>
     <style>
-        /* --- 1. 基础设置与配色 (中国风) --- */
+        /* --- 1. 全局样式 (保持简洁中国风) --- */
         :root {
-            --bg-color: #fdf6e3;       /* 米色背景 */
-            --board-color: #e6c88c;    /* 棋盘木色 */
-            --text-color: #4a3b2a;     /* 深褐色文字 */
-            --red-piece: #d63031;      /* 红方颜色 */
-            --black-piece: #2d3436;    /* 黑方颜色 */
-            --border-color: #8b5a2b;   /* 边框色 */
+            --bg-color: #fdf6e3;       /* 宣纸米色 */
+            --text-color: #3e2723;     /* 深褐色文字 */
+            --highlight-color: #c62828; /* 红色强调色 */
         }
 
         body {
-            font-family: "Kaiti", "STKaiti", "楷体", serif; /* 优先使用楷体 */
+            font-family: "Kaiti", "STKaiti", "楷体", serif;
             background-color: var(--bg-color);
             color: var(--text-color);
             margin: 0;
             padding: 0;
-            line-height: 1.8;
+            line-height: 1.6;
         }
 
-        /* --- 2. 头部区域 --- */
-        header {
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1, h2, h3 {
             text-align: center;
-            padding: 40px 20px;
-            background: #fff8eb;
-            border-bottom: 2px solid var(--border-color);
+            margin-bottom: 1rem;
         }
 
         h1 {
             font-size: 2.5rem;
-            margin-bottom: 10px;
-            letter-spacing: 5px;
+            margin-top: 30px;
+            letter-spacing: 4px;
         }
 
         .subtitle {
-            font-size: 1.2rem;
-            color: #666;
-        }
-
-        /* --- 3. 内容容器 --- */
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 30px 20px;
-        }
-
-        section {
+            text-align: center;
+            color: #795548;
             margin-bottom: 40px;
-            background: rgba(255, 255, 255, 0.5);
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            font-size: 1.1rem;
         }
 
-        h2 {
-            border-left: 5px solid var(--red-piece);
-            padding-left: 15px;
-            margin-bottom: 20px;
-        }
-
-        /* --- 4. CSS绘制迷你棋盘 (无需图片) --- */
-        .board-wrapper {
-            display: flex;
-            justify-content: center;
-            margin: 30px 0;
-        }
-
-        .chess-board {
-            width: 300px;
-            height: 360px;
-            background-color: var(--board-color);
-            border: 4px solid var(--border-color);
-            position: relative;
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            grid-template-rows: repeat(5, 1fr);
-            /* 棋盘网格线 */
-            background-image: 
-                linear-gradient(var(--text-color) 1px, transparent 1px),
-                linear-gradient(90deg, var(--text-color) 1px, transparent 1px);
-            background-size: 73px 70px; /* 调整网格大小 */
-            background-position: center;
+        /* --- 2. 棋盘图片区域 --- */
+        .board-image-wrapper {
+            text-align: center;
+            margin: 40px 0;
+            background-color: #fff; /* 背景色，如果图片有透明区域 */
             padding: 10px;
-            box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
         }
 
-        /* 棋子样式 */
-        .piece {
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            background: #f3e5ab;
-            border: 2px solid #bcaaa4;
-            box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-weight: bold;
-            font-size: 1.5rem;
-            position: absolute;
-            z-index: 2;
-            cursor: default;
+        .board-image-wrapper img {
+            max-width: 100%; /* 确保图片在小屏幕上也能完全显示 */
+            height: auto;
+            display: block; /* 移除图片底部空白 */
+            margin: 0 auto; /* 图片居中 */
+            border: 2px solid #a1887f; /* 给图片加个边框 */
+            border-radius: 5px;
         }
 
-        .piece.red { color: var(--red-piece); border-color: var(--red-piece); }
-        .piece.black { color: var(--black-piece); border-color: var(--black-piece); }
+        .image-caption {
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 10px;
+        }
 
-        /* 简单的棋子摆放示例 (绝对定位) */
-        .p-r-k { top: 300px; left: 125px; } /* 红帅 */
-        .p-b-k { top: 10px; left: 125px; }  /* 黑将 */
-        .p-r-c { top: 230px; left: 55px; }  /* 红炮 */
-        .p-b-m { top: 80px; left: 195px; }  /* 黑马 */
+        /* --- 3. 内容卡片与规则 --- */
+        .card {
+            background: rgba(255, 255, 255, 0.6);
+            border: 1px solid #d7ccc8;
+            padding: 20px 30px; /* 增加左右内边距 */
+            border-radius: 8px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
 
-        /* --- 5. 规则列表 --- */
-        ul.rules-list {
-            list-style: none;
+        .card h3 {
+            border-left: 4px solid var(--highlight-color);
+            padding-left: 10px;
+            text-align: left;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+            color: var(--text-color);
+        }
+        
+        .rules-list {
+            list-style: none; /* 移除默认的列表点 */
             padding: 0;
         }
 
-        ul.rules-list li {
-            padding: 10px 0;
-            border-bottom: 1px dashed #ccc;
+        .rules-list li {
+            position: relative;
+            padding-left: 25px; /* 留出空间给自定义的列表图标 */
+            margin-bottom: 10px;
         }
 
-        ul.rules-list li::before {
-            content: "♟";
-            color: var(--border-color);
-            margin-right: 10px;
+        .rules-list li::before {
+            content: "✓"; /* 自定义列表图标 */
+            color: var(--highlight-color);
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+            top: 0;
         }
 
-        /* --- 6. 按钮与页脚 --- */
-        .cta-button {
-            display: block;
-            width: 200px;
-            margin: 0 auto;
-            text-align: center;
-            background-color: var(--red-piece);
-            color: white;
-            padding: 12px;
-            text-decoration: none;
-            border-radius: 5px;
-            transition: background 0.3s;
+        .highlight {
+            color: var(--highlight-color);
+            font-weight: bold;
         }
 
-        .cta-button:hover {
-            background-color: #b71c1c;
-        }
-
+        /* --- 4. 页脚 --- */
         footer {
             text-align: center;
-            padding: 20px;
             font-size: 0.9rem;
             color: #888;
-        }
-
-        /* 手机适配 */
-        @media (max-width: 600px) {
-            h1 { font-size: 2rem; }
-            .chess-board { transform: scale(0.9); }
+            margin-top: 50px;
+            padding-bottom: 20px;
         }
     </style>
 </head>
 <body>
 
-    <header>
-        <h1>迷你象棋</h1>
-        <div class="subtitle">Mini Xiangqi · 掌上智慧</div>
-    </header>
-
     <div class="container">
-        <section>
-            <h2>什么是迷你象棋？</h2>
-            <p>迷你象棋（Mini Xiangqi）是传统中国象棋的简化版本。它保留了象棋的核心走法和策略精髓，但使用了更小的棋盘（通常为 5x6 或更小）和更少的棋子。</p>
-            <p>它节奏更快、对抗更激烈，非常适合初学者入门，或者老手在碎片时间进行快速对弈。</p>
-        </section>
+        <header>
+            <h1>迷你象棋</h1>
+            <div class="subtitle">Mini Xiangqi · 迷你象棋</div>
+        </header>
 
-        <section>
-            <h2>棋盘演示</h2>
-            <p style="text-align: center; font-size: 0.9em; color: #666;">(5x6 极简棋盘示例)</p>
-            
-            <div class="board-wrapper">
-                <div class="chess-board">
-                    <div class="piece black p-b-k">将</div>
-                    <div class="piece black p-b-m">马</div>
-                    
-                    <div class="piece red p-r-c">炮</div>
-                    <div class="piece red p-r-k">帅</div>
-                </div>
-            </div>
-            <p style="text-align: center;">无需铺开大棋盘，随时随地皆可对弈。</p>
-        </section>
+        <div class="board-image-wrapper">
+            <img src="minixiangqi.jpg" alt="7x7 迷你象棋棋盘开局示意图">
+            <p class="image-caption">典型的 7x7 迷你象棋棋盘及开局阵型。</p>
+        </div>
 
-        <section>
-            <h2>核心规则</h2>
+        <div class="card">
+            <h3>📜 游戏简介</h3>
+            <p>迷你象棋 (Mini Xiangqi) 是由日本 <span class="highlight">Kusumoto Shigenobu</span> 于 1973 年发明的一种流行的象棋变体。它在保留中国象棋核心魅力的同时，大大简化了棋盘和棋子数量，使得游戏节奏更快，更具即时对抗性。</p>
+            <p>这种独特的 7x7 棋盘设计，去除了河界、士和象，让新手能更快上手，也为经验丰富的玩家提供了全新的策略挑战，是碎片时间享受象棋乐趣的绝佳选择。</p>
+        </div>
+
+        <div class="card">
+            <h3>⚔️ 核心规则要点</h3>
             <ul class="rules-list">
-                <li><strong>棋盘更小：</strong> 取消了“楚河汉界”，红黑双方直接短兵相接。</li>
-                <li><strong>棋子精简：</strong> 通常去掉了“士”和“象”，或者仅保留少量进攻棋子。</li>
-                <li><strong>胜利条件：</strong> 与传统象棋一致，困毙或吃掉对方的“帅/将”即为获胜。</li>
-                <li><strong>玩法多变：</strong> 拥有“揭棋”、“半盘”等多种民间衍生玩法。</li>
+                <li><span class="highlight">棋盘：</span> 采用 <span class="highlight">7条竖线 × 7条横线</span> 的棋盘布局，总计 49 个交叉点。</li>
+                <li><span class="highlight">无河界：</span> 棋盘中央没有传统的“楚河汉界”，红黑双方棋子可以直接互相攻击，没有过河的限制。</li>
+                <li><span class="highlight">精简棋子：</span> 移除了 <strong>士 (Advisors)</strong> 和 <strong>象 (Elephants)</strong>。红黑双方各拥有：<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="highlight">1 帅/将</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="highlight">2 车</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="highlight">2 炮</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="highlight">2 马</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="highlight">5 兵/卒</span>
+                </li>
+                <li><span class="highlight">兵卒走法：</span> 由于没有河界限制，兵/卒从开局即可向前一步或左右横走一步。吃子方式与传统象棋相同。</li>
+                <li><span class="highlight">九宫限制：</span> 帅/将的走法与传统象棋一致，只能在各自底线中央的 <span class="highlight">3×3 九宫格</span> 内移动。</li>
+                <li><span class="highlight">胜负判定：</span> 成功将死或困毙对方的“帅/将”即获得胜利。</li>
             </ul>
-        </section>
+        </div>
 
-        <section style="text-align: center; background: transparent; box-shadow: none;">
-            <a href="#" class="cta-button">立即下载规则手册</a>
-        </section>
     </div>
 
     <footer>
-        <p>&copy; 2023 迷你象棋推广小站 | 传承国粹文化</p>
+        <p>&copy; 2023 迷你象棋爱好者 | 传承与创新</p>
     </footer>
 
 </body>

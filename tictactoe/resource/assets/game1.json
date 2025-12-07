@@ -1,0 +1,5 @@
+{"file":"game1.png","frames":{
+"avatar0":{"x":562,"y":306,"w":280,"h":110,"offX":0,"offY":0,"sourceW":280,"sourceH":110},
+"avatar1":{"x":562,"y":194,"w":280,"h":110,"offX":0,"offY":0,"sourceW":280,"sourceH":110},
+"chatbubble":{"x":0,"y":0,"w":560,"h":318,"offX":0,"offY":0,"sourceW":560,"sourceH":318},
+"chaticon":{"x":562,"y":0,"w":190,"h":192,"offX":5,"offY":4,"sourceW":200,"sourceH":200}}}
