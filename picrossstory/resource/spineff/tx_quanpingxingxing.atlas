@@ -1,0 +1,20 @@
+
+tx_quanpingxingxing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+saowei_1
+  rotate: true
+  xy: 0, 0
+  size: 57, 164
+  orig: 212, 235
+  offset: 84, 47
+  index: -1
+sijiaoxing_1
+  rotate: false
+  xy: 0, 57
+  size: 212, 217
+  orig: 212, 235
+  offset: 0, 8
+  index: -1

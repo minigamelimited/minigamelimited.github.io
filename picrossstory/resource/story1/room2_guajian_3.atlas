@@ -1,0 +1,55 @@
+
+room2_guajian_3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ganzi
+  rotate: false
+  xy: 0, 0
+  size: 189, 19
+  orig: 191, 21
+  offset: 1, 1
+  index: -1
+hezi
+  rotate: false
+  xy: 705, 442
+  size: 55, 31
+  orig: 57, 33
+  offset: 1, 1
+  index: -1
+jingzi
+  rotate: true
+  xy: 608, 76
+  size: 60, 86
+  orig: 67, 88
+  offset: 6, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 19
+  size: 264, 454
+  orig: 273, 461
+  offset: 5, 3
+  index: -1
+youlian
+  rotate: false
+  xy: 608, 136
+  size: 97, 337
+  orig: 97, 337
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 264, 27
+  size: 247, 446
+  orig: 249, 448
+  offset: 1, 1
+  index: -1
+zuolian
+  rotate: false
+  xy: 511, 57
+  size: 97, 416
+  orig: 97, 416
+  offset: 0, 0
+  index: -1

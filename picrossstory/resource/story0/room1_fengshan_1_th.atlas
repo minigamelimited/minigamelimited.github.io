@@ -1,0 +1,90 @@
+
+room1_fengshan_1_th.png
+size: 481,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengshan
+  rotate: true
+  xy: 0, 50
+  size: 103, 403
+  orig: 105, 405
+  offset: 1, 1
+  index: -1
+ld_01
+  rotate: false
+  xy: 314, 33
+  size: 32, 17
+  orig: 39, 26
+  offset: 5, 4
+  index: -1
+ld_02
+  rotate: false
+  xy: 280, 31
+  size: 34, 19
+  orig: 39, 26
+  offset: 4, 3
+  index: -1
+ld_03
+  rotate: false
+  xy: 210, 31
+  size: 35, 19
+  orig: 39, 26
+  offset: 3, 3
+  index: -1
+ld_04
+  rotate: false
+  xy: 245, 31
+  size: 35, 19
+  orig: 39, 26
+  offset: 3, 3
+  index: -1
+ld_05
+  rotate: false
+  xy: 137, 30
+  size: 36, 20
+  orig: 39, 26
+  offset: 2, 2
+  index: -1
+ld_06
+  rotate: true
+  xy: 454, 20
+  size: 37, 21
+  orig: 39, 26
+  offset: 1, 2
+  index: -1
+ld_07
+  rotate: false
+  xy: 173, 31
+  size: 37, 19
+  orig: 39, 26
+  offset: 1, 3
+  index: -1
+ld_08
+  rotate: false
+  xy: 346, 36
+  size: 30, 14
+  orig: 39, 26
+  offset: 6, 5
+  index: -1
+shan1
+  rotate: false
+  xy: 0, 0
+  size: 137, 50
+  orig: 139, 52
+  offset: 1, 1
+  index: -1
+shan2
+  rotate: true
+  xy: 403, 57
+  size: 96, 78
+  orig: 98, 80
+  offset: 1, 1
+  index: -1
+zuo
+  rotate: false
+  xy: 403, 13
+  size: 51, 44
+  orig: 53, 49
+  offset: 1, 1
+  index: -1

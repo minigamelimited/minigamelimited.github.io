@@ -1,0 +1,20 @@
+
+button_character_05.png
+size: 188,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: true
+  xy: 2, 2
+  size: 70, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+bg_npc
+  rotate: false
+  xy: 117, 3
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

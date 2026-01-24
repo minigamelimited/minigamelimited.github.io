@@ -1,0 +1,2892 @@
+{
+	"groups": [
+		{
+			"keys": "bg0_0_jpg,bg1_1_jpg,bg1_0_jpg,bg0_1_jpg,bg2_1_jpg,bg2_0_jpg,bg3_0_jpg,bg3_1_jpg,bg4_0_jpg,bg4_1_jpg,bg5_0_jpg,bg5_1_jpg,game0_json,game2_1_json,game2_0_json,bg_jpg,game3_json",
+			"name": "common"
+		},
+		{
+			"keys": "button_character_01_atlas,button_character_01_png,button_character_01_skel,button_character_02_atlas,button_character_02_png,button_character_02_skel,button_character_03_atlas,button_character_03_png,button_character_03_skel,button_character_04_atlas,button_character_04_png,button_character_04_skel,button_character_05_atlas,button_character_05_png,button_character_05_skel,button_character_06_png,button_character_06_atlas,button_character_06_skel,button_character_07_atlas,button_character_07_png,button_character_07_skel,button_character_08_atlas,button_character_08_png,button_character_08_skel,button_character_09_atlas,button_character_09_png,button_character_09_skel,button_character_10_atlas,button_character_10_png,button_character_10_skel,button_character_11_atlas,button_character_11_png,button_character_11_skel,button_character_12_atlas,button_character_12_png,button_character_12_skel,button_character_13_atlas,button_character_13_png,button_character_13_skel,button_character_14_atlas,button_character_14_png,button_character_14_skel,button_character_15_atlas,button_character_15_png,button_character_15_skel,button_character_16_atlas,button_character_16_png,button_character_16_skel,button_character_17_atlas,button_character_17_png,button_character_17_skel,button_character_18_atlas,button_character_18_png,button_character_18_skel,button_character_19_atlas,button_character_19_png,button_character_19_skel,button_character_20_atlas,button_character_20_png,button_character_20_skel,button_character_21_atlas,button_character_21_png,button_character_21_skel,button_character_22_atlas,button_character_22_png,button_character_22_skel,button_character_23_atlas,button_character_23_png,button_character_23_skel,button_character_24_atlas,button_character_24_png,button_character_24_skel,bg_png,tx_xingxingtuowei2_skel,tx_xingxingtuowei2_png,tx_xingxingtuowei2_atlas,tx_xingxingtuowei_skel,tx_xingxingtuowei_png,tx_xingxingtuowei_atlas,tx_quanpingxingxing_skel,tx_quanpingxingxing_png,tx_quanpingxingxing_atlas,tx_hechengwancheng_skel,tx_hechengwancheng_png,tx_hechengwancheng_atlas,tx_daojushengji_skel,tx_daojushengji_png,tx_daojushengji_atlas,efx_production_skel,efx_production_png,efx_production_atlas,efx_composed_skel,efx_composed_png,efx_composed_atlas,efx_completechapter_skel,efx_completechapter_png,efx_completechapter_atlas,efx_build_glow_skel,efx_build_glow_png,efx_build_glow_atlas,efx_completechapter_glow_atlas,efx_completechapter_glow_png,efx_completechapter_glow_skel",
+			"name": "spine"
+		},
+		{
+			"keys": "room1_chuang_2_atlas,room1_chuang_2_png,room1_chuang_2_skel,room1_chuang_3_atlas,room1_chuang_3_png,room1_chuang_3_skel,room1_chuang_4_atlas,room1_chuang_4_png,room1_chuang_4_skel,room1_chuang_5_atlas,room1_chuang_5_png,room1_chuang_5_skel,room1_chuanghu_1_atlas,room1_chuanghu_1_png,room1_chuanghu_1_skel,room1_chuanghu_1_2_atlas,room1_chuanghu_1_2_png,room1_chuanghu_1_2_skel,room1_chuanghu_1_th_atlas,room1_chuanghu_1_th_png,room1_chuanghu_1_th_skel,room1_chuanghu_2_atlas,room1_chuanghu_2_png,room1_chuanghu_2_skel,room1_chuanghu_2_2_atlas,room1_chuanghu_2_2_png,room1_chuanghu_2_2_skel,room1_chuanghu_3_atlas,room1_chuanghu_3_png,room1_chuanghu_3_skel,room1_chuanghu_4_atlas,room1_chuanghu_4_png,room1_chuanghu_4_skel,room1_dengzi_2_atlas,room1_dengzi_2_png,room1_dengzi_2_skel,room1_dengzi_3_atlas,room1_dengzi_3_png,room1_dengzi_3_skel,room1_dengzi_4_atlas,room1_dengzi_4_png,room1_dengzi_4_skel,room1_fengshan_1_atlas,room1_fengshan_1_png,room1_fengshan_1_skel,room1_fengshan_1_th_atlas,room1_fengshan_1_th_png,room1_fengshan_1_th_skel,room1_fengshan_2_atlas,room1_fengshan_2_png,room1_fengshan_2_skel,room1_fengshan_3_atlas,room1_fengshan_3_png,room1_fengshan_3_skel,room1_fengshan_4_atlas,room1_fengshan_4_png,room1_fengshan_4_skel,room1_liangren_1_atlas,room1_liangren_1_png,room1_liangren_1_skel,room1_liangren_1_2_atlas,room1_liangren_1_2_png,room1_liangren_1_2_skel,room1_liangren_1_th_atlas,room1_liangren_1_th_png,room1_liangren_1_th_skel,room1_liangren_2_atlas,room1_liangren_2_png,room1_liangren_2_skel,room1_liangren_2_2_atlas,room1_liangren_2_2_png,room1_liangren_2_2_skel,story0_1_json,story0_0_json",
+			"name": "story0"
+		},
+		{
+			"keys": "room2_chuang_2_atlas,room2_chuang_2_png,room2_chuang_2_skel,room2_chuang_3_atlas,room2_chuang_3_png,room2_chuang_3_skel,room2_chuang_4_atlas,room2_chuang_4_png,room2_chuang_4_skel,room2_chuang_5_atlas,room2_chuang_5_png,room2_chuang_5_skel,room2_guajian_1_atlas,room2_guajian_1_png,room2_guajian_1_skel,room2_guajian_2_atlas,room2_guajian_2_png,room2_guajian_2_skel,room2_guajian_3_atlas,room2_guajian_3_png,room2_guajian_3_skel,room2_guajian_4_atlas,room2_guajian_4_png,room2_guajian_4_skel,room2_man_1_en_atlas,room2_man_1_en_png,room2_man_1_en_skel,room2_man_2_en_atlas,room2_man_2_en_png,room2_man_2_en_skel,room2_tizi_2_atlas,room2_tizi_2_png,room2_tizi_2_skel,room2_tizi_3_atlas,room2_tizi_3_png,room2_tizi_3_skel,room2_tizi_4_atlas,room2_tizi_4_png,room2_tizi_4_skel,room2_woman_1_atlas,room2_woman_1_png,room2_woman_1_skel,room2_woman_2_atlas,room2_woman_2_png,room2_woman_2_skel,room2_zawu_2_atlas,room2_zawu_2_png,room2_zawu_2_skel,room2_zawu_3_atlas,room2_zawu_3_png,room2_zawu_3_skel,room2_zawu_4_atlas,room2_zawu_4_png,room2_zawu_4_skel,story1_0_json,story1_1_json",
+			"name": "story1"
+		},
+		{
+			"keys": "room3_bilu_2_atlas,room3_bilu_2_png,room3_bilu_2_skel,room3_bilu_3_atlas,room3_bilu_3_png,room3_bilu_3_skel,room3_bilu_4_atlas,room3_bilu_4_png,room3_bilu_4_skel,room3_chaji_2_atlas,room3_chaji_2_png,room3_chaji_2_skel,room3_chaji_3_atlas,room3_chaji_3_png,room3_chaji_3_skel,room3_chaji_4_atlas,room3_chaji_4_png,room3_chaji_4_skel,room3_shafachuanghu_1_atlas,room3_shafachuanghu_1_png,room3_shafachuanghu_1_skel,room3_shafachuanghu_1_2_atlas,room3_shafachuanghu_1_2_png,room3_shafachuanghu_1_2_skel,room3_shafachuanghu_2_atlas,room3_shafachuanghu_2_png,room3_shafachuanghu_2_skel,room3_shafachuanghu_2_2_atlas,room3_shafachuanghu_2_2_png,room3_shafachuanghu_2_2_skel,room3_shafachuanghu_3_atlas,room3_shafachuanghu_3_png,room3_shafachuanghu_3_skel,room3_shafachuanghu_4_atlas,room3_shafachuanghu_4_png,room3_shafachuanghu_4_skel,room3_shafachuanghu_5_atlas,room3_shafachuanghu_5_png,room3_shafachuanghu_5_skel,room3_woman_1_atlas,room3_woman_1_png,room3_woman_1_skel,room3_woman_2_atlas,room3_woman_2_png,room3_woman_2_skel,room3_zawuzhuozi_2_atlas,room3_zawuzhuozi_2_png,room3_zawuzhuozi_2_skel,room3_zawuzhuozi_3_atlas,room3_zawuzhuozi_3_png,room3_zawuzhuozi_3_skel,room3_zawuzhuozi_4_atlas,room3_zawuzhuozi_4_png,room3_zawuzhuozi_4_skel,story2_1_json,story2_0_json",
+			"name": "story2"
+		},
+		{
+			"keys": "room4_TX_xuehua_atlas,room4_TX_xuehua_png,room4_TX_xuehua_skel,room4_chuanghu_2_atlas,room4_chuanghu_2_png,room4_chuanghu_2_skel,room4_chuanghu_3_atlas,room4_chuanghu_3_png,room4_chuanghu_3_skel,room4_chuanghu_4_atlas,room4_chuanghu_4_png,room4_chuanghu_4_skel,room4_chuanghu_5_atlas,room4_chuanghu_5_png,room4_chuanghu_5_skel,room4_deng_1_atlas,room4_deng_1_png,room4_deng_1_skel,room4_deng_2_atlas,room4_deng_2_png,room4_deng_2_skel,room4_deng_3_atlas,room4_deng_3_png,room4_deng_3_skel,room4_deng_4_atlas,room4_deng_4_png,room4_deng_4_skel,room4_girl_1_atlas,room4_girl_1_png,room4_girl_1_skel,room4_girl_1_2_atlas,room4_girl_1_2_png,room4_girl_1_2_skel,room4_huodui_2_atlas,room4_huodui_2_png,room4_huodui_2_skel,room4_huodui_3_atlas,room4_huodui_3_png,room4_huodui_3_skel,room4_huodui_4_atlas,room4_huodui_4_png,room4_huodui_4_skel,room4_huodui_5_atlas,room4_huodui_5_png,room4_huodui_5_skel,room4_lajitong_2_atlas,room4_lajitong_2_png,room4_lajitong_2_skel,room4_lajitong_3_atlas,room4_lajitong_3_png,room4_lajitong_3_skel,room4_lajitong_4_atlas,room4_lajitong_4_png,room4_lajitong_4_skel,room4_lajitong_5_atlas,room4_lajitong_5_png,room4_lajitong_5_skel,room4_liangren_2_atlas,room4_liangren_2_png,room4_liangren_2_skel,room4_liangren_2_2_atlas,room4_liangren_2_2_png,room4_liangren_2_2_skel,room4_liangren_3_atlas,room4_liangren_3_png,room4_liangren_3_skel,room4_liangren_3_2_atlas,room4_liangren_3_2_png,room4_liangren_3_2_skel,room4_liangren_4_atlas,room4_liangren_4_png,room4_liangren_4_skel,room4_liangren_4_2_atlas,room4_liangren_4_2_png,room4_liangren_4_2_skel",
+			"name": "story3"
+		},
+		{
+			"keys": "room5_chuang_2_atlas,room5_chuang_2_png,room5_chuang_2_skel,room5_chuang_3_atlas,room5_chuang_3_png,room5_chuang_3_skel,room5_chuang_4_atlas,room5_chuang_4_png,room5_chuang_4_skel,room5_chuang_5_atlas,room5_chuang_5_png,room5_chuang_5_skel,room5_chuanghu_1_atlas,room5_chuanghu_1_png,room5_chuanghu_1_skel,room5_chuanghu_2_atlas,room5_chuanghu_2_png,room5_chuanghu_2_skel,room5_chuanghu_3_atlas,room5_chuanghu_3_png,room5_chuanghu_3_skel,room5_chuanghu_4_atlas,room5_chuanghu_4_png,room5_chuanghu_4_skel,room5_dengzi_2_atlas,room5_dengzi_2_png,room5_dengzi_2_skel,room5_dengzi_3_atlas,room5_dengzi_3_png,room5_dengzi_3_skel,room5_dengzi_4_atlas,room5_dengzi_4_png,room5_dengzi_4_skel,room5_diaodeng_1_atlas,room5_diaodeng_1_png,room5_diaodeng_1_skel,room5_diaodeng_2_atlas,room5_diaodeng_2_png,room5_diaodeng_2_skel,room5_diaodeng_3_atlas,room5_diaodeng_3_png,room5_diaodeng_3_skel,room5_diaodeng_4_atlas,room5_diaodeng_4_png,room5_diaodeng_4_skel,room5_man_1_en_atlas,room5_man_1_en_png,room5_man_1_en_skel,room5_man_2_en_atlas,room5_man_2_en_png,room5_man_2_en_skel,room5_woman_1_atlas,room5_woman_1_png,room5_woman_1_skel,room5_woman_2_atlas,room5_woman_2_png,room5_woman_2_skel",
+			"name": "story4"
+		},
+		{
+			"keys": "room6_chuanghu_2_atlas,room6_chuanghu_2_png,room6_chuanghu_2_skel,room6_chuanghu_2_loop2_atlas,room6_chuanghu_2_loop2_png,room6_chuanghu_2_loop2_skel,room6_chuanghu_3_atlas,room6_chuanghu_3_png,room6_chuanghu_3_skel,room6_chuanghu_3_loop2_atlas,room6_chuanghu_3_loop2_png,room6_chuanghu_3_loop2_skel,room6_chuanghu_4_atlas,room6_chuanghu_4_png,room6_chuanghu_4_skel,room6_guizi_2_loop2_atlas,room6_guizi_2_loop2_png,room6_guizi_2_loop2_skel,room6_guizi_3_loop2_atlas,room6_guizi_3_loop2_png,room6_guizi_3_loop2_skel,room6_guizi_4_loop2_atlas,room6_guizi_4_loop2_png,room6_guizi_4_loop2_skel,room6_guizi_5_loop2_atlas,room6_guizi_5_loop2_png,room6_guizi_5_loop2_skel,room6_huazhuangjing_2_loop2_atlas,room6_huazhuangjing_2_loop2_png,room6_huazhuangjing_2_loop2_skel,room6_huazhuangjing_3_loop2_atlas,room6_huazhuangjing_3_loop2_png,room6_huazhuangjing_3_loop2_skel,room6_huazhuangjing_4_loop2_atlas,room6_huazhuangjing_4_loop2_png,room6_huazhuangjing_4_loop2_skel,room6_nvhai_1_atlas,room6_nvhai_1_png,room6_nvhai_1_skel,room6_nvhai_2_atlas,room6_nvhai_2_png,room6_nvhai_2_skel,room6_nvhai_3_atlas,room6_nvhai_3_png,room6_nvhai_3_skel,room6_nvhai_4_atlas,room6_nvhai_4_png,room6_nvhai_4_skel,room6_nvhai_5_atlas,room6_nvhai_5_png,room6_nvhai_5_skel,room6_yijia_1_loop2_atlas,room6_yijia_1_loop2_png,room6_yijia_1_loop2_skel,room6_yijia_2_loop2_atlas,room6_yijia_2_loop2_png,room6_yijia_2_loop2_skel",
+			"name": "story5"
+		},
+		{
+			"keys": "bg_4_jpg,picross0_json,npc_renwu1_atlas,npc_renwu1_png,npc_renwu1_skel,npc_renwu2_atlas,npc_renwu2_png,npc_renwu2_skel,npc_renwu3_atlas,npc_renwu3_png,npc_renwu3_skel,npc_renwu4_atlas,npc_renwu4_png,npc_renwu4_skel,npc_renwu5_atlas,npc_renwu5_png,npc_renwu5_skel,npc_renwu6_atlas,npc_renwu6_png,npc_renwu6_skel,npc_renwu7_atlas,npc_renwu7_png,npc_renwu7_skel,npc_renwu8_atlas,npc_renwu8_png,npc_renwu8_skel,npc_renwu9_atlas,npc_renwu9_png,npc_renwu9_skel,npc_renwu10_atlas,npc_renwu10_png,npc_renwu10_skel,npc_renwu11_atlas,npc_renwu11_png,npc_renwu11_skel,npc_renwu100_dn_atlas,npc_renwu100_dn_png,npc_renwu100_dn_skel,npc_renwu100_atlas,npc_renwu100_png,npc_renwu100_skel,npc_renwu101_dn_atlas,npc_renwu101_dn_png,npc_renwu101_dn_skel,npc_renwu101_atlas,npc_renwu101_png,npc_renwu101_skel,npc_renwu200_atlas,npc_renwu200_png,npc_renwu200_skel,bg_1_jpg,book_bg_png,img_g_png,picrosscomplete_mp3,toggle0_mp3,toggle1_mp3",
+			"name": "picross"
+		},
+		{
+			"keys": "add_mp3,bg_mp3,bg0_mp3,click_mp3,flash_mp3,get_tili_mp3,lvup_mp3,new_merge1_mp3,new_merge2_mp3,new_merge3_mp3,new_merge4_mp3,new_merge5_mp3,new_merge6_mp3,new_merge7_mp3,new_merge8_mp3,reward_mp3",
+			"name": "sounds"
+		}
+	],
+	"resources": [
+		{
+			"url": "bg/bg0_0.jpg",
+			"type": "image",
+			"name": "bg0_0_jpg"
+		},
+		{
+			"url": "bg/bg1_1.jpg",
+			"type": "image",
+			"name": "bg1_1_jpg"
+		},
+		{
+			"url": "bg/bg1_0.jpg",
+			"type": "image",
+			"name": "bg1_0_jpg"
+		},
+		{
+			"url": "bg/bg0_1.jpg",
+			"type": "image",
+			"name": "bg0_1_jpg"
+		},
+		{
+			"url": "bg/bg2_1.jpg",
+			"type": "image",
+			"name": "bg2_1_jpg"
+		},
+		{
+			"url": "bg/bg2_0.jpg",
+			"type": "image",
+			"name": "bg2_0_jpg"
+		},
+		{
+			"url": "bg/bg3_0.jpg",
+			"type": "image",
+			"name": "bg3_0_jpg"
+		},
+		{
+			"url": "bg/bg3_1.jpg",
+			"type": "image",
+			"name": "bg3_1_jpg"
+		},
+		{
+			"url": "bg/bg4_0.jpg",
+			"type": "image",
+			"name": "bg4_0_jpg"
+		},
+		{
+			"url": "bg/bg4_1.jpg",
+			"type": "image",
+			"name": "bg4_1_jpg"
+		},
+		{
+			"url": "bg/bg5_0.jpg",
+			"type": "image",
+			"name": "bg5_0_jpg"
+		},
+		{
+			"url": "bg/bg5_1.jpg",
+			"type": "image",
+			"name": "bg5_1_jpg"
+		},
+		{
+			"url": "spineff/tx_quanpingxingxing.atlas",
+			"type": "text",
+			"name": "tx_quanpingxingxing_atlas"
+		},
+		{
+			"url": "spineff/tx_quanpingxingxing.png",
+			"type": "image",
+			"name": "tx_quanpingxingxing_png"
+		},
+		{
+			"url": "spineff/tx_quanpingxingxing.skel",
+			"type": "bin",
+			"name": "tx_quanpingxingxing_skel"
+		},
+		{
+			"url": "spineff/efx_completechapter.png",
+			"type": "image",
+			"name": "efx_completechapter_png"
+		},
+		{
+			"url": "spineff/efx_completechapter.atlas",
+			"type": "text",
+			"name": "efx_completechapter_atlas"
+		},
+		{
+			"url": "spineff/efx_completechapter.skel",
+			"type": "bin",
+			"name": "efx_completechapter_skel"
+		},
+		{
+			"url": "assets/game0.json",
+			"type": "sheet",
+			"name": "game0_json",
+			"subkeys": "bg_star,btn_back,btn_restart,btn_story_1,btn_tab,icon_0,icon_1,icon_10,icon_11,icon_12,icon_13,icon_14,icon_15,icon_16,icon_17,icon_18,icon_19,icon_2,icon_20,icon_21,icon_22,icon_23,icon_24,icon_25,icon_26,icon_27,icon_28,icon_29,icon_3,icon_4,icon_5,icon_6,icon_7,icon_8,icon_9,icon_build,icon_play,icon_star124,icon_star_s,icon_star_sxx,icon_up_1,img_bar,img_bar1,img_bar1_bg,img_bar_bg,img_box_bg,img_btn,img_close,img_ct_bg,img_done,img_g_big,img_item_bg,img_item_bg2,img_item_title,img_lock,img_mask,img_star,img_starbg,img_tab,img_title,img_y_big,next_bg,txt_title"
+		},
+		{
+			"url": "assets/game2_1.json",
+			"type": "sheet",
+			"name": "game2_1_json",
+			"subkeys": "chapter13_1,chapter14_1,chapter15_1,chapter16_1,chapter17_1,chapter18_1,chapter19_1,chapter20_1,chapter21_1,chapter22_1,chapter23_1,chapter24_1,chapter25_1,chapter26_1,chapter27_1,chapter28_1,chapter29_1,chapter30_1"
+		},
+		{
+			"url": "assets/game2_0.json",
+			"type": "sheet",
+			"name": "game2_0_json",
+			"subkeys": "chapter10_1,chapter11_1,chapter12_1,chapter1_1,chapter1_2,chapter2_1,chapter2_2,chapter3_1,chapter3_2,chapter4_1,chapter4_2,chapter5_1,chapter5_2,chapter6_1,chapter6_2,chapter7_1,chapter8_1,chapter9_1"
+		},
+		{
+			"url": "bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "npc_head/button_character_01.atlas",
+			"type": "text",
+			"name": "button_character_01_atlas"
+		},
+		{
+			"url": "npc_head/button_character_01.png",
+			"type": "image",
+			"name": "button_character_01_png"
+		},
+		{
+			"url": "npc_head/button_character_01.skel",
+			"type": "bin",
+			"name": "button_character_01_skel"
+		},
+		{
+			"url": "npc_head/button_character_02.atlas",
+			"type": "text",
+			"name": "button_character_02_atlas"
+		},
+		{
+			"url": "npc_head/button_character_02.png",
+			"type": "image",
+			"name": "button_character_02_png"
+		},
+		{
+			"url": "npc_head/button_character_02.skel",
+			"type": "bin",
+			"name": "button_character_02_skel"
+		},
+		{
+			"url": "npc_head/button_character_03.atlas",
+			"type": "text",
+			"name": "button_character_03_atlas"
+		},
+		{
+			"url": "npc_head/button_character_03.png",
+			"type": "image",
+			"name": "button_character_03_png"
+		},
+		{
+			"url": "npc_head/button_character_03.skel",
+			"type": "bin",
+			"name": "button_character_03_skel"
+		},
+		{
+			"url": "npc_head/button_character_04.atlas",
+			"type": "text",
+			"name": "button_character_04_atlas"
+		},
+		{
+			"url": "npc_head/button_character_04.png",
+			"type": "image",
+			"name": "button_character_04_png"
+		},
+		{
+			"url": "npc_head/button_character_04.skel",
+			"type": "bin",
+			"name": "button_character_04_skel"
+		},
+		{
+			"url": "npc_head/button_character_05.atlas",
+			"type": "text",
+			"name": "button_character_05_atlas"
+		},
+		{
+			"url": "npc_head/button_character_05.png",
+			"type": "image",
+			"name": "button_character_05_png"
+		},
+		{
+			"url": "npc_head/button_character_05.skel",
+			"type": "bin",
+			"name": "button_character_05_skel"
+		},
+		{
+			"url": "npc_head/button_character_06.png",
+			"type": "image",
+			"name": "button_character_06_png"
+		},
+		{
+			"url": "npc_head/button_character_06.atlas",
+			"type": "text",
+			"name": "button_character_06_atlas"
+		},
+		{
+			"url": "npc_head/button_character_06.skel",
+			"type": "bin",
+			"name": "button_character_06_skel"
+		},
+		{
+			"url": "npc_head/button_character_07.atlas",
+			"type": "text",
+			"name": "button_character_07_atlas"
+		},
+		{
+			"url": "npc_head/button_character_07.png",
+			"type": "image",
+			"name": "button_character_07_png"
+		},
+		{
+			"url": "npc_head/button_character_07.skel",
+			"type": "bin",
+			"name": "button_character_07_skel"
+		},
+		{
+			"url": "npc_head/button_character_08.atlas",
+			"type": "text",
+			"name": "button_character_08_atlas"
+		},
+		{
+			"url": "npc_head/button_character_08.png",
+			"type": "image",
+			"name": "button_character_08_png"
+		},
+		{
+			"url": "npc_head/button_character_08.skel",
+			"type": "bin",
+			"name": "button_character_08_skel"
+		},
+		{
+			"url": "npc_head/button_character_09.atlas",
+			"type": "text",
+			"name": "button_character_09_atlas"
+		},
+		{
+			"url": "npc_head/button_character_09.png",
+			"type": "image",
+			"name": "button_character_09_png"
+		},
+		{
+			"url": "npc_head/button_character_09.skel",
+			"type": "bin",
+			"name": "button_character_09_skel"
+		},
+		{
+			"url": "npc_head/button_character_10.atlas",
+			"type": "text",
+			"name": "button_character_10_atlas"
+		},
+		{
+			"url": "npc_head/button_character_10.png",
+			"type": "image",
+			"name": "button_character_10_png"
+		},
+		{
+			"url": "npc_head/button_character_10.skel",
+			"type": "bin",
+			"name": "button_character_10_skel"
+		},
+		{
+			"url": "npc_head/button_character_11.atlas",
+			"type": "text",
+			"name": "button_character_11_atlas"
+		},
+		{
+			"url": "npc_head/button_character_11.png",
+			"type": "image",
+			"name": "button_character_11_png"
+		},
+		{
+			"url": "npc_head/button_character_11.skel",
+			"type": "bin",
+			"name": "button_character_11_skel"
+		},
+		{
+			"url": "npc_head/button_character_12.atlas",
+			"type": "text",
+			"name": "button_character_12_atlas"
+		},
+		{
+			"url": "npc_head/button_character_12.png",
+			"type": "image",
+			"name": "button_character_12_png"
+		},
+		{
+			"url": "npc_head/button_character_12.skel",
+			"type": "bin",
+			"name": "button_character_12_skel"
+		},
+		{
+			"url": "npc_head/button_character_13.atlas",
+			"type": "text",
+			"name": "button_character_13_atlas"
+		},
+		{
+			"url": "npc_head/button_character_13.png",
+			"type": "image",
+			"name": "button_character_13_png"
+		},
+		{
+			"url": "npc_head/button_character_13.skel",
+			"type": "bin",
+			"name": "button_character_13_skel"
+		},
+		{
+			"url": "npc_head/button_character_14.atlas",
+			"type": "text",
+			"name": "button_character_14_atlas"
+		},
+		{
+			"url": "npc_head/button_character_14.png",
+			"type": "image",
+			"name": "button_character_14_png"
+		},
+		{
+			"url": "npc_head/button_character_14.skel",
+			"type": "bin",
+			"name": "button_character_14_skel"
+		},
+		{
+			"url": "npc_head/button_character_15.atlas",
+			"type": "text",
+			"name": "button_character_15_atlas"
+		},
+		{
+			"url": "npc_head/button_character_15.png",
+			"type": "image",
+			"name": "button_character_15_png"
+		},
+		{
+			"url": "npc_head/button_character_15.skel",
+			"type": "bin",
+			"name": "button_character_15_skel"
+		},
+		{
+			"url": "npc_head/button_character_16.atlas",
+			"type": "text",
+			"name": "button_character_16_atlas"
+		},
+		{
+			"url": "npc_head/button_character_16.png",
+			"type": "image",
+			"name": "button_character_16_png"
+		},
+		{
+			"url": "npc_head/button_character_16.skel",
+			"type": "bin",
+			"name": "button_character_16_skel"
+		},
+		{
+			"url": "npc_head/button_character_17.atlas",
+			"type": "text",
+			"name": "button_character_17_atlas"
+		},
+		{
+			"url": "npc_head/button_character_17.png",
+			"type": "image",
+			"name": "button_character_17_png"
+		},
+		{
+			"url": "npc_head/button_character_17.skel",
+			"type": "bin",
+			"name": "button_character_17_skel"
+		},
+		{
+			"url": "npc_head/button_character_18.atlas",
+			"type": "text",
+			"name": "button_character_18_atlas"
+		},
+		{
+			"url": "npc_head/button_character_18.png",
+			"type": "image",
+			"name": "button_character_18_png"
+		},
+		{
+			"url": "npc_head/button_character_18.skel",
+			"type": "bin",
+			"name": "button_character_18_skel"
+		},
+		{
+			"url": "npc_head/button_character_19.atlas",
+			"type": "text",
+			"name": "button_character_19_atlas"
+		},
+		{
+			"url": "npc_head/button_character_19.png",
+			"type": "image",
+			"name": "button_character_19_png"
+		},
+		{
+			"url": "npc_head/button_character_19.skel",
+			"type": "bin",
+			"name": "button_character_19_skel"
+		},
+		{
+			"url": "npc_head/button_character_20.atlas",
+			"type": "text",
+			"name": "button_character_20_atlas"
+		},
+		{
+			"url": "npc_head/button_character_20.png",
+			"type": "image",
+			"name": "button_character_20_png"
+		},
+		{
+			"url": "npc_head/button_character_20.skel",
+			"type": "bin",
+			"name": "button_character_20_skel"
+		},
+		{
+			"url": "npc_head/button_character_21.atlas",
+			"type": "text",
+			"name": "button_character_21_atlas"
+		},
+		{
+			"url": "npc_head/button_character_21.png",
+			"type": "image",
+			"name": "button_character_21_png"
+		},
+		{
+			"url": "npc_head/button_character_21.skel",
+			"type": "bin",
+			"name": "button_character_21_skel"
+		},
+		{
+			"url": "npc_head/button_character_22.atlas",
+			"type": "text",
+			"name": "button_character_22_atlas"
+		},
+		{
+			"url": "npc_head/button_character_22.png",
+			"type": "image",
+			"name": "button_character_22_png"
+		},
+		{
+			"url": "npc_head/button_character_22.skel",
+			"type": "bin",
+			"name": "button_character_22_skel"
+		},
+		{
+			"url": "npc_head/button_character_23.atlas",
+			"type": "text",
+			"name": "button_character_23_atlas"
+		},
+		{
+			"url": "npc_head/button_character_23.png",
+			"type": "image",
+			"name": "button_character_23_png"
+		},
+		{
+			"url": "npc_head/button_character_23.skel",
+			"type": "bin",
+			"name": "button_character_23_skel"
+		},
+		{
+			"url": "npc_head/button_character_24.atlas",
+			"type": "text",
+			"name": "button_character_24_atlas"
+		},
+		{
+			"url": "npc_head/button_character_24.png",
+			"type": "image",
+			"name": "button_character_24_png"
+		},
+		{
+			"url": "npc_head/button_character_24.skel",
+			"type": "bin",
+			"name": "button_character_24_skel"
+		},
+		{
+			"url": "spineff/efx_build_glow.atlas",
+			"type": "text",
+			"name": "efx_build_glow_atlas"
+		},
+		{
+			"url": "spineff/efx_build_glow.png",
+			"type": "image",
+			"name": "efx_build_glow_png"
+		},
+		{
+			"url": "spineff/efx_build_glow.skel",
+			"type": "bin",
+			"name": "efx_build_glow_skel"
+		},
+		{
+			"url": "spineff/tx_xingxingtuowei.atlas",
+			"type": "text",
+			"name": "tx_xingxingtuowei_atlas"
+		},
+		{
+			"url": "spineff/tx_xingxingtuowei.png",
+			"type": "image",
+			"name": "tx_xingxingtuowei_png"
+		},
+		{
+			"url": "spineff/tx_xingxingtuowei.skel",
+			"type": "bin",
+			"name": "tx_xingxingtuowei_skel"
+		},
+		{
+			"url": "spineff/tx_xingxingtuowei2.atlas",
+			"type": "text",
+			"name": "tx_xingxingtuowei2_atlas"
+		},
+		{
+			"url": "spineff/tx_xingxingtuowei2.png",
+			"type": "image",
+			"name": "tx_xingxingtuowei2_png"
+		},
+		{
+			"url": "spineff/tx_xingxingtuowei2.skel",
+			"type": "bin",
+			"name": "tx_xingxingtuowei2_skel"
+		},
+		{
+			"url": "assets/game3.json",
+			"type": "sheet",
+			"name": "game3_json",
+			"subkeys": "storyicon_1,storyicon_2,storyicon_3,storyicon_4,storyicon_5,storyicon_6,storyicon_7"
+		},
+		{
+			"url": "spineff/tx_daojushengji.atlas",
+			"type": "text",
+			"name": "tx_daojushengji_atlas"
+		},
+		{
+			"url": "spineff/tx_daojushengji.png",
+			"type": "image",
+			"name": "tx_daojushengji_png"
+		},
+		{
+			"url": "spineff/tx_daojushengji.skel",
+			"type": "bin",
+			"name": "tx_daojushengji_skel"
+		},
+		{
+			"url": "spineff/efx_composed.atlas",
+			"type": "text",
+			"name": "efx_composed_atlas"
+		},
+		{
+			"url": "spineff/efx_composed.png",
+			"type": "image",
+			"name": "efx_composed_png"
+		},
+		{
+			"url": "spineff/efx_composed.skel",
+			"type": "bin",
+			"name": "efx_composed_skel"
+		},
+		{
+			"url": "spineff/efx_production.atlas",
+			"type": "text",
+			"name": "efx_production_atlas"
+		},
+		{
+			"url": "spineff/efx_production.png",
+			"type": "image",
+			"name": "efx_production_png"
+		},
+		{
+			"url": "spineff/efx_production.skel",
+			"type": "bin",
+			"name": "efx_production_skel"
+		},
+		{
+			"url": "spineff/tx_hechengwancheng.atlas",
+			"type": "text",
+			"name": "tx_hechengwancheng_atlas"
+		},
+		{
+			"url": "spineff/tx_hechengwancheng.png",
+			"type": "image",
+			"name": "tx_hechengwancheng_png"
+		},
+		{
+			"url": "spineff/tx_hechengwancheng.skel",
+			"type": "bin",
+			"name": "tx_hechengwancheng_skel"
+		},
+		{
+			"url": "npc_head/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"url": "story0/room1_chuang_2.atlas",
+			"type": "text",
+			"name": "room1_chuang_2_atlas"
+		},
+		{
+			"url": "story0/room1_chuang_2.png",
+			"type": "image",
+			"name": "room1_chuang_2_png"
+		},
+		{
+			"url": "story0/room1_chuang_2.skel",
+			"type": "bin",
+			"name": "room1_chuang_2_skel"
+		},
+		{
+			"url": "story0/room1_chuang_3.atlas",
+			"type": "text",
+			"name": "room1_chuang_3_atlas"
+		},
+		{
+			"url": "story0/room1_chuang_3.png",
+			"type": "image",
+			"name": "room1_chuang_3_png"
+		},
+		{
+			"url": "story0/room1_chuang_3.skel",
+			"type": "bin",
+			"name": "room1_chuang_3_skel"
+		},
+		{
+			"url": "story0/room1_chuang_4.atlas",
+			"type": "text",
+			"name": "room1_chuang_4_atlas"
+		},
+		{
+			"url": "story0/room1_chuang_4.png",
+			"type": "image",
+			"name": "room1_chuang_4_png"
+		},
+		{
+			"url": "story0/room1_chuang_4.skel",
+			"type": "bin",
+			"name": "room1_chuang_4_skel"
+		},
+		{
+			"url": "story0/room1_chuang_5.atlas",
+			"type": "text",
+			"name": "room1_chuang_5_atlas"
+		},
+		{
+			"url": "story0/room1_chuang_5.png",
+			"type": "image",
+			"name": "room1_chuang_5_png"
+		},
+		{
+			"url": "story0/room1_chuang_5.skel",
+			"type": "bin",
+			"name": "room1_chuang_5_skel"
+		},
+		{
+			"url": "story0/room1_chuanghu_1.atlas",
+			"type": "text",
+			"name": "room1_chuanghu_1_atlas"
+		},
+		{
+			"url": "story0/room1_chuanghu_1.png",
+			"type": "image",
+			"name": "room1_chuanghu_1_png"
+		},
+		{
+			"url": "story0/room1_chuanghu_1.skel",
+			"type": "bin",
+			"name": "room1_chuanghu_1_skel"
+		},
+		{
+			"url": "story0/room1_chuanghu_1_2.atlas",
+			"type": "text",
+			"name": "room1_chuanghu_1_2_atlas"
+		},
+		{
+			"url": "story0/room1_chuanghu_1_2.png",
+			"type": "image",
+			"name": "room1_chuanghu_1_2_png"
+		},
+		{
+			"url": "story0/room1_chuanghu_1_2.skel",
+			"type": "bin",
+			"name": "room1_chuanghu_1_2_skel"
+		},
+		{
+			"url": "story0/room1_chuanghu_1_th.atlas",
+			"type": "text",
+			"name": "room1_chuanghu_1_th_atlas"
+		},
+		{
+			"url": "story0/room1_chuanghu_1_th.png",
+			"type": "image",
+			"name": "room1_chuanghu_1_th_png"
+		},
+		{
+			"url": "story0/room1_chuanghu_1_th.skel",
+			"type": "bin",
+			"name": "room1_chuanghu_1_th_skel"
+		},
+		{
+			"url": "story0/room1_chuanghu_2.atlas",
+			"type": "text",
+			"name": "room1_chuanghu_2_atlas"
+		},
+		{
+			"url": "story0/room1_chuanghu_2.png",
+			"type": "image",
+			"name": "room1_chuanghu_2_png"
+		},
+		{
+			"url": "story0/room1_chuanghu_2.skel",
+			"type": "bin",
+			"name": "room1_chuanghu_2_skel"
+		},
+		{
+			"url": "story0/room1_chuanghu_2_2.atlas",
+			"type": "text",
+			"name": "room1_chuanghu_2_2_atlas"
+		},
+		{
+			"url": "story0/room1_chuanghu_2_2.png",
+			"type": "image",
+			"name": "room1_chuanghu_2_2_png"
+		},
+		{
+			"url": "story0/room1_chuanghu_2_2.skel",
+			"type": "bin",
+			"name": "room1_chuanghu_2_2_skel"
+		},
+		{
+			"url": "story0/room1_chuanghu_3.atlas",
+			"type": "text",
+			"name": "room1_chuanghu_3_atlas"
+		},
+		{
+			"url": "story0/room1_chuanghu_3.png",
+			"type": "image",
+			"name": "room1_chuanghu_3_png"
+		},
+		{
+			"url": "story0/room1_chuanghu_3.skel",
+			"type": "bin",
+			"name": "room1_chuanghu_3_skel"
+		},
+		{
+			"url": "story0/room1_chuanghu_4.atlas",
+			"type": "text",
+			"name": "room1_chuanghu_4_atlas"
+		},
+		{
+			"url": "story0/room1_chuanghu_4.png",
+			"type": "image",
+			"name": "room1_chuanghu_4_png"
+		},
+		{
+			"url": "story0/room1_chuanghu_4.skel",
+			"type": "bin",
+			"name": "room1_chuanghu_4_skel"
+		},
+		{
+			"url": "story0/room1_dengzi_2.atlas",
+			"type": "text",
+			"name": "room1_dengzi_2_atlas"
+		},
+		{
+			"url": "story0/room1_dengzi_2.png",
+			"type": "image",
+			"name": "room1_dengzi_2_png"
+		},
+		{
+			"url": "story0/room1_dengzi_2.skel",
+			"type": "bin",
+			"name": "room1_dengzi_2_skel"
+		},
+		{
+			"url": "story0/room1_dengzi_3.atlas",
+			"type": "text",
+			"name": "room1_dengzi_3_atlas"
+		},
+		{
+			"url": "story0/room1_dengzi_3.png",
+			"type": "image",
+			"name": "room1_dengzi_3_png"
+		},
+		{
+			"url": "story0/room1_dengzi_3.skel",
+			"type": "bin",
+			"name": "room1_dengzi_3_skel"
+		},
+		{
+			"url": "story0/room1_dengzi_4.atlas",
+			"type": "text",
+			"name": "room1_dengzi_4_atlas"
+		},
+		{
+			"url": "story0/room1_dengzi_4.png",
+			"type": "image",
+			"name": "room1_dengzi_4_png"
+		},
+		{
+			"url": "story0/room1_dengzi_4.skel",
+			"type": "bin",
+			"name": "room1_dengzi_4_skel"
+		},
+		{
+			"url": "story0/room1_fengshan_1.atlas",
+			"type": "text",
+			"name": "room1_fengshan_1_atlas"
+		},
+		{
+			"url": "story0/room1_fengshan_1.png",
+			"type": "image",
+			"name": "room1_fengshan_1_png"
+		},
+		{
+			"url": "story0/room1_fengshan_1.skel",
+			"type": "bin",
+			"name": "room1_fengshan_1_skel"
+		},
+		{
+			"url": "story0/room1_fengshan_1_th.atlas",
+			"type": "text",
+			"name": "room1_fengshan_1_th_atlas"
+		},
+		{
+			"url": "story0/room1_fengshan_1_th.png",
+			"type": "image",
+			"name": "room1_fengshan_1_th_png"
+		},
+		{
+			"url": "story0/room1_fengshan_1_th.skel",
+			"type": "bin",
+			"name": "room1_fengshan_1_th_skel"
+		},
+		{
+			"url": "story0/room1_fengshan_2.atlas",
+			"type": "text",
+			"name": "room1_fengshan_2_atlas"
+		},
+		{
+			"url": "story0/room1_fengshan_2.png",
+			"type": "image",
+			"name": "room1_fengshan_2_png"
+		},
+		{
+			"url": "story0/room1_fengshan_2.skel",
+			"type": "bin",
+			"name": "room1_fengshan_2_skel"
+		},
+		{
+			"url": "story0/room1_fengshan_3.atlas",
+			"type": "text",
+			"name": "room1_fengshan_3_atlas"
+		},
+		{
+			"url": "story0/room1_fengshan_3.png",
+			"type": "image",
+			"name": "room1_fengshan_3_png"
+		},
+		{
+			"url": "story0/room1_fengshan_3.skel",
+			"type": "bin",
+			"name": "room1_fengshan_3_skel"
+		},
+		{
+			"url": "story0/room1_fengshan_4.atlas",
+			"type": "text",
+			"name": "room1_fengshan_4_atlas"
+		},
+		{
+			"url": "story0/room1_fengshan_4.png",
+			"type": "image",
+			"name": "room1_fengshan_4_png"
+		},
+		{
+			"url": "story0/room1_fengshan_4.skel",
+			"type": "bin",
+			"name": "room1_fengshan_4_skel"
+		},
+		{
+			"url": "story0/room1_liangren_1.atlas",
+			"type": "text",
+			"name": "room1_liangren_1_atlas"
+		},
+		{
+			"url": "story0/room1_liangren_1.png",
+			"type": "image",
+			"name": "room1_liangren_1_png"
+		},
+		{
+			"url": "story0/room1_liangren_1.skel",
+			"type": "bin",
+			"name": "room1_liangren_1_skel"
+		},
+		{
+			"url": "story0/room1_liangren_1_2.atlas",
+			"type": "text",
+			"name": "room1_liangren_1_2_atlas"
+		},
+		{
+			"url": "story0/room1_liangren_1_2.png",
+			"type": "image",
+			"name": "room1_liangren_1_2_png"
+		},
+		{
+			"url": "story0/room1_liangren_1_2.skel",
+			"type": "bin",
+			"name": "room1_liangren_1_2_skel"
+		},
+		{
+			"url": "story0/room1_liangren_1_th.atlas",
+			"type": "text",
+			"name": "room1_liangren_1_th_atlas"
+		},
+		{
+			"url": "story0/room1_liangren_1_th.png",
+			"type": "image",
+			"name": "room1_liangren_1_th_png"
+		},
+		{
+			"url": "story0/room1_liangren_1_th.skel",
+			"type": "bin",
+			"name": "room1_liangren_1_th_skel"
+		},
+		{
+			"url": "story0/room1_liangren_2.atlas",
+			"type": "text",
+			"name": "room1_liangren_2_atlas"
+		},
+		{
+			"url": "story0/room1_liangren_2.png",
+			"type": "image",
+			"name": "room1_liangren_2_png"
+		},
+		{
+			"url": "story0/room1_liangren_2.skel",
+			"type": "bin",
+			"name": "room1_liangren_2_skel"
+		},
+		{
+			"url": "story0/room1_liangren_2_2.atlas",
+			"type": "text",
+			"name": "room1_liangren_2_2_atlas"
+		},
+		{
+			"url": "story0/room1_liangren_2_2.png",
+			"type": "image",
+			"name": "room1_liangren_2_2_png"
+		},
+		{
+			"url": "story0/room1_liangren_2_2.skel",
+			"type": "bin",
+			"name": "room1_liangren_2_2_skel"
+		},
+		{
+			"url": "story0/story0_1.json",
+			"type": "sheet",
+			"name": "story0_1_json",
+			"subkeys": "room0_3_0,room0_3_1,room0_3_2,room0_3_3"
+		},
+		{
+			"url": "story0/story0_0.json",
+			"type": "sheet",
+			"name": "story0_0_json",
+			"subkeys": "room0_0_0,room0_0_1,room0_0_2,room0_0_3,room0_0_4,room0_0_5,room0_2_1,room0_2_2,room0_2_3,room0_2_4"
+		},
+		{
+			"url": "story1/room2_chuang_2.atlas",
+			"type": "text",
+			"name": "room2_chuang_2_atlas"
+		},
+		{
+			"url": "story1/room2_chuang_2.png",
+			"type": "image",
+			"name": "room2_chuang_2_png"
+		},
+		{
+			"url": "story1/room2_chuang_2.skel",
+			"type": "bin",
+			"name": "room2_chuang_2_skel"
+		},
+		{
+			"url": "story1/room2_chuang_3.atlas",
+			"type": "text",
+			"name": "room2_chuang_3_atlas"
+		},
+		{
+			"url": "story1/room2_chuang_3.png",
+			"type": "image",
+			"name": "room2_chuang_3_png"
+		},
+		{
+			"url": "story1/room2_chuang_3.skel",
+			"type": "bin",
+			"name": "room2_chuang_3_skel"
+		},
+		{
+			"url": "story1/room2_chuang_4.atlas",
+			"type": "text",
+			"name": "room2_chuang_4_atlas"
+		},
+		{
+			"url": "story1/room2_chuang_4.png",
+			"type": "image",
+			"name": "room2_chuang_4_png"
+		},
+		{
+			"url": "story1/room2_chuang_4.skel",
+			"type": "bin",
+			"name": "room2_chuang_4_skel"
+		},
+		{
+			"url": "story1/room2_chuang_5.atlas",
+			"type": "text",
+			"name": "room2_chuang_5_atlas"
+		},
+		{
+			"url": "story1/room2_chuang_5.png",
+			"type": "image",
+			"name": "room2_chuang_5_png"
+		},
+		{
+			"url": "story1/room2_chuang_5.skel",
+			"type": "bin",
+			"name": "room2_chuang_5_skel"
+		},
+		{
+			"url": "story1/room2_guajian_1.atlas",
+			"type": "text",
+			"name": "room2_guajian_1_atlas"
+		},
+		{
+			"url": "story1/room2_guajian_1.png",
+			"type": "image",
+			"name": "room2_guajian_1_png"
+		},
+		{
+			"url": "story1/room2_guajian_1.skel",
+			"type": "bin",
+			"name": "room2_guajian_1_skel"
+		},
+		{
+			"url": "story1/room2_guajian_2.atlas",
+			"type": "text",
+			"name": "room2_guajian_2_atlas"
+		},
+		{
+			"url": "story1/room2_guajian_2.png",
+			"type": "image",
+			"name": "room2_guajian_2_png"
+		},
+		{
+			"url": "story1/room2_guajian_2.skel",
+			"type": "bin",
+			"name": "room2_guajian_2_skel"
+		},
+		{
+			"url": "story1/room2_guajian_3.atlas",
+			"type": "text",
+			"name": "room2_guajian_3_atlas"
+		},
+		{
+			"url": "story1/room2_guajian_3.png",
+			"type": "image",
+			"name": "room2_guajian_3_png"
+		},
+		{
+			"url": "story1/room2_guajian_3.skel",
+			"type": "bin",
+			"name": "room2_guajian_3_skel"
+		},
+		{
+			"url": "story1/room2_guajian_4.atlas",
+			"type": "text",
+			"name": "room2_guajian_4_atlas"
+		},
+		{
+			"url": "story1/room2_guajian_4.png",
+			"type": "image",
+			"name": "room2_guajian_4_png"
+		},
+		{
+			"url": "story1/room2_guajian_4.skel",
+			"type": "bin",
+			"name": "room2_guajian_4_skel"
+		},
+		{
+			"url": "story1/room2_man_1_en.atlas",
+			"type": "text",
+			"name": "room2_man_1_en_atlas"
+		},
+		{
+			"url": "story1/room2_man_1_en.png",
+			"type": "image",
+			"name": "room2_man_1_en_png"
+		},
+		{
+			"url": "story1/room2_man_1_en.skel",
+			"type": "bin",
+			"name": "room2_man_1_en_skel"
+		},
+		{
+			"url": "story1/room2_man_2_en.atlas",
+			"type": "text",
+			"name": "room2_man_2_en_atlas"
+		},
+		{
+			"url": "story1/room2_man_2_en.png",
+			"type": "image",
+			"name": "room2_man_2_en_png"
+		},
+		{
+			"url": "story1/room2_man_2_en.skel",
+			"type": "bin",
+			"name": "room2_man_2_en_skel"
+		},
+		{
+			"url": "story1/room2_tizi_2.atlas",
+			"type": "text",
+			"name": "room2_tizi_2_atlas"
+		},
+		{
+			"url": "story1/room2_tizi_2.png",
+			"type": "image",
+			"name": "room2_tizi_2_png"
+		},
+		{
+			"url": "story1/room2_tizi_2.skel",
+			"type": "bin",
+			"name": "room2_tizi_2_skel"
+		},
+		{
+			"url": "story1/room2_tizi_3.atlas",
+			"type": "text",
+			"name": "room2_tizi_3_atlas"
+		},
+		{
+			"url": "story1/room2_tizi_3.png",
+			"type": "image",
+			"name": "room2_tizi_3_png"
+		},
+		{
+			"url": "story1/room2_tizi_3.skel",
+			"type": "bin",
+			"name": "room2_tizi_3_skel"
+		},
+		{
+			"url": "story1/room2_tizi_4.atlas",
+			"type": "text",
+			"name": "room2_tizi_4_atlas"
+		},
+		{
+			"url": "story1/room2_tizi_4.png",
+			"type": "image",
+			"name": "room2_tizi_4_png"
+		},
+		{
+			"url": "story1/room2_tizi_4.skel",
+			"type": "bin",
+			"name": "room2_tizi_4_skel"
+		},
+		{
+			"url": "story1/room2_woman_1.atlas",
+			"type": "text",
+			"name": "room2_woman_1_atlas"
+		},
+		{
+			"url": "story1/room2_woman_1.png",
+			"type": "image",
+			"name": "room2_woman_1_png"
+		},
+		{
+			"url": "story1/room2_woman_1.skel",
+			"type": "bin",
+			"name": "room2_woman_1_skel"
+		},
+		{
+			"url": "story1/room2_woman_2.atlas",
+			"type": "text",
+			"name": "room2_woman_2_atlas"
+		},
+		{
+			"url": "story1/room2_woman_2.png",
+			"type": "image",
+			"name": "room2_woman_2_png"
+		},
+		{
+			"url": "story1/room2_woman_2.skel",
+			"type": "bin",
+			"name": "room2_woman_2_skel"
+		},
+		{
+			"url": "story1/room2_zawu_2.atlas",
+			"type": "text",
+			"name": "room2_zawu_2_atlas"
+		},
+		{
+			"url": "story1/room2_zawu_2.png",
+			"type": "image",
+			"name": "room2_zawu_2_png"
+		},
+		{
+			"url": "story1/room2_zawu_2.skel",
+			"type": "bin",
+			"name": "room2_zawu_2_skel"
+		},
+		{
+			"url": "story1/room2_zawu_3.atlas",
+			"type": "text",
+			"name": "room2_zawu_3_atlas"
+		},
+		{
+			"url": "story1/room2_zawu_3.png",
+			"type": "image",
+			"name": "room2_zawu_3_png"
+		},
+		{
+			"url": "story1/room2_zawu_3.skel",
+			"type": "bin",
+			"name": "room2_zawu_3_skel"
+		},
+		{
+			"url": "story1/room2_zawu_4.atlas",
+			"type": "text",
+			"name": "room2_zawu_4_atlas"
+		},
+		{
+			"url": "story1/room2_zawu_4.png",
+			"type": "image",
+			"name": "room2_zawu_4_png"
+		},
+		{
+			"url": "story1/room2_zawu_4.skel",
+			"type": "bin",
+			"name": "room2_zawu_4_skel"
+		},
+		{
+			"url": "story1/story1_0.json",
+			"type": "sheet",
+			"name": "story1_0_json",
+			"subkeys": "room1_0_0,room1_0_1,room1_0_2,room1_0_3,room1_0_4,room1_2_0,room1_2_1,room1_2_2,room1_2_3"
+		},
+		{
+			"url": "story1/story1_1.json",
+			"type": "sheet",
+			"name": "story1_1_json",
+			"subkeys": "room1_3_0,room1_3_1,room1_3_2,room1_3_3,room1_4_0,room1_4_1,room1_4_2,room1_4_3"
+		},
+		{
+			"url": "story2/room3_bilu_2.atlas",
+			"type": "text",
+			"name": "room3_bilu_2_atlas"
+		},
+		{
+			"url": "story2/room3_bilu_2.png",
+			"type": "image",
+			"name": "room3_bilu_2_png"
+		},
+		{
+			"url": "story2/room3_bilu_2.skel",
+			"type": "bin",
+			"name": "room3_bilu_2_skel"
+		},
+		{
+			"url": "story2/room3_bilu_3.atlas",
+			"type": "text",
+			"name": "room3_bilu_3_atlas"
+		},
+		{
+			"url": "story2/room3_bilu_3.png",
+			"type": "image",
+			"name": "room3_bilu_3_png"
+		},
+		{
+			"url": "story2/room3_bilu_3.skel",
+			"type": "bin",
+			"name": "room3_bilu_3_skel"
+		},
+		{
+			"url": "story2/room3_bilu_4.atlas",
+			"type": "text",
+			"name": "room3_bilu_4_atlas"
+		},
+		{
+			"url": "story2/room3_bilu_4.png",
+			"type": "image",
+			"name": "room3_bilu_4_png"
+		},
+		{
+			"url": "story2/room3_bilu_4.skel",
+			"type": "bin",
+			"name": "room3_bilu_4_skel"
+		},
+		{
+			"url": "story2/room3_chaji_2.atlas",
+			"type": "text",
+			"name": "room3_chaji_2_atlas"
+		},
+		{
+			"url": "story2/room3_chaji_2.png",
+			"type": "image",
+			"name": "room3_chaji_2_png"
+		},
+		{
+			"url": "story2/room3_chaji_2.skel",
+			"type": "bin",
+			"name": "room3_chaji_2_skel"
+		},
+		{
+			"url": "story2/room3_chaji_3.atlas",
+			"type": "text",
+			"name": "room3_chaji_3_atlas"
+		},
+		{
+			"url": "story2/room3_chaji_3.png",
+			"type": "image",
+			"name": "room3_chaji_3_png"
+		},
+		{
+			"url": "story2/room3_chaji_3.skel",
+			"type": "bin",
+			"name": "room3_chaji_3_skel"
+		},
+		{
+			"url": "story2/room3_chaji_4.atlas",
+			"type": "text",
+			"name": "room3_chaji_4_atlas"
+		},
+		{
+			"url": "story2/room3_chaji_4.png",
+			"type": "image",
+			"name": "room3_chaji_4_png"
+		},
+		{
+			"url": "story2/room3_chaji_4.skel",
+			"type": "bin",
+			"name": "room3_chaji_4_skel"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_1.atlas",
+			"type": "text",
+			"name": "room3_shafachuanghu_1_atlas"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_1.png",
+			"type": "image",
+			"name": "room3_shafachuanghu_1_png"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_1.skel",
+			"type": "bin",
+			"name": "room3_shafachuanghu_1_skel"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_1_2.atlas",
+			"type": "text",
+			"name": "room3_shafachuanghu_1_2_atlas"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_1_2.png",
+			"type": "image",
+			"name": "room3_shafachuanghu_1_2_png"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_1_2.skel",
+			"type": "bin",
+			"name": "room3_shafachuanghu_1_2_skel"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_2.atlas",
+			"type": "text",
+			"name": "room3_shafachuanghu_2_atlas"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_2.png",
+			"type": "image",
+			"name": "room3_shafachuanghu_2_png"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_2.skel",
+			"type": "bin",
+			"name": "room3_shafachuanghu_2_skel"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_2_2.atlas",
+			"type": "text",
+			"name": "room3_shafachuanghu_2_2_atlas"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_2_2.png",
+			"type": "image",
+			"name": "room3_shafachuanghu_2_2_png"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_2_2.skel",
+			"type": "bin",
+			"name": "room3_shafachuanghu_2_2_skel"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_3.atlas",
+			"type": "text",
+			"name": "room3_shafachuanghu_3_atlas"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_3.png",
+			"type": "image",
+			"name": "room3_shafachuanghu_3_png"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_3.skel",
+			"type": "bin",
+			"name": "room3_shafachuanghu_3_skel"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_4.atlas",
+			"type": "text",
+			"name": "room3_shafachuanghu_4_atlas"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_4.png",
+			"type": "image",
+			"name": "room3_shafachuanghu_4_png"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_4.skel",
+			"type": "bin",
+			"name": "room3_shafachuanghu_4_skel"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_5.atlas",
+			"type": "text",
+			"name": "room3_shafachuanghu_5_atlas"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_5.png",
+			"type": "image",
+			"name": "room3_shafachuanghu_5_png"
+		},
+		{
+			"url": "story2/room3_shafachuanghu_5.skel",
+			"type": "bin",
+			"name": "room3_shafachuanghu_5_skel"
+		},
+		{
+			"url": "story2/room3_woman_1.atlas",
+			"type": "text",
+			"name": "room3_woman_1_atlas"
+		},
+		{
+			"url": "story2/room3_woman_1.png",
+			"type": "image",
+			"name": "room3_woman_1_png"
+		},
+		{
+			"url": "story2/room3_woman_1.skel",
+			"type": "bin",
+			"name": "room3_woman_1_skel"
+		},
+		{
+			"url": "story2/room3_woman_2.atlas",
+			"type": "text",
+			"name": "room3_woman_2_atlas"
+		},
+		{
+			"url": "story2/room3_woman_2.png",
+			"type": "image",
+			"name": "room3_woman_2_png"
+		},
+		{
+			"url": "story2/room3_woman_2.skel",
+			"type": "bin",
+			"name": "room3_woman_2_skel"
+		},
+		{
+			"url": "story2/room3_zawuzhuozi_2.atlas",
+			"type": "text",
+			"name": "room3_zawuzhuozi_2_atlas"
+		},
+		{
+			"url": "story2/room3_zawuzhuozi_2.png",
+			"type": "image",
+			"name": "room3_zawuzhuozi_2_png"
+		},
+		{
+			"url": "story2/room3_zawuzhuozi_2.skel",
+			"type": "bin",
+			"name": "room3_zawuzhuozi_2_skel"
+		},
+		{
+			"url": "story2/room3_zawuzhuozi_3.atlas",
+			"type": "text",
+			"name": "room3_zawuzhuozi_3_atlas"
+		},
+		{
+			"url": "story2/room3_zawuzhuozi_3.png",
+			"type": "image",
+			"name": "room3_zawuzhuozi_3_png"
+		},
+		{
+			"url": "story2/room3_zawuzhuozi_3.skel",
+			"type": "bin",
+			"name": "room3_zawuzhuozi_3_skel"
+		},
+		{
+			"url": "story2/room3_zawuzhuozi_4.atlas",
+			"type": "text",
+			"name": "room3_zawuzhuozi_4_atlas"
+		},
+		{
+			"url": "story2/room3_zawuzhuozi_4.png",
+			"type": "image",
+			"name": "room3_zawuzhuozi_4_png"
+		},
+		{
+			"url": "story2/room3_zawuzhuozi_4.skel",
+			"type": "bin",
+			"name": "room3_zawuzhuozi_4_skel"
+		},
+		{
+			"url": "story2/story2_1.json",
+			"type": "sheet",
+			"name": "story2_1_json",
+			"subkeys": "room2_4_0,room2_4_1,room2_4_2,room2_4_3"
+		},
+		{
+			"url": "story2/story2_0.json",
+			"type": "sheet",
+			"name": "story2_0_json",
+			"subkeys": "room2_0_0,room2_1_0,room2_1_1,room2_1_2,room2_1_3,room2_1_4,room2_2_0,room2_2_1,room2_2_2,room2_2_3"
+		},
+		{
+			"url": "story3/room4_TX_xuehua.atlas",
+			"type": "text",
+			"name": "room4_TX_xuehua_atlas"
+		},
+		{
+			"url": "story3/room4_TX_xuehua.png",
+			"type": "image",
+			"name": "room4_TX_xuehua_png"
+		},
+		{
+			"url": "story3/room4_TX_xuehua.skel",
+			"type": "bin",
+			"name": "room4_TX_xuehua_skel"
+		},
+		{
+			"url": "story3/room4_chuanghu_2.atlas",
+			"type": "text",
+			"name": "room4_chuanghu_2_atlas"
+		},
+		{
+			"url": "story3/room4_chuanghu_2.png",
+			"type": "image",
+			"name": "room4_chuanghu_2_png"
+		},
+		{
+			"url": "story3/room4_chuanghu_2.skel",
+			"type": "bin",
+			"name": "room4_chuanghu_2_skel"
+		},
+		{
+			"url": "story3/room4_chuanghu_3.atlas",
+			"type": "text",
+			"name": "room4_chuanghu_3_atlas"
+		},
+		{
+			"url": "story3/room4_chuanghu_3.png",
+			"type": "image",
+			"name": "room4_chuanghu_3_png"
+		},
+		{
+			"url": "story3/room4_chuanghu_3.skel",
+			"type": "bin",
+			"name": "room4_chuanghu_3_skel"
+		},
+		{
+			"url": "story3/room4_chuanghu_4.atlas",
+			"type": "text",
+			"name": "room4_chuanghu_4_atlas"
+		},
+		{
+			"url": "story3/room4_chuanghu_4.png",
+			"type": "image",
+			"name": "room4_chuanghu_4_png"
+		},
+		{
+			"url": "story3/room4_chuanghu_4.skel",
+			"type": "bin",
+			"name": "room4_chuanghu_4_skel"
+		},
+		{
+			"url": "story3/room4_chuanghu_5.atlas",
+			"type": "text",
+			"name": "room4_chuanghu_5_atlas"
+		},
+		{
+			"url": "story3/room4_chuanghu_5.png",
+			"type": "image",
+			"name": "room4_chuanghu_5_png"
+		},
+		{
+			"url": "story3/room4_chuanghu_5.skel",
+			"type": "bin",
+			"name": "room4_chuanghu_5_skel"
+		},
+		{
+			"url": "story3/room4_deng_1.atlas",
+			"type": "text",
+			"name": "room4_deng_1_atlas"
+		},
+		{
+			"url": "story3/room4_deng_1.png",
+			"type": "image",
+			"name": "room4_deng_1_png"
+		},
+		{
+			"url": "story3/room4_deng_1.skel",
+			"type": "bin",
+			"name": "room4_deng_1_skel"
+		},
+		{
+			"url": "story3/room4_deng_2.atlas",
+			"type": "text",
+			"name": "room4_deng_2_atlas"
+		},
+		{
+			"url": "story3/room4_deng_2.png",
+			"type": "image",
+			"name": "room4_deng_2_png"
+		},
+		{
+			"url": "story3/room4_deng_2.skel",
+			"type": "bin",
+			"name": "room4_deng_2_skel"
+		},
+		{
+			"url": "story3/room4_deng_3.atlas",
+			"type": "text",
+			"name": "room4_deng_3_atlas"
+		},
+		{
+			"url": "story3/room4_deng_3.png",
+			"type": "image",
+			"name": "room4_deng_3_png"
+		},
+		{
+			"url": "story3/room4_deng_3.skel",
+			"type": "bin",
+			"name": "room4_deng_3_skel"
+		},
+		{
+			"url": "story3/room4_deng_4.atlas",
+			"type": "text",
+			"name": "room4_deng_4_atlas"
+		},
+		{
+			"url": "story3/room4_deng_4.png",
+			"type": "image",
+			"name": "room4_deng_4_png"
+		},
+		{
+			"url": "story3/room4_deng_4.skel",
+			"type": "bin",
+			"name": "room4_deng_4_skel"
+		},
+		{
+			"url": "story3/room4_girl_1.atlas",
+			"type": "text",
+			"name": "room4_girl_1_atlas"
+		},
+		{
+			"url": "story3/room4_girl_1.png",
+			"type": "image",
+			"name": "room4_girl_1_png"
+		},
+		{
+			"url": "story3/room4_girl_1.skel",
+			"type": "bin",
+			"name": "room4_girl_1_skel"
+		},
+		{
+			"url": "story3/room4_girl_1_2.atlas",
+			"type": "text",
+			"name": "room4_girl_1_2_atlas"
+		},
+		{
+			"url": "story3/room4_girl_1_2.png",
+			"type": "image",
+			"name": "room4_girl_1_2_png"
+		},
+		{
+			"url": "story3/room4_girl_1_2.skel",
+			"type": "bin",
+			"name": "room4_girl_1_2_skel"
+		},
+		{
+			"url": "story3/room4_huodui_2.atlas",
+			"type": "text",
+			"name": "room4_huodui_2_atlas"
+		},
+		{
+			"url": "story3/room4_huodui_2.png",
+			"type": "image",
+			"name": "room4_huodui_2_png"
+		},
+		{
+			"url": "story3/room4_huodui_2.skel",
+			"type": "bin",
+			"name": "room4_huodui_2_skel"
+		},
+		{
+			"url": "story3/room4_huodui_3.atlas",
+			"type": "text",
+			"name": "room4_huodui_3_atlas"
+		},
+		{
+			"url": "story3/room4_huodui_3.png",
+			"type": "image",
+			"name": "room4_huodui_3_png"
+		},
+		{
+			"url": "story3/room4_huodui_3.skel",
+			"type": "bin",
+			"name": "room4_huodui_3_skel"
+		},
+		{
+			"url": "story3/room4_huodui_4.atlas",
+			"type": "text",
+			"name": "room4_huodui_4_atlas"
+		},
+		{
+			"url": "story3/room4_huodui_4.png",
+			"type": "image",
+			"name": "room4_huodui_4_png"
+		},
+		{
+			"url": "story3/room4_huodui_4.skel",
+			"type": "bin",
+			"name": "room4_huodui_4_skel"
+		},
+		{
+			"url": "story3/room4_huodui_5.atlas",
+			"type": "text",
+			"name": "room4_huodui_5_atlas"
+		},
+		{
+			"url": "story3/room4_huodui_5.png",
+			"type": "image",
+			"name": "room4_huodui_5_png"
+		},
+		{
+			"url": "story3/room4_huodui_5.skel",
+			"type": "bin",
+			"name": "room4_huodui_5_skel"
+		},
+		{
+			"url": "story3/room4_lajitong_2.atlas",
+			"type": "text",
+			"name": "room4_lajitong_2_atlas"
+		},
+		{
+			"url": "story3/room4_lajitong_2.png",
+			"type": "image",
+			"name": "room4_lajitong_2_png"
+		},
+		{
+			"url": "story3/room4_lajitong_2.skel",
+			"type": "bin",
+			"name": "room4_lajitong_2_skel"
+		},
+		{
+			"url": "story3/room4_lajitong_3.atlas",
+			"type": "text",
+			"name": "room4_lajitong_3_atlas"
+		},
+		{
+			"url": "story3/room4_lajitong_3.png",
+			"type": "image",
+			"name": "room4_lajitong_3_png"
+		},
+		{
+			"url": "story3/room4_lajitong_3.skel",
+			"type": "bin",
+			"name": "room4_lajitong_3_skel"
+		},
+		{
+			"url": "story3/room4_lajitong_4.atlas",
+			"type": "text",
+			"name": "room4_lajitong_4_atlas"
+		},
+		{
+			"url": "story3/room4_lajitong_4.png",
+			"type": "image",
+			"name": "room4_lajitong_4_png"
+		},
+		{
+			"url": "story3/room4_lajitong_4.skel",
+			"type": "bin",
+			"name": "room4_lajitong_4_skel"
+		},
+		{
+			"url": "story3/room4_lajitong_5.atlas",
+			"type": "text",
+			"name": "room4_lajitong_5_atlas"
+		},
+		{
+			"url": "story3/room4_lajitong_5.png",
+			"type": "image",
+			"name": "room4_lajitong_5_png"
+		},
+		{
+			"url": "story3/room4_lajitong_5.skel",
+			"type": "bin",
+			"name": "room4_lajitong_5_skel"
+		},
+		{
+			"url": "story3/room4_liangren_2.atlas",
+			"type": "text",
+			"name": "room4_liangren_2_atlas"
+		},
+		{
+			"url": "story3/room4_liangren_2.png",
+			"type": "image",
+			"name": "room4_liangren_2_png"
+		},
+		{
+			"url": "story3/room4_liangren_2.skel",
+			"type": "bin",
+			"name": "room4_liangren_2_skel"
+		},
+		{
+			"url": "story3/room4_liangren_2_2.atlas",
+			"type": "text",
+			"name": "room4_liangren_2_2_atlas"
+		},
+		{
+			"url": "story3/room4_liangren_2_2.png",
+			"type": "image",
+			"name": "room4_liangren_2_2_png"
+		},
+		{
+			"url": "story3/room4_liangren_2_2.skel",
+			"type": "bin",
+			"name": "room4_liangren_2_2_skel"
+		},
+		{
+			"url": "story3/room4_liangren_3.atlas",
+			"type": "text",
+			"name": "room4_liangren_3_atlas"
+		},
+		{
+			"url": "story3/room4_liangren_3.png",
+			"type": "image",
+			"name": "room4_liangren_3_png"
+		},
+		{
+			"url": "story3/room4_liangren_3.skel",
+			"type": "bin",
+			"name": "room4_liangren_3_skel"
+		},
+		{
+			"url": "story3/room4_liangren_3_2.atlas",
+			"type": "text",
+			"name": "room4_liangren_3_2_atlas"
+		},
+		{
+			"url": "story3/room4_liangren_3_2.png",
+			"type": "image",
+			"name": "room4_liangren_3_2_png"
+		},
+		{
+			"url": "story3/room4_liangren_3_2.skel",
+			"type": "bin",
+			"name": "room4_liangren_3_2_skel"
+		},
+		{
+			"url": "story3/room4_liangren_4.atlas",
+			"type": "text",
+			"name": "room4_liangren_4_atlas"
+		},
+		{
+			"url": "story3/room4_liangren_4.png",
+			"type": "image",
+			"name": "room4_liangren_4_png"
+		},
+		{
+			"url": "story3/room4_liangren_4.skel",
+			"type": "bin",
+			"name": "room4_liangren_4_skel"
+		},
+		{
+			"url": "story3/room4_liangren_4_2.atlas",
+			"type": "text",
+			"name": "room4_liangren_4_2_atlas"
+		},
+		{
+			"url": "story3/room4_liangren_4_2.png",
+			"type": "image",
+			"name": "room4_liangren_4_2_png"
+		},
+		{
+			"url": "story3/room4_liangren_4_2.skel",
+			"type": "bin",
+			"name": "room4_liangren_4_2_skel"
+		},
+		{
+			"url": "story4/room5_chuang_2.atlas",
+			"type": "text",
+			"name": "room5_chuang_2_atlas"
+		},
+		{
+			"url": "story4/room5_chuang_2.png",
+			"type": "image",
+			"name": "room5_chuang_2_png"
+		},
+		{
+			"url": "story4/room5_chuang_2.skel",
+			"type": "bin",
+			"name": "room5_chuang_2_skel"
+		},
+		{
+			"url": "story4/room5_chuang_3.atlas",
+			"type": "text",
+			"name": "room5_chuang_3_atlas"
+		},
+		{
+			"url": "story4/room5_chuang_3.png",
+			"type": "image",
+			"name": "room5_chuang_3_png"
+		},
+		{
+			"url": "story4/room5_chuang_3.skel",
+			"type": "bin",
+			"name": "room5_chuang_3_skel"
+		},
+		{
+			"url": "story4/room5_chuang_4.atlas",
+			"type": "text",
+			"name": "room5_chuang_4_atlas"
+		},
+		{
+			"url": "story4/room5_chuang_4.png",
+			"type": "image",
+			"name": "room5_chuang_4_png"
+		},
+		{
+			"url": "story4/room5_chuang_4.skel",
+			"type": "bin",
+			"name": "room5_chuang_4_skel"
+		},
+		{
+			"url": "story4/room5_chuang_5.atlas",
+			"type": "text",
+			"name": "room5_chuang_5_atlas"
+		},
+		{
+			"url": "story4/room5_chuang_5.png",
+			"type": "image",
+			"name": "room5_chuang_5_png"
+		},
+		{
+			"url": "story4/room5_chuang_5.skel",
+			"type": "bin",
+			"name": "room5_chuang_5_skel"
+		},
+		{
+			"url": "story4/room5_chuanghu_1.atlas",
+			"type": "text",
+			"name": "room5_chuanghu_1_atlas"
+		},
+		{
+			"url": "story4/room5_chuanghu_1.png",
+			"type": "image",
+			"name": "room5_chuanghu_1_png"
+		},
+		{
+			"url": "story4/room5_chuanghu_1.skel",
+			"type": "bin",
+			"name": "room5_chuanghu_1_skel"
+		},
+		{
+			"url": "story4/room5_chuanghu_2.atlas",
+			"type": "text",
+			"name": "room5_chuanghu_2_atlas"
+		},
+		{
+			"url": "story4/room5_chuanghu_2.png",
+			"type": "image",
+			"name": "room5_chuanghu_2_png"
+		},
+		{
+			"url": "story4/room5_chuanghu_2.skel",
+			"type": "bin",
+			"name": "room5_chuanghu_2_skel"
+		},
+		{
+			"url": "story4/room5_chuanghu_3.atlas",
+			"type": "text",
+			"name": "room5_chuanghu_3_atlas"
+		},
+		{
+			"url": "story4/room5_chuanghu_3.png",
+			"type": "image",
+			"name": "room5_chuanghu_3_png"
+		},
+		{
+			"url": "story4/room5_chuanghu_3.skel",
+			"type": "bin",
+			"name": "room5_chuanghu_3_skel"
+		},
+		{
+			"url": "story4/room5_chuanghu_4.atlas",
+			"type": "text",
+			"name": "room5_chuanghu_4_atlas"
+		},
+		{
+			"url": "story4/room5_chuanghu_4.png",
+			"type": "image",
+			"name": "room5_chuanghu_4_png"
+		},
+		{
+			"url": "story4/room5_chuanghu_4.skel",
+			"type": "bin",
+			"name": "room5_chuanghu_4_skel"
+		},
+		{
+			"url": "story4/room5_dengzi_2.atlas",
+			"type": "text",
+			"name": "room5_dengzi_2_atlas"
+		},
+		{
+			"url": "story4/room5_dengzi_2.png",
+			"type": "image",
+			"name": "room5_dengzi_2_png"
+		},
+		{
+			"url": "story4/room5_dengzi_2.skel",
+			"type": "bin",
+			"name": "room5_dengzi_2_skel"
+		},
+		{
+			"url": "story4/room5_dengzi_3.atlas",
+			"type": "text",
+			"name": "room5_dengzi_3_atlas"
+		},
+		{
+			"url": "story4/room5_dengzi_3.png",
+			"type": "image",
+			"name": "room5_dengzi_3_png"
+		},
+		{
+			"url": "story4/room5_dengzi_3.skel",
+			"type": "bin",
+			"name": "room5_dengzi_3_skel"
+		},
+		{
+			"url": "story4/room5_dengzi_4.atlas",
+			"type": "text",
+			"name": "room5_dengzi_4_atlas"
+		},
+		{
+			"url": "story4/room5_dengzi_4.png",
+			"type": "image",
+			"name": "room5_dengzi_4_png"
+		},
+		{
+			"url": "story4/room5_dengzi_4.skel",
+			"type": "bin",
+			"name": "room5_dengzi_4_skel"
+		},
+		{
+			"url": "story4/room5_diaodeng_1.atlas",
+			"type": "text",
+			"name": "room5_diaodeng_1_atlas"
+		},
+		{
+			"url": "story4/room5_diaodeng_1.png",
+			"type": "image",
+			"name": "room5_diaodeng_1_png"
+		},
+		{
+			"url": "story4/room5_diaodeng_1.skel",
+			"type": "bin",
+			"name": "room5_diaodeng_1_skel"
+		},
+		{
+			"url": "story4/room5_diaodeng_2.atlas",
+			"type": "text",
+			"name": "room5_diaodeng_2_atlas"
+		},
+		{
+			"url": "story4/room5_diaodeng_2.png",
+			"type": "image",
+			"name": "room5_diaodeng_2_png"
+		},
+		{
+			"url": "story4/room5_diaodeng_2.skel",
+			"type": "bin",
+			"name": "room5_diaodeng_2_skel"
+		},
+		{
+			"url": "story4/room5_diaodeng_3.atlas",
+			"type": "text",
+			"name": "room5_diaodeng_3_atlas"
+		},
+		{
+			"url": "story4/room5_diaodeng_3.png",
+			"type": "image",
+			"name": "room5_diaodeng_3_png"
+		},
+		{
+			"url": "story4/room5_diaodeng_3.skel",
+			"type": "bin",
+			"name": "room5_diaodeng_3_skel"
+		},
+		{
+			"url": "story4/room5_diaodeng_4.atlas",
+			"type": "text",
+			"name": "room5_diaodeng_4_atlas"
+		},
+		{
+			"url": "story4/room5_diaodeng_4.png",
+			"type": "image",
+			"name": "room5_diaodeng_4_png"
+		},
+		{
+			"url": "story4/room5_diaodeng_4.skel",
+			"type": "bin",
+			"name": "room5_diaodeng_4_skel"
+		},
+		{
+			"url": "story4/room5_man_1_en.atlas",
+			"type": "text",
+			"name": "room5_man_1_en_atlas"
+		},
+		{
+			"url": "story4/room5_man_1_en.png",
+			"type": "image",
+			"name": "room5_man_1_en_png"
+		},
+		{
+			"url": "story4/room5_man_1_en.skel",
+			"type": "bin",
+			"name": "room5_man_1_en_skel"
+		},
+		{
+			"url": "story4/room5_man_2_en.atlas",
+			"type": "text",
+			"name": "room5_man_2_en_atlas"
+		},
+		{
+			"url": "story4/room5_man_2_en.png",
+			"type": "image",
+			"name": "room5_man_2_en_png"
+		},
+		{
+			"url": "story4/room5_man_2_en.skel",
+			"type": "bin",
+			"name": "room5_man_2_en_skel"
+		},
+		{
+			"url": "story4/room5_woman_1.atlas",
+			"type": "text",
+			"name": "room5_woman_1_atlas"
+		},
+		{
+			"url": "story4/room5_woman_1.png",
+			"type": "image",
+			"name": "room5_woman_1_png"
+		},
+		{
+			"url": "story4/room5_woman_1.skel",
+			"type": "bin",
+			"name": "room5_woman_1_skel"
+		},
+		{
+			"url": "story4/room5_woman_2.atlas",
+			"type": "text",
+			"name": "room5_woman_2_atlas"
+		},
+		{
+			"url": "story4/room5_woman_2.png",
+			"type": "image",
+			"name": "room5_woman_2_png"
+		},
+		{
+			"url": "story4/room5_woman_2.skel",
+			"type": "bin",
+			"name": "room5_woman_2_skel"
+		},
+		{
+			"url": "story5/room6_chuanghu_2.atlas",
+			"type": "text",
+			"name": "room6_chuanghu_2_atlas"
+		},
+		{
+			"url": "story5/room6_chuanghu_2.png",
+			"type": "image",
+			"name": "room6_chuanghu_2_png"
+		},
+		{
+			"url": "story5/room6_chuanghu_2.skel",
+			"type": "bin",
+			"name": "room6_chuanghu_2_skel"
+		},
+		{
+			"url": "story5/room6_chuanghu_2_loop2.atlas",
+			"type": "text",
+			"name": "room6_chuanghu_2_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_chuanghu_2_loop2.png",
+			"type": "image",
+			"name": "room6_chuanghu_2_loop2_png"
+		},
+		{
+			"url": "story5/room6_chuanghu_2_loop2.skel",
+			"type": "bin",
+			"name": "room6_chuanghu_2_loop2_skel"
+		},
+		{
+			"url": "story5/room6_chuanghu_3.atlas",
+			"type": "text",
+			"name": "room6_chuanghu_3_atlas"
+		},
+		{
+			"url": "story5/room6_chuanghu_3.png",
+			"type": "image",
+			"name": "room6_chuanghu_3_png"
+		},
+		{
+			"url": "story5/room6_chuanghu_3.skel",
+			"type": "bin",
+			"name": "room6_chuanghu_3_skel"
+		},
+		{
+			"url": "story5/room6_chuanghu_3_loop2.atlas",
+			"type": "text",
+			"name": "room6_chuanghu_3_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_chuanghu_3_loop2.png",
+			"type": "image",
+			"name": "room6_chuanghu_3_loop2_png"
+		},
+		{
+			"url": "story5/room6_chuanghu_3_loop2.skel",
+			"type": "bin",
+			"name": "room6_chuanghu_3_loop2_skel"
+		},
+		{
+			"url": "story5/room6_chuanghu_4.atlas",
+			"type": "text",
+			"name": "room6_chuanghu_4_atlas"
+		},
+		{
+			"url": "story5/room6_chuanghu_4.png",
+			"type": "image",
+			"name": "room6_chuanghu_4_png"
+		},
+		{
+			"url": "story5/room6_chuanghu_4.skel",
+			"type": "bin",
+			"name": "room6_chuanghu_4_skel"
+		},
+		{
+			"url": "story5/room6_guizi_2_loop2.atlas",
+			"type": "text",
+			"name": "room6_guizi_2_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_guizi_2_loop2.png",
+			"type": "image",
+			"name": "room6_guizi_2_loop2_png"
+		},
+		{
+			"url": "story5/room6_guizi_2_loop2.skel",
+			"type": "bin",
+			"name": "room6_guizi_2_loop2_skel"
+		},
+		{
+			"url": "story5/room6_guizi_3_loop2.atlas",
+			"type": "text",
+			"name": "room6_guizi_3_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_guizi_3_loop2.png",
+			"type": "image",
+			"name": "room6_guizi_3_loop2_png"
+		},
+		{
+			"url": "story5/room6_guizi_3_loop2.skel",
+			"type": "bin",
+			"name": "room6_guizi_3_loop2_skel"
+		},
+		{
+			"url": "story5/room6_guizi_4_loop2.atlas",
+			"type": "text",
+			"name": "room6_guizi_4_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_guizi_4_loop2.png",
+			"type": "image",
+			"name": "room6_guizi_4_loop2_png"
+		},
+		{
+			"url": "story5/room6_guizi_4_loop2.skel",
+			"type": "bin",
+			"name": "room6_guizi_4_loop2_skel"
+		},
+		{
+			"url": "story5/room6_guizi_5_loop2.atlas",
+			"type": "text",
+			"name": "room6_guizi_5_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_guizi_5_loop2.png",
+			"type": "image",
+			"name": "room6_guizi_5_loop2_png"
+		},
+		{
+			"url": "story5/room6_guizi_5_loop2.skel",
+			"type": "bin",
+			"name": "room6_guizi_5_loop2_skel"
+		},
+		{
+			"url": "story5/room6_huazhuangjing_2_loop2.atlas",
+			"type": "text",
+			"name": "room6_huazhuangjing_2_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_huazhuangjing_2_loop2.png",
+			"type": "image",
+			"name": "room6_huazhuangjing_2_loop2_png"
+		},
+		{
+			"url": "story5/room6_huazhuangjing_2_loop2.skel",
+			"type": "bin",
+			"name": "room6_huazhuangjing_2_loop2_skel"
+		},
+		{
+			"url": "story5/room6_huazhuangjing_3_loop2.atlas",
+			"type": "text",
+			"name": "room6_huazhuangjing_3_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_huazhuangjing_3_loop2.png",
+			"type": "image",
+			"name": "room6_huazhuangjing_3_loop2_png"
+		},
+		{
+			"url": "story5/room6_huazhuangjing_3_loop2.skel",
+			"type": "bin",
+			"name": "room6_huazhuangjing_3_loop2_skel"
+		},
+		{
+			"url": "story5/room6_huazhuangjing_4_loop2.atlas",
+			"type": "text",
+			"name": "room6_huazhuangjing_4_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_huazhuangjing_4_loop2.png",
+			"type": "image",
+			"name": "room6_huazhuangjing_4_loop2_png"
+		},
+		{
+			"url": "story5/room6_huazhuangjing_4_loop2.skel",
+			"type": "bin",
+			"name": "room6_huazhuangjing_4_loop2_skel"
+		},
+		{
+			"url": "story5/room6_nvhai_1.atlas",
+			"type": "text",
+			"name": "room6_nvhai_1_atlas"
+		},
+		{
+			"url": "story5/room6_nvhai_1.png",
+			"type": "image",
+			"name": "room6_nvhai_1_png"
+		},
+		{
+			"url": "story5/room6_nvhai_1.skel",
+			"type": "bin",
+			"name": "room6_nvhai_1_skel"
+		},
+		{
+			"url": "story5/room6_nvhai_2.atlas",
+			"type": "text",
+			"name": "room6_nvhai_2_atlas"
+		},
+		{
+			"url": "story5/room6_nvhai_2.png",
+			"type": "image",
+			"name": "room6_nvhai_2_png"
+		},
+		{
+			"url": "story5/room6_nvhai_2.skel",
+			"type": "bin",
+			"name": "room6_nvhai_2_skel"
+		},
+		{
+			"url": "story5/room6_nvhai_3.atlas",
+			"type": "text",
+			"name": "room6_nvhai_3_atlas"
+		},
+		{
+			"url": "story5/room6_nvhai_3.png",
+			"type": "image",
+			"name": "room6_nvhai_3_png"
+		},
+		{
+			"url": "story5/room6_nvhai_3.skel",
+			"type": "bin",
+			"name": "room6_nvhai_3_skel"
+		},
+		{
+			"url": "story5/room6_nvhai_4.atlas",
+			"type": "text",
+			"name": "room6_nvhai_4_atlas"
+		},
+		{
+			"url": "story5/room6_nvhai_4.png",
+			"type": "image",
+			"name": "room6_nvhai_4_png"
+		},
+		{
+			"url": "story5/room6_nvhai_4.skel",
+			"type": "bin",
+			"name": "room6_nvhai_4_skel"
+		},
+		{
+			"url": "story5/room6_nvhai_5.atlas",
+			"type": "text",
+			"name": "room6_nvhai_5_atlas"
+		},
+		{
+			"url": "story5/room6_nvhai_5.png",
+			"type": "image",
+			"name": "room6_nvhai_5_png"
+		},
+		{
+			"url": "story5/room6_nvhai_5.skel",
+			"type": "bin",
+			"name": "room6_nvhai_5_skel"
+		},
+		{
+			"url": "story5/room6_yijia_1_loop2.atlas",
+			"type": "text",
+			"name": "room6_yijia_1_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_yijia_1_loop2.png",
+			"type": "image",
+			"name": "room6_yijia_1_loop2_png"
+		},
+		{
+			"url": "story5/room6_yijia_1_loop2.skel",
+			"type": "bin",
+			"name": "room6_yijia_1_loop2_skel"
+		},
+		{
+			"url": "story5/room6_yijia_2_loop2.atlas",
+			"type": "text",
+			"name": "room6_yijia_2_loop2_atlas"
+		},
+		{
+			"url": "story5/room6_yijia_2_loop2.png",
+			"type": "image",
+			"name": "room6_yijia_2_loop2_png"
+		},
+		{
+			"url": "story5/room6_yijia_2_loop2.skel",
+			"type": "bin",
+			"name": "room6_yijia_2_loop2_skel"
+		},
+		{
+			"url": "spineff/efx_completechapter_glow.atlas",
+			"type": "text",
+			"name": "efx_completechapter_glow_atlas"
+		},
+		{
+			"url": "spineff/efx_completechapter_glow.png",
+			"type": "image",
+			"name": "efx_completechapter_glow_png"
+		},
+		{
+			"url": "spineff/efx_completechapter_glow.skel",
+			"type": "bin",
+			"name": "efx_completechapter_glow_skel"
+		},
+		{
+			"url": "picross/bg_4.jpg",
+			"type": "image",
+			"name": "bg_4_jpg"
+		},
+		{
+			"url": "picross/picross0.json",
+			"type": "sheet",
+			"name": "picross0_json",
+			"subkeys": "icon_box_1,icon_box_2,icon_box_3,icon_box_4,img_0,img_10,img_101,img_102,img_103,img_104,img_105,img_4,img_7,img_8,img_9,img_info,img_tai,img_time,sc_gb,zjwac_3"
+		},
+		{
+			"url": "npc/npc_renwu1.atlas",
+			"type": "text",
+			"name": "npc_renwu1_atlas"
+		},
+		{
+			"url": "npc/npc_renwu1.png",
+			"type": "image",
+			"name": "npc_renwu1_png"
+		},
+		{
+			"url": "npc/npc_renwu1.skel",
+			"type": "bin",
+			"name": "npc_renwu1_skel"
+		},
+		{
+			"url": "npc/npc_renwu2.atlas",
+			"type": "text",
+			"name": "npc_renwu2_atlas"
+		},
+		{
+			"url": "npc/npc_renwu2.png",
+			"type": "image",
+			"name": "npc_renwu2_png"
+		},
+		{
+			"url": "npc/npc_renwu2.skel",
+			"type": "bin",
+			"name": "npc_renwu2_skel"
+		},
+		{
+			"url": "npc/npc_renwu3.atlas",
+			"type": "text",
+			"name": "npc_renwu3_atlas"
+		},
+		{
+			"url": "npc/npc_renwu3.png",
+			"type": "image",
+			"name": "npc_renwu3_png"
+		},
+		{
+			"url": "npc/npc_renwu3.skel",
+			"type": "bin",
+			"name": "npc_renwu3_skel"
+		},
+		{
+			"url": "npc/npc_renwu4.atlas",
+			"type": "text",
+			"name": "npc_renwu4_atlas"
+		},
+		{
+			"url": "npc/npc_renwu4.png",
+			"type": "image",
+			"name": "npc_renwu4_png"
+		},
+		{
+			"url": "npc/npc_renwu4.skel",
+			"type": "bin",
+			"name": "npc_renwu4_skel"
+		},
+		{
+			"url": "npc/npc_renwu5.atlas",
+			"type": "text",
+			"name": "npc_renwu5_atlas"
+		},
+		{
+			"url": "npc/npc_renwu5.png",
+			"type": "image",
+			"name": "npc_renwu5_png"
+		},
+		{
+			"url": "npc/npc_renwu5.skel",
+			"type": "bin",
+			"name": "npc_renwu5_skel"
+		},
+		{
+			"url": "npc/npc_renwu6.atlas",
+			"type": "text",
+			"name": "npc_renwu6_atlas"
+		},
+		{
+			"url": "npc/npc_renwu6.png",
+			"type": "image",
+			"name": "npc_renwu6_png"
+		},
+		{
+			"url": "npc/npc_renwu6.skel",
+			"type": "bin",
+			"name": "npc_renwu6_skel"
+		},
+		{
+			"url": "npc/npc_renwu7.atlas",
+			"type": "text",
+			"name": "npc_renwu7_atlas"
+		},
+		{
+			"url": "npc/npc_renwu7.png",
+			"type": "image",
+			"name": "npc_renwu7_png"
+		},
+		{
+			"url": "npc/npc_renwu7.skel",
+			"type": "bin",
+			"name": "npc_renwu7_skel"
+		},
+		{
+			"url": "npc/npc_renwu8.atlas",
+			"type": "text",
+			"name": "npc_renwu8_atlas"
+		},
+		{
+			"url": "npc/npc_renwu8.png",
+			"type": "image",
+			"name": "npc_renwu8_png"
+		},
+		{
+			"url": "npc/npc_renwu8.skel",
+			"type": "bin",
+			"name": "npc_renwu8_skel"
+		},
+		{
+			"url": "npc/npc_renwu9.atlas",
+			"type": "text",
+			"name": "npc_renwu9_atlas"
+		},
+		{
+			"url": "npc/npc_renwu9.png",
+			"type": "image",
+			"name": "npc_renwu9_png"
+		},
+		{
+			"url": "npc/npc_renwu9.skel",
+			"type": "bin",
+			"name": "npc_renwu9_skel"
+		},
+		{
+			"url": "npc/npc_renwu10.atlas",
+			"type": "text",
+			"name": "npc_renwu10_atlas"
+		},
+		{
+			"url": "npc/npc_renwu10.png",
+			"type": "image",
+			"name": "npc_renwu10_png"
+		},
+		{
+			"url": "npc/npc_renwu10.skel",
+			"type": "bin",
+			"name": "npc_renwu10_skel"
+		},
+		{
+			"url": "npc/npc_renwu11.atlas",
+			"type": "text",
+			"name": "npc_renwu11_atlas"
+		},
+		{
+			"url": "npc/npc_renwu11.png",
+			"type": "image",
+			"name": "npc_renwu11_png"
+		},
+		{
+			"url": "npc/npc_renwu11.skel",
+			"type": "bin",
+			"name": "npc_renwu11_skel"
+		},
+		{
+			"url": "npc/npc_renwu100_dn.atlas",
+			"type": "text",
+			"name": "npc_renwu100_dn_atlas"
+		},
+		{
+			"url": "npc/npc_renwu100_dn.png",
+			"type": "image",
+			"name": "npc_renwu100_dn_png"
+		},
+		{
+			"url": "npc/npc_renwu100_dn.skel",
+			"type": "bin",
+			"name": "npc_renwu100_dn_skel"
+		},
+		{
+			"url": "npc/npc_renwu100.atlas",
+			"type": "text",
+			"name": "npc_renwu100_atlas"
+		},
+		{
+			"url": "npc/npc_renwu100.png",
+			"type": "image",
+			"name": "npc_renwu100_png"
+		},
+		{
+			"url": "npc/npc_renwu100.skel",
+			"type": "bin",
+			"name": "npc_renwu100_skel"
+		},
+		{
+			"url": "npc/npc_renwu101_dn.atlas",
+			"type": "text",
+			"name": "npc_renwu101_dn_atlas"
+		},
+		{
+			"url": "npc/npc_renwu101_dn.png",
+			"type": "image",
+			"name": "npc_renwu101_dn_png"
+		},
+		{
+			"url": "npc/npc_renwu101_dn.skel",
+			"type": "bin",
+			"name": "npc_renwu101_dn_skel"
+		},
+		{
+			"url": "npc/npc_renwu101.atlas",
+			"type": "text",
+			"name": "npc_renwu101_atlas"
+		},
+		{
+			"url": "npc/npc_renwu101.png",
+			"type": "image",
+			"name": "npc_renwu101_png"
+		},
+		{
+			"url": "npc/npc_renwu101.skel",
+			"type": "bin",
+			"name": "npc_renwu101_skel"
+		},
+		{
+			"url": "npc/npc_renwu200.atlas",
+			"type": "text",
+			"name": "npc_renwu200_atlas"
+		},
+		{
+			"url": "npc/npc_renwu200.png",
+			"type": "image",
+			"name": "npc_renwu200_png"
+		},
+		{
+			"url": "npc/npc_renwu200.skel",
+			"type": "bin",
+			"name": "npc_renwu200_skel"
+		},
+		{
+			"url": "picross/bg_1.jpg",
+			"type": "image",
+			"name": "bg_1_jpg"
+		},
+		{
+			"url": "picross/book_bg.png",
+			"type": "image",
+			"name": "book_bg_png"
+		},
+		{
+			"url": "picross/img_g.png",
+			"type": "image",
+			"name": "img_g_png"
+		},
+		{
+			"url": "sounds/add.mp3",
+			"type": "sound",
+			"name": "add_mp3"
+		},
+		{
+			"url": "sounds/bg.mp3",
+			"type": "sound",
+			"name": "bg_mp3"
+		},
+		{
+			"url": "sounds/bg0.mp3",
+			"type": "sound",
+			"name": "bg0_mp3"
+		},
+		{
+			"url": "sounds/click.mp3",
+			"type": "sound",
+			"name": "click_mp3"
+		},
+		{
+			"url": "sounds/flash.mp3",
+			"type": "sound",
+			"name": "flash_mp3"
+		},
+		{
+			"url": "sounds/get_tili.mp3",
+			"type": "sound",
+			"name": "get_tili_mp3"
+		},
+		{
+			"url": "sounds/lvup.mp3",
+			"type": "sound",
+			"name": "lvup_mp3"
+		},
+		{
+			"url": "sounds/new_merge1.mp3",
+			"type": "sound",
+			"name": "new_merge1_mp3"
+		},
+		{
+			"url": "sounds/new_merge2.mp3",
+			"type": "sound",
+			"name": "new_merge2_mp3"
+		},
+		{
+			"url": "sounds/new_merge3.mp3",
+			"type": "sound",
+			"name": "new_merge3_mp3"
+		},
+		{
+			"url": "sounds/new_merge4.mp3",
+			"type": "sound",
+			"name": "new_merge4_mp3"
+		},
+		{
+			"url": "sounds/new_merge5.mp3",
+			"type": "sound",
+			"name": "new_merge5_mp3"
+		},
+		{
+			"url": "sounds/new_merge6.mp3",
+			"type": "sound",
+			"name": "new_merge6_mp3"
+		},
+		{
+			"url": "sounds/new_merge7.mp3",
+			"type": "sound",
+			"name": "new_merge7_mp3"
+		},
+		{
+			"url": "sounds/new_merge8.mp3",
+			"type": "sound",
+			"name": "new_merge8_mp3"
+		},
+		{
+			"url": "sounds/reward.mp3",
+			"type": "sound",
+			"name": "reward_mp3"
+		},
+		{
+			"url": "sounds/picrosscomplete.mp3",
+			"type": "sound",
+			"name": "picrosscomplete_mp3"
+		},
+		{
+			"url": "sounds/toggle0.mp3",
+			"type": "sound",
+			"name": "toggle0_mp3"
+		},
+		{
+			"url": "sounds/toggle1.mp3",
+			"type": "sound",
+			"name": "toggle1_mp3"
+		}
+	]
+}

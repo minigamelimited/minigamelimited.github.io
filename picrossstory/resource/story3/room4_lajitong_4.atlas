@@ -1,0 +1,34 @@
+
+room4_lajitong_4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laji4ying
+  rotate: true
+  xy: 791, 534
+  size: 359, 162
+  orig: 369, 178
+  offset: 1, 4
+  index: -1
+lajitongs
+  rotate: false
+  xy: 0, 115
+  size: 773, 729
+  orig: 775, 735
+  offset: 1, 1
+  index: -1
+tonggai
+  rotate: false
+  xy: 0, 844
+  size: 791, 128
+  orig: 793, 151
+  offset: 1, 1
+  index: -1
+xiangjiao4
+  rotate: false
+  xy: 791, 893
+  size: 181, 79
+  orig: 235, 80
+  offset: 13, 1
+  index: -1

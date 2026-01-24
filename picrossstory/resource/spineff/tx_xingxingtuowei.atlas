@@ -1,0 +1,111 @@
+
+tx_xingxingtuowei.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gzlz_00000
+  rotate: true
+  xy: 380, 743
+  size: 46, 382
+  orig: 107, 577
+  offset: 33, 92
+  index: -1
+gzlz_00002
+  rotate: true
+  xy: 374, 697
+  size: 46, 383
+  orig: 107, 577
+  offset: 32, 92
+  index: -1
+gzlz_00004
+  rotate: true
+  xy: 0, 698
+  size: 46, 374
+  orig: 107, 577
+  offset: 32, 88
+  index: -1
+gzlz_00006
+  rotate: true
+  xy: 372, 651
+  size: 46, 392
+  orig: 107, 577
+  offset: 32, 89
+  index: -1
+gzlz_00008
+  rotate: true
+  xy: 0, 652
+  size: 46, 372
+  orig: 107, 577
+  offset: 32, 87
+  index: -1
+gzlz_00010
+  rotate: true
+  xy: 0, 558
+  size: 47, 385
+  orig: 107, 577
+  offset: 32, 87
+  index: -1
+gzlz_00012
+  rotate: true
+  xy: 385, 558
+  size: 47, 380
+  orig: 107, 577
+  offset: 32, 86
+  index: -1
+gzlz_00014
+  rotate: true
+  xy: 372, 605
+  size: 46, 394
+  orig: 107, 577
+  offset: 32, 91
+  index: -1
+gzlz_00016
+  rotate: true
+  xy: 0, 744
+  size: 45, 380
+  orig: 107, 577
+  offset: 32, 91
+  index: -1
+gzlz_00018
+  rotate: true
+  xy: 0, 606
+  size: 46, 372
+  orig: 107, 577
+  offset: 32, 90
+  index: -1
+gzlz_00020
+  rotate: true
+  xy: 0, 511
+  size: 47, 392
+  orig: 107, 577
+  offset: 32, 88
+  index: -1
+gzlz_00022
+  rotate: true
+  xy: 392, 511
+  size: 47, 397
+  orig: 107, 577
+  offset: 32, 88
+  index: -1
+gzlz_00024
+  rotate: true
+  xy: 0, 464
+  size: 47, 381
+  orig: 107, 577
+  offset: 32, 87
+  index: -1
+gzlz_00026
+  rotate: true
+  xy: 381, 464
+  size: 47, 391
+  orig: 107, 577
+  offset: 31, 88
+  index: -1
+gzlz_00028
+  rotate: true
+  xy: 0, 417
+  size: 47, 381
+  orig: 107, 577
+  offset: 31, 92
+  index: -1

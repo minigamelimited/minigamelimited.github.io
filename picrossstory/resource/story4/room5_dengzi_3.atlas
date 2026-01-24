@@ -1,0 +1,20 @@
+
+room5_dengzi_3.png
+size: 491,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengzi3
+  rotate: false
+  xy: 0, 148
+  size: 283, 343
+  orig: 285, 345
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 0
+  size: 236, 148
+  orig: 243, 156
+  offset: 3, 5
+  index: -1

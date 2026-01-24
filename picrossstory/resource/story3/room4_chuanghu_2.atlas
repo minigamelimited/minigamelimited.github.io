@@ -1,0 +1,55 @@
+
+room4_chuanghu_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanghu 5
+  rotate: true
+  xy: 443, 457
+  size: 325, 510
+  orig: 327, 512
+  offset: 1, 1
+  index: -1
+chuanglian5z
+  rotate: true
+  xy: 0, 791
+  size: 87, 389
+  orig: 94, 389
+  offset: 0, 0
+  index: -1
+chuanglianyou
+  rotate: true
+  xy: 0, 895
+  size: 58, 125
+  orig: 59, 127
+  offset: 1, 2
+  index: -1
+dingdeng5
+  rotate: false
+  xy: 644, 782
+  size: 232, 171
+  orig: 234, 180
+  offset: 1, 7
+  index: -1
+neichuanghu
+  rotate: true
+  xy: 0, 559
+  size: 232, 443
+  orig: 234, 445
+  offset: 1, 1
+  index: -1
+xue
+  rotate: false
+  xy: 318, 878
+  size: 326, 75
+  orig: 328, 77
+  offset: 1, 1
+  index: -1
+zhuo5
+  rotate: false
+  xy: 125, 893
+  size: 193, 60
+  orig: 195, 63
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,34 @@
+
+button_character_10.png
+size: 117,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 2, 159
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+10_b
+  rotate: true
+  xy: 2, 73
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+10_duqi
+  rotate: false
+  xy: 73, 19
+  size: 32, 52
+  orig: 33, 54
+  offset: 0, 2
+  index: -1
+bg_npc
+  rotate: false
+  xy: 2, 2
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

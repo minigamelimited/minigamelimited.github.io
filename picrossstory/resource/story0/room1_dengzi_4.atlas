@@ -1,0 +1,48 @@
+
+room1_dengzi_4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guolan
+  rotate: true
+  xy: 288, 27
+  size: 211, 179
+  orig: 214, 182
+  offset: 2, 2
+  index: -1
+shu
+  rotate: false
+  xy: 269, 238
+  size: 199, 93
+  orig: 202, 96
+  offset: 1, 2
+  index: -1
+tanzi
+  rotate: false
+  xy: 0, 250
+  size: 269, 81
+  orig: 272, 83
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 467, 0
+  size: 453, 185
+  orig: 469, 203
+  offset: 7, 9
+  index: -1
+zhuojiao
+  rotate: false
+  xy: 0, 77
+  size: 288, 161
+  orig: 290, 163
+  offset: 1, 1
+  index: -1
+zhuomian
+  rotate: false
+  xy: 468, 185
+  size: 427, 146
+  orig: 429, 148
+  offset: 1, 1
+  index: -1

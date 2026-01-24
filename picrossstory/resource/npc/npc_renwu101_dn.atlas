@@ -1,0 +1,48 @@
+
+npc_renwu101_dn.png
+size: 180,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: true
+  xy: 151, 57
+  size: 29, 20
+  orig: 31, 23
+  offset: 1, 2
+  index: -1
+body
+  rotate: true
+  xy: 2, 31
+  size: 106, 147
+  orig: 106, 147
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: true
+  xy: 151, 88
+  size: 49, 27
+  orig: 52, 29
+  offset: 2, 1
+  index: -1
+eye_b
+  rotate: false
+  xy: 126, 2
+  size: 52, 27
+  orig: 55, 29
+  offset: 2, 1
+  index: -1
+eye_c
+  rotate: false
+  xy: 70, 2
+  size: 54, 27
+  orig: 56, 29
+  offset: 1, 1
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 4
+  size: 66, 25
+  orig: 70, 39
+  offset: 3, 6
+  index: -1

@@ -1,0 +1,13 @@
+
+room4_deng_3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng3
+  rotate: true
+  xy: 0, 0
+  size: 181, 332
+  orig: 181, 332
+  offset: 0, 0
+  index: -1

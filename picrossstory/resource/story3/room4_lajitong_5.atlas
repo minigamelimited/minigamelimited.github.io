@@ -1,0 +1,27 @@
+
+room4_lajitong_5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laji5ying
+  rotate: true
+  xy: 746, 336
+  size: 598, 188
+  orig: 619, 203
+  offset: 3, 3
+  index: -1
+ljtonggai
+  rotate: false
+  xy: 0, 756
+  size: 746, 178
+  orig: 748, 180
+  offset: 1, 1
+  index: -1
+ljtongs
+  rotate: false
+  xy: 0, 197
+  size: 722, 559
+  orig: 724, 561
+  offset: 1, 1
+  index: -1

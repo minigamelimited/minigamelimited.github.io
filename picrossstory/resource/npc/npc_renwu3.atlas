@@ -1,0 +1,146 @@
+
+npc_renwu3.png
+size: 251,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa
+  rotate: false
+  xy: 0, 79
+  size: 100, 172
+  orig: 100, 172
+  offset: 0, 0
+  index: -1
+jiemao_y
+  rotate: false
+  xy: 210, 139
+  size: 21, 11
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+jiemao_z
+  rotate: true
+  xy: 100, 79
+  size: 20, 10
+  orig: 59, 14
+  offset: 0, 4
+  index: -1
+lian
+  rotate: false
+  xy: 0, 0
+  size: 76, 79
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+meima_z
+  rotate: true
+  xy: 177, 23
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+meimao_y
+  rotate: true
+  xy: 169, 22
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+shenti_2
+  rotate: false
+  xy: 100, 133
+  size: 77, 118
+  orig: 78, 118
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 169, 44
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+yanpi_y
+  rotate: false
+  xy: 162, 0
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+yanpi_z
+  rotate: false
+  xy: 142, 0
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+yanzhu_y
+  rotate: false
+  xy: 182, 125
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+yanzhu_z
+  rotate: true
+  xy: 231, 138
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+youfasi
+  rotate: false
+  xy: 177, 192
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+youshoubi_2
+  rotate: true
+  xy: 100, 99
+  size: 34, 82
+  orig: 34, 82
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 110, 0
+  size: 32, 14
+  orig: 32, 16
+  offset: 0, 1
+  index: -1
+zuofasi
+  rotate: true
+  xy: 210, 150
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+zuohuishou
+  rotate: false
+  xy: 177, 138
+  size: 33, 54
+  orig: 39, 59
+  offset: 0, 2
+  index: -1
+zuoshangbi
+  rotate: false
+  xy: 110, 14
+  size: 31, 85
+  orig: 31, 86
+  offset: 0, 1
+  index: -1
+zuoshoubi_2
+  rotate: false
+  xy: 76, 0
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+zuoxaihuibi
+  rotate: false
+  xy: 141, 16
+  size: 28, 83
+  orig: 30, 86
+  offset: 2, 0
+  index: -1

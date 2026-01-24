@@ -1,0 +1,146 @@
+
+room3_shafachuanghu_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozheng1
+  rotate: false
+  xy: 552, 27
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+baozheng2
+  rotate: true
+  xy: 552, 91
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+baozheng3
+  rotate: false
+  xy: 612, 124
+  size: 74, 55
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+chuang1
+  rotate: false
+  xy: 0, 114
+  size: 302, 381
+  orig: 308, 385
+  offset: 3, 2
+  index: -1
+dafen
+  rotate: false
+  xy: 216, 7
+  size: 103, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+fen1
+  rotate: false
+  xy: 911, 347
+  size: 36, 36
+  orig: 39, 39
+  offset: 2, 2
+  index: -1
+fen2
+  rotate: false
+  xy: 911, 383
+  size: 101, 112
+  orig: 105, 116
+  offset: 1, 3
+  index: -1
+fen3
+  rotate: true
+  xy: 456, 35
+  size: 98, 96
+  orig: 102, 99
+  offset: 2, 2
+  index: -1
+fen4
+  rotate: false
+  xy: 869, 177
+  size: 142, 153
+  orig: 146, 157
+  offset: 1, 2
+  index: -1
+shafa5
+  rotate: false
+  xy: 302, 263
+  size: 347, 232
+  orig: 349, 234
+  offset: 1, 1
+  index: -1
+shafachuanglian1
+  rotate: true
+  xy: 649, 330
+  size: 165, 262
+  orig: 165, 262
+  offset: 0, 0
+  index: -1
+shafachuanglian12
+  rotate: true
+  xy: 302, 133
+  size: 42, 212
+  orig: 42, 212
+  offset: 0, 0
+  index: -1
+shafagui5
+  rotate: false
+  xy: 649, 179
+  size: 220, 151
+  orig: 222, 153
+  offset: 1, 1
+  index: -1
+shafaguiying5
+  rotate: false
+  xy: 0, 34
+  size: 216, 80
+  orig: 219, 87
+  offset: 1, 1
+  index: -1
+shafaqian
+  rotate: false
+  xy: 319, 16
+  size: 137, 117
+  orig: 140, 119
+  offset: 2, 1
+  index: -1
+shafaying5
+  rotate: false
+  xy: 302, 175
+  size: 305, 88
+  orig: 308, 100
+  offset: 2, 1
+  index: -1
+xh_a
+  rotate: false
+  xy: 514, 151
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+xh_b
+  rotate: false
+  xy: 0, 0
+  size: 30, 34
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+xh_c
+  rotate: false
+  xy: 456, 16
+  size: 19, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+xh_d
+  rotate: false
+  xy: 1012, 485
+  size: 9, 10
+  orig: 9, 11
+  offset: 0, 1
+  index: -1

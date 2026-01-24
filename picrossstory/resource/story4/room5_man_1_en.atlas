@@ -1,0 +1,69 @@
+
+room5_man_1_en.png
+size: 451,451
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houyi
+  rotate: true
+  xy: 145, 52
+  size: 75, 123
+  orig: 75, 123
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 44
+  size: 145, 407
+  orig: 145, 407
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 307, 207
+  size: 116, 133
+  orig: 118, 134
+  offset: 1, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 145, 204
+  size: 162, 247
+  orig: 162, 247
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 390, 35
+  size: 172, 61
+  orig: 174, 61
+  offset: 1, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 307, 323
+  size: 119, 128
+  orig: 119, 128
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: false
+  xy: 268, 24
+  size: 55, 103
+  orig: 56, 103
+  offset: 1, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 145, 127
+  size: 77, 245
+  orig: 77, 245
+  offset: 0, 0
+  index: -1
+zuoxiabi
+  rotate: false
+  xy: 323, 67
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1

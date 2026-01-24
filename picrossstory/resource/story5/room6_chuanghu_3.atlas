@@ -1,0 +1,27 @@
+
+room6_chuanghu_3.png
+size: 495,339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanghu
+  rotate: true
+  xy: 0, 0
+  size: 339, 415
+  orig: 343, 419
+  offset: 2, 2
+  index: -1
+hua
+  rotate: false
+  xy: 415, 244
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+huayingzi
+  rotate: false
+  xy: 415, 223
+  size: 50, 21
+  orig: 52, 23
+  offset: 1, 1
+  index: -1

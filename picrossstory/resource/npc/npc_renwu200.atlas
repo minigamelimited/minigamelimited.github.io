@@ -1,0 +1,90 @@
+
+npc_renwu200.png
+size: 312,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: false
+  xy: 203, 110
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: true
+  xy: 124, 33
+  size: 29, 76
+  orig: 29, 76
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: true
+  xy: 0, 3
+  size: 36, 117
+  orig: 36, 117
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 271, 121
+  size: 79, 41
+  orig: 81, 43
+  offset: 1, 1
+  index: -1
+fa4
+  rotate: false
+  xy: 223, 9
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: true
+  xy: 272, 58
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: false
+  xy: 0, 39
+  size: 124, 161
+  orig: 124, 161
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 203, 51
+  size: 59, 69
+  orig: 61, 71
+  offset: 1, 1
+  index: -1
+qunbu
+  rotate: false
+  xy: 262, 21
+  size: 30, 30
+  orig: 32, 33
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 124, 62
+  size: 79, 138
+  orig: 80, 138
+  offset: 1, 0
+  index: -1
+shobi
+  rotate: true
+  xy: 117, 4
+  size: 29, 106
+  orig: 30, 106
+  offset: 0, 0
+  index: -1
+zuoyanjing
+  rotate: false
+  xy: 262, 0
+  size: 22, 21
+  orig: 24, 23
+  offset: 1, 1
+  index: -1

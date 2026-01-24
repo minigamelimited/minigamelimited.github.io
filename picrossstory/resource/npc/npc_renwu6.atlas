@@ -1,0 +1,139 @@
+
+npc_renwu6.png
+size: 265,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtoufa
+  rotate: true
+  xy: 0, 44
+  size: 86, 92
+  orig: 86, 95
+  offset: 0, 2
+  index: -1
+lian
+  rotate: false
+  xy: 192, 111
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+meimao_ you
+  rotate: true
+  xy: 252, 214
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+meimao_zuo
+  rotate: true
+  xy: 252, 229
+  size: 25, 7
+  orig: 29, 7
+  offset: 1, 0
+  index: -1
+shangjiemao_ you
+  rotate: false
+  xy: 252, 209
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+shangjiemao_zuo
+  rotate: false
+  xy: 249, 198
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+shenti3
+  rotate: false
+  xy: 0, 130
+  size: 123, 135
+  orig: 132, 198
+  offset: 0, 63
+  index: -1
+toufa1
+  rotate: false
+  xy: 123, 130
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 192, 63
+  size: 27, 48
+  orig: 27, 49
+  offset: 0, 1
+  index: -1
+toufa3
+  rotate: false
+  xy: 214, 205
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+toufayingzi
+  rotate: true
+  xy: 192, 47
+  size: 16, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+yanbai_you
+  rotate: true
+  xy: 233, 192
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+yanbai_zuo
+  rotate: false
+  xy: 219, 88
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+yanpi_ you
+  rotate: false
+  xy: 252, 254
+  size: 11, 11
+  orig: 16, 14
+  offset: 4, 0
+  index: -1
+yanpi_zuo
+  rotate: false
+  xy: 214, 191
+  size: 19, 14
+  orig: 27, 14
+  offset: 1, 0
+  index: -1
+yanzhu_you
+  rotate: true
+  xy: 257, 192
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+yanzhu_zuo
+  rotate: false
+  xy: 249, 190
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: true
+  xy: 92, 53
+  size: 77, 100
+  orig: 78, 109
+  offset: 0, 9
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 123, 190
+  size: 75, 91
+  orig: 75, 158
+  offset: 0, 67
+  index: -1

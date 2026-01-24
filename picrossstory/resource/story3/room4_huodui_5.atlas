@@ -1,0 +1,265 @@
+
+room4_huodui_5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cai1
+  rotate: true
+  xy: 582, 810
+  size: 117, 42
+  orig: 119, 44
+  offset: 1, 1
+  index: -1
+cai2
+  rotate: true
+  xy: 812, 680
+  size: 79, 90
+  orig: 81, 92
+  offset: 1, 1
+  index: -1
+cai3
+  rotate: true
+  xy: 374, 859
+  size: 86, 112
+  orig: 88, 114
+  offset: 1, 1
+  index: -1
+cai4
+  rotate: false
+  xy: 562, 720
+  size: 52, 90
+  orig: 54, 92
+  offset: 1, 1
+  index: -1
+cai5
+  rotate: true
+  xy: 812, 611
+  size: 69, 85
+  orig: 71, 87
+  offset: 1, 1
+  index: -1
+cai6
+  rotate: false
+  xy: 902, 673
+  size: 82, 80
+  orig: 84, 82
+  offset: 1, 1
+  index: -1
+chai5ying
+  rotate: false
+  xy: 247, 945
+  size: 242, 79
+  orig: 251, 81
+  offset: 4, 1
+  index: -1
+diandian
+  rotate: false
+  xy: 624, 906
+  size: 21, 21
+  orig: 25, 25
+  offset: 2, 2
+  index: -1
+dizi5
+  rotate: false
+  xy: 247, 834
+  size: 127, 111
+  orig: 130, 113
+  offset: 2, 1
+  index: -1
+dizi6
+  rotate: false
+  xy: 489, 927
+  size: 156, 97
+  orig: 158, 99
+  offset: 1, 1
+  index: -1
+huo_00000
+  rotate: true
+  xy: 834, 847
+  size: 87, 95
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00002
+  rotate: true
+  xy: 740, 759
+  size: 87, 94
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00004
+  rotate: true
+  xy: 247, 746
+  size: 88, 94
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00006
+  rotate: true
+  xy: 373, 683
+  size: 88, 94
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00008
+  rotate: true
+  xy: 927, 753
+  size: 87, 94
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00010
+  rotate: true
+  xy: 624, 758
+  size: 87, 94
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00012
+  rotate: true
+  xy: 467, 663
+  size: 87, 94
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00014
+  rotate: true
+  xy: 469, 750
+  size: 89, 93
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00016
+  rotate: true
+  xy: 614, 670
+  size: 88, 92
+  orig: 100, 100
+  offset: 1, 0
+  index: -1
+huo_00018
+  rotate: true
+  xy: 740, 846
+  size: 88, 94
+  orig: 100, 100
+  offset: 1, 0
+  index: -1
+huo_00020
+  rotate: true
+  xy: 486, 839
+  size: 88, 96
+  orig: 100, 100
+  offset: 1, 0
+  index: -1
+huo_00022
+  rotate: false
+  xy: 935, 927
+  size: 88, 97
+  orig: 100, 100
+  offset: 1, 0
+  index: -1
+huo_00024
+  rotate: true
+  xy: 645, 934
+  size: 90, 97
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00026
+  rotate: true
+  xy: 742, 934
+  size: 90, 97
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00028
+  rotate: true
+  xy: 839, 934
+  size: 90, 96
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00030
+  rotate: true
+  xy: 645, 845
+  size: 89, 95
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00032
+  rotate: true
+  xy: 834, 759
+  size: 88, 93
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00034
+  rotate: true
+  xy: 718, 672
+  size: 87, 94
+  orig: 100, 100
+  offset: 1, 0
+  index: -1
+huo_00036
+  rotate: true
+  xy: 374, 771
+  size: 88, 95
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huo_00038
+  rotate: true
+  xy: 929, 840
+  size: 87, 95
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+huoguang4
+  rotate: false
+  xy: 0, 815
+  size: 247, 209
+  orig: 304, 245
+  offset: 33, 33
+  index: -1
+shit1
+  rotate: true
+  xy: 984, 666
+  size: 43, 34
+  orig: 45, 36
+  offset: 1, 1
+  index: -1
+shit2
+  rotate: false
+  xy: 897, 640
+  size: 44, 33
+  orig: 46, 35
+  offset: 1, 1
+  index: -1
+shit3
+  rotate: true
+  xy: 561, 666
+  size: 54, 39
+  orig: 56, 41
+  offset: 1, 1
+  index: -1
+shit4
+  rotate: true
+  xy: 984, 709
+  size: 44, 37
+  orig: 46, 39
+  offset: 1, 1
+  index: -1
+shit5
+  rotate: true
+  xy: 341, 775
+  size: 59, 32
+  orig: 61, 35
+  offset: 1, 1
+  index: -1
+shit6
+  rotate: true
+  xy: 341, 723
+  size: 52, 32
+  orig: 54, 35
+  offset: 1, 1
+  index: -1

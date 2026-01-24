@@ -1,0 +1,48 @@
+
+room2_man_2_en.png
+size: 562,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hanzhu
+  rotate: true
+  xy: 224, 136
+  size: 6, 12
+  orig: 6, 13
+  offset: 0, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 175, 562
+  orig: 175, 562
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 175, 123
+  size: 49, 19
+  orig: 51, 20
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 175, 142
+  size: 213, 86
+  orig: 215, 87
+  offset: 1, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 388, 39
+  size: 64, 189
+  orig: 64, 189
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 175, 228
+  size: 334, 330
+  orig: 334, 339
+  offset: 0, 9
+  index: -1

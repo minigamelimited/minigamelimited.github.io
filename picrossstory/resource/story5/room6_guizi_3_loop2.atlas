@@ -1,0 +1,27 @@
+
+room6_guizi_3_loop2.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guizi
+  rotate: false
+  xy: 0, 0
+  size: 186, 492
+  orig: 186, 492
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 186, 110
+  size: 108, 131
+  orig: 108, 131
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 186, 241
+  size: 151, 251
+  orig: 154, 254
+  offset: 1, 1
+  index: -1

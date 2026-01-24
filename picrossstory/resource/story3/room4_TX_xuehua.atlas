@@ -1,0 +1,27 @@
+
+room4_TX_xuehua.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xh_a
+  rotate: false
+  xy: 80, 123
+  size: 108, 100
+  orig: 110, 102
+  offset: 1, 1
+  index: -1
+xh_b
+  rotate: true
+  xy: 0, 0
+  size: 123, 140
+  orig: 131, 148
+  offset: 1, 1
+  index: -1
+xh_c
+  rotate: false
+  xy: 0, 144
+  size: 80, 79
+  orig: 85, 81
+  offset: 1, 1
+  index: -1

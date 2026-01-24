@@ -1,0 +1,167 @@
+
+room2_woman_2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ganz
+  rotate: true
+  xy: 0, 0
+  size: 9, 366
+  orig: 24, 366
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 359, 99
+  size: 69, 102
+  orig: 69, 102
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 496, 197
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+shaobatou
+  rotate: false
+  xy: 0, 11
+  size: 56, 83
+  orig: 57, 83
+  offset: 1, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 279, 63
+  size: 80, 105
+  orig: 81, 105
+  offset: 0, 0
+  index: -1
+xiajiemao
+  rotate: true
+  xy: 495, 126
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 359, 78
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+youfasi
+  rotate: true
+  xy: 402, 75
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+youjiemao
+  rotate: false
+  xy: 479, 61
+  size: 13, 8
+  orig: 14, 12
+  offset: 1, 4
+  index: -1
+youshoubi
+  rotate: true
+  xy: 359, 17
+  size: 52, 97
+  orig: 54, 97
+  offset: 1, 0
+  index: -1
+youtuii
+  rotate: true
+  xy: 279, 168
+  size: 65, 217
+  orig: 65, 219
+  offset: 0, 0
+  index: -1
+youyanpi
+  rotate: false
+  xy: 496, 166
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+youyanzhu
+  rotate: false
+  xy: 468, 57
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: true
+  xy: 492, 80
+  size: 26, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+zuofasi
+  rotate: true
+  xy: 461, 111
+  size: 57, 34
+  orig: 57, 48
+  offset: 0, 14
+  index: -1
+zuojiemao
+  rotate: true
+  xy: 496, 179
+  size: 18, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 456, 9
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 435, 75
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 492, 54
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 0, 94
+  size: 139, 279
+  orig: 139, 286
+  offset: 0, 0
+  index: -1
+zuoyanpi
+  rotate: true
+  xy: 495, 106
+  size: 20, 17
+  orig: 21, 19
+  offset: 0, 1
+  index: -1
+zuoyanzhu
+  rotate: false
+  xy: 456, 57
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+zuoyixiu
+  rotate: false
+  xy: 461, 69
+  size: 31, 42
+  orig: 33, 42
+  offset: 2, 0
+  index: -1

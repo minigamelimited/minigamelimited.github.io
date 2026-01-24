@@ -1,0 +1,48 @@
+
+room3_zawuzhuozi_3.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yizi3
+  rotate: false
+  xy: 259, 623
+  size: 237, 400
+  orig: 241, 403
+  offset: 3, 1
+  index: -1
+yizi32
+  rotate: false
+  xy: 0, 601
+  size: 259, 422
+  orig: 264, 425
+  offset: 1, 1
+  index: -1
+yizi32ying
+  rotate: false
+  xy: 0, 45
+  size: 286, 167
+  orig: 303, 176
+  offset: 8, 4
+  index: -1
+yizi3ying
+  rotate: true
+  xy: 286, 0
+  size: 289, 161
+  orig: 306, 171
+  offset: 8, 5
+  index: -1
+zhuoying3
+  rotate: true
+  xy: 260, 289
+  size: 334, 159
+  orig: 352, 167
+  offset: 9, 4
+  index: -1
+zhuozi3
+  rotate: false
+  xy: 0, 212
+  size: 260, 389
+  orig: 264, 391
+  offset: 3, 1
+  index: -1

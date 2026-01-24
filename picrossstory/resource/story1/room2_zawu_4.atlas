@@ -1,0 +1,111 @@
+
+room2_zawu_4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cong1
+  rotate: true
+  xy: 318, 0
+  size: 48, 162
+  orig: 52, 162
+  offset: 4, 0
+  index: -1
+cong2
+  rotate: true
+  xy: 480, 31
+  size: 17, 133
+  orig: 17, 133
+  offset: 0, 0
+  index: -1
+jingzi
+  rotate: false
+  xy: 786, 678
+  size: 83, 93
+  orig: 85, 95
+  offset: 1, 1
+  index: -1
+kuang1
+  rotate: false
+  xy: 547, 254
+  size: 204, 117
+  orig: 207, 119
+  offset: 2, 1
+  index: -1
+kuang2
+  rotate: true
+  xy: 547, 371
+  size: 213, 186
+  orig: 215, 188
+  offset: 1, 1
+  index: -1
+shizi
+  rotate: true
+  xy: 786, 609
+  size: 69, 58
+  orig: 71, 60
+  offset: 1, 1
+  index: -1
+teng
+  rotate: false
+  xy: 733, 405
+  size: 173, 179
+  orig: 173, 179
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: true
+  xy: 455, 584
+  size: 158, 331
+  orig: 158, 332
+  offset: 0, 1
+  index: -1
+ye2
+  rotate: true
+  xy: 704, 771
+  size: 250, 162
+  orig: 259, 162
+  offset: 9, 0
+  index: -1
+ye3
+  rotate: true
+  xy: 0, 219
+  size: 321, 281
+  orig: 321, 281
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: false
+  xy: 318, 48
+  size: 321, 183
+  orig: 360, 183
+  offset: 0, 0
+  index: -1
+ye5
+  rotate: false
+  xy: 455, 742
+  size: 249, 279
+  orig: 249, 279
+  offset: 0, 0
+  index: -1
+ye6
+  rotate: true
+  xy: 0, 0
+  size: 219, 318
+  orig: 219, 318
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 540
+  size: 455, 481
+  orig: 493, 489
+  offset: 1, 1
+  index: -1
+zhuozi
+  rotate: false
+  xy: 281, 231
+  size: 266, 309
+  orig: 268, 312
+  offset: 1, 2
+  index: -1

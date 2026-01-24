@@ -1,0 +1,27 @@
+
+npc_renwu100.png
+size: 201,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wanxiong
+  rotate: true
+  xy: 0, 0
+  size: 119, 156
+  orig: 119, 156
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: true
+  xy: 156, 14
+  size: 54, 26
+  orig: 55, 27
+  offset: 0, 1
+  index: -1
+zuiba
+  rotate: true
+  xy: 156, 68
+  size: 51, 45
+  orig: 51, 49
+  offset: 0, 4
+  index: -1

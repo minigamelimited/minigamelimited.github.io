@@ -1,0 +1,55 @@
+
+room6_huazhuangjing_4_loop2.png
+size: 985,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laba
+  rotate: false
+  xy: 720, 6
+  size: 87, 119
+  orig: 87, 119
+  offset: 0, 0
+  index: -1
+maoyingzi
+  rotate: false
+  xy: 878, 133
+  size: 87, 195
+  orig: 90, 196
+  offset: 1, 1
+  index: -1
+maozi
+  rotate: false
+  xy: 807, 32
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+yigui
+  rotate: true
+  xy: 0, 2
+  size: 326, 720
+  orig: 326, 721
+  offset: 0, 0
+  index: -1
+yinyueyingzi
+  rotate: true
+  xy: 965, 250
+  size: 78, 20
+  orig: 80, 23
+  offset: 1, 2
+  index: -1
+yizi
+  rotate: false
+  xy: 720, 125
+  size: 158, 203
+  orig: 159, 203
+  offset: 1, 0
+  index: -1
+yiziyingzi
+  rotate: true
+  xy: 878, 0
+  size: 133, 65
+  orig: 137, 70
+  offset: 1, 3
+  index: -1

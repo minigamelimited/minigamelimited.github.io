@@ -1,0 +1,27 @@
+
+button_character_24.png
+size: 140,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daren
+  rotate: false
+  xy: 0, 25
+  size: 71, 115
+  orig: 71, 116
+  offset: 0, 1
+  index: -1
+di
+  rotate: false
+  xy: 71, 71
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+xiaohai
+  rotate: true
+  xy: 71, 21
+  size: 50, 57
+  orig: 52, 57
+  offset: 2, 0
+  index: -1

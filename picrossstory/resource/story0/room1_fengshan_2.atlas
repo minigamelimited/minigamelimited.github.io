@@ -1,0 +1,27 @@
+
+room1_fengshan_2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengshan
+  rotate: true
+  xy: 0, 0
+  size: 102, 415
+  orig: 104, 417
+  offset: 1, 1
+  index: -1
+shan
+  rotate: true
+  xy: 0, 103
+  size: 41, 167
+  orig: 43, 169
+  offset: 1, 1
+  index: -1
+zuo
+  rotate: false
+  xy: 167, 102
+  size: 49, 42
+  orig: 51, 45
+  offset: 1, 2
+  index: -1

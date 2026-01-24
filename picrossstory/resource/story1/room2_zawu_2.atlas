@@ -1,0 +1,76 @@
+
+room2_zawu_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei
+  rotate: true
+  xy: 0, 147
+  size: 349, 154
+  orig: 349, 154
+  offset: 0, 0
+  index: -1
+he1
+  rotate: false
+  xy: 344, 41
+  size: 213, 135
+  orig: 215, 137
+  offset: 1, 1
+  index: -1
+he2
+  rotate: true
+  xy: 370, 316
+  size: 180, 130
+  orig: 182, 132
+  offset: 1, 1
+  index: -1
+he3
+  rotate: false
+  xy: 154, 260
+  size: 216, 236
+  orig: 218, 238
+  offset: 1, 1
+  index: -1
+pin1
+  rotate: false
+  xy: 500, 262
+  size: 58, 86
+  orig: 60, 88
+  offset: 1, 1
+  index: -1
+pin2
+  rotate: true
+  xy: 344, 6
+  size: 35, 75
+  orig: 37, 77
+  offset: 1, 1
+  index: -1
+xianrenz
+  rotate: false
+  xy: 500, 348
+  size: 102, 148
+  orig: 105, 150
+  offset: 2, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 0
+  size: 344, 147
+  orig: 351, 165
+  offset: 1, 8
+  index: -1
+zheng1
+  rotate: false
+  xy: 369, 198
+  size: 140, 62
+  orig: 140, 62
+  offset: 0, 0
+  index: -1
+zheng2
+  rotate: false
+  xy: 154, 176
+  size: 215, 84
+  orig: 215, 84
+  offset: 0, 0
+  index: -1

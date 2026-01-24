@@ -1,0 +1,41 @@
+
+room1_chuang_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beizi
+  rotate: true
+  xy: 0, 0
+  size: 595, 277
+  orig: 595, 279
+  offset: 0, 2
+  index: -1
+chuang
+  rotate: false
+  xy: 277, 33
+  size: 677, 464
+  orig: 677, 465
+  offset: 0, 1
+  index: -1
+hulan
+  rotate: false
+  xy: 802, 731
+  size: 186, 233
+  orig: 187, 235
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 595
+  size: 802, 369
+  orig: 833, 397
+  offset: 16, 14
+  index: -1
+zhengtou
+  rotate: true
+  xy: 802, 497
+  size: 234, 154
+  orig: 235, 155
+  offset: 0, 1
+  index: -1

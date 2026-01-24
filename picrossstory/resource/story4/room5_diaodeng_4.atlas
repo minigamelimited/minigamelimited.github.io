@@ -1,0 +1,27 @@
+
+room5_diaodeng_4.png
+size: 420,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaodeng4
+  rotate: true
+  xy: 0, 13
+  size: 144, 339
+  orig: 144, 339
+  offset: 0, 0
+  index: -1
+g4
+  rotate: true
+  xy: 201, 190
+  size: 230, 219
+  orig: 328, 294
+  offset: 59, 34
+  index: -1
+zg4
+  rotate: false
+  xy: 0, 157
+  size: 201, 263
+  orig: 201, 263
+  offset: 0, 0
+  index: -1

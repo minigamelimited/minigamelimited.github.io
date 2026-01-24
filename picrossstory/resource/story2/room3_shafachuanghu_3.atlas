@@ -1,0 +1,97 @@
+
+room3_shafachuanghu_3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozheng1
+  rotate: true
+  xy: 259, 56
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+baozheng2
+  rotate: false
+  xy: 323, 19
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+baozheng3
+  rotate: true
+  xy: 79, 22
+  size: 74, 55
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+chuanghu3
+  rotate: true
+  xy: 347, 230
+  size: 215, 304
+  orig: 217, 306
+  offset: 1, 1
+  index: -1
+shafa5
+  rotate: false
+  xy: 0, 213
+  size: 347, 232
+  orig: 349, 234
+  offset: 1, 1
+  index: -1
+shafaguahua3
+  rotate: true
+  xy: 137, 45
+  size: 72, 122
+  orig: 77, 127
+  offset: 2, 2
+  index: -1
+shafaguahua4
+  rotate: false
+  xy: 0, 0
+  size: 79, 96
+  orig: 84, 101
+  offset: 3, 3
+  index: -1
+shafagui5
+  rotate: false
+  xy: 347, 79
+  size: 220, 151
+  orig: 222, 153
+  offset: 1, 1
+  index: -1
+shafaguipenzai5
+  rotate: true
+  xy: 137, 117
+  size: 96, 91
+  orig: 98, 93
+  offset: 1, 1
+  index: -1
+shafaguiying5
+  rotate: true
+  xy: 567, 14
+  size: 216, 80
+  orig: 219, 87
+  offset: 1, 1
+  index: -1
+shafaqian
+  rotate: false
+  xy: 0, 96
+  size: 137, 117
+  orig: 140, 119
+  offset: 2, 1
+  index: -1
+shafataideng5
+  rotate: true
+  xy: 228, 137
+  size: 76, 110
+  orig: 78, 112
+  offset: 1, 1
+  index: -1
+shafaying5
+  rotate: true
+  xy: 651, 140
+  size: 305, 88
+  orig: 308, 100
+  offset: 2, 1
+  index: -1

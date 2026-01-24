@@ -1,0 +1,55 @@
+
+room4_huodui_3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cai1
+  rotate: false
+  xy: 91, 246
+  size: 116, 41
+  orig: 118, 43
+  offset: 1, 1
+  index: -1
+cai2
+  rotate: true
+  xy: 91, 101
+  size: 78, 82
+  orig: 80, 84
+  offset: 1, 1
+  index: -1
+cai3
+  rotate: false
+  xy: 0, 176
+  size: 91, 111
+  orig: 93, 113
+  offset: 1, 1
+  index: -1
+cai4
+  rotate: true
+  xy: 91, 197
+  size: 49, 90
+  orig: 51, 92
+  offset: 1, 1
+  index: -1
+cai5
+  rotate: false
+  xy: 0, 92
+  size: 68, 84
+  orig: 71, 86
+  offset: 2, 1
+  index: -1
+dizi2
+  rotate: true
+  xy: 237, 179
+  size: 185, 127
+  orig: 187, 135
+  offset: 1, 1
+  index: -1
+yingzi3
+  rotate: false
+  xy: 0, 287
+  size: 237, 77
+  orig: 245, 80
+  offset: 4, 2
+  index: -1

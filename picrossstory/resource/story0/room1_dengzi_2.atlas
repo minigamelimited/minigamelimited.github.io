@@ -1,0 +1,20 @@
+
+room1_dengzi_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yingzi
+  rotate: true
+  xy: 550, 0
+  size: 453, 185
+  orig: 469, 203
+  offset: 7, 9
+  index: -1
+yizi
+  rotate: true
+  xy: 0, 65
+  size: 388, 550
+  orig: 390, 552
+  offset: 1, 1
+  index: -1

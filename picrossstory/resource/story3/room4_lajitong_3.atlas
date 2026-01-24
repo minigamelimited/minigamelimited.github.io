@@ -1,0 +1,48 @@
+
+room4_lajitong_3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lajixue3
+  rotate: true
+  xy: 406, 99
+  size: 302, 57
+  orig: 304, 59
+  offset: 1, 1
+  index: -1
+ljtong
+  rotate: false
+  xy: 0, 401
+  size: 469, 619
+  orig: 471, 621
+  offset: 1, 1
+  index: -1
+lun1
+  rotate: false
+  xy: 0, 106
+  size: 77, 103
+  orig: 79, 105
+  offset: 1, 1
+  index: -1
+lun2
+  rotate: false
+  xy: 0, 209
+  size: 93, 116
+  orig: 96, 119
+  offset: 1, 1
+  index: -1
+lun3
+  rotate: true
+  xy: 0, 0
+  size: 99, 121
+  orig: 103, 123
+  offset: 1, 1
+  index: -1
+tonggai
+  rotate: false
+  xy: 0, 325
+  size: 406, 76
+  orig: 408, 78
+  offset: 1, 1
+  index: -1

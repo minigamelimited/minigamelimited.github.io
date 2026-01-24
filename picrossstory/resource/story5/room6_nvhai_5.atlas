@@ -1,0 +1,153 @@
+
+room6_nvhai_5.png
+size: 962,962
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa
+  rotate: true
+  xy: 326, 243
+  size: 306, 450
+  orig: 306, 450
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 776, 326
+  size: 204, 180
+  orig: 205, 181
+  offset: 1, 0
+  index: -1
+meimaoyou
+  rotate: false
+  xy: 0, 7
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+meimaozuoo
+  rotate: true
+  xy: 945, 918
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 326, 549
+  size: 350, 413
+  orig: 373, 413
+  offset: 23, 0
+  index: -1
+si1
+  rotate: false
+  xy: 676, 588
+  size: 122, 374
+  orig: 122, 375
+  offset: 0, 1
+  index: -1
+si2
+  rotate: true
+  xy: 455, 137
+  size: 106, 267
+  orig: 106, 267
+  offset: 0, 0
+  index: -1
+si3
+  rotate: false
+  xy: 798, 530
+  size: 147, 432
+  orig: 147, 432
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 0, 243
+  size: 326, 719
+  orig: 326, 720
+  offset: 0, 1
+  index: -1
+xiajiemao
+  rotate: true
+  xy: 776, 568
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 0, 36
+  size: 144, 67
+  orig: 144, 67
+  offset: 0, 0
+  index: -1
+yanjiemaoyou
+  rotate: false
+  xy: 455, 105
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+yanjiemaozuo
+  rotate: false
+  xy: 722, 206
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+yanpiyou
+  rotate: false
+  xy: 144, 66
+  size: 49, 37
+  orig: 51, 39
+  offset: 2, 0
+  index: -1
+yanpizuo
+  rotate: false
+  xy: 894, 149
+  size: 45, 42
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+yanzhuyouy
+  rotate: false
+  xy: 929, 114
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+yanzhuzuo
+  rotate: false
+  xy: 894, 112
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+youfa
+  rotate: true
+  xy: 776, 191
+  size: 135, 181
+  orig: 135, 181
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 676, 553
+  size: 90, 35
+  orig: 97, 36
+  offset: 3, 0
+  index: -1
+zuofa
+  rotate: false
+  xy: 722, 34
+  size: 172, 157
+  orig: 172, 157
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: true
+  xy: 0, 103
+  size: 140, 455
+  orig: 140, 455
+  offset: 0, 0
+  index: -1

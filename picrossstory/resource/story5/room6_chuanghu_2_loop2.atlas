@@ -1,0 +1,13 @@
+
+room6_chuanghu_2_loop2.png
+size: 338,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanghu
+  rotate: false
+  xy: 0, 0
+  size: 338, 412
+  orig: 343, 417
+  offset: 2, 2
+  index: -1

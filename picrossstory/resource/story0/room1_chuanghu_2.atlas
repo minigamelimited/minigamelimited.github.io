@@ -1,0 +1,160 @@
+
+room1_chuanghu_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chu
+  rotate: false
+  xy: 254, 138
+  size: 227, 371
+  orig: 229, 373
+  offset: 1, 1
+  index: -1
+fen1
+  rotate: false
+  xy: 475, 71
+  size: 36, 36
+  orig: 39, 39
+  offset: 2, 2
+  index: -1
+fen2
+  rotate: false
+  xy: 0, 3
+  size: 101, 112
+  orig: 105, 116
+  offset: 1, 3
+  index: -1
+fen3
+  rotate: true
+  xy: 101, 17
+  size: 98, 96
+  orig: 102, 99
+  offset: 2, 2
+  index: -1
+fen4
+  rotate: false
+  xy: 481, 356
+  size: 142, 153
+  orig: 146, 157
+  offset: 1, 2
+  index: -1
+lei_00003
+  rotate: true
+  xy: 101, 0
+  size: 17, 13
+  orig: 70, 100
+  offset: 35, 87
+  index: -1
+lei_00005
+  rotate: false
+  xy: 326, 117
+  size: 29, 21
+  orig: 70, 100
+  offset: 29, 79
+  index: -1
+lei_00007
+  rotate: true
+  xy: 429, 72
+  size: 35, 46
+  orig: 70, 100
+  offset: 24, 54
+  index: -1
+lei_00009
+  rotate: true
+  xy: 323, 8
+  size: 53, 100
+  orig: 70, 100
+  offset: 11, 0
+  index: -1
+lei_00011
+  rotate: true
+  xy: 323, 8
+  size: 53, 100
+  orig: 70, 100
+  offset: 11, 0
+  index: -1
+lei_00013
+  rotate: true
+  xy: 323, 8
+  size: 53, 100
+  orig: 70, 100
+  offset: 11, 0
+  index: -1
+lei_00015
+  rotate: true
+  xy: 323, 8
+  size: 53, 100
+  orig: 70, 100
+  offset: 11, 0
+  index: -1
+lei_00017
+  rotate: true
+  xy: 323, 8
+  size: 53, 100
+  orig: 70, 100
+  offset: 11, 0
+  index: -1
+lei_00019
+  rotate: true
+  xy: 323, 8
+  size: 53, 100
+  orig: 70, 100
+  offset: 11, 0
+  index: -1
+lei_00021
+  rotate: true
+  xy: 323, 8
+  size: 53, 100
+  orig: 70, 100
+  offset: 11, 0
+  index: -1
+lei_00023
+  rotate: true
+  xy: 329, 68
+  size: 49, 100
+  orig: 70, 100
+  offset: 14, 0
+  index: -1
+lei_00025
+  rotate: true
+  xy: 423, 26
+  size: 42, 96
+  orig: 70, 100
+  offset: 17, 4
+  index: -1
+lei_00027
+  rotate: true
+  xy: 254, 115
+  size: 23, 72
+  orig: 70, 100
+  offset: 26, 27
+  index: -1
+shuihua
+  rotate: false
+  xy: 429, 107
+  size: 75, 31
+  orig: 77, 33
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 115
+  size: 254, 394
+  orig: 262, 401
+  offset: 4, 3
+  index: -1
+yudi1
+  rotate: true
+  xy: 197, 11
+  size: 50, 126
+  orig: 52, 128
+  offset: 1, 1
+  index: -1
+yudi2
+  rotate: true
+  xy: 197, 61
+  size: 54, 132
+  orig: 59, 142
+  offset: 4, 1
+  index: -1

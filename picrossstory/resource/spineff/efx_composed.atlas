@@ -1,0 +1,27 @@
+
+efx_composed.png
+size: 584,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_04
+  rotate: false
+  xy: 458, 130
+  size: 124, 124
+  orig: 128, 128
+  offset: 2, 2
+  index: -1
+guanghuan_1
+  rotate: false
+  xy: 2, 2
+  size: 252, 252
+  orig: 256, 256
+  offset: 2, 2
+  index: -1
+shizi_glow4
+  rotate: false
+  xy: 256, 54
+  size: 200, 200
+  orig: 220, 220
+  offset: 10, 10
+  index: -1

@@ -1,0 +1,167 @@
+
+npc_renwu7.png
+size: 292,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangbangtang
+  rotate: false
+  xy: 183, 84
+  size: 34, 57
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+fabianyou
+  rotate: true
+  xy: 122, 1
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+fabin
+  rotate: false
+  xy: 217, 86
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+fasi1
+  rotate: false
+  xy: 158, 44
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+fasi2
+  rotate: true
+  xy: 74, 1
+  size: 43, 48
+  orig: 43, 49
+  offset: 0, 1
+  index: -1
+jiemao_y
+  rotate: false
+  xy: 247, 1
+  size: 26, 23
+  orig: 27, 23
+  offset: 1, 0
+  index: -1
+jiemao_z
+  rotate: false
+  xy: 227, 0
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 62, 44
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 0, 32
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 158, 83
+  size: 58, 25
+  orig: 58, 25
+  offset: 0, 0
+  index: -1
+yanpi _y
+  rotate: true
+  xy: 256, 63
+  size: 23, 22
+  orig: 26, 23
+  offset: 1, 1
+  index: -1
+yanpi_z
+  rotate: false
+  xy: 260, 31
+  size: 19, 21
+  orig: 20, 22
+  offset: 0, 1
+  index: -1
+yanzhu_y
+  rotate: false
+  xy: 273, 12
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yanzhu_z
+  rotate: false
+  xy: 265, 104
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 35, 2
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+youfaqia
+  rotate: false
+  xy: 242, 24
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+youmeimao
+  rotate: true
+  xy: 227, 21
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 0, 0
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 198, 6
+  size: 29, 38
+  orig: 30, 38
+  offset: 1, 0
+  index: -1
+zuofabian
+  rotate: true
+  xy: 162, 4
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+zuofaqia
+  rotate: false
+  xy: 265, 122
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zuomeimao
+  rotate: false
+  xy: 256, 52
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 206, 51
+  size: 33, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1

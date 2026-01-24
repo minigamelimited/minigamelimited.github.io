@@ -1,0 +1,83 @@
+
+room3_zawuzhuozi_4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beizi
+  rotate: true
+  xy: 429, 723
+  size: 58, 56
+  orig: 60, 58
+  offset: 1, 1
+  index: -1
+beizidian
+  rotate: true
+  xy: 429, 781
+  size: 74, 35
+  orig: 76, 37
+  offset: 1, 1
+  index: -1
+beiziyingzi
+  rotate: true
+  xy: 429, 855
+  size: 165, 41
+  orig: 172, 46
+  offset: 3, 3
+  index: -1
+hua2
+  rotate: true
+  xy: 334, 609
+  size: 76, 166
+  orig: 85, 166
+  offset: 8, 0
+  index: -1
+xiaohua1
+  rotate: false
+  xy: 264, 583
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+yizi4
+  rotate: false
+  xy: 263, 177
+  size: 242, 403
+  orig: 244, 405
+  offset: 1, 1
+  index: -1
+yizi42
+  rotate: false
+  xy: 0, 580
+  size: 264, 440
+  orig: 266, 442
+  offset: 1, 1
+  index: -1
+yizi42ying
+  rotate: false
+  xy: 0, 0
+  size: 287, 174
+  orig: 303, 183
+  offset: 8, 4
+  index: -1
+yizi4ying
+  rotate: false
+  xy: 287, 9
+  size: 290, 168
+  orig: 306, 178
+  offset: 8, 5
+  index: -1
+zhuo4ying
+  rotate: true
+  xy: 264, 685
+  size: 335, 165
+  orig: 353, 175
+  offset: 9, 5
+  index: -1
+zhuozi4
+  rotate: false
+  xy: 0, 174
+  size: 263, 406
+  orig: 265, 408
+  offset: 1, 1
+  index: -1

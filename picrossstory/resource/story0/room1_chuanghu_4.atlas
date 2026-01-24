@@ -1,0 +1,20 @@
+
+room1_chuanghu_4.png
+size: 481,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chu
+  rotate: false
+  xy: 251, 102
+  size: 230, 379
+  orig: 232, 381
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 90
+  size: 251, 391
+  orig: 257, 398
+  offset: 3, 3
+  index: -1

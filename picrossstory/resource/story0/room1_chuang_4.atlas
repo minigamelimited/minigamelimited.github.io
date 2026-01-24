@@ -1,0 +1,62 @@
+
+room1_chuang_4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beizi
+  rotate: true
+  xy: 687, 536
+  size: 363, 204
+  orig: 363, 204
+  offset: 0, 0
+  index: -1
+beizi2
+  rotate: false
+  xy: 404, 45
+  size: 397, 185
+  orig: 397, 185
+  offset: 0, 0
+  index: -1
+beiziyigzi2
+  rotate: false
+  xy: 593, 273
+  size: 408, 160
+  orig: 420, 170
+  offset: 6, 4
+  index: -1
+beiziyingzi
+  rotate: true
+  xy: 404, 230
+  size: 372, 189
+  orig: 379, 195
+  offset: 3, 1
+  index: -1
+chuang
+  rotate: true
+  xy: 0, 0
+  size: 602, 404
+  orig: 602, 405
+  offset: 0, 1
+  index: -1
+hulan
+  rotate: false
+  xy: 801, 20
+  size: 176, 253
+  orig: 176, 253
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 602
+  size: 687, 297
+  orig: 701, 310
+  offset: 7, 6
+  index: -1
+zhengtou
+  rotate: true
+  xy: 593, 433
+  size: 169, 83
+  orig: 169, 84
+  offset: 0, 1
+  index: -1

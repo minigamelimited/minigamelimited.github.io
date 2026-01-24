@@ -1,0 +1,41 @@
+
+room6_yijia_2_loop2.png
+size: 424,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ganzi
+  rotate: false
+  xy: 0, 29
+  size: 116, 50
+  orig: 116, 50
+  offset: 0, 0
+  index: -1
+yifu1
+  rotate: false
+  xy: 265, 53
+  size: 101, 371
+  orig: 104, 371
+  offset: 3, 0
+  index: -1
+yifu2
+  rotate: false
+  xy: 161, 52
+  size: 104, 372
+  orig: 104, 372
+  offset: 0, 0
+  index: -1
+yifu3
+  rotate: false
+  xy: 366, 58
+  size: 58, 366
+  orig: 58, 366
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 79
+  size: 161, 345
+  orig: 168, 376
+  offset: 7, 15
+  index: -1

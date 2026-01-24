@@ -1,0 +1,48 @@
+
+room5_chuang_3.png
+size: 899,899
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuang
+  rotate: false
+  xy: 0, 425
+  size: 776, 474
+  orig: 776, 474
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 76
+  size: 658, 349
+  orig: 673, 362
+  offset: 8, 7
+  index: -1
+zheng1
+  rotate: true
+  xy: 658, 264
+  size: 161, 115
+  orig: 163, 117
+  offset: 1, 1
+  index: -1
+zheng2
+  rotate: true
+  xy: 776, 463
+  size: 201, 110
+  orig: 203, 112
+  offset: 1, 1
+  index: -1
+zheng3
+  rotate: true
+  xy: 776, 295
+  size: 168, 123
+  orig: 170, 125
+  offset: 1, 1
+  index: -1
+zheng4
+  rotate: true
+  xy: 776, 664
+  size: 235, 122
+  orig: 243, 124
+  offset: 7, 1
+  index: -1

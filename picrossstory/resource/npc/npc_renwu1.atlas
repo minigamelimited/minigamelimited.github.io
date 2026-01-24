@@ -1,0 +1,167 @@
+
+npc_renwu1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: false
+  xy: 0, 128
+  size: 86, 127
+  orig: 86, 127
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 223, 149
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+muzhi
+  rotate: true
+  xy: 152, 137
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 0, 32
+  size: 96, 107
+  orig: 96, 107
+  offset: 0, 0
+  index: -1
+xiajiemao
+  rotate: true
+  xy: 234, 99
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 181, 44
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+youfasi
+  rotate: false
+  xy: 181, 105
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+youjiemao
+  rotate: false
+  xy: 222, 194
+  size: 17, 9
+  orig: 18, 15
+  offset: 1, 5
+  index: -1
+youshou 2
+  rotate: true
+  xy: 107, 49
+  size: 19, 24
+  orig: 20, 26
+  offset: 0, 2
+  index: -1
+youshoubi
+  rotate: true
+  xy: 86, 190
+  size: 65, 121
+  orig: 67, 121
+  offset: 2, 0
+  index: -1
+youshoubi2
+  rotate: true
+  xy: 107, 68
+  size: 65, 74
+  orig: 67, 74
+  offset: 1, 0
+  index: -1
+youxiaozhi
+  rotate: false
+  xy: 164, 139
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+youyanpi
+  rotate: true
+  xy: 238, 154
+  size: 17, 16
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+youyanzhu
+  rotate: true
+  xy: 207, 190
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: true
+  xy: 211, 82
+  size: 32, 22
+  orig: 33, 24
+  offset: 0, 1
+  index: -1
+zuofasi
+  rotate: false
+  xy: 152, 146
+  size: 71, 44
+  orig: 71, 61
+  offset: 0, 17
+  index: -1
+zuojiemao
+  rotate: true
+  xy: 238, 171
+  size: 23, 17
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 86, 133
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 211, 114
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+zuoyanpi
+  rotate: true
+  xy: 233, 75
+  size: 24, 21
+  orig: 26, 24
+  offset: 0, 1
+  index: -1
+zuoyanzhu
+  rotate: false
+  xy: 131, 53
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+zuoyixiu
+  rotate: false
+  xy: 207, 203
+  size: 39, 52
+  orig: 41, 52
+  offset: 2, 0
+  index: -1
+zuoyixiu2
+  rotate: true
+  xy: 181, 70
+  size: 35, 30
+  orig: 39, 30
+  offset: 3, 0
+  index: -1

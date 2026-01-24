@@ -1,0 +1,97 @@
+
+room2_chuang_5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei1
+  rotate: false
+  xy: 978, 819
+  size: 35, 35
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+bei2
+  rotate: true
+  xy: 978, 854
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+beizi1
+  rotate: true
+  xy: 403, 270
+  size: 316, 205
+  orig: 316, 205
+  offset: 0, 0
+  index: -1
+beizi2
+  rotate: true
+  xy: 608, 31
+  size: 308, 247
+  orig: 310, 247
+  offset: 1, 0
+  index: -1
+chuang
+  rotate: true
+  xy: 0, 0
+  size: 586, 403
+  orig: 586, 403
+  offset: 0, 0
+  index: -1
+chuangyingzi
+  rotate: false
+  xy: 0, 586
+  size: 622, 425
+  orig: 626, 433
+  offset: 1, 3
+  index: -1
+ditan
+  rotate: true
+  xy: 622, 339
+  size: 672, 281
+  orig: 672, 281
+  offset: 0, 0
+  index: -1
+zheng1
+  rotate: false
+  xy: 903, 429
+  size: 77, 62
+  orig: 77, 62
+  offset: 0, 0
+  index: -1
+zheng2
+  rotate: false
+  xy: 903, 491
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+zheng3
+  rotate: false
+  xy: 903, 912
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+zheng4
+  rotate: false
+  xy: 903, 557
+  size: 101, 91
+  orig: 101, 91
+  offset: 0, 0
+  index: -1
+zheng5
+  rotate: true
+  xy: 903, 648
+  size: 123, 80
+  orig: 123, 80
+  offset: 0, 0
+  index: -1
+zhuo
+  rotate: true
+  xy: 903, 771
+  size: 141, 75
+  orig: 141, 75
+  offset: 0, 0
+  index: -1

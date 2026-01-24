@@ -1,0 +1,41 @@
+
+room4_lajitong_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu
+  rotate: true
+  xy: 816, 830
+  size: 112, 126
+  orig: 112, 127
+  offset: 0, 1
+  index: -1
+gaizi
+  rotate: false
+  xy: 376, 720
+  size: 440, 222
+  orig: 443, 224
+  offset: 2, 1
+  index: -1
+xiangzi
+  rotate: false
+  xy: 0, 589
+  size: 376, 353
+  orig: 378, 357
+  offset: 1, 2
+  index: -1
+xuedi
+  rotate: false
+  xy: 376, 468
+  size: 376, 252
+  orig: 378, 279
+  offset: 1, 24
+  index: -1
+yilaguan
+  rotate: false
+  xy: 816, 719
+  size: 125, 111
+  orig: 127, 113
+  offset: 1, 1
+  index: -1

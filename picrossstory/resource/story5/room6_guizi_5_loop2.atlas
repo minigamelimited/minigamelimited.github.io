@@ -1,0 +1,48 @@
+
+room6_guizi_5_loop2.png
+size: 534,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 325, 34
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+chuangli
+  rotate: false
+  xy: 415, 123
+  size: 119, 427
+  orig: 119, 427
+  offset: 0, 0
+  index: -1
+guizi
+  rotate: false
+  xy: 0, 58
+  size: 187, 492
+  orig: 187, 492
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 187, 0
+  size: 138, 129
+  orig: 138, 129
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 393, 20
+  size: 113, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 187, 129
+  size: 228, 421
+  orig: 230, 423
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+button_character_09.png
+size: 301,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9
+  rotate: true
+  xy: 2, 2
+  size: 98, 112
+  orig: 98, 112
+  offset: 0, 0
+  index: -1
+9_b
+  rotate: true
+  xy: 116, 2
+  size: 98, 112
+  orig: 98, 112
+  offset: 0, 0
+  index: -1
+bg_npc
+  rotate: false
+  xy: 230, 31
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

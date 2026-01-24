@@ -1,0 +1,223 @@
+
+efx_build_glow.png
+size: 2033,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_sanshe_00
+  rotate: true
+  xy: 1431, 124
+  size: 121, 119
+  orig: 148, 148
+  offset: 16, 11
+  index: -1
+glow_sanshe_01
+  rotate: false
+  xy: 440, 2
+  size: 119, 114
+  orig: 148, 148
+  offset: 17, 15
+  index: -1
+glow_sanshe_02
+  rotate: false
+  xy: 1794, 129
+  size: 119, 116
+  orig: 148, 148
+  offset: 16, 14
+  index: -1
+glow_sanshe_03
+  rotate: false
+  xy: 321, 3
+  size: 117, 112
+  orig: 148, 148
+  offset: 17, 17
+  index: -1
+glow_sanshe_04
+  rotate: false
+  xy: 199, 2
+  size: 120, 113
+  orig: 148, 148
+  offset: 16, 17
+  index: -1
+glow_sanshe_05
+  rotate: true
+  xy: 1915, 126
+  size: 119, 114
+  orig: 148, 148
+  offset: 16, 16
+  index: -1
+glow_sanshe_06
+  rotate: false
+  xy: 1056, 2
+  size: 122, 118
+  orig: 148, 148
+  offset: 14, 14
+  index: -1
+glow_sanshe_07
+  rotate: false
+  xy: 1551, 3
+  size: 121, 119
+  orig: 148, 148
+  offset: 13, 13
+  index: -1
+glow_sanshe_08
+  rotate: true
+  xy: 1552, 124
+  size: 121, 119
+  orig: 148, 148
+  offset: 13, 14
+  index: -1
+glow_sanshe_09
+  rotate: true
+  xy: 1674, 3
+  size: 119, 118
+  orig: 148, 148
+  offset: 12, 15
+  index: -1
+glow_sanshe_10
+  rotate: false
+  xy: 685, 2
+  size: 119, 115
+  orig: 148, 148
+  offset: 12, 17
+  index: -1
+glow_sanshe_11
+  rotate: false
+  xy: 1914, 7
+  size: 117, 117
+  orig: 148, 148
+  offset: 12, 18
+  index: -1
+glow_sanshe_12
+  rotate: false
+  xy: 1794, 9
+  size: 118, 118
+  orig: 148, 148
+  offset: 12, 15
+  index: -1
+glow_sanshe_13
+  rotate: true
+  xy: 1673, 124
+  size: 121, 119
+  orig: 148, 148
+  offset: 10, 14
+  index: -1
+glow_sanshe_14
+  rotate: false
+  xy: 1304, 2
+  size: 121, 118
+  orig: 148, 148
+  offset: 11, 16
+  index: -1
+glow_sanshe_15
+  rotate: false
+  xy: 1180, 2
+  size: 122, 118
+  orig: 148, 148
+  offset: 11, 17
+  index: -1
+glow_sanshe_16
+  rotate: false
+  xy: 806, 2
+  size: 122, 116
+  orig: 148, 148
+  offset: 10, 19
+  index: -1
+glow_sanshe_17
+  rotate: false
+  xy: 561, 2
+  size: 122, 115
+  orig: 148, 148
+  offset: 11, 21
+  index: -1
+glow_sanshe_18
+  rotate: false
+  xy: 930, 2
+  size: 124, 117
+  orig: 148, 148
+  offset: 12, 18
+  index: -1
+glow_sanshe_19
+  rotate: true
+  xy: 1187, 122
+  size: 123, 119
+  orig: 148, 148
+  offset: 13, 16
+  index: -1
+glow_sanshe_20
+  rotate: true
+  xy: 698, 120
+  size: 125, 118
+  orig: 148, 148
+  offset: 13, 15
+  index: -1
+glow_sanshe_21
+  rotate: true
+  xy: 1065, 122
+  size: 123, 120
+  orig: 148, 148
+  offset: 15, 13
+  index: -1
+glow_sanshe_22
+  rotate: true
+  xy: 941, 122
+  size: 123, 122
+  orig: 148, 148
+  offset: 14, 12
+  index: -1
+glow_sanshe_23
+  rotate: true
+  xy: 818, 121
+  size: 124, 121
+  orig: 148, 148
+  offset: 14, 12
+  index: -1
+glow_sanshe_24
+  rotate: true
+  xy: 199, 117
+  size: 128, 123
+  orig: 148, 148
+  offset: 13, 11
+  index: -1
+glow_sanshe_25
+  rotate: true
+  xy: 324, 118
+  size: 127, 121
+  orig: 148, 148
+  offset: 14, 12
+  index: -1
+glow_sanshe_26
+  rotate: true
+  xy: 447, 119
+  size: 126, 124
+  orig: 148, 148
+  offset: 14, 10
+  index: -1
+glow_sanshe_27
+  rotate: true
+  xy: 573, 119
+  size: 126, 123
+  orig: 148, 148
+  offset: 14, 9
+  index: -1
+glow_sanshe_28
+  rotate: true
+  xy: 1308, 123
+  size: 122, 121
+  orig: 148, 148
+  offset: 16, 10
+  index: -1
+glow_sanshe_29
+  rotate: false
+  xy: 1427, 2
+  size: 122, 119
+  orig: 148, 148
+  offset: 16, 11
+  index: -1
+yuan2
+  rotate: true
+  xy: 2, 46
+  size: 199, 195
+  orig: 199, 196
+  offset: 0, 0
+  index: -1

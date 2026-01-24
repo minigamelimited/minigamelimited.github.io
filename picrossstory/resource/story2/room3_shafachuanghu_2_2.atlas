@@ -1,0 +1,146 @@
+
+room3_shafachuanghu_2_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozheng1
+  rotate: true
+  xy: 228, 137
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+baozheng2
+  rotate: false
+  xy: 286, 156
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+baozheng3
+  rotate: false
+  xy: 191, 0
+  size: 67, 50
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+chuang1
+  rotate: false
+  xy: 0, 678
+  size: 272, 343
+  orig: 277, 347
+  offset: 3, 2
+  index: -1
+dafen
+  rotate: true
+  xy: 406, 391
+  size: 88, 82
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+fen1
+  rotate: false
+  xy: 258, 17
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+fen2
+  rotate: false
+  xy: 395, 685
+  size: 91, 100
+  orig: 95, 104
+  offset: 1, 3
+  index: -1
+fen3
+  rotate: false
+  xy: 275, 50
+  size: 89, 87
+  orig: 92, 89
+  offset: 2, 1
+  index: -1
+fen4
+  rotate: false
+  xy: 469, 253
+  size: 128, 138
+  orig: 131, 141
+  offset: 1, 2
+  index: -1
+shafa5
+  rotate: true
+  xy: 0, 365
+  size: 313, 211
+  orig: 314, 211
+  offset: 1, 0
+  index: -1
+shafachuanglian1
+  rotate: false
+  xy: 272, 785
+  size: 149, 236
+  orig: 149, 236
+  offset: 0, 0
+  index: -1
+shafachuanglian12
+  rotate: true
+  xy: 0, 12
+  size: 38, 191
+  orig: 38, 191
+  offset: 0, 0
+  index: -1
+shafagui5
+  rotate: true
+  xy: 383, 479
+  size: 199, 137
+  orig: 200, 138
+  offset: 1, 0
+  index: -1
+shafaguiying5
+  rotate: false
+  xy: 211, 369
+  size: 195, 72
+  orig: 197, 78
+  offset: 1, 1
+  index: -1
+shafaqian
+  rotate: false
+  xy: 272, 678
+  size: 123, 107
+  orig: 126, 107
+  offset: 2, 0
+  index: -1
+shafaying5
+  rotate: false
+  xy: 0, 50
+  size: 275, 79
+  orig: 277, 90
+  offset: 1, 1
+  index: -1
+xuehua1
+  rotate: true
+  xy: 211, 441
+  size: 237, 172
+  orig: 237, 172
+  offset: 0, 0
+  index: -1
+xuehua2
+  rotate: true
+  xy: 0, 129
+  size: 236, 228
+  orig: 237, 228
+  offset: 1, 0
+  index: -1
+xuehua3
+  rotate: false
+  xy: 228, 210
+  size: 241, 159
+  orig: 242, 159
+  offset: 1, 0
+  index: -1
+xuehua4
+  rotate: false
+  xy: 364, 48
+  size: 230, 162
+  orig: 231, 162
+  offset: 0, 0
+  index: -1

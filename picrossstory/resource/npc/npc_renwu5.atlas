@@ -1,0 +1,132 @@
+
+npc_renwu5.png
+size: 251,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan_you
+  rotate: false
+  xy: 230, 179
+  size: 13, 9
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+biyan_zuo
+  rotate: false
+  xy: 179, 5
+  size: 19, 13
+  orig: 22, 15
+  offset: 1, 1
+  index: -1
+bozi
+  rotate: false
+  xy: 0, 97
+  size: 149, 154
+  orig: 149, 195
+  offset: 0, 41
+  index: -1
+dabi_you
+  rotate: true
+  xy: 0, 8
+  size: 89, 97
+  orig: 89, 104
+  offset: 0, 7
+  index: -1
+dabi_zuo
+  rotate: true
+  xy: 149, 138
+  size: 38, 91
+  orig: 38, 129
+  offset: 0, 38
+  index: -1
+face
+  rotate: true
+  xy: 97, 18
+  size: 79, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: false
+  xy: 149, 176
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+liuhai_a
+  rotate: true
+  xy: 208, 197
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+liuhai_b
+  rotate: true
+  xy: 194, 44
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+liuhai_c
+  rotate: false
+  xy: 97, 0
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+shangyanxian_you
+  rotate: false
+  xy: 18, 2
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+shangyanxian_zuo
+  rotate: false
+  xy: 230, 188
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+yanbai_you
+  rotate: false
+  xy: 208, 125
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+yanbai_zuo
+  rotate: false
+  xy: 208, 177
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 149, 104
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+yanqiu_you
+  rotate: false
+  xy: 0, 0
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+yanqiu_zuo
+  rotate: true
+  xy: 9, 0
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 154, 2
+  size: 25, 16
+  orig: 25, 17
+  offset: 0, 0
+  index: -1

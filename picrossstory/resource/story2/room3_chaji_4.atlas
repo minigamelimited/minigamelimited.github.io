@@ -1,0 +1,132 @@
+
+room3_chaji_4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chajdanjuan
+  rotate: false
+  xy: 141, 155
+  size: 147, 65
+  orig: 147, 67
+  offset: 0, 1
+  index: -1
+chaji2
+  rotate: true
+  xy: 666, 128
+  size: 367, 235
+  orig: 369, 237
+  offset: 1, 1
+  index: -1
+chajidian2
+  rotate: false
+  xy: 216, 43
+  size: 295, 112
+  orig: 295, 112
+  offset: 0, 0
+  index: -1
+dangao1
+  rotate: false
+  xy: 401, 186
+  size: 33, 34
+  orig: 35, 37
+  offset: 1, 1
+  index: -1
+dangao2
+  rotate: true
+  xy: 401, 156
+  size: 30, 33
+  orig: 36, 37
+  offset: 3, 1
+  index: -1
+dangao4
+  rotate: false
+  xy: 0, 86
+  size: 98, 42
+  orig: 102, 46
+  offset: 1, 3
+  index: -1
+ditan
+  rotate: false
+  xy: 0, 220
+  size: 666, 275
+  orig: 666, 275
+  offset: 0, 0
+  index: -1
+ditanjuan
+  rotate: true
+  xy: 901, 76
+  size: 419, 107
+  orig: 419, 109
+  offset: 0, 2
+  index: -1
+shu4
+  rotate: false
+  xy: 288, 159
+  size: 113, 61
+  orig: 113, 61
+  offset: 0, 0
+  index: -1
+shuye1
+  rotate: true
+  xy: 155, 87
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+shuye2
+  rotate: false
+  xy: 98, 80
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+shuye3
+  rotate: false
+  xy: 159, 48
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+xiguan
+  rotate: false
+  xy: 1008, 484
+  size: 13, 11
+  orig: 15, 13
+  offset: 1, 1
+  index: -1
+yinliao4
+  rotate: true
+  xy: 159, 11
+  size: 37, 40
+  orig: 40, 42
+  offset: 1, 1
+  index: -1
+zhen2
+  rotate: true
+  xy: 511, 7
+  size: 213, 98
+  orig: 213, 101
+  offset: 0, 1
+  index: -1
+zhentou2
+  rotate: false
+  xy: 0, 148
+  size: 141, 72
+  orig: 141, 72
+  offset: 0, 0
+  index: -1
+zhentou3
+  rotate: false
+  xy: 0, 0
+  size: 159, 76
+  orig: 160, 76
+  offset: 1, 0
+  index: -1
+zhenying2
+  rotate: false
+  xy: 609, 33
+  size: 202, 95
+  orig: 208, 100
+  offset: 4, 3
+  index: -1

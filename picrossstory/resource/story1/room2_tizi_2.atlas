@@ -1,0 +1,167 @@
+
+room2_tizi_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BAN1
+  rotate: true
+  xy: 367, 120
+  size: 102, 37
+  orig: 105, 39
+  offset: 2, 1
+  index: -1
+BAN2
+  rotate: true
+  xy: 296, 88
+  size: 102, 32
+  orig: 104, 34
+  offset: 1, 1
+  index: -1
+BAN3
+  rotate: true
+  xy: 360, 4
+  size: 116, 20
+  orig: 118, 22
+  offset: 1, 1
+  index: -1
+BAN4
+  rotate: true
+  xy: 380, 25
+  size: 95, 15
+  orig: 97, 17
+  offset: 1, 1
+  index: -1
+BAN5
+  rotate: false
+  xy: 380, 7
+  size: 83, 18
+  orig: 85, 20
+  offset: 1, 1
+  index: -1
+BAN6
+  rotate: false
+  xy: 260, 190
+  size: 107, 21
+  orig: 109, 23
+  offset: 1, 1
+  index: -1
+BAN7
+  rotate: true
+  xy: 328, 88
+  size: 102, 32
+  orig: 104, 34
+  offset: 1, 1
+  index: -1
+BAN8
+  rotate: true
+  xy: 395, 32
+  size: 88, 28
+  orig: 90, 31
+  offset: 1, 1
+  index: -1
+C1
+  rotate: true
+  xy: 423, 38
+  size: 48, 24
+  orig: 50, 26
+  offset: 1, 1
+  index: -1
+C2
+  rotate: true
+  xy: 404, 131
+  size: 54, 18
+  orig: 58, 20
+  offset: 1, 1
+  index: -1
+D1
+  rotate: false
+  xy: 404, 185
+  size: 32, 37
+  orig: 34, 39
+  offset: 1, 1
+  index: -1
+D2
+  rotate: false
+  xy: 423, 86
+  size: 31, 34
+  orig: 33, 36
+  offset: 1, 1
+  index: -1
+D3
+  rotate: true
+  xy: 422, 120
+  size: 31, 37
+  orig: 33, 39
+  offset: 1, 1
+  index: -1
+D4
+  rotate: false
+  xy: 422, 151
+  size: 32, 34
+  orig: 34, 36
+  offset: 1, 1
+  index: -1
+Z1
+  rotate: false
+  xy: 260, 211
+  size: 56, 298
+  orig: 58, 300
+  offset: 1, 1
+  index: -1
+Z2
+  rotate: false
+  xy: 316, 214
+  size: 36, 295
+  orig: 39, 297
+  offset: 1, 1
+  index: -1
+Z3
+  rotate: false
+  xy: 466, 253
+  size: 35, 256
+  orig: 37, 258
+  offset: 1, 1
+  index: -1
+Z4
+  rotate: false
+  xy: 409, 224
+  size: 57, 285
+  orig: 59, 287
+  offset: 1, 1
+  index: -1
+Z5
+  rotate: true
+  xy: 0, 125
+  size: 60, 296
+  orig: 62, 298
+  offset: 1, 1
+  index: -1
+Z6
+  rotate: false
+  xy: 466, 0
+  size: 31, 253
+  orig: 33, 255
+  offset: 1, 1
+  index: -1
+Z7
+  rotate: true
+  xy: 0, 93
+  size: 32, 243
+  orig: 34, 245
+  offset: 1, 1
+  index: -1
+Z8
+  rotate: false
+  xy: 352, 222
+  size: 57, 287
+  orig: 59, 289
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 185
+  size: 260, 324
+  orig: 268, 330
+  offset: 4, 3
+  index: -1

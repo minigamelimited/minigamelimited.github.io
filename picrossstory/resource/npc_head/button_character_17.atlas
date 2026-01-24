@@ -1,0 +1,27 @@
+
+button_character_17.png
+size: 301,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17
+  rotate: true
+  xy: 2, 2
+  size: 74, 112
+  orig: 74, 112
+  offset: 0, 0
+  index: -1
+17_b
+  rotate: true
+  xy: 116, 2
+  size: 74, 112
+  orig: 74, 112
+  offset: 0, 0
+  index: -1
+bg_npc
+  rotate: false
+  xy: 230, 7
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

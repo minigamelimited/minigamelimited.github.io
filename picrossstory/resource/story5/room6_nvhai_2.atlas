@@ -1,0 +1,167 @@
+
+room6_nvhai_2.png
+size: 639,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangbangtang
+  rotate: true
+  xy: 274, 241
+  size: 96, 161
+  orig: 98, 166
+  offset: 1, 1
+  index: -1
+fabianyou
+  rotate: false
+  xy: 258, 128
+  size: 124, 113
+  orig: 124, 113
+  offset: 0, 0
+  index: -1
+fabin
+  rotate: false
+  xy: 0, 93
+  size: 136, 154
+  orig: 138, 156
+  offset: 1, 1
+  index: -1
+fasi1
+  rotate: false
+  xy: 435, 226
+  size: 138, 111
+  orig: 138, 111
+  offset: 0, 0
+  index: -1
+fasi2
+  rotate: false
+  xy: 136, 109
+  size: 122, 138
+  orig: 122, 141
+  offset: 0, 3
+  index: -1
+jiemao_y
+  rotate: true
+  xy: 573, 202
+  size: 73, 63
+  orig: 76, 67
+  offset: 3, 1
+  index: -1
+jiemao_z
+  rotate: false
+  xy: 554, 0
+  size: 56, 59
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 0, 247
+  size: 274, 272
+  orig: 276, 274
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 274, 337
+  size: 182, 360
+  orig: 225, 360
+  offset: 33, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 382, 158
+  size: 165, 68
+  orig: 167, 70
+  offset: 1, 1
+  index: -1
+yanpi _y
+  rotate: false
+  xy: 573, 275
+  size: 66, 62
+  orig: 73, 66
+  offset: 3, 3
+  index: -1
+yanpi_z
+  rotate: true
+  xy: 492, 6
+  size: 53, 62
+  orig: 56, 64
+  offset: 2, 2
+  index: -1
+yanzhu_y
+  rotate: false
+  xy: 441, 19
+  size: 51, 53
+  orig: 53, 55
+  offset: 1, 1
+  index: -1
+yanzhu_z
+  rotate: true
+  xy: 547, 161
+  size: 41, 49
+  orig: 43, 51
+  offset: 1, 1
+  index: -1
+youdabi
+  rotate: true
+  xy: 382, 72
+  size: 86, 111
+  orig: 86, 111
+  offset: 0, 0
+  index: -1
+youfaqia
+  rotate: true
+  xy: 367, 24
+  size: 48, 74
+  orig: 50, 76
+  offset: 1, 1
+  index: -1
+youmeimao
+  rotate: false
+  xy: 257, 7
+  size: 86, 40
+  orig: 86, 42
+  offset: 0, 2
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 493, 59
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: true
+  xy: 258, 47
+  size: 81, 109
+  orig: 85, 109
+  offset: 4, 0
+  index: -1
+zuofabian
+  rotate: false
+  xy: 142, 5
+  size: 115, 104
+  orig: 115, 104
+  offset: 0, 0
+  index: -1
+zuofaqia
+  rotate: true
+  xy: 584, 94
+  size: 51, 50
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+zuomeimao
+  rotate: true
+  xy: 596, 145
+  size: 57, 30
+  orig: 57, 31
+  offset: 0, 1
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 0, 1
+  size: 92, 142
+  orig: 96, 142
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+room5_chuanghu_3.png
+size: 371,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanghu
+  rotate: false
+  xy: 0, 0
+  size: 306, 371
+  orig: 308, 373
+  offset: 1, 1
+  index: -1

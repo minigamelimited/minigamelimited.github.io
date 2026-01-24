@@ -1,0 +1,34 @@
+
+room5_dengzi_4.png
+size: 523,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baijian
+  rotate: false
+  xy: 414, 289
+  size: 84, 234
+  orig: 86, 237
+  offset: 1, 2
+  index: -1
+shafa
+  rotate: false
+  xy: 0, 0
+  size: 356, 286
+  orig: 358, 289
+  offset: 1, 1
+  index: -1
+xiaodeng
+  rotate: true
+  xy: 356, 124
+  size: 162, 135
+  orig: 164, 137
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 286
+  size: 414, 237
+  orig: 419, 243
+  offset: 1, 3
+  index: -1

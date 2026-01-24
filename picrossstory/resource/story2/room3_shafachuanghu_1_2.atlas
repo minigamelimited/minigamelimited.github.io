@@ -1,0 +1,125 @@
+
+room3_shafachuanghu_1_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuang1
+  rotate: false
+  xy: 0, 162
+  size: 272, 343
+  orig: 277, 347
+  offset: 3, 2
+  index: -1
+dafen
+  rotate: false
+  xy: 584, 332
+  size: 88, 82
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+fen1
+  rotate: false
+  xy: 982, 472
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+fen2
+  rotate: true
+  xy: 606, 414
+  size: 91, 100
+  orig: 95, 104
+  offset: 1, 3
+  index: -1
+fen3
+  rotate: false
+  xy: 495, 332
+  size: 89, 87
+  orig: 92, 89
+  offset: 2, 1
+  index: -1
+fen4
+  rotate: true
+  xy: 871, 0
+  size: 128, 138
+  orig: 131, 141
+  offset: 1, 2
+  index: -1
+shafa1
+  rotate: true
+  xy: 272, 174
+  size: 331, 223
+  orig: 336, 227
+  offset: 2, 2
+  index: -1
+shafachuanglian1
+  rotate: true
+  xy: 708, 128
+  size: 149, 236
+  orig: 149, 236
+  offset: 0, 0
+  index: -1
+shafachuanglian12
+  rotate: false
+  xy: 944, 314
+  size: 38, 191
+  orig: 38, 191
+  offset: 0, 0
+  index: -1
+shafagui1
+  rotate: false
+  xy: 708, 19
+  size: 163, 109
+  orig: 168, 113
+  offset: 3, 2
+  index: -1
+shafagui12
+  rotate: false
+  xy: 944, 148
+  size: 60, 58
+  orig: 61, 59
+  offset: 1, 0
+  index: -1
+shafaguixue1
+  rotate: true
+  xy: 944, 206
+  size: 108, 64
+  orig: 114, 68
+  offset: 3, 2
+  index: -1
+shafaguixue12
+  rotate: false
+  xy: 495, 419
+  size: 111, 86
+  orig: 113, 88
+  offset: 1, 1
+  index: -1
+xuehua1
+  rotate: false
+  xy: 471, 2
+  size: 237, 172
+  orig: 237, 172
+  offset: 0, 0
+  index: -1
+xuehua2
+  rotate: false
+  xy: 708, 277
+  size: 236, 228
+  orig: 237, 228
+  offset: 1, 0
+  index: -1
+xuehua3
+  rotate: false
+  xy: 0, 3
+  size: 241, 159
+  orig: 242, 159
+  offset: 1, 0
+  index: -1
+xuehua4
+  rotate: false
+  xy: 241, 0
+  size: 230, 162
+  orig: 231, 162
+  offset: 0, 0
+  index: -1

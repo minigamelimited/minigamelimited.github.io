@@ -1,0 +1,55 @@
+
+room3_chaji_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chaji2
+  rotate: true
+  xy: 773, 98
+  size: 367, 235
+  orig: 369, 237
+  offset: 1, 1
+  index: -1
+ditan
+  rotate: false
+  xy: 0, 190
+  size: 666, 275
+  orig: 666, 275
+  offset: 0, 0
+  index: -1
+ditanjuan
+  rotate: true
+  xy: 666, 46
+  size: 419, 107
+  orig: 419, 109
+  offset: 0, 2
+  index: -1
+zhen2
+  rotate: false
+  xy: 773, 0
+  size: 213, 98
+  orig: 213, 101
+  offset: 0, 1
+  index: -1
+zhentou2
+  rotate: false
+  xy: 361, 118
+  size: 141, 72
+  orig: 141, 72
+  offset: 0, 0
+  index: -1
+zhentou3
+  rotate: false
+  xy: 202, 114
+  size: 159, 76
+  orig: 160, 76
+  offset: 1, 0
+  index: -1
+zhenying2
+  rotate: false
+  xy: 0, 95
+  size: 202, 95
+  orig: 208, 100
+  offset: 4, 3
+  index: -1

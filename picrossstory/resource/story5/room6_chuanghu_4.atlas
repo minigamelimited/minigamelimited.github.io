@@ -1,0 +1,48 @@
+
+room6_chuanghu_4.png
+size: 793,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanghu
+  rotate: false
+  xy: 402, 0
+  size: 310, 362
+  orig: 314, 366
+  offset: 2, 2
+  index: -1
+chuanglian
+  rotate: true
+  xy: 0, 1
+  size: 361, 402
+  orig: 364, 404
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 712, 266
+  size: 79, 96
+  orig: 79, 96
+  offset: 0, 0
+  index: -1
+huayingzi
+  rotate: true
+  xy: 772, 216
+  size: 50, 21
+  orig: 52, 23
+  offset: 1, 1
+  index: -1
+ldyingzi
+  rotate: false
+  xy: 712, 228
+  size: 60, 38
+  orig: 65, 41
+  offset: 3, 2
+  index: -1
+lingdang
+  rotate: true
+  xy: 712, 183
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
