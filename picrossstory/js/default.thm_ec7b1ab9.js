@@ -10,7 +10,7 @@ window.skins=window.skins||{};
                 window.generateEUI = window.generateEUI||{};
                 generateEUI.paths = generateEUI.paths||{};
                 generateEUI.styles = undefined;
-                generateEUI.skins = {"Scene.Game.Main":"resource/eui_skins/game/Main.exml","Scene.Cover.Main":"resource/eui_skins/cover/Main.exml","Scene.Common":"resource/eui_skins/Common.exml","Scene.Game.Story0":"resource/eui_skins/game/Story.exml","Scene.Game.Story1":"resource/eui_skins/game/Story.exml","Scene.Game.Story2":"resource/eui_skins/game/Story.exml","Scene.Game.Story3":"resource/eui_skins/game/Story.exml","Scene.Game.Story4":"resource/eui_skins/game/Story.exml","Scene.Game.Story5":"resource/eui_skins/game/Story.exml","Scene.Game.LvCell":"resource/eui_skins/game/LvCell.exml","Scene.Menu.LvCell2":"resource/eui_skins/menu/LvCell2.exml","Scene.Menu.Main":"resource/eui_skins/menu/Main.exml","Scene.Game.CompleteEffect":"resource/eui_skins/game/CompleteEffect.exml","Scene.Picross.Main":"resource/eui_skins/picross/Main.exml","Scene.Picross.CptTag":"resource/eui_skins/picross/CptTag.exml","Scene.Picross.NormalCube":"resource/eui_skins/picross/Cube.exml","Scene.Picross.GameOver":"resource/eui_skins/picross/GameOver.exml","Scene.Picross.NumCube":"resource/eui_skins/picross/NumCube.exml"};generateEUI.paths['resource/eui_skins/Common.exml'] = window.skins.Common = (function (_super) {
+                generateEUI.skins = {"Scene.Game.Main":"resource/eui_skins/game/Main.exml","Scene.Cover.Main":"resource/eui_skins/cover/Main.exml","Scene.Common":"resource/eui_skins/Common.exml","Scene.Game.Story0":"resource/eui_skins/game/Story.exml","Scene.Game.Story1":"resource/eui_skins/game/Story.exml","Scene.Game.Story2":"resource/eui_skins/game/Story.exml","Scene.Game.Story3":"resource/eui_skins/game/Story.exml","Scene.Game.Story4":"resource/eui_skins/game/Story.exml","Scene.Game.Story5":"resource/eui_skins/game/Story.exml","Scene.Game.LvCell":"resource/eui_skins/game/LvCell.exml","Scene.Menu.LvCell2":"resource/eui_skins/menu/LvCell2.exml","Scene.Menu.Main":"resource/eui_skins/menu/Main.exml","Scene.Game.CompleteEffect":"resource/eui_skins/game/CompleteEffect.exml","Scene.Picross.Main":"resource/eui_skins/picross/Main.exml","Scene.Picross.CptTag":"resource/eui_skins/picross/CptTag.exml","Scene.Picross.NormalCube":"resource/eui_skins/picross/Cube.exml","Scene.Picross.GameOver":"resource/eui_skins/picross/GameOver.exml","Scene.Picross.NumCube":"resource/eui_skins/picross/NumCube.exml","LoadingUI":"resource/eui_skins/Loading.exml"};generateEUI.paths['resource/eui_skins/Common.exml'] = window.skins.Common = (function (_super) {
 	__extends(Common, _super);
 	function Common() {
 		_super.call(this);
@@ -505,6 +505,82 @@ window.skins=window.skins||{};
 		return t;
 	};
 	return Story;
+})(eui.Skin);generateEUI.paths['resource/eui_skins/LoadingProgress.exml'] = window.skins.LoadingProgress = (function (_super) {
+	__extends(LoadingProgress, _super);
+	function LoadingProgress() {
+		_super.call(this);
+		this.skinParts = ["thumb"];
+		
+		this.height = 67;
+		this.width = 654;
+		this.elementsContent = [this._Image1_i(),this.thumb_i()];
+	}
+	var _proto = LoadingProgress.prototype;
+
+	_proto._Image1_i = function () {
+		var t = new eui.Image();
+		t.horizontalCenter = 0;
+		t.source = "loading0_json.loading_bg";
+		t.verticalCenter = 0;
+		return t;
+	};
+	_proto.thumb_i = function () {
+		var t = new eui.Image();
+		this.thumb = t;
+		t.horizontalCenter = 0;
+		t.source = "loading0_json.loading_bar";
+		t.verticalCenter = -1;
+		return t;
+	};
+	return LoadingProgress;
+})(eui.Skin);generateEUI.paths['resource/eui_skins/Loading.exml'] = window.skins.Loading = (function (_super) {
+	__extends(Loading, _super);
+	function Loading() {
+		_super.call(this);
+		this.skinParts = ["pb_loading"];
+		
+		this.height = 1334;
+		this.width = 750;
+		this.elementsContent = [this._Image1_i(),this._Image2_i(),this._Image3_i(),this.pb_loading_i()];
+	}
+	var _proto = Loading.prototype;
+
+	_proto._Image1_i = function () {
+		var t = new eui.Image();
+		t.horizontalCenter = 0;
+		t.source = "logo_jpg";
+		t.verticalCenter = 0;
+		return t;
+	};
+	_proto._Image2_i = function () {
+		var t = new eui.Image();
+		t.horizontalCenter = 0;
+		t.source = "loading0_json.picross_logo";
+		t.verticalCenter = -476;
+		return t;
+	};
+	_proto._Image3_i = function () {
+		var t = new eui.Image();
+		t.horizontalCenter = 0;
+		t.source = "loading0_json.hua";
+		t.verticalCenter = 501;
+		t.zIndex = 98;
+		return t;
+	};
+	_proto.pb_loading_i = function () {
+		var t = new eui.ProgressBar();
+		this.pb_loading = t;
+		t.height = 67;
+		t.horizontalCenter = 0;
+		t.skinName = "skins.LoadingProgress";
+		t.slideDuration = 0;
+		t.value = 50;
+		t.verticalCenter = 474.5;
+		t.width = 654;
+		t.zIndex = 99;
+		return t;
+	};
+	return Loading;
 })(eui.Skin);generateEUI.paths['resource/eui_skins/menu/LvCell2.exml'] = window.skins.LvCell2 = (function (_super) {
 	__extends(LvCell2, _super);
 	function LvCell2() {

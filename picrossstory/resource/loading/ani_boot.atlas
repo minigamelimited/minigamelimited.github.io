@@ -1,0 +1,412 @@
+
+ani_boot.png
+size: 1935,904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: true
+  xy: 2, 243
+  size: 659, 485
+  orig: 659, 517
+  offset: 0, 0
+  index: -1
+mafahou
+  rotate: true
+  xy: 807, 504
+  size: 398, 384
+  orig: 398, 385
+  offset: 0, 0
+  index: -1
+maozuoyanpi
+  rotate: true
+  xy: 1781, 507
+  size: 50, 56
+  orig: 55, 59
+  offset: 1, 1
+  index: -1
+maqun
+  rotate: true
+  xy: 1486, 559
+  size: 343, 354
+  orig: 343, 361
+  offset: 0, 7
+  index: -1
+mashenti
+  rotate: false
+  xy: 1193, 534
+  size: 291, 368
+  orig: 291, 368
+  offset: 0, 0
+  index: -1
+mashouzhi
+  rotate: false
+  xy: 1879, 219
+  size: 54, 47
+  orig: 56, 49
+  offset: 1, 1
+  index: -1
+matou
+  rotate: false
+  xy: 489, 253
+  size: 269, 217
+  orig: 269, 217
+  offset: 0, 0
+  index: -1
+matoufa
+  rotate: false
+  xy: 711, 48
+  size: 332, 203
+  orig: 334, 205
+  offset: 1, 1
+  index: -1
+mayoubijie
+  rotate: false
+  xy: 631, 9
+  size: 77, 23
+  orig: 79, 26
+  offset: 1, 1
+  index: -1
+mayoudabi
+  rotate: true
+  xy: 1479, 266
+  size: 138, 280
+  orig: 142, 282
+  offset: 1, 1
+  index: -1
+mayoufa
+  rotate: true
+  xy: 1486, 406
+  size: 151, 293
+  orig: 151, 293
+  offset: 0, 0
+  index: -1
+mayoujiemao
+  rotate: false
+  xy: 1049, 2
+  size: 78, 46
+  orig: 78, 47
+  offset: 0, 1
+  index: -1
+mayouliuhai
+  rotate: true
+  xy: 886, 314
+  size: 188, 168
+  orig: 188, 168
+  offset: 0, 0
+  index: -1
+mayoushou
+  rotate: false
+  xy: 1842, 598
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+mayoutui
+  rotate: false
+  xy: 650, 473
+  size: 155, 429
+  orig: 155, 429
+  offset: 0, 0
+  index: -1
+mayouxiaobi
+  rotate: false
+  xy: 1348, 217
+  size: 127, 178
+  orig: 127, 178
+  offset: 0, 0
+  index: -1
+mayouyanbai
+  rotate: false
+  xy: 935, 254
+  size: 84, 58
+  orig: 86, 61
+  offset: 1, 2
+  index: -1
+mayouyanpi
+  rotate: false
+  xy: 1842, 734
+  size: 89, 56
+  orig: 91, 57
+  offset: 0, 1
+  index: -1
+mayouyanzhu
+  rotate: false
+  xy: 1179, 2
+  size: 38, 46
+  orig: 40, 48
+  offset: 1, 1
+  index: -1
+mazuobijie
+  rotate: false
+  xy: 710, 9
+  size: 56, 23
+  orig: 60, 28
+  offset: 2, 1
+  index: -1
+mazuodabi
+  rotate: true
+  xy: 1056, 317
+  size: 185, 270
+  orig: 192, 273
+  offset: 2, 1
+  index: -1
+mazuojiemao
+  rotate: false
+  xy: 768, 3
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+mazuoliuhai
+  rotate: true
+  xy: 305, 20
+  size: 221, 324
+  orig: 221, 329
+  offset: 0, 4
+  index: -1
+mazuoshou
+  rotate: true
+  xy: 1858, 115
+  size: 65, 72
+  orig: 68, 74
+  offset: 2, 1
+  index: -1
+mazuotui
+  rotate: false
+  xy: 489, 472
+  size: 159, 430
+  orig: 159, 430
+  offset: 0, 0
+  index: -1
+mazuoxiaobi
+  rotate: true
+  xy: 631, 34
+  size: 217, 78
+  orig: 217, 78
+  offset: 0, 0
+  index: -1
+mazuoyanbai
+  rotate: true
+  xy: 1753, 5
+  size: 49, 65
+  orig: 51, 73
+  offset: 1, 4
+  index: -1
+mazuoyanzhu
+  rotate: false
+  xy: 881, 3
+  size: 33, 43
+  orig: 35, 45
+  offset: 1, 1
+  index: -1
+qiu1
+  rotate: true
+  xy: 1328, 397
+  size: 60, 149
+  orig: 62, 152
+  offset: 1, 2
+  index: -1
+qiu2
+  rotate: true
+  xy: 1328, 459
+  size: 73, 150
+  orig: 75, 152
+  offset: 1, 1
+  index: -1
+wa_gaog1
+  rotate: false
+  xy: 144, 3
+  size: 12, 9
+  orig: 14, 11
+  offset: 1, 1
+  index: -1
+wa_gaog2
+  rotate: false
+  xy: 158, 5
+  size: 13, 7
+  orig: 15, 9
+  offset: 1, 1
+  index: -1
+wahoufa
+  rotate: true
+  xy: 1477, 5
+  size: 259, 274
+  orig: 259, 289
+  offset: 0, 0
+  index: -1
+waliuhai
+  rotate: true
+  xy: 1761, 201
+  size: 65, 116
+  orig: 66, 116
+  offset: 1, 0
+  index: -1
+wamao
+  rotate: true
+  xy: 1753, 56
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+waqun
+  rotate: true
+  xy: 2, 7
+  size: 234, 140
+  orig: 234, 140
+  offset: 0, 0
+  index: -1
+washenti
+  rotate: false
+  xy: 144, 14
+  size: 159, 227
+  orig: 159, 227
+  offset: 0, 0
+  index: -1
+watou
+  rotate: true
+  xy: 1045, 50
+  size: 262, 281
+  orig: 262, 281
+  offset: 0, 0
+  index: -1
+wawanjuche
+  rotate: false
+  xy: 1753, 120
+  size: 103, 79
+  orig: 105, 81
+  offset: 1, 1
+  index: -1
+wayoubijie
+  rotate: false
+  xy: 305, 4
+  size: 52, 14
+  orig: 54, 16
+  offset: 1, 1
+  index: -1
+wayoudabi
+  rotate: false
+  xy: 1842, 489
+  size: 79, 107
+  orig: 86, 109
+  offset: 1, 1
+  index: -1
+wayoujiemao
+  rotate: false
+  xy: 1879, 182
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+wayouliuhai
+  rotate: false
+  xy: 1348, 12
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+wayoutui
+  rotate: false
+  xy: 760, 268
+  size: 61, 203
+  orig: 61, 203
+  offset: 0, 0
+  index: -1
+wayouxiaobi
+  rotate: false
+  xy: 1781, 391
+  size: 150, 96
+  orig: 150, 96
+  offset: 0, 0
+  index: -1
+wayouyanbai
+  rotate: false
+  xy: 1129, 2
+  size: 48, 46
+  orig: 50, 48
+  offset: 1, 1
+  index: -1
+wayouyanpi
+  rotate: false
+  xy: 830, 3
+  size: 49, 43
+  orig: 51, 45
+  offset: 2, 0
+  index: -1
+wayouyanzhu
+  rotate: true
+  xy: 1820, 85
+  size: 33, 35
+  orig: 35, 37
+  offset: 1, 1
+  index: -1
+wazuobijie
+  rotate: false
+  xy: 807, 481
+  size: 73, 21
+  orig: 76, 26
+  offset: 2, 1
+  index: -1
+wazuodabi
+  rotate: true
+  xy: 1348, 153
+  size: 62, 127
+  orig: 62, 127
+  offset: 0, 0
+  index: -1
+wazuojiemao
+  rotate: false
+  xy: 1282, 12
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+wazuoliuhai
+  rotate: true
+  xy: 916, 6
+  size: 40, 93
+  orig: 40, 94
+  offset: 0, 0
+  index: -1
+wazuoliuhai2
+  rotate: false
+  xy: 1761, 268
+  size: 161, 121
+  orig: 161, 121
+  offset: 0, 0
+  index: -1
+wazuotui
+  rotate: false
+  xy: 823, 280
+  size: 61, 199
+  orig: 61, 199
+  offset: 0, 0
+  index: -1
+wazuoxiaobi
+  rotate: true
+  xy: 1842, 792
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+wazuoyanbai
+  rotate: false
+  xy: 1219, 3
+  size: 61, 45
+  orig: 64, 47
+  offset: 2, 1
+  index: -1
+wazuoyanpi
+  rotate: true
+  xy: 886, 253
+  size: 59, 47
+  orig: 59, 51
+  offset: 0, 4
+  index: -1
+wazuoyanzhu
+  rotate: false
+  xy: 1011, 7
+  size: 36, 39
+  orig: 38, 41
+  offset: 1, 1
+  index: -1

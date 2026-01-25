@@ -17,7 +17,8 @@
 		"Scene.Picross.CptTag": "resource/eui_skins/picross/CptTag.exml",
 		"Scene.Picross.NormalCube": "resource/eui_skins/picross/Cube.exml",
 		"Scene.Picross.GameOver": "resource/eui_skins/picross/GameOver.exml",
-		"Scene.Picross.NumCube": "resource/eui_skins/picross/NumCube.exml"
+		"Scene.Picross.NumCube": "resource/eui_skins/picross/NumCube.exml",
+		"LoadingUI": "resource/eui_skins/Loading.exml"
 	},
 	"autoGenerateExmlsList": true,
 	"exmls": [
@@ -29,6 +30,8 @@
 		"resource/eui_skins/game/LvCell.exml",
 		"resource/eui_skins/game/Main.exml",
 		"resource/eui_skins/game/Story.exml",
+		"resource/eui_skins/LoadingProgress.exml",
+		"resource/eui_skins/Loading.exml",
 		"resource/eui_skins/menu/LvCell2.exml",
 		"resource/eui_skins/menu/Main.exml",
 		"resource/eui_skins/picross/CptTag.exml",

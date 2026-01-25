@@ -39,6 +39,10 @@
 		{
 			"keys": "add_mp3,bg_mp3,bg0_mp3,click_mp3,flash_mp3,get_tili_mp3,lvup_mp3,new_merge1_mp3,new_merge2_mp3,new_merge3_mp3,new_merge4_mp3,new_merge5_mp3,new_merge6_mp3,new_merge7_mp3,new_merge8_mp3,reward_mp3",
 			"name": "sounds"
+		},
+		{
+			"keys": "ani_boot_atlas,ani_boot_png,ani_boot_skel,logo_jpg,loading0_json",
+			"name": "loading"
 		}
 	],
 	"resources": [
@@ -2887,6 +2891,32 @@
 			"url": "sounds/toggle1.mp3",
 			"type": "sound",
 			"name": "toggle1_mp3"
+		},
+		{
+			"url": "loading/ani_boot.atlas",
+			"type": "text",
+			"name": "ani_boot_atlas"
+		},
+		{
+			"url": "loading/ani_boot.png",
+			"type": "image",
+			"name": "ani_boot_png"
+		},
+		{
+			"url": "loading/ani_boot.skel",
+			"type": "bin",
+			"name": "ani_boot_skel"
+		},
+		{
+			"url": "loading/logo.jpg",
+			"type": "image",
+			"name": "logo_jpg"
+		},
+		{
+			"url": "loading/loading0.json",
+			"type": "sheet",
+			"name": "loading0_json",
+			"subkeys": "hua,loading_bar,loading_bg,picross_logo"
 		}
 	]
 }

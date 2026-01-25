@@ -1,0 +1,5 @@
+{"file":"loading0.png","frames":{
+"picross_logo":{"x":0,"y":336,"w":640,"h":290,"offX":0,"offY":0,"sourceW":640,"sourceH":290},
+"loading_bg":{"x":0,"y":630,"w":654,"h":67,"offX":0,"offY":0,"sourceW":654,"sourceH":67},
+"loading_bar":{"x":0,"y":701,"w":626,"h":36,"offX":14,"offY":14,"sourceW":654,"sourceH":67},
+"hua":{"x":0,"y":0,"w":750,"h":332,"offX":0,"offY":0,"sourceW":750,"sourceH":332}}}
