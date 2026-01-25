@@ -529,7 +529,7 @@ window.skins=window.skins||{};
 		this.thumb = t;
 		t.horizontalCenter = 0;
 		t.source = "loading0_json.loading_bar";
-		t.verticalCenter = -1;
+		t.verticalCenter = 0;
 		return t;
 	};
 	return LoadingProgress;
