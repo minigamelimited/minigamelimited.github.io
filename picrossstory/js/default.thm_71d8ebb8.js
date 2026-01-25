@@ -537,11 +537,11 @@ window.skins=window.skins||{};
 	__extends(Loading, _super);
 	function Loading() {
 		_super.call(this);
-		this.skinParts = ["pb_loading"];
+		this.skinParts = ["pb_loading","lbl_loading"];
 		
 		this.height = 1334;
 		this.width = 750;
-		this.elementsContent = [this._Image1_i(),this._Image2_i(),this._Image3_i(),this.pb_loading_i()];
+		this.elementsContent = [this._Image1_i(),this._Image2_i(),this._Image3_i(),this.pb_loading_i(),this.lbl_loading_i()];
 	}
 	var _proto = Loading.prototype;
 
@@ -577,6 +577,21 @@ window.skins=window.skins||{};
 		t.value = 50;
 		t.verticalCenter = 474.5;
 		t.width = 654;
+		t.zIndex = 99;
+		return t;
+	};
+	_proto.lbl_loading_i = function () {
+		var t = new eui.Label();
+		this.lbl_loading = t;
+		t.height = 61.319;
+		t.horizontalCenter = 0;
+		t.size = 40;
+		t.stroke = 2;
+		t.text = "Loading...";
+		t.textAlign = "center";
+		t.verticalAlign = "bottom";
+		t.verticalCenter = 401.5;
+		t.width = 282.123;
 		t.zIndex = 99;
 		return t;
 	};
