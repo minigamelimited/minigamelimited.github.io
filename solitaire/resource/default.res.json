@@ -1,0 +1,141 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,game0_json,pai_json,bg0_jpg,bg1_jpg,bg2_jpg,bg3_jpg,bg4_jpg,ad_png",
+			"name": "common"
+		},
+		{
+			"keys": "1_mp3,2_mp3,3_mp3,4_mp3,5_mp3,6_mp3,7_mp3,bgm_mp3,button_mp3,cantmove_mp3,deal_mp3,pickup_mp3,putdown_mp3,redeal_mp3,tripeak win_mp3,win_mp3",
+			"name": "sound"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/game0.json",
+			"type": "sheet",
+			"name": "game0_json",
+			"subkeys": "HintLight,back,img0,img1,img10,img103,img104,img105,img106,img107,img108,img109,img11,img110,img111,img112,img113,img12,img13,img14,img15,img16,img17,img18,img19,img2,img20,img21,img22,img23,img24,img3,img4,img5,img6,img7,img8,img9,imgline,imglines,imgtoast,num_10,num_2,num_3,num_4,num_5,num_6,num_7,num_8,num_9,num_A,num_J,num_K,num_Q,paibg"
+		},
+		{
+			"url": "assets/pai.json",
+			"type": "sheet",
+			"name": "pai_json",
+			"subkeys": "A1,A10,A11,A12,A13,A2,A3,A4,A5,A6,A7,A8,A9,B1,B10,B11,B12,B13,B2,B3,B4,B5,B6,B7,B8,B9,C1,C10,C11,C12,C13,C2,C3,C4,C5,C6,C7,C8,C9,D1,D10,D11,D12,D13,D2,D3,D4,D5,D6,D7,D8,D9"
+		},
+		{
+			"url": "bg0.jpg",
+			"type": "image",
+			"name": "bg0_jpg"
+		},
+		{
+			"url": "bg1.jpg",
+			"type": "image",
+			"name": "bg1_jpg"
+		},
+		{
+			"url": "bg2.jpg",
+			"type": "image",
+			"name": "bg2_jpg"
+		},
+		{
+			"url": "bg3.jpg",
+			"type": "image",
+			"name": "bg3_jpg"
+		},
+		{
+			"url": "sounds/1.mp3",
+			"type": "sound",
+			"name": "1_mp3"
+		},
+		{
+			"url": "sounds/2.mp3",
+			"type": "sound",
+			"name": "2_mp3"
+		},
+		{
+			"url": "sounds/3.mp3",
+			"type": "sound",
+			"name": "3_mp3"
+		},
+		{
+			"url": "sounds/4.mp3",
+			"type": "sound",
+			"name": "4_mp3"
+		},
+		{
+			"url": "sounds/5.mp3",
+			"type": "sound",
+			"name": "5_mp3"
+		},
+		{
+			"url": "sounds/6.mp3",
+			"type": "sound",
+			"name": "6_mp3"
+		},
+		{
+			"url": "sounds/7.mp3",
+			"type": "sound",
+			"name": "7_mp3"
+		},
+		{
+			"url": "sounds/bgm.mp3",
+			"type": "sound",
+			"name": "bgm_mp3"
+		},
+		{
+			"url": "sounds/button.mp3",
+			"type": "sound",
+			"name": "button_mp3"
+		},
+		{
+			"url": "sounds/cantmove.mp3",
+			"type": "sound",
+			"name": "cantmove_mp3"
+		},
+		{
+			"url": "sounds/deal.mp3",
+			"type": "sound",
+			"name": "deal_mp3"
+		},
+		{
+			"url": "sounds/pickup.mp3",
+			"type": "sound",
+			"name": "pickup_mp3"
+		},
+		{
+			"url": "sounds/putdown.mp3",
+			"type": "sound",
+			"name": "putdown_mp3"
+		},
+		{
+			"url": "sounds/redeal.mp3",
+			"type": "sound",
+			"name": "redeal_mp3"
+		},
+		{
+			"url": "sounds/tripeak win.mp3",
+			"type": "sound",
+			"name": "tripeak win_mp3"
+		},
+		{
+			"url": "sounds/win.mp3",
+			"type": "sound",
+			"name": "win_mp3"
+		},
+		{
+			"url": "bg4.jpg",
+			"type": "image",
+			"name": "bg4_jpg"
+		},
+		{
+			"url": "assets/ad.png",
+			"type": "image",
+			"name": "ad_png"
+		}
+	]
+}

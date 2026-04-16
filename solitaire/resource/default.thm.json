@@ -1,0 +1,38 @@
+{
+	"skins": {
+		"Scene.Game.Main": "resource/eui_skins/game/Main.exml",
+		"Scene.Cover.Main": "resource/eui_skins/cover/Main.exml",
+		"Scene.Cover.MainH": "resource/eui_skins/cover/MainH.exml",
+		"Scene.Cover.MainV": "resource/eui_skins/cover/MainV.exml",
+		"Scene.Common": "resource/eui_skins/Common.exml",
+		"Scene.Klondike.Main": "resource/eui_skins/klondike/Main.exml",
+		"Scene.Spider.Main": "resource/eui_skins/spider/Main.exml",
+		"Scene.FreeCell.Main": "resource/eui_skins/freecell/Main.exml",
+		"Scene.TriPeaks.Main": "resource/eui_skins/tripeaks/Main.exml",
+		"Scene.Pyramid.Main": "resource/eui_skins/pyramid/Main.exml",
+		"Scene.Card": "resource/eui_skins/Card.exml",
+		"Scene.GameOver": "resource/eui_skins/GameOver.exml",
+		"Scene.Pause": "resource/eui_skins/Pause.exml",
+		"Scene.Setting": "resource/eui_skins/Setting.exml",
+		"Scene.Toast": "resource/eui_skins/Toast.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/Card.exml",
+		"resource/eui_skins/Common.exml",
+		"resource/eui_skins/cover/Main.exml",
+		"resource/eui_skins/cover/MainH.exml",
+		"resource/eui_skins/cover/MainV.exml",
+		"resource/eui_skins/freecell/Main.exml",
+		"resource/eui_skins/game/Main.exml",
+		"resource/eui_skins/GameOver.exml",
+		"resource/eui_skins/klondike/Main.exml",
+		"resource/eui_skins/Pause.exml",
+		"resource/eui_skins/pyramid/Main.exml",
+		"resource/eui_skins/Setting.exml",
+		"resource/eui_skins/spider/Main.exml",
+		"resource/eui_skins/Toast.exml",
+		"resource/eui_skins/tripeaks/Main.exml"
+	],
+	"path": "resource/default.thm.json"
+}
