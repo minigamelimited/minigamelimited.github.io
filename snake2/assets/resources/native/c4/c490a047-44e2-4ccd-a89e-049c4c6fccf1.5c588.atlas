@@ -1,0 +1,48 @@
+
+游戏结束.png
+size: 1604,1322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+游戏结束/1
+  rotate: false
+  xy: 1, 113
+  size: 1372, 152
+  orig: 1573, 167
+  offset: 37, 7
+  index: -1
+游戏结束/2
+  rotate: false
+  xy: 1, 1
+  size: 1259, 110
+  orig: 1518, 126
+  offset: 122, 8
+  index: -1
+游戏结束/光
+  rotate: false
+  xy: 1, 599
+  size: 956, 722
+  orig: 1099, 730
+  offset: 67, 4
+  index: -1
+游戏结束/底
+  rotate: false
+  xy: 1, 267
+  size: 1602, 330
+  orig: 1610, 339
+  offset: 4, 4
+  index: -1
+游戏结束/星星
+  rotate: false
+  xy: 959, 1126
+  size: 494, 195
+  orig: 494, 195
+  offset: 0, 0
+  index: -1
+游戏结束/游戏结束
+  rotate: false
+  xy: 959, 599
+  size: 386, 115
+  orig: 394, 123
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,20 @@
+
+火箭.png
+size: 184,641
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+火箭/1
+  rotate: true
+  xy: 1, 1
+  size: 284, 175
+  orig: 286, 370
+  offset: 1, 1
+  index: -1
+火箭/2
+  rotate: false
+  xy: 1, 287
+  size: 182, 353
+  orig: 286, 370
+  offset: 53, 16
+  index: -1

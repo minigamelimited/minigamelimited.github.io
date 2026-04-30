@@ -1,0 +1,41 @@
+
+龙.png
+size: 244,675
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+龙/1
+  rotate: true
+  xy: 1, 207
+  size: 161, 185
+  orig: 384, 394
+  offset: 0, 0
+  index: -1
+龙/2
+  rotate: true
+  xy: 1, 44
+  size: 161, 171
+  orig: 384, 394
+  offset: 112, 1
+  index: -1
+龙/3
+  rotate: 270
+  xy: 18, 3
+  size: 124, 179
+  orig: 384, 394
+  offset: 44, 197
+  index: -1
+龙/4
+  rotate: false
+  xy: 1, 369
+  size: 242, 305
+  orig: 384, 394
+  offset: 71, 88
+  index: -1
+龙/5
+  rotate: false
+  xy: 179, 98
+  size: 62, 47
+  orig: 384, 394
+  offset: 113, 312
+  index: -1

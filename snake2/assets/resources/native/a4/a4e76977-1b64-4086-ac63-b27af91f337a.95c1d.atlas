@@ -1,0 +1,48 @@
+
+弹窗-黄金宝箱.png
+size: 595,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+黄金宝箱/bg
+  rotate: false
+  xy: 1, 222
+  size: 549, 320
+  orig: 557, 328
+  offset: 4, 4
+  index: -1
+黄金宝箱/mask
+  rotate: false
+  xy: 1, 1
+  size: 476, 219
+  orig: 484, 227
+  offset: 4, 4
+  index: -1
+黄金宝箱/初级1
+  rotate: false
+  xy: 479, 148
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+黄金宝箱/初级蛇1_身体
+  rotate: false
+  xy: 479, 86
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+黄金宝箱/金币
+  rotate: false
+  xy: 479, 28
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+黄金宝箱/黄金宝箱
+  rotate: false
+  xy: 1, 544
+  size: 593, 378
+  orig: 601, 389
+  offset: 4, 4
+  index: -1

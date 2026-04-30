@@ -1,0 +1,13 @@
+
+毒液.png
+size: 223,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+毒液/1
+  rotate: false
+  xy: 1, 1
+  size: 221, 207
+  orig: 223, 209
+  offset: 1, 1
+  index: -1

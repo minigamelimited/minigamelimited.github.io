@@ -1,0 +1,34 @@
+
+btn_竞速模式.png
+size: 333,565
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_竞速模式/图层 31
+  rotate: true
+  xy: 1, 197
+  size: 156, 269
+  orig: 156, 269
+  offset: 0, 0
+  index: -1
+btn_竞速模式/图层 61
+  rotate: false
+  xy: 1, 2
+  size: 330, 118
+  orig: 330, 119
+  offset: 0, 0
+  index: -1
+btn_竞速模式/组 57
+  rotate: false
+  xy: 1, 355
+  size: 320, 209
+  orig: 328, 217
+  offset: 4, 4
+  index: -1
+btn_竞速模式/组 61
+  rotate: false
+  xy: 1, 121
+  size: 305, 74
+  orig: 313, 82
+  offset: 4, 4
+  index: -1

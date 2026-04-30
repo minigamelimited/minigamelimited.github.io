@@ -1,0 +1,55 @@
+
+奖品光.png
+size: 1361,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+奖品光/guangdian01
+  rotate: true
+  xy: 676, 5
+  size: 170, 172
+  orig: 200, 200
+  offset: 15, 13
+  index: -1
+奖品光/guangdian02
+  rotate: false
+  xy: 1308, 119
+  size: 52, 56
+  orig: 80, 80
+  offset: 13, 13
+  index: -1
+奖品光/guangdian03
+  rotate: false
+  xy: 1016, 15
+  size: 158, 160
+  orig: 180, 180
+  offset: 11, 8
+  index: -1
+奖品光/guangdian04
+  rotate: true
+  xy: 1176, 1
+  size: 174, 130
+  orig: 198, 198
+  offset: 12, 34
+  index: -1
+奖品光/guangdian06
+  rotate: false
+  xy: 850, 7
+  size: 164, 168
+  orig: 200, 200
+  offset: 18, 17
+  index: -1
+奖品光/guangxian03
+  rotate: false
+  xy: 1, 6
+  size: 294, 169
+  orig: 300, 169
+  offset: 3, 0
+  index: -1
+奖品光/guangzhu01
+  rotate: false
+  xy: 297, 50
+  size: 377, 125
+  orig: 410, 160
+  offset: 27, 17
+  index: -1

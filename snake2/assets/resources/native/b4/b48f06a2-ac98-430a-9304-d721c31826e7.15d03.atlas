@@ -1,0 +1,13 @@
+
+手机.png
+size: 227,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+手机/1
+  rotate: false
+  xy: 1, 1
+  size: 225, 345
+  orig: 227, 347
+  offset: 1, 1
+  index: -1

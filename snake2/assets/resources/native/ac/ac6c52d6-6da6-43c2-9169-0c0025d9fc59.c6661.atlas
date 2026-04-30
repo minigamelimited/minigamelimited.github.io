@@ -1,0 +1,13 @@
+
+星星.png
+size: 75,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+星星/光效e
+  rotate: false
+  xy: 1, 1
+  size: 73, 75
+  orig: 93, 95
+  offset: 10, 10
+  index: -1

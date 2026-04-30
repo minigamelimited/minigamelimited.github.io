@@ -1,0 +1,41 @@
+
+btn_皮肤商城.png
+size: 345,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_皮肤商城/图层 66
+  rotate: true
+  xy: 1, 178
+  size: 179, 307
+  orig: 179, 312
+  offset: 0, 2
+  index: -1
+btn_皮肤商城/图层 70
+  rotate: true
+  xy: 1, 2
+  size: 104, 161
+  orig: 112, 169
+  offset: 4, 4
+  index: -1
+btn_皮肤商城/图层 71
+  rotate: false
+  xy: 164, 2
+  size: 179, 128
+  orig: 179, 128
+  offset: 0, 0
+  index: -1
+btn_皮肤商城/组 59
+  rotate: false
+  xy: 1, 358
+  size: 327, 264
+  orig: 335, 272
+  offset: 4, 4
+  index: -1
+btn_皮肤商城/组 63
+  rotate: false
+  xy: 1, 108
+  size: 305, 68
+  orig: 313, 76
+  offset: 4, 4
+  index: -1

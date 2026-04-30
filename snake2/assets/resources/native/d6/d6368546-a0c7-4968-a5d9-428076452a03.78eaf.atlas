@@ -1,0 +1,34 @@
+
+小青.png
+size: 201,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小青/1
+  rotate: false
+  xy: 58, 52
+  size: 88, 75
+  orig: 199, 252
+  offset: 61, 39
+  index: -1
+小青/2
+  rotate: false
+  xy: 1, 99
+  size: 199, 88
+  orig: 199, 252
+  offset: 0, 164
+  index: -1
+小青/3
+  rotate: false
+  xy: 1, 2
+  size: 133, 48
+  orig: 199, 252
+  offset: 33, 135
+  index: -1
+小青/4
+  rotate: false
+  xy: 1, 188
+  size: 197, 250
+  orig: 199, 252
+  offset: 1, 1
+  index: -1

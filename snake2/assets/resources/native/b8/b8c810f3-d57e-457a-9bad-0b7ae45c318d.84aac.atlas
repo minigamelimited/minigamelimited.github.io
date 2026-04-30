@@ -1,0 +1,27 @@
+
+小黄.png
+size: 210,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小黄/1
+  rotate: false
+  xy: 1, 140
+  size: 206, 299
+  orig: 208, 301
+  offset: 1, 1
+  index: -1
+小黄/2
+  rotate: false
+  xy: 1, 58
+  size: 208, 81
+  orig: 208, 301
+  offset: 0, 220
+  index: -1
+小黄/3
+  rotate: false
+  xy: 1, 2
+  size: 110, 54
+  orig: 208, 301
+  offset: 49, 106
+  index: -1

@@ -1,0 +1,27 @@
+
+葫芦娃.png
+size: 212,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+葫芦娃/1
+  rotate: false
+  xy: 1, 233
+  size: 210, 255
+  orig: 212, 258
+  offset: 1, 1
+  index: -1
+葫芦娃/2
+  rotate: false
+  xy: 1, 93
+  size: 176, 138
+  orig: 178, 140
+  offset: 1, 1
+  index: -1
+葫芦娃/3
+  rotate: false
+  xy: 1, 1
+  size: 136, 90
+  orig: 138, 92
+  offset: 1, 1
+  index: -1

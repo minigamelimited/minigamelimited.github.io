@@ -1,0 +1,55 @@
+
+怪物.png
+size: 423,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+怪物/图层 549
+  rotate: false
+  xy: 328, 146
+  size: 42, 61
+  orig: 44, 63
+  offset: 1, 1
+  index: -1
+怪物/图层 550
+  rotate: false
+  xy: 324, 20
+  size: 52, 61
+  orig: 54, 63
+  offset: 1, 1
+  index: -1
+怪物/图层 550 拷贝
+  rotate: false
+  xy: 328, 83
+  size: 52, 61
+  orig: 54, 63
+  offset: 1, 1
+  index: -1
+怪物/图层 552
+  rotate: false
+  xy: 1, 3
+  size: 247, 219
+  orig: 249, 221
+  offset: 1, 1
+  index: -1
+怪物/图层 555
+  rotate: true
+  xy: 250, 1
+  size: 80, 72
+  orig: 82, 74
+  offset: 1, 1
+  index: -1
+怪物/图层 557
+  rotate: 270
+  xy: 378, 4
+  size: 119, 45
+  orig: 120, 48
+  offset: 0, 1
+  index: -1
+怪物/图层 560
+  rotate: true
+  xy: 250, 83
+  size: 139, 76
+  orig: 141, 78
+  offset: 1, 1
+  index: -1

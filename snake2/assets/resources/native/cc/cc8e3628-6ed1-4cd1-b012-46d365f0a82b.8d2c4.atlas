@@ -1,0 +1,27 @@
+
+蛋仔.png
+size: 246,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+蛋仔/1
+  rotate: 180
+  xy: 90, 2
+  size: 140, 72
+  orig: 244, 287
+  offset: 39, 214
+  index: -1
+蛋仔/2
+  rotate: false
+  xy: 1, 180
+  size: 242, 215
+  orig: 244, 287
+  offset: 1, 8
+  index: -1
+蛋仔/3
+  rotate: false
+  xy: 1, 41
+  size: 244, 138
+  orig: 244, 287
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+宝箱.png
+size: 179,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+宝箱/宝箱
+  rotate: false
+  xy: 1, 1
+  size: 177, 146
+  orig: 177, 146
+  offset: 0, 0
+  index: -1

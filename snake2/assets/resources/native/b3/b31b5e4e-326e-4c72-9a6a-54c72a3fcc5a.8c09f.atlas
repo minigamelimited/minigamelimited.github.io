@@ -1,0 +1,62 @@
+
+段位星.png
+size: 549,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+段位/微库_特效库_闪光序列_光序列-00138343_01
+  rotate: true
+  xy: 460, 19
+  size: 64, 48
+  orig: 109, 82
+  offset: 23, 18
+  index: -1
+段位/微库_特效库_闪光序列_光序列-00138343_02
+  rotate: true
+  xy: 399, 5
+  size: 78, 59
+  orig: 109, 82
+  offset: 15, 11
+  index: -1
+段位/微库_特效库_闪光序列_光序列-00138343_03
+  rotate: false
+  xy: 310, 12
+  size: 87, 71
+  orig: 109, 82
+  offset: 9, 7
+  index: -1
+段位/微库_特效库_闪光序列_光序列-00138343_04
+  rotate: false
+  xy: 208, 4
+  size: 100, 79
+  orig: 109, 82
+  offset: 6, 1
+  index: -1
+段位/微库_特效库_闪光序列_光序列-00138343_05
+  rotate: false
+  xy: 106, 2
+  size: 100, 81
+  orig: 109, 82
+  offset: 2, 1
+  index: -1
+段位/微库_特效库_闪光序列_光序列-00138343_06
+  rotate: false
+  xy: 1, 1
+  size: 103, 82
+  orig: 109, 82
+  offset: 2, 0
+  index: -1
+段位/星星
+  rotate: false
+  xy: 510, 45
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+段位/星星黑
+  rotate: false
+  xy: 510, 5
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

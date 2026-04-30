@@ -1,0 +1,20 @@
+
+大香蕉.png
+size: 199,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+大香蕉/1
+  rotate: false
+  xy: 1, 93
+  size: 197, 268
+  orig: 199, 270
+  offset: 1, 1
+  index: -1
+大香蕉/2
+  rotate: false
+  xy: 1, 2
+  size: 140, 91
+  orig: 199, 270
+  offset: 37, 23
+  index: -1

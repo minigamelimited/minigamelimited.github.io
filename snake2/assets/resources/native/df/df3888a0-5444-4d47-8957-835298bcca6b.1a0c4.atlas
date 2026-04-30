@@ -1,0 +1,20 @@
+
+汉堡.png
+size: 188,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+汉堡/1
+  rotate: false
+  xy: 1, 1
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+汉堡/2
+  rotate: true
+  xy: 136, 42
+  size: 76, 51
+  orig: 133, 115
+  offset: 33, 64
+  index: -1

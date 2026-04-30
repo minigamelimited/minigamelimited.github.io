@@ -1,0 +1,20 @@
+
+初级蛇1.png
+size: 206,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+初级蛇1/初级1
+  rotate: false
+  xy: 1, 27
+  size: 204, 237
+  orig: 206, 239
+  offset: 1, 1
+  index: -1
+初级蛇1/初级1眉毛
+  rotate: false
+  xy: 1, 1
+  size: 134, 24
+  orig: 206, 239
+  offset: 38, 139
+  index: -1

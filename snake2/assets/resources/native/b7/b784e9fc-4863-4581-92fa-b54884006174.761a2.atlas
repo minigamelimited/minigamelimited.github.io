@@ -1,0 +1,62 @@
+
+btn_无尽模式.png
+size: 397,697
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_无尽模式/图层 2
+  rotate: false
+  xy: 334, 381
+  size: 62, 65
+  orig: 76, 80
+  offset: 7, 7
+  index: -1
+btn_无尽模式/图层 3
+  rotate: false
+  xy: 1, 313
+  size: 62, 66
+  orig: 76, 80
+  offset: 7, 7
+  index: -1
+btn_无尽模式/图层 4
+  rotate: false
+  xy: 309, 7
+  size: 71, 75
+  orig: 86, 89
+  offset: 8, 7
+  index: -1
+btn_无尽模式/图层 5
+  rotate: false
+  xy: 334, 448
+  size: 51, 52
+  orig: 67, 67
+  offset: 8, 8
+  index: -1
+btn_无尽模式/形状 769 1
+  rotate: false
+  xy: 349, 84
+  size: 42, 43
+  orig: 56, 58
+  offset: 7, 8
+  index: -1
+btn_无尽模式/组 56
+  rotate: false
+  xy: 1, 381
+  size: 331, 315
+  orig: 339, 323
+  offset: 4, 4
+  index: -1
+btn_无尽模式/组 60
+  rotate: false
+  xy: 1, 1
+  size: 306, 81
+  orig: 314, 89
+  offset: 4, 4
+  index: -1
+btn_无尽模式/组 67
+  rotate: true
+  xy: 1, 84
+  size: 295, 346
+  orig: 295, 346
+  offset: 0, 0
+  index: -1
