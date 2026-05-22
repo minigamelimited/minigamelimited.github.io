@@ -1,0 +1,132 @@
+
+mntzb_souye.png
+size: 1879,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+OU1
+  rotate: false
+  xy: 482, 34
+  size: 80, 30
+  orig: 82, 32
+  offset: 1, 1
+  index: -1
+OU2
+  rotate: true
+  xy: 1848, 304
+  size: 40, 28
+  orig: 46, 31
+  offset: 3, 1
+  index: -1
+Tex_0004
+  rotate: false
+  xy: 1451, 105
+  size: 239, 239
+  orig: 256, 256
+  offset: 12, 5
+  index: -1
+Tex_0005
+  rotate: false
+  xy: 2, 6
+  size: 256, 124
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+Tex_0006
+  rotate: false
+  xy: 1192, 51
+  size: 252, 247
+  orig: 256, 256
+  offset: 4, 1
+  index: -1
+Tex_0012
+  rotate: false
+  xy: 675, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fj
+  rotate: false
+  xy: 911, 105
+  size: 279, 193
+  orig: 281, 196
+  offset: 1, 2
+  index: -1
+lang
+  rotate: false
+  xy: 2, 132
+  size: 907, 166
+  orig: 911, 170
+  offset: 1, 3
+  index: -1
+shopa
+  rotate: true
+  xy: 805, 17
+  size: 113, 21
+  orig: 117, 25
+  offset: 2, 2
+  index: -1
+shopf
+  rotate: true
+  xy: 1828, 219
+  size: 125, 18
+  orig: 127, 20
+  offset: 1, 1
+  index: -1
+shopg
+  rotate: false
+  xy: 1828, 193
+  size: 17, 24
+  orig: 19, 26
+  offset: 1, 1
+  index: -1
+shoph
+  rotate: false
+  xy: 828, 113
+  size: 15, 17
+  orig: 17, 19
+  offset: 1, 1
+  index: -1
+st
+  rotate: false
+  xy: 2, 300
+  size: 1447, 264
+  orig: 1449, 266
+  offset: 1, 1
+  index: -1
+star
+  rotate: false
+  xy: 1692, 26
+  size: 128, 128
+  orig: 130, 130
+  offset: 1, 1
+  index: -1
+xie
+  rotate: true
+  xy: 1692, 156
+  size: 188, 134
+  orig: 190, 136
+  offset: 1, 1
+  index: -1
+xiey
+  rotate: false
+  xy: 482, 66
+  size: 191, 64
+  orig: 194, 69
+  offset: 2, 2
+  index: -1
+xz
+  rotate: false
+  xy: 1451, 346
+  size: 426, 218
+  orig: 431, 220
+  offset: 4, 1
+  index: -1
+xz2
+  rotate: false
+  xy: 260, 4
+  size: 220, 126
+  orig: 223, 126
+  offset: 0, 0
+  index: -1

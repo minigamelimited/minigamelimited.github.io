@@ -1,0 +1,20 @@
+
+sandianB.png
+size: 41,30
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qef7
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+qiangz1
+  rotate: true
+  xy: 30, 18
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1

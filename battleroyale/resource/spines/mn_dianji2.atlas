@@ -1,0 +1,34 @@
+
+mn_dianji2.png
+size: 236,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QQ
+  rotate: false
+  xy: 116, 12
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+QQa
+  rotate: false
+  xy: 132, 144
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+QQb
+  rotate: false
+  xy: 2, 2
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+aa
+  rotate: false
+  xy: 2, 116
+  size: 128, 130
+  orig: 131, 131
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+mntzb_bg.png
+size: 1220,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 789, 49
+  size: 265, 174
+  orig: 267, 176
+  offset: 1, 1
+  index: -1
+bg3
+  rotate: false
+  xy: 549, 225
+  size: 653, 285
+  orig: 655, 287
+  offset: 1, 1
+  index: -1
+bga
+  rotate: false
+  xy: 2, 4
+  size: 269, 116
+  orig: 269, 116
+  offset: 0, 0
+  index: -1
+mana
+  rotate: true
+  xy: 405, 48
+  size: 72, 100
+  orig: 74, 102
+  offset: 1, 1
+  index: -1
+manb
+  rotate: true
+  xy: 273, 40
+  size: 80, 130
+  orig: 82, 132
+  offset: 1, 1
+  index: -1
+pp
+  rotate: true
+  xy: 789, 24
+  size: 23, 24
+  orig: 26, 27
+  offset: 1, 2
+  index: -1
+yaoa
+  rotate: true
+  xy: 2, 122
+  size: 388, 545
+  orig: 390, 547
+  offset: 1, 1
+  index: -1
+yaob
+  rotate: false
+  xy: 1056, 20
+  size: 162, 203
+  orig: 163, 204
+  offset: 0, 0
+  index: -1
+yaoc
+  rotate: false
+  xy: 549, 2
+  size: 238, 221
+  orig: 242, 226
+  offset: 3, 4
+  index: -1

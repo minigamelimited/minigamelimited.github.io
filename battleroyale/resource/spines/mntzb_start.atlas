@@ -1,0 +1,111 @@
+
+mntzb_start.png
+size: 918,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ksa
+  rotate: false
+  xy: 2, 256
+  size: 570, 263
+  orig: 572, 265
+  offset: 1, 1
+  index: -1
+ksb
+  rotate: false
+  xy: 285, 92
+  size: 293, 83
+  orig: 295, 85
+  offset: 1, 1
+  index: -1
+ksc
+  rotate: false
+  xy: 285, 177
+  size: 261, 77
+  orig: 261, 77
+  offset: 0, 0
+  index: -1
+ksgl_a
+  rotate: false
+  xy: 409, 11
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+ksgl_b
+  rotate: true
+  xy: 2, 37
+  size: 217, 281
+  orig: 217, 281
+  offset: 0, 0
+  index: -1
+ksgl_c
+  rotate: false
+  xy: 285, 9
+  size: 122, 81
+  orig: 124, 83
+  offset: 1, 1
+  index: -1
+ksgl_d
+  rotate: false
+  xy: 902, 229
+  size: 11, 3
+  orig: 13, 5
+  offset: 1, 1
+  index: -1
+ksgl_e
+  rotate: false
+  xy: 580, 96
+  size: 190, 136
+  orig: 192, 138
+  offset: 1, 1
+  index: -1
+ksgl_f
+  rotate: true
+  xy: 746, 11
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+ksgl_g
+  rotate: true
+  xy: 580, 2
+  size: 92, 164
+  orig: 94, 166
+  offset: 1, 1
+  index: -1
+ksgl_h
+  rotate: false
+  xy: 500, 19
+  size: 72, 71
+  orig: 75, 75
+  offset: 2, 2
+  index: -1
+ksgl_i
+  rotate: true
+  xy: 2, 3
+  size: 32, 38
+  orig: 35, 41
+  offset: 1, 1
+  index: -1
+ksgl_j
+  rotate: false
+  xy: 548, 222
+  size: 20, 32
+  orig: 24, 34
+  offset: 3, 1
+  index: -1
+ksgl_yy
+  rotate: false
+  xy: 574, 234
+  size: 342, 285
+  orig: 342, 285
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 772, 104
+  size: 128, 128
+  orig: 130, 130
+  offset: 1, 1
+  index: -1

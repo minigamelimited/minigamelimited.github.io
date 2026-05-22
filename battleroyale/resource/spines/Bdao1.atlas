@@ -1,0 +1,20 @@
+
+Bdao1.png
+size: 179,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoa
+  rotate: false
+  xy: 172, 129
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+daof1
+  rotate: true
+  xy: 2, 2
+  size: 139, 168
+  orig: 145, 184
+  offset: 5, 13
+  index: -1

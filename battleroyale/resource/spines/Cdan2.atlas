@@ -1,0 +1,48 @@
+
+Cdan2.png
+size: 174,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: true
+  xy: 151, 45
+  size: 56, 21
+  orig: 58, 21
+  offset: 1, 0
+  index: -1
+b2
+  rotate: true
+  xy: 2, 50
+  size: 51, 91
+  orig: 52, 94
+  offset: 1, 1
+  index: -1
+b3
+  rotate: true
+  xy: 95, 48
+  size: 53, 54
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 117, 2
+  size: 54, 41
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 62, 4
+  size: 53, 42
+  orig: 54, 43
+  offset: 1, 0
+  index: -1
+b6
+  rotate: false
+  xy: 2, 8
+  size: 58, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1

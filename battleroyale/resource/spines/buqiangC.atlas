@@ -1,0 +1,55 @@
+
+buqiangC.png
+size: 439,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+budanc00
+  rotate: false
+  xy: 401, 28
+  size: 19, 18
+  orig: 100, 100
+  offset: 41, 41
+  index: -1
+budanc01
+  rotate: false
+  xy: 401, 48
+  size: 36, 41
+  orig: 100, 100
+  offset: 37, 28
+  index: -1
+budanc02
+  rotate: false
+  xy: 330, 14
+  size: 69, 75
+  orig: 100, 100
+  offset: 20, 7
+  index: -1
+budanc03
+  rotate: false
+  xy: 254, 11
+  size: 74, 78
+  orig: 100, 100
+  offset: 19, 7
+  index: -1
+budanc04
+  rotate: false
+  xy: 173, 6
+  size: 79, 83
+  orig: 100, 100
+  offset: 17, 5
+  index: -1
+budanc05
+  rotate: false
+  xy: 90, 6
+  size: 81, 83
+  orig: 100, 100
+  offset: 16, 5
+  index: -1
+budanc06
+  rotate: false
+  xy: 2, 2
+  size: 86, 87
+  orig: 100, 100
+  offset: 13, 4
+  index: -1

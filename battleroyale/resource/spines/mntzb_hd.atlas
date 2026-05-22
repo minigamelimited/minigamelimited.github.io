@@ -1,0 +1,20 @@
+
+mntzb_hd.png
+size: 774,722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gla
+  rotate: false
+  xy: 2, 2
+  size: 721, 718
+  orig: 735, 727
+  offset: 7, 8
+  index: -1
+xx
+  rotate: false
+  xy: 725, 673
+  size: 47, 47
+  orig: 55, 55
+  offset: 4, 4
+  index: -1

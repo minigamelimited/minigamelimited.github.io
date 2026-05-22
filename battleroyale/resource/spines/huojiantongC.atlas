@@ -1,0 +1,48 @@
+
+huojiantongC.png
+size: 271,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hjpB1
+  rotate: false
+  xy: 200, 116
+  size: 64, 77
+  orig: 74, 81
+  offset: 5, 4
+  index: -1
+hjpB2
+  rotate: true
+  xy: 103, 96
+  size: 97, 95
+  orig: 108, 105
+  offset: 6, 5
+  index: -1
+hjpB3
+  rotate: true
+  xy: 2, 98
+  size: 95, 99
+  orig: 109, 109
+  offset: 8, 5
+  index: -1
+hjpB4
+  rotate: false
+  xy: 90, 9
+  size: 90, 85
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+hjpB5
+  rotate: true
+  xy: 2, 2
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+hjpB6
+  rotate: false
+  xy: 182, 9
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1

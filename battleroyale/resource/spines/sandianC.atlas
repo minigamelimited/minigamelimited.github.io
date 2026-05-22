@@ -1,0 +1,41 @@
+
+sandianC.png
+size: 101,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qef5
+  rotate: true
+  xy: 2, 59
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+qef6
+  rotate: true
+  xy: 44, 2
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+qef7
+  rotate: false
+  xy: 20, 48
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+qef8
+  rotate: false
+  xy: 48, 46
+  size: 51, 28
+  orig: 51, 39
+  offset: 0, 3
+  index: -1
+qef9
+  rotate: false
+  xy: 2, 6
+  size: 40, 40
+  orig: 44, 44
+  offset: 2, 2
+  index: -1

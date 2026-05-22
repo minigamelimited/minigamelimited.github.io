@@ -1,0 +1,621 @@
+{
+	"groups": [
+		{
+			"keys": "bg2_jpg,bgSprite_jpg,bgSprite2_jpg,bgSprite3_jpg,ca_img_bj_png,img_bj_jpg,img_zjm _bj_png,game1_json,game0_json,3box_atlas,3box_png,Bdao1_atlas,Bdao1_png,Cdan2_atlas,Cdan2_png,baoxiang2_atlas,baoxiang2_png,buqiangA_atlas,buqiangA_png,buqiangC_atlas,buqiangC_png,huojiantongA_atlas,huojiantongA_png,huojiantongB_atlas,huojiantongB_png,huojiantongC_atlas,huojiantongC_png,jiatelinA_atlas,jiatelinA_png,mm_cd_atlas,mm_cd_png,mn_dianji_atlas,mn_dianji_png,mn_dianji2_atlas,mn_dianji2_png,mntzb_bg_atlas,mntzb_bg_png,mntzb_bg_51_atlas,mntzb_hd_atlas,mntzb_hd_png,mntzb_js_hong_atlas,mntzb_js_hong_png,mntzb_shop_atlas,mntzb_shop_png,mntzb_souye_atlas,mntzb_souye_png,mntzb_start_atlas,mntzb_start_png,mntzb_tdms_atlas,mntzb_tdms_png,over_atlas,over_png,pipei_atlas,pipei_png,sandianA_atlas,sandianA_png,sandianB_atlas,sandianB_png,sandianC_atlas,sandianC_png,smoke2_atlas,smoke2_png,thunder_atlas,thunder_png,tishi_atlas,tishi_png,xz_atlas,xz_png,3box_json,Bdao1_json,buqiangA_json,buqiangC_json,huojiantongB_json,baoxiang2_json,huojiantongA_json,huojiantongC_json,jiatelinA_json,Cdan2_json,mn_dianji_json,mn_dianji2_json,mm_cd_json,mntzb_bg_json,mntzb_hd_json,mntzb_bg_51_json,mntzb_start_json,mntzb_souye_json,mntzb_shop_json,pipei_json,mntzb_tdms_json,over_json,sandianB_json,smoke2_json,sandianA_json,sandianC_json,thunder_json,xz_json,tishi_json,mntzb_js_hong_json,mntzb_bg2_atlas,mntzb_bg2_png,mntzb_bg1_atlas,mntzb_bg1_png,mntzb_bg1_json,mntzb_bg2_json",
+			"name": "common"
+		},
+		{
+			"keys": "BGMLobby_mp3,Gatlin_mp3,RGP_mp3,ak_mp3,bgm0_mp3,bomb_mp3,click_mp3,die_mp3,fail_mp3,getWeaponBox_mp3,get_gold_mp3,get_skin_mp3,pistol_mp3,shotgun_mp3,submachine_mp3,timeCount_mp3,win_mp3",
+			"name": "sound"
+		}
+	],
+	"resources": [
+		{
+			"url": "bg2.jpg",
+			"type": "image",
+			"name": "bg2_jpg"
+		},
+		{
+			"url": "bgSprite.jpg",
+			"type": "image",
+			"name": "bgSprite_jpg"
+		},
+		{
+			"url": "bgSprite2.jpg",
+			"type": "image",
+			"name": "bgSprite2_jpg"
+		},
+		{
+			"url": "bgSprite3.jpg",
+			"type": "image",
+			"name": "bgSprite3_jpg"
+		},
+		{
+			"url": "ca_img_bj.png",
+			"type": "image",
+			"name": "ca_img_bj_png"
+		},
+		{
+			"url": "img_bj.jpg",
+			"type": "image",
+			"name": "img_bj_jpg"
+		},
+		{
+			"url": "img_zjm _bj.png",
+			"type": "image",
+			"name": "img_zjm _bj_png"
+		},
+		{
+			"url": "assets/game1.json",
+			"type": "sheet",
+			"name": "game1_json",
+			"subkeys": "22_btn_lottery,29_img_tips,ground_4,ground_6,ground_9,img_1,img_bg_sprite,img_bq,img_djs1,img_djs2,img_djsNum0,img_djsNum1,img_djsNum2,img_drs,img_dwlq_qp,img_fh,img_fhzy,img_fs,img_gold,img_health_bg,img_health_icon,img_hxt,img_icon_bar_bg_1,img_icon_bar_bg_2,img_icon_bar_bg_3,img_k,img_k2,img_lotteryNum,img_lxt,img_mine,img_pause,img_pf,img_pointer,img_qp,img_taizi,img_title,img_win_bg,img_ylq,img_zp,knifeskin_5,rank_top1,rank_top2,rank_top3,wheel"
+		},
+		{
+			"url": "assets/game0.json",
+			"type": "sheet",
+			"name": "game0_json",
+			"subkeys": "0,1,2,3,3_2,40_img_jdt1,69_img_xz,6f_img_sz,7,Bdao1,T_zidang01,T_zidang04,UI_yxz_suo,arrow_2,attk_tips_2,battle_rank_bg,bb_img_jdt2,box,btn_attack_ui,btn_attack_ui_click,btn_close,btn_dj1,btn_dj2,btn_dj3,btn_green,btn_hong,btn_hui,btn_lottery,btn_red,btn_sign,btn_tipsg,btn_tipsy,celll_bg,coin,cross_64,cross_shadow_64,d1_img_tittle_bg,d4_img_plus,fen,getWeaponBox,ground_10,ground_11,ground_12,ground_13,ground_14,ground_15,ground_16,ground_1_left,ground_1_right,ground_2,ground_3,ground_7,ground_8,gun1,gun2,gun3,gun4,gun5,gun6,gun7,gunskin_1,gunskin_2,gunskin_3,gunskin_4,gunskin_5,gunskin_6,gunskin_7,hand,hand_1,hei,hong,img_2,img_3,img_ammo_bg,img_attack_1,img_attack_2,img_attack_center,img_attack_replace_1,img_attack_replace_2,img_center,img_dealy,img_jb,img_jb1,img_jb2,img_jb3,img_jb4,img_jb5,img_jbdk,img_jdt1,img_jdt2,img_joystick_center,img_joystick_icon,img_joystick_ui,img_plus,img_role_bg,img_spicon,img_spiconsmall,img_tips,img_tips_bg,img_tittle_bg,img_tx_lxt,img_tx_xtd,img_type_bg,img_video_icon,img_wgm,img_wq,img_wutai,img_xtd,img_xz,img_xzk,img_zz,knife1,knife2,knife3,knife4,knife5,knife6,knifeskin_1,knifeskin_2,knifeskin_3,knifeskin_4,knifeskin_6,off,on,parachute,rect_2,role_1001,role_1002,role_1003,role_1004,role_1005,role_1006,role_1007,role_1008,role_1009,round_128,round_64,round_shadow_64,sign_guang,sing_skin,smoke2,tishi,title,ui_levelBg,ui_shake_off,ui_shake_on,ui_sound_off,ui_sound_on,uzi,waiting_circle,xz_2,yanA"
+		},
+		{
+			"url": "spines/3box.atlas",
+			"type": "text",
+			"name": "3box_atlas"
+		},
+		{
+			"url": "spines/3box.png",
+			"type": "image",
+			"name": "3box_png"
+		},
+		{
+			"url": "spines/Bdao1.atlas",
+			"type": "text",
+			"name": "Bdao1_atlas"
+		},
+		{
+			"url": "spines/Bdao1.png",
+			"type": "image",
+			"name": "Bdao1_png"
+		},
+		{
+			"url": "spines/Cdan2.atlas",
+			"type": "text",
+			"name": "Cdan2_atlas"
+		},
+		{
+			"url": "spines/Cdan2.png",
+			"type": "image",
+			"name": "Cdan2_png"
+		},
+		{
+			"url": "spines/baoxiang2.atlas",
+			"type": "text",
+			"name": "baoxiang2_atlas"
+		},
+		{
+			"url": "spines/baoxiang2.png",
+			"type": "image",
+			"name": "baoxiang2_png"
+		},
+		{
+			"url": "spines/buqiangA.atlas",
+			"type": "text",
+			"name": "buqiangA_atlas"
+		},
+		{
+			"url": "spines/buqiangA.png",
+			"type": "image",
+			"name": "buqiangA_png"
+		},
+		{
+			"url": "spines/buqiangC.atlas",
+			"type": "text",
+			"name": "buqiangC_atlas"
+		},
+		{
+			"url": "spines/buqiangC.png",
+			"type": "image",
+			"name": "buqiangC_png"
+		},
+		{
+			"url": "spines/huojiantongA.atlas",
+			"type": "text",
+			"name": "huojiantongA_atlas"
+		},
+		{
+			"url": "spines/huojiantongA.png",
+			"type": "image",
+			"name": "huojiantongA_png"
+		},
+		{
+			"url": "spines/huojiantongB.atlas",
+			"type": "text",
+			"name": "huojiantongB_atlas"
+		},
+		{
+			"url": "spines/huojiantongB.png",
+			"type": "image",
+			"name": "huojiantongB_png"
+		},
+		{
+			"url": "spines/huojiantongC.atlas",
+			"type": "text",
+			"name": "huojiantongC_atlas"
+		},
+		{
+			"url": "spines/huojiantongC.png",
+			"type": "image",
+			"name": "huojiantongC_png"
+		},
+		{
+			"url": "spines/jiatelinA.atlas",
+			"type": "text",
+			"name": "jiatelinA_atlas"
+		},
+		{
+			"url": "spines/jiatelinA.png",
+			"type": "image",
+			"name": "jiatelinA_png"
+		},
+		{
+			"url": "spines/mm_cd.atlas",
+			"type": "text",
+			"name": "mm_cd_atlas"
+		},
+		{
+			"url": "spines/mm_cd.png",
+			"type": "image",
+			"name": "mm_cd_png"
+		},
+		{
+			"url": "spines/mn_dianji.atlas",
+			"type": "text",
+			"name": "mn_dianji_atlas"
+		},
+		{
+			"url": "spines/mn_dianji.png",
+			"type": "image",
+			"name": "mn_dianji_png"
+		},
+		{
+			"url": "spines/mn_dianji2.atlas",
+			"type": "text",
+			"name": "mn_dianji2_atlas"
+		},
+		{
+			"url": "spines/mn_dianji2.png",
+			"type": "image",
+			"name": "mn_dianji2_png"
+		},
+		{
+			"url": "spines/mntzb_bg.atlas",
+			"type": "text",
+			"name": "mntzb_bg_atlas"
+		},
+		{
+			"url": "spines/mntzb_bg.png",
+			"type": "image",
+			"name": "mntzb_bg_png"
+		},
+		{
+			"url": "spines/mntzb_bg_51.atlas",
+			"type": "text",
+			"name": "mntzb_bg_51_atlas"
+		},
+		{
+			"url": "spines/mntzb_hd.atlas",
+			"type": "text",
+			"name": "mntzb_hd_atlas"
+		},
+		{
+			"url": "spines/mntzb_hd.png",
+			"type": "image",
+			"name": "mntzb_hd_png"
+		},
+		{
+			"url": "spines/mntzb_js_hong.atlas",
+			"type": "text",
+			"name": "mntzb_js_hong_atlas"
+		},
+		{
+			"url": "spines/mntzb_js_hong.png",
+			"type": "image",
+			"name": "mntzb_js_hong_png"
+		},
+		{
+			"url": "spines/mntzb_shop.atlas",
+			"type": "text",
+			"name": "mntzb_shop_atlas"
+		},
+		{
+			"url": "spines/mntzb_shop.png",
+			"type": "image",
+			"name": "mntzb_shop_png"
+		},
+		{
+			"url": "spines/mntzb_souye.atlas",
+			"type": "text",
+			"name": "mntzb_souye_atlas"
+		},
+		{
+			"url": "spines/mntzb_souye.png",
+			"type": "image",
+			"name": "mntzb_souye_png"
+		},
+		{
+			"url": "spines/mntzb_start.atlas",
+			"type": "text",
+			"name": "mntzb_start_atlas"
+		},
+		{
+			"url": "spines/mntzb_start.png",
+			"type": "image",
+			"name": "mntzb_start_png"
+		},
+		{
+			"url": "spines/mntzb_tdms.atlas",
+			"type": "text",
+			"name": "mntzb_tdms_atlas"
+		},
+		{
+			"url": "spines/mntzb_tdms.png",
+			"type": "image",
+			"name": "mntzb_tdms_png"
+		},
+		{
+			"url": "spines/over.atlas",
+			"type": "text",
+			"name": "over_atlas"
+		},
+		{
+			"url": "spines/over.png",
+			"type": "image",
+			"name": "over_png"
+		},
+		{
+			"url": "spines/pipei.atlas",
+			"type": "text",
+			"name": "pipei_atlas"
+		},
+		{
+			"url": "spines/pipei.png",
+			"type": "image",
+			"name": "pipei_png"
+		},
+		{
+			"url": "spines/sandianA.atlas",
+			"type": "text",
+			"name": "sandianA_atlas"
+		},
+		{
+			"url": "spines/sandianA.png",
+			"type": "image",
+			"name": "sandianA_png"
+		},
+		{
+			"url": "spines/sandianB.atlas",
+			"type": "text",
+			"name": "sandianB_atlas"
+		},
+		{
+			"url": "spines/sandianB.png",
+			"type": "image",
+			"name": "sandianB_png"
+		},
+		{
+			"url": "spines/sandianC.atlas",
+			"type": "text",
+			"name": "sandianC_atlas"
+		},
+		{
+			"url": "spines/sandianC.png",
+			"type": "image",
+			"name": "sandianC_png"
+		},
+		{
+			"url": "spines/smoke2.atlas",
+			"type": "text",
+			"name": "smoke2_atlas"
+		},
+		{
+			"url": "spines/smoke2.png",
+			"type": "image",
+			"name": "smoke2_png"
+		},
+		{
+			"url": "spines/thunder.atlas",
+			"type": "text",
+			"name": "thunder_atlas"
+		},
+		{
+			"url": "spines/thunder.png",
+			"type": "image",
+			"name": "thunder_png"
+		},
+		{
+			"url": "spines/tishi.atlas",
+			"type": "text",
+			"name": "tishi_atlas"
+		},
+		{
+			"url": "spines/tishi.png",
+			"type": "image",
+			"name": "tishi_png"
+		},
+		{
+			"url": "spines/xz.atlas",
+			"type": "text",
+			"name": "xz_atlas"
+		},
+		{
+			"url": "spines/xz.png",
+			"type": "image",
+			"name": "xz_png"
+		},
+		{
+			"url": "spines/3box.json",
+			"type": "json",
+			"name": "3box_json"
+		},
+		{
+			"url": "spines/Bdao1.json",
+			"type": "json",
+			"name": "Bdao1_json"
+		},
+		{
+			"url": "spines/buqiangA.json",
+			"type": "json",
+			"name": "buqiangA_json"
+		},
+		{
+			"url": "spines/buqiangC.json",
+			"type": "json",
+			"name": "buqiangC_json"
+		},
+		{
+			"url": "spines/huojiantongB.json",
+			"type": "json",
+			"name": "huojiantongB_json"
+		},
+		{
+			"url": "spines/baoxiang2.json",
+			"type": "json",
+			"name": "baoxiang2_json"
+		},
+		{
+			"url": "spines/huojiantongA.json",
+			"type": "json",
+			"name": "huojiantongA_json"
+		},
+		{
+			"url": "spines/huojiantongC.json",
+			"type": "json",
+			"name": "huojiantongC_json"
+		},
+		{
+			"url": "spines/jiatelinA.json",
+			"type": "json",
+			"name": "jiatelinA_json"
+		},
+		{
+			"url": "spines/Cdan2.json",
+			"type": "json",
+			"name": "Cdan2_json"
+		},
+		{
+			"url": "spines/mn_dianji.json",
+			"type": "json",
+			"name": "mn_dianji_json"
+		},
+		{
+			"url": "spines/mn_dianji2.json",
+			"type": "json",
+			"name": "mn_dianji2_json"
+		},
+		{
+			"url": "spines/mm_cd.json",
+			"type": "json",
+			"name": "mm_cd_json"
+		},
+		{
+			"url": "spines/mntzb_bg.json",
+			"type": "json",
+			"name": "mntzb_bg_json"
+		},
+		{
+			"url": "spines/mntzb_hd.json",
+			"type": "json",
+			"name": "mntzb_hd_json"
+		},
+		{
+			"url": "spines/mntzb_bg_51.json",
+			"type": "json",
+			"name": "mntzb_bg_51_json"
+		},
+		{
+			"url": "spines/mntzb_start.json",
+			"type": "json",
+			"name": "mntzb_start_json"
+		},
+		{
+			"url": "spines/mntzb_souye.json",
+			"type": "json",
+			"name": "mntzb_souye_json"
+		},
+		{
+			"url": "spines/mntzb_shop.json",
+			"type": "json",
+			"name": "mntzb_shop_json"
+		},
+		{
+			"url": "spines/pipei.json",
+			"type": "json",
+			"name": "pipei_json"
+		},
+		{
+			"url": "spines/mntzb_tdms.json",
+			"type": "json",
+			"name": "mntzb_tdms_json"
+		},
+		{
+			"url": "spines/over.json",
+			"type": "json",
+			"name": "over_json"
+		},
+		{
+			"url": "spines/sandianB.json",
+			"type": "json",
+			"name": "sandianB_json"
+		},
+		{
+			"url": "spines/smoke2.json",
+			"type": "json",
+			"name": "smoke2_json"
+		},
+		{
+			"url": "spines/sandianA.json",
+			"type": "json",
+			"name": "sandianA_json"
+		},
+		{
+			"url": "spines/sandianC.json",
+			"type": "json",
+			"name": "sandianC_json"
+		},
+		{
+			"url": "spines/thunder.json",
+			"type": "json",
+			"name": "thunder_json"
+		},
+		{
+			"url": "spines/xz.json",
+			"type": "json",
+			"name": "xz_json"
+		},
+		{
+			"url": "spines/tishi.json",
+			"type": "json",
+			"name": "tishi_json"
+		},
+		{
+			"url": "spines/mntzb_js_hong.json",
+			"type": "json",
+			"name": "mntzb_js_hong_json"
+		},
+		{
+			"url": "spines/mntzb_bg2.atlas",
+			"type": "text",
+			"name": "mntzb_bg2_atlas"
+		},
+		{
+			"url": "spines/mntzb_bg2.png",
+			"type": "image",
+			"name": "mntzb_bg2_png"
+		},
+		{
+			"url": "spines/mntzb_bg1.atlas",
+			"type": "text",
+			"name": "mntzb_bg1_atlas"
+		},
+		{
+			"url": "spines/mntzb_bg1.png",
+			"type": "image",
+			"name": "mntzb_bg1_png"
+		},
+		{
+			"url": "spines/mntzb_bg1.json",
+			"type": "json",
+			"name": "mntzb_bg1_json"
+		},
+		{
+			"url": "spines/mntzb_bg2.json",
+			"type": "json",
+			"name": "mntzb_bg2_json"
+		},
+		{
+			"url": "sounds/BGMLobby.mp3",
+			"type": "sound",
+			"name": "BGMLobby_mp3"
+		},
+		{
+			"url": "sounds/Gatlin.mp3",
+			"type": "sound",
+			"name": "Gatlin_mp3"
+		},
+		{
+			"url": "sounds/RGP.mp3",
+			"type": "sound",
+			"name": "RGP_mp3"
+		},
+		{
+			"url": "sounds/ak.mp3",
+			"type": "sound",
+			"name": "ak_mp3"
+		},
+		{
+			"url": "sounds/bgm0.mp3",
+			"type": "sound",
+			"name": "bgm0_mp3"
+		},
+		{
+			"url": "sounds/bomb.mp3",
+			"type": "sound",
+			"name": "bomb_mp3"
+		},
+		{
+			"url": "sounds/click.mp3",
+			"type": "sound",
+			"name": "click_mp3"
+		},
+		{
+			"url": "sounds/die.mp3",
+			"type": "sound",
+			"name": "die_mp3"
+		},
+		{
+			"url": "sounds/fail.mp3",
+			"type": "sound",
+			"name": "fail_mp3"
+		},
+		{
+			"url": "sounds/getWeaponBox.mp3",
+			"type": "sound",
+			"name": "getWeaponBox_mp3"
+		},
+		{
+			"url": "sounds/get_gold.mp3",
+			"type": "sound",
+			"name": "get_gold_mp3"
+		},
+		{
+			"url": "sounds/get_skin.mp3",
+			"type": "sound",
+			"name": "get_skin_mp3"
+		},
+		{
+			"url": "sounds/pistol.mp3",
+			"type": "sound",
+			"name": "pistol_mp3"
+		},
+		{
+			"url": "sounds/shotgun.mp3",
+			"type": "sound",
+			"name": "shotgun_mp3"
+		},
+		{
+			"url": "sounds/submachine.mp3",
+			"type": "sound",
+			"name": "submachine_mp3"
+		},
+		{
+			"url": "sounds/timeCount.mp3",
+			"type": "sound",
+			"name": "timeCount_mp3"
+		},
+		{
+			"url": "sounds/win.mp3",
+			"type": "sound",
+			"name": "win_mp3"
+		}
+	]
+}

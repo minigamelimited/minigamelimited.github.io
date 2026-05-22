@@ -1,0 +1,41 @@
+
+xz.png
+size: 159,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gl_w
+  rotate: true
+  xy: 43, 458
+  size: 55, 56
+  orig: 73, 74
+  offset: 9, 9
+  index: -1
+gl_y
+  rotate: false
+  xy: 2, 323
+  size: 140, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+gl_z
+  rotate: false
+  xy: 2, 166
+  size: 155, 155
+  orig: 161, 161
+  offset: 3, 3
+  index: -1
+weaponBox
+  rotate: true
+  xy: 2, 2
+  size: 162, 126
+  orig: 162, 126
+  offset: 0, 0
+  index: -1
+weaponBoxD
+  rotate: false
+  xy: 2, 501
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1

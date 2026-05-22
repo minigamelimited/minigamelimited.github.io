@@ -1,0 +1,83 @@
+
+jiatelinA.png
+size: 1167,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jtlb_00000
+  rotate: false
+  xy: 548, 7
+  size: 577, 207
+  orig: 635, 233
+  offset: 4, 9
+  index: -1
+jtlb_00001
+  rotate: true
+  xy: 2, 432
+  size: 610, 210
+  orig: 635, 233
+  offset: 6, 6
+  index: -1
+jtlb_00002
+  rotate: false
+  xy: 2, 216
+  size: 548, 214
+  orig: 635, 233
+  offset: 13, 11
+  index: -1
+jtlb_00003
+  rotate: false
+  xy: 2, 2
+  size: 544, 212
+  orig: 635, 233
+  offset: 21, 18
+  index: -1
+jtlb_00004
+  rotate: false
+  xy: 552, 229
+  size: 602, 203
+  orig: 635, 233
+  offset: 25, 25
+  index: -1
+jtlb_00005
+  rotate: true
+  xy: 967, 457
+  size: 585, 198
+  orig: 635, 233
+  offset: 46, 26
+  index: -1
+jtlb_00006
+  rotate: true
+  xy: 214, 433
+  size: 609, 197
+  orig: 635, 233
+  offset: 20, 21
+  index: -1
+jtlb_00007
+  rotate: true
+  xy: 595, 436
+  size: 606, 183
+  orig: 635, 233
+  offset: 19, 23
+  index: -1
+jtlb_00008
+  rotate: true
+  xy: 780, 444
+  size: 598, 185
+  orig: 635, 233
+  offset: 21, 28
+  index: -1
+jtlb_00009
+  rotate: true
+  xy: 413, 434
+  size: 608, 180
+  orig: 635, 233
+  offset: 9, 33
+  index: -1
+yan
+  rotate: true
+  xy: 1127, 171
+  size: 56, 37
+  orig: 66, 73
+  offset: 5, 30
+  index: -1

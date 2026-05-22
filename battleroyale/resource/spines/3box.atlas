@@ -1,0 +1,55 @@
+
+3box.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3box
+  rotate: false
+  xy: 213, 159
+  size: 199, 89
+  orig: 199, 89
+  offset: 0, 0
+  index: -1
+3shell_close
+  rotate: false
+  xy: 2, 94
+  size: 209, 154
+  orig: 209, 154
+  offset: 0, 0
+  index: -1
+3shell_open
+  rotate: false
+  xy: 2, 2
+  size: 203, 90
+  orig: 203, 90
+  offset: 0, 0
+  index: -1
+glow_A
+  rotate: false
+  xy: 213, 85
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+glow_B
+  rotate: false
+  xy: 480, 224
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+glow_C
+  rotate: false
+  xy: 414, 189
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+glow_DI
+  rotate: false
+  xy: 318, 138
+  size: 98, 19
+  orig: 98, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+pipei.png
+size: 215,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glb
+  rotate: false
+  xy: 2, 185
+  size: 211, 138
+  orig: 211, 152
+  offset: 0, 14
+  index: -1
+glc
+  rotate: false
+  xy: 2, 325
+  size: 207, 135
+  orig: 207, 135
+  offset: 0, 0
+  index: -1
+gld
+  rotate: true
+  xy: 82, 474
+  size: 9, 49
+  orig: 11, 51
+  offset: 1, 1
+  index: -1
+gle
+  rotate: true
+  xy: 2, 479
+  size: 4, 78
+  orig: 6, 84
+  offset: 1, 1
+  index: -1
+glf
+  rotate: false
+  xy: 133, 462
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+glg
+  rotate: false
+  xy: 2, 2
+  size: 202, 181
+  orig: 202, 188
+  offset: 0, 0
+  index: -1

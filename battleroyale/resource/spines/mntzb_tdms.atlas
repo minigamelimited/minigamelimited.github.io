@@ -1,0 +1,139 @@
+
+mntzb_tdms.png
+size: 619,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 497, 120
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 538, 7
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 594, 143
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+c 拷贝
+  rotate: true
+  xy: 594, 113
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+e
+  rotate: true
+  xy: 358, 1
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+f
+  rotate: false
+  xy: 291, 68
+  size: 90, 138
+  orig: 90, 138
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 466, 0
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+h
+  rotate: true
+  xy: 466, 33
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+h 拷贝
+  rotate: false
+  xy: 594, 175
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 499, 1
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 497, 45
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 383, 92
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+tjbg 拷贝
+  rotate: false
+  xy: 0, 4
+  size: 289, 202
+  orig: 289, 202
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 582, 45
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+xx 拷贝
+  rotate: false
+  xy: 582, 87
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+xx 拷贝 2
+  rotate: false
+  xy: 582, 65
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+xz_a
+  rotate: true
+  xy: 291, 3
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+ying
+  rotate: false
+  xy: 383, 69
+  size: 104, 21
+  orig: 104, 21
+  offset: 0, 0
+  index: -1
+形状 3
+  rotate: false
+  xy: 403, 7
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
