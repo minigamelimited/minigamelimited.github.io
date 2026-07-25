@@ -1,0 +1,1370 @@
+{
+    "1": {
+        "id": 1,
+        "BaseID": -42716,
+        "Name": "找出密码1",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ADG",
+        "TimerNum": 0
+    },
+    "2": {
+        "id": 2,
+        "BaseID": -42717,
+        "Name": "找出密码2",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AEF",
+        "TimerNum": 0
+    },
+    "3": {
+        "id": 3,
+        "BaseID": -42718,
+        "Name": "找出密码3",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AIGH",
+        "TimerNum": 0
+    },
+    "4": {
+        "id": 4,
+        "BaseID": -42719,
+        "Name": "找出密码4",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IHE",
+        "TimerNum": 0
+    },
+    "5": {
+        "id": 5,
+        "BaseID": -42720,
+        "Name": "找出密码5",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IFH",
+        "TimerNum": 0
+    },
+    "6": {
+        "id": 6,
+        "BaseID": -42721,
+        "Name": "找出密码6",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ADFG",
+        "TimerNum": 0
+    },
+    "7": {
+        "id": 7,
+        "BaseID": -42722,
+        "Name": "找出密码7",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BAFC",
+        "TimerNum": 0
+    },
+    "8": {
+        "id": 8,
+        "BaseID": -42723,
+        "Name": "找出密码8",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ABCFHGD",
+        "TimerNum": 0
+    },
+    "9": {
+        "id": 9,
+        "BaseID": -42724,
+        "Name": "找出密码9",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EADH",
+        "TimerNum": 0
+    },
+    "10": {
+        "id": 10,
+        "BaseID": -42725,
+        "Name": "找出密码10",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CAIFDG",
+        "TimerNum": 0
+    },
+    "11": {
+        "id": 11,
+        "BaseID": -42726,
+        "Name": "找出密码11",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ADCEG",
+        "TimerNum": 0
+    },
+    "12": {
+        "id": 12,
+        "BaseID": -42727,
+        "Name": "找出密码12",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BADC",
+        "TimerNum": 0
+    },
+    "13": {
+        "id": 13,
+        "BaseID": -42749,
+        "Name": "找出密码13",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BHAC",
+        "TimerNum": 0
+    },
+    "14": {
+        "id": 14,
+        "BaseID": -42750,
+        "Name": "找出密码14",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HACD",
+        "TimerNum": 0
+    },
+    "15": {
+        "id": 15,
+        "BaseID": -42751,
+        "Name": "找出密码15",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BDGCI",
+        "TimerNum": 0
+    },
+    "16": {
+        "id": 16,
+        "BaseID": -42752,
+        "Name": "找出密码16",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EBCH",
+        "TimerNum": 0
+    },
+    "17": {
+        "id": 17,
+        "BaseID": -42753,
+        "Name": "找出密码17",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BFEG",
+        "TimerNum": 0
+    },
+    "18": {
+        "id": 18,
+        "BaseID": -42754,
+        "Name": "找出密码18",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CEA",
+        "TimerNum": 0
+    },
+    "19": {
+        "id": 19,
+        "BaseID": -42755,
+        "Name": "找出密码19",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DCIB",
+        "TimerNum": 0
+    },
+    "20": {
+        "id": 20,
+        "BaseID": -42756,
+        "Name": "找出密码20",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FDGB",
+        "TimerNum": 0
+    },
+    "21": {
+        "id": 21,
+        "BaseID": -42757,
+        "Name": "找出密码21",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AEFGI",
+        "TimerNum": 0
+    },
+    "22": {
+        "id": 22,
+        "BaseID": -42758,
+        "Name": "找出密码22",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IBA",
+        "TimerNum": 0
+    },
+    "23": {
+        "id": 23,
+        "BaseID": -42759,
+        "Name": "找出密码23",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BGF",
+        "TimerNum": 0
+    },
+    "24": {
+        "id": 24,
+        "BaseID": -42760,
+        "Name": "找出密码24",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HFBD",
+        "TimerNum": 0
+    },
+    "25": {
+        "id": 25,
+        "BaseID": -42761,
+        "Name": "找出密码25",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FHI",
+        "TimerNum": 0
+    },
+    "26": {
+        "id": 26,
+        "BaseID": -42762,
+        "Name": "找出密码26",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EHBDF",
+        "TimerNum": 0
+    },
+    "27": {
+        "id": 27,
+        "BaseID": -42763,
+        "Name": "找出密码27",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BCFHGD",
+        "TimerNum": 0
+    },
+    "28": {
+        "id": 28,
+        "BaseID": -42764,
+        "Name": "找出密码28",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HCFI",
+        "TimerNum": 0
+    },
+    "29": {
+        "id": 29,
+        "BaseID": -42765,
+        "Name": "找出密码29",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AFBH",
+        "TimerNum": 0
+    },
+    "30": {
+        "id": 30,
+        "BaseID": -42766,
+        "Name": "找出密码30",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FIDH",
+        "TimerNum": 0
+    },
+    "31": {
+        "id": 31,
+        "BaseID": -42900,
+        "Name": "找出密码31",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EBIA",
+        "TimerNum": 0
+    },
+    "32": {
+        "id": 32,
+        "BaseID": -42901,
+        "Name": "找出密码32",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BED",
+        "TimerNum": 0
+    },
+    "33": {
+        "id": 33,
+        "BaseID": -42902,
+        "Name": "找出密码33",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CEAI",
+        "TimerNum": 0
+    },
+    "34": {
+        "id": 34,
+        "BaseID": -42903,
+        "Name": "找出密码34",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HIFCBADG",
+        "TimerNum": 0
+    },
+    "35": {
+        "id": 35,
+        "BaseID": -42904,
+        "Name": "找出密码35",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CGAI",
+        "TimerNum": 0
+    },
+    "36": {
+        "id": 36,
+        "BaseID": -42905,
+        "Name": "找出密码36",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FHA",
+        "TimerNum": 0
+    },
+    "37": {
+        "id": 37,
+        "BaseID": -42906,
+        "Name": "找出密码37",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FBH",
+        "TimerNum": 0
+    },
+    "38": {
+        "id": 38,
+        "BaseID": -42907,
+        "Name": "找出密码38",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FBHA",
+        "TimerNum": 0
+    },
+    "39": {
+        "id": 39,
+        "BaseID": -42908,
+        "Name": "找出密码39",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DBCH",
+        "TimerNum": 0
+    },
+    "40": {
+        "id": 40,
+        "BaseID": -42935,
+        "Name": "找出密码40",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DCGE",
+        "TimerNum": 0
+    },
+    "41": {
+        "id": 41,
+        "BaseID": -42936,
+        "Name": "找出密码41",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EABDCHIGF",
+        "TimerNum": 0
+    },
+    "42": {
+        "id": 42,
+        "BaseID": -42937,
+        "Name": "找出密码42",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FEH",
+        "TimerNum": 0
+    },
+    "43": {
+        "id": 43,
+        "BaseID": -42938,
+        "Name": "找出密码43",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CBDI",
+        "TimerNum": 0
+    },
+    "44": {
+        "id": 44,
+        "BaseID": -42939,
+        "Name": "找出密码44",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DIFCBE",
+        "TimerNum": 0
+    },
+    "45": {
+        "id": 45,
+        "BaseID": -42940,
+        "Name": "找出密码45",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DCAH",
+        "TimerNum": 0
+    },
+    "46": {
+        "id": 46,
+        "BaseID": -42941,
+        "Name": "找出密码46",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HBD",
+        "TimerNum": 0
+    },
+    "47": {
+        "id": 47,
+        "BaseID": -42942,
+        "Name": "找出密码47",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HCD",
+        "TimerNum": 0
+    },
+    "48": {
+        "id": 48,
+        "BaseID": -42943,
+        "Name": "找出密码48",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CFB",
+        "TimerNum": 0
+    },
+    "49": {
+        "id": 49,
+        "BaseID": -43019,
+        "Name": "找出密码49",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IFDA",
+        "TimerNum": 0
+    },
+    "50": {
+        "id": 50,
+        "BaseID": -43020,
+        "Name": "找出密码50",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BIAG",
+        "TimerNum": 0
+    },
+    "51": {
+        "id": 51,
+        "BaseID": -43021,
+        "Name": "找出密码51",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BCDG",
+        "TimerNum": 0
+    },
+    "52": {
+        "id": 52,
+        "BaseID": -43022,
+        "Name": "找出密码52",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IDBG",
+        "TimerNum": 0
+    },
+    "53": {
+        "id": 53,
+        "BaseID": -43023,
+        "Name": "找出密码53",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ADCI",
+        "TimerNum": 0
+    },
+    "54": {
+        "id": 54,
+        "BaseID": -43024,
+        "Name": "找出密码54",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IHBACGDEF",
+        "TimerNum": 0
+    },
+    "55": {
+        "id": 55,
+        "BaseID": -43104,
+        "Name": "找出密码55",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AHBID",
+        "TimerNum": 0
+    },
+    "56": {
+        "id": 56,
+        "BaseID": -43105,
+        "Name": "找出密码56",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BDCE",
+        "TimerNum": 0
+    },
+    "57": {
+        "id": 57,
+        "BaseID": -43106,
+        "Name": "找出密码57",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FAHI",
+        "TimerNum": 0
+    },
+    "58": {
+        "id": 58,
+        "BaseID": -43107,
+        "Name": "找出密码58",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ADHF",
+        "TimerNum": 0
+    },
+    "59": {
+        "id": 59,
+        "BaseID": -43108,
+        "Name": "找出密码59",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CGBD",
+        "TimerNum": 0
+    },
+    "60": {
+        "id": 60,
+        "BaseID": -43109,
+        "Name": "找出密码60",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CIFH",
+        "TimerNum": 0
+    },
+    "61": {
+        "id": 61,
+        "BaseID": -45065,
+        "Name": "找出密码61",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GEA",
+        "TimerNum": 0
+    },
+    "62": {
+        "id": 62,
+        "BaseID": -45066,
+        "Name": "找出密码62",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GHD",
+        "TimerNum": 0
+    },
+    "63": {
+        "id": 63,
+        "BaseID": -45067,
+        "Name": "找出密码63",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HBDEF",
+        "TimerNum": 0
+    },
+    "64": {
+        "id": 64,
+        "BaseID": -45068,
+        "Name": "找出密码64",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GDABEHIFC",
+        "TimerNum": 0
+    },
+    "65": {
+        "id": 65,
+        "BaseID": -45069,
+        "Name": "找出密码65",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FDH",
+        "TimerNum": 0
+    },
+    "66": {
+        "id": 66,
+        "BaseID": -45070,
+        "Name": "找出密码66",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IEAC",
+        "TimerNum": 0
+    },
+    "67": {
+        "id": 67,
+        "BaseID": -45071,
+        "Name": "找出密码67",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BGEA",
+        "TimerNum": 0
+    },
+    "68": {
+        "id": 68,
+        "BaseID": -45072,
+        "Name": "找出密码68",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HBED",
+        "TimerNum": 0
+    },
+    "69": {
+        "id": 69,
+        "BaseID": -45073,
+        "Name": "找出密码69",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DBAC",
+        "TimerNum": 0
+    },
+    "70": {
+        "id": 70,
+        "BaseID": -45074,
+        "Name": "找出密码70",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GIEDBH",
+        "TimerNum": 0
+    },
+    "71": {
+        "id": 71,
+        "BaseID": -45075,
+        "Name": "找出密码71",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AIHE",
+        "TimerNum": 0
+    },
+    "72": {
+        "id": 72,
+        "BaseID": -45076,
+        "Name": "找出密码72",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BACDI",
+        "TimerNum": 0
+    },
+    "73": {
+        "id": 73,
+        "BaseID": -45077,
+        "Name": "找出密码73",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IGAH",
+        "TimerNum": 0
+    },
+    "74": {
+        "id": 74,
+        "BaseID": -45079,
+        "Name": "找出密码75",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GDFI",
+        "TimerNum": 0
+    },
+    "75": {
+        "id": 75,
+        "BaseID": -45080,
+        "Name": "找出密码76",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AHIE",
+        "TimerNum": 0
+    },
+    "76": {
+        "id": 76,
+        "BaseID": -45197,
+        "Name": "找出密码78",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HFIA",
+        "TimerNum": 0
+    },
+    "77": {
+        "id": 77,
+        "BaseID": -45198,
+        "Name": "找出密码79",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AHIBE",
+        "TimerNum": 0
+    },
+    "78": {
+        "id": 78,
+        "BaseID": -45199,
+        "Name": "找出密码80",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AFGE",
+        "TimerNum": 0
+    },
+    "79": {
+        "id": 79,
+        "BaseID": -45200,
+        "Name": "找出密码81",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CDFH",
+        "TimerNum": 0
+    },
+    "80": {
+        "id": 80,
+        "BaseID": -45594,
+        "Name": "找出密码84",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CFB",
+        "TimerNum": 0
+    },
+    "81": {
+        "id": 81,
+        "BaseID": -45592,
+        "Name": "找出密码82",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FGCA",
+        "TimerNum": 0
+    },
+    "82": {
+        "id": 82,
+        "BaseID": -45593,
+        "Name": "找出密码83",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AHBI",
+        "TimerNum": 0
+    },
+    "83": {
+        "id": 83,
+        "BaseID": -45652,
+        "Name": "找出密码85",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FCGA",
+        "TimerNum": 0
+    },
+    "84": {
+        "id": 84,
+        "BaseID": -45653,
+        "Name": "找出密码86",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ABEDGHIF",
+        "TimerNum": 0
+    },
+    "85": {
+        "id": 85,
+        "BaseID": -45654,
+        "Name": "找出密码87",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DBGF",
+        "TimerNum": 0
+    },
+    "86": {
+        "id": 86,
+        "BaseID": -45762,
+        "Name": "找出密码89",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ABHF",
+        "TimerNum": 0
+    },
+    "87": {
+        "id": 87,
+        "BaseID": -45763,
+        "Name": "找出密码90",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CIAD",
+        "TimerNum": 0
+    },
+    "88": {
+        "id": 88,
+        "BaseID": -45764,
+        "Name": "找出密码91",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IHAE",
+        "TimerNum": 0
+    },
+    "89": {
+        "id": 89,
+        "BaseID": -45765,
+        "Name": "找出密码92",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EHCB",
+        "TimerNum": 0
+    },
+    "90": {
+        "id": 90,
+        "BaseID": -45766,
+        "Name": "找出密码93",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ACGH",
+        "TimerNum": 0
+    },
+    "91": {
+        "id": 91,
+        "BaseID": -45767,
+        "Name": "找出密码94",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HEFI",
+        "TimerNum": 0
+    },
+    "92": {
+        "id": 92,
+        "BaseID": -45768,
+        "Name": "找出密码95",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DEBH",
+        "TimerNum": 0
+    },
+    "93": {
+        "id": 93,
+        "BaseID": -45769,
+        "Name": "找出密码96",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AGHD",
+        "TimerNum": 0
+    },
+    "94": {
+        "id": 94,
+        "BaseID": -45770,
+        "Name": "找出密码97",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GHCD",
+        "TimerNum": 0
+    },
+    "95": {
+        "id": 95,
+        "BaseID": -45771,
+        "Name": "找出密码98",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ABDF",
+        "TimerNum": 0
+    },
+    "96": {
+        "id": 96,
+        "BaseID": -45772,
+        "Name": "找出密码99",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HDEF",
+        "TimerNum": 0
+    },
+    "97": {
+        "id": 97,
+        "BaseID": -45773,
+        "Name": "找出密码100",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AIGC",
+        "TimerNum": 0
+    },
+    "98": {
+        "id": 98,
+        "BaseID": -45774,
+        "Name": "找出密码101",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EIBD",
+        "TimerNum": 0
+    },
+    "99": {
+        "id": 99,
+        "BaseID": -45775,
+        "Name": "找出密码102",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DABG",
+        "TimerNum": 0
+    },
+    "100": {
+        "id": 100,
+        "BaseID": -45776,
+        "Name": "找出密码103",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IGBA",
+        "TimerNum": 0
+    },
+    "101": {
+        "id": 101,
+        "BaseID": -45777,
+        "Name": "找出密码104",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IBDA",
+        "TimerNum": 0
+    },
+    "102": {
+        "id": 102,
+        "BaseID": -45778,
+        "Name": "找出密码105",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CAFI",
+        "TimerNum": 0
+    },
+    "103": {
+        "id": 103,
+        "BaseID": -45779,
+        "Name": "找出密码106",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EFCD",
+        "TimerNum": 0
+    },
+    "104": {
+        "id": 104,
+        "BaseID": -45924,
+        "Name": "找出密码114",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AFBH",
+        "TimerNum": 0
+    },
+    "105": {
+        "id": 105,
+        "BaseID": -45865,
+        "Name": "找出密码107",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BDE",
+        "TimerNum": 0
+    },
+    "106": {
+        "id": 106,
+        "BaseID": -45866,
+        "Name": "找出密码108",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GEB",
+        "TimerNum": 0
+    },
+    "107": {
+        "id": 107,
+        "BaseID": -45867,
+        "Name": "找出密码109",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GFE",
+        "TimerNum": 0
+    },
+    "108": {
+        "id": 108,
+        "BaseID": -45919,
+        "Name": "找出密码110",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HEG",
+        "TimerNum": 0
+    },
+    "109": {
+        "id": 109,
+        "BaseID": -45920,
+        "Name": "找出密码111",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HIFEDA",
+        "TimerNum": 0
+    },
+    "110": {
+        "id": 110,
+        "BaseID": -45921,
+        "Name": "找出密码112",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GBCDA",
+        "TimerNum": 0
+    },
+    "111": {
+        "id": 111,
+        "BaseID": -45922,
+        "Name": "找出密码113",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HAFI",
+        "TimerNum": 0
+    },
+    "112": {
+        "id": 112,
+        "BaseID": -45957,
+        "Name": "找出密码115",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ICA",
+        "TimerNum": 0
+    },
+    "113": {
+        "id": 113,
+        "BaseID": -45958,
+        "Name": "找出密码116",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CAHD",
+        "TimerNum": 0
+    },
+    "114": {
+        "id": 114,
+        "BaseID": -45959,
+        "Name": "找出密码117",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CDEABI",
+        "TimerNum": 0
+    },
+    "115": {
+        "id": 115,
+        "BaseID": -45960,
+        "Name": "找出密码118",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IEFA",
+        "TimerNum": 0
+    },
+    "116": {
+        "id": 116,
+        "BaseID": -45961,
+        "Name": "找出密码119",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BEA",
+        "TimerNum": 0
+    },
+    "117": {
+        "id": 117,
+        "BaseID": -45963,
+        "Name": "找出密码120",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CIEFG",
+        "TimerNum": 0
+    },
+    "118": {
+        "id": 118,
+        "BaseID": -45964,
+        "Name": "找出密码121",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DAC",
+        "TimerNum": 0
+    },
+    "119": {
+        "id": 119,
+        "BaseID": -45965,
+        "Name": "找出密码122",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EIAH",
+        "TimerNum": 0
+    },
+    "120": {
+        "id": 120,
+        "BaseID": -45966,
+        "Name": "找出密码123",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BCDEFA",
+        "TimerNum": 0
+    },
+    "121": {
+        "id": 121,
+        "BaseID": -45971,
+        "Name": "找出密码124",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AFI",
+        "TimerNum": 0
+    },
+    "122": {
+        "id": 122,
+        "BaseID": -45972,
+        "Name": "找出密码125",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ACEF",
+        "TimerNum": 0
+    },
+    "123": {
+        "id": 123,
+        "BaseID": -45973,
+        "Name": "找出密码126",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ABCGI",
+        "TimerNum": 0
+    },
+    "124": {
+        "id": 124,
+        "BaseID": -45974,
+        "Name": "找出密码127",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GCFEAD",
+        "TimerNum": 0
+    },
+    "125": {
+        "id": 125,
+        "BaseID": -45975,
+        "Name": "找出密码128",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GCBFADIHE",
+        "TimerNum": 0
+    },
+    "126": {
+        "id": 126,
+        "BaseID": -45976,
+        "Name": "找出密码129",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CFDGIHEBA",
+        "TimerNum": 0
+    },
+    "127": {
+        "id": 127,
+        "BaseID": -45978,
+        "Name": "找出密码130",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ACIFH",
+        "TimerNum": 0
+    },
+    "128": {
+        "id": 128,
+        "BaseID": -45979,
+        "Name": "找出密码131",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AIGFH",
+        "TimerNum": 0
+    },
+    "129": {
+        "id": 129,
+        "BaseID": -45980,
+        "Name": "找出密码132",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GAID",
+        "TimerNum": 0
+    },
+    "130": {
+        "id": 130,
+        "BaseID": -45981,
+        "Name": "找出密码133",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FEAC",
+        "TimerNum": 0
+    },
+    "131": {
+        "id": 131,
+        "BaseID": -45982,
+        "Name": "找出密码134",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FAHGI",
+        "TimerNum": 0
+    },
+    "132": {
+        "id": 132,
+        "BaseID": -46013,
+        "Name": "找出密码135",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EBHAG",
+        "TimerNum": 0
+    },
+    "133": {
+        "id": 133,
+        "BaseID": -46014,
+        "Name": "找出密码136",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "HIEADCGFB",
+        "TimerNum": 0
+    },
+    "134": {
+        "id": 134,
+        "BaseID": -46015,
+        "Name": "找出密码137",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AFBEDHCIG",
+        "TimerNum": 0
+    },
+    "135": {
+        "id": 135,
+        "BaseID": -46016,
+        "Name": "找出密码138",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EHD",
+        "TimerNum": 0
+    },
+    "136": {
+        "id": 136,
+        "BaseID": -46017,
+        "Name": "找出密码139",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GECBAIH",
+        "TimerNum": 0
+    },
+    "137": {
+        "id": 137,
+        "BaseID": -46018,
+        "Name": "找出密码140",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AGBE",
+        "TimerNum": 0
+    },
+    "138": {
+        "id": 138,
+        "BaseID": -46019,
+        "Name": "找出密码141",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "ADBH",
+        "TimerNum": 0
+    },
+    "139": {
+        "id": 139,
+        "BaseID": -46034,
+        "Name": "找出密码142",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "FEIH",
+        "TimerNum": 0
+    },
+    "140": {
+        "id": 140,
+        "BaseID": -46035,
+        "Name": "找出密码143",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CDEGH",
+        "TimerNum": 0
+    },
+    "141": {
+        "id": 141,
+        "BaseID": -46046,
+        "Name": "找出密码144",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EAFIHDBC",
+        "TimerNum": 0
+    },
+    "142": {
+        "id": 142,
+        "BaseID": -46047,
+        "Name": "找出密码145",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "BACDE",
+        "TimerNum": 0
+    },
+    "143": {
+        "id": 143,
+        "BaseID": -46048,
+        "Name": "找出密码146",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DFBHG",
+        "TimerNum": 0
+    },
+    "144": {
+        "id": 144,
+        "BaseID": -46049,
+        "Name": "找出密码147",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IGAD",
+        "TimerNum": 0
+    },
+    "145": {
+        "id": 145,
+        "BaseID": -46050,
+        "Name": "找出密码148",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AHBDC",
+        "TimerNum": 0
+    },
+    "146": {
+        "id": 146,
+        "BaseID": -46051,
+        "Name": "找出密码149",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "AECBDIHGF",
+        "TimerNum": 0
+    },
+    "147": {
+        "id": 147,
+        "BaseID": -46052,
+        "Name": "找出密码150",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "GAD",
+        "TimerNum": 0
+    },
+    "148": {
+        "id": 148,
+        "BaseID": -46061,
+        "Name": "找出密码154",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "DCI",
+        "TimerNum": 0
+    },
+    "149": {
+        "id": 149,
+        "BaseID": -46062,
+        "Name": "找出密码155",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EDHB",
+        "TimerNum": 0
+    },
+    "150": {
+        "id": 150,
+        "BaseID": -46063,
+        "Name": "找出密码156",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "IAEH",
+        "TimerNum": 0
+    },
+    "151": {
+        "id": 151,
+        "BaseID": -46064,
+        "Name": "找出密码157",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "CGEA",
+        "TimerNum": 0
+    },
+    "152": {
+        "id": 152,
+        "BaseID": -46065,
+        "Name": "找出密码158",
+        "levelType": 1,
+        "TipsType": 1,
+        "TipsText": "EAHDBI",
+        "TimerNum": 0
+    }
+}

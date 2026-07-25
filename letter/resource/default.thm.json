@@ -1,0 +1,28 @@
+{
+	"skins": {
+		"Scene.Common": "resource/eui_skins/Common.exml",
+		"Scene.Cover.Main": "resource/eui_skins/cover/Main.exml",
+		"Scene.Cover.PolygonEditor": "resource/eui_skins/cover/PolygonEditor.exml",
+		"Scene.Game.Main": "resource/eui_skins/game/Main.exml",
+		"Scene.Game.Letter": "resource/eui_skins/game/Letter.exml",
+		"Scene.Game.TipLetter": "resource/eui_skins/game/TipLetter.exml",
+		"Scene.Game.TipAll": "resource/eui_skins/game/TipAll.exml",
+		"Scene.Game.GameOver": "resource/eui_skins/game/GameOver.exml",
+		"Scene.Game.Guide0": "resource/eui_skins/game/Guide0.exml",
+		"Scene.Sign": "resource/eui_skins/Sign.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/Common.exml",
+		"resource/eui_skins/cover/Main.exml",
+		"resource/eui_skins/cover/PolygonEditor.exml",
+		"resource/eui_skins/game/GameOver.exml",
+		"resource/eui_skins/game/Guide0.exml",
+		"resource/eui_skins/game/Letter.exml",
+		"resource/eui_skins/game/Main.exml",
+		"resource/eui_skins/game/TipAll.exml",
+		"resource/eui_skins/game/TipLetter.exml",
+		"resource/eui_skins/Sign.exml"
+	],
+	"path": "resource/default.thm.json"
+}

@@ -1,0 +1,750 @@
+{
+	"groups": [
+		{
+			"keys": "game0_json",
+			"name": "common"
+		},
+		{
+			"keys": "tip0_json,level0_json,lv0_0_png,lv1_0_png,lv2_0_png,lv3_0_png,lv4_0_png,lv5_0_png,lv6_0_png,lv7_0_png,lv8_0_png,lv9_0_png",
+			"name": "level0"
+		},
+		{
+			"keys": "tip1_json,level1_json,lv10_0_png,lv11_0_png,lv12_0_png,lv10_2,lv13_0_png,lv15_0_png,lv17_0_png,lv16_0_png,lv14_0_png,lv18_0_png,lv19_0_png",
+			"name": "level1"
+		},
+		{
+			"keys": "zm_xiaochu_atlas,zm_xiaochu_png,zm_xiaochu_json,shouzhi_atlas,shouzhi_png,shouzhi_json",
+			"name": "spine"
+		},
+		{
+			"keys": "ball_collide_mp3,ballonboom_mp3,bazhang_mp3,bgm_mp3,bobo_mp3,boom1_mp3,boxing_mp3,button_mp3,click_mp3,collisionObstacle_mp3,danger_mp3,door_mp3,drop_mp3,Eliminate_mp3,error_mp3,f35971_citie_mp3,f35971_down_mp3,f35971_true_mp3,f35971_up_mp3,f42716_door_open_mp3,f42716_item_dianji_mp3,f42716_move_flower_mp3,f42716_move_iron_mp3,f42716_move_item_mp3,f42716_move_paper_mp3,f42716_move_pintu_mp3,f42716_move_wood_mp3,f42716_move_xuanzhuan_mp3,f42716_OK_FAIL_mp3,f42716_OK_mp3,f42717_boom_on_mp3,f42717_drag_mp3,f42720_drag_mp3,f42721_drag_mp3,f42761_drag_mp3,f42904_drag_mp3,f42908_drag_mp3,f43105_drag_mp3,f43106_drag_mp3,f43107_drag_mp3,f45771_nanxiao_effect_mp3,f45772_shanzi_mp3,f45774_dishui_effect_mp3,f45776_wuyafang_effect_mp3,f45776_wuyanaqi_effect_mp3,f45777_xiao_effect_mp3,f45963_suliaoban_effect_mp3,f45964_shuipao_effect_mp3,f45965_mukuai_effect_mp3,f45966_zhizhang_effect_mp3,f45979_jiaoban_effect_mp3,fight_mp3,firework_mp3,glass_break_mp3,handclap_mp3,Hit_mp3,jumpscare_mp3,leiji_mp3,mix_mp3,nvjianjiao_mp3,page_mp3,putdownWood_mp3,right_mp3,shutter_sound_mp3,smoke_mp3,suc_mp3,tipClick_mp3,victory_mp3,xiu_mp3,zhuahen_mp3,zqddn_zhb_star_mp3",
+			"name": "sound"
+		},
+		{
+			"keys": "lv20_0_png,lv21_0_png,lv22_0_png,lv23_0_png,lv24_0_png,lv25_0_png,lv26_0_png,lv27_0_png,lv28_0_png,lv29_0_png,tip2_json,level2_json",
+			"name": "level2"
+		},
+		{
+			"keys": "level3_json,tip3_json,lv30_0_png,lv31_0_png,lv32_0_png,lv33_0_png,lv34_0_png,lv35_0_png,lv36_0_png,lv37_0_png,lv38_0_png,lv39_0_png",
+			"name": "level3"
+		},
+		{
+			"keys": "level4_1_json,level4_json,tip4_json,lv40_0_png,lv41_0_png,lv42_0_png,lv43_0_png,lv44_0_png,lv45_0_png,lv46_0_png,lv47_0_png,lv48_0_png,lv49_0_png",
+			"name": "level4"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/tip1.json",
+			"type": "sheet",
+			"name": "tip1_json",
+			"subkeys": "lv10_tip,lv11_tip,lv12_tip,lv13_tip,lv14_tip,lv15_tip,lv16_tips,lv17_tip,lv18_tip,lv19_tip"
+		},
+		{
+			"url": "assets/game0.json",
+			"type": "sheet",
+			"name": "game0_json",
+			"subkeys": "ad,bg_biaoti,bg_day1,bg_day2,bg_day_zz,bg_key_num,bg_light,bg_mima,bg_tanchuang01,bg_tanchuang3,bg_tanchuang_qiandao,bg_tishi1,bg_tishi2,bg_tishi3,bg_xian,btn05,btn_01,btn_02,btn_03,btn_A,btn_A2,btn_B,btn_B2,btn_C,btn_C2,btn_D,btn_D2,btn_E,btn_E2,btn_F,btn_F2,btn_G,btn_G2,btn_H,btn_H2,btn_I,btn_I2,btn_OFF,btn_ON,btn_back,btn_close,btn_item,btn_item2,btn_pintu,btn_queren,btn_s1,btn_s2,btn_s3,btn_select1,btn_select2,btn_setting,btn_skip,btn_start,close,cw,dg,dg2,f42716_finger,icon_add,icon_finish,icon_item1,icon_item1_1,icon_item1_big,icon_item2,icon_item2_1,icon_item2_big,icon_item3_2,icon_jinbi,icon_jinbi_2,icon_jinbi_3,icon_mrjl,icon_num,icon_paihang,icon_pintu,icon_qiandao,icon_shipin,icon_step,icon_yinxiao,icon_yinyue,img_caidai,img_caidai2,img_fangda,img_huangguan,img_huangguan2,img_xuanzhong"
+		},
+		{
+			"url": "assets/tip0.json",
+			"type": "sheet",
+			"name": "tip0_json",
+			"subkeys": "lv0_tip,lv1_tip,lv2_tip,lv3_tip,lv4_tip,lv5_tip,lv6_tip,lv7_tip,lv8_tip,lv9_tip"
+		},
+		{
+			"url": "assets/level0.json",
+			"type": "sheet",
+			"name": "level0_json",
+			"subkeys": "lv0_1,lv0_2,lv1_1,lv1_2,lv2_1,lv2_2,lv3_1,lv3_10,lv3_11,lv3_12,lv3_13,lv3_14,lv3_15,lv3_16,lv3_17,lv3_18,lv3_19,lv3_2,lv3_20,lv3_3,lv3_4,lv3_5,lv3_6,lv3_7,lv3_8,lv3_9,lv4_1,lv4_2,lv4_3,lv4_4,lv4_5,lv4_6,lv5_1,lv5_2,lv5_3,lv5_4,lv6_1,lv6_2,lv6_3,lv6_4,lv7_1,lv8_1,lv8_2,lv9_1"
+		},
+		{
+			"url": "assets/level1.json",
+			"type": "sheet",
+			"name": "level1_json",
+			"subkeys": "lv10_1,lv10_3,lv11_1,lv11_2,lv12_1,lv12_3,lv12_4,lv12_5,lv12_6,lv12_7,lv12_8,lv12_9,lv13_1,lv13_2,lv13_3,lv14_1,lv14_2,lv14_3,lv14_4,lv14_5,lv15_1,lv16_1,lv17_1,lv17_2,lv17_3,lv17_4,lv17_5,lv17_6,lv17_7,lv17_8,lv18_1,lv19_1,lv19_2,lv19_3,lv19_4"
+		},
+		{
+			"url": "bg0/lv0_0.png",
+			"type": "image",
+			"name": "lv0_0_png"
+		},
+		{
+			"url": "bg0/lv1_0.png",
+			"type": "image",
+			"name": "lv1_0_png"
+		},
+		{
+			"url": "bg0/lv2_0.png",
+			"type": "image",
+			"name": "lv2_0_png"
+		},
+		{
+			"url": "bg0/lv3_0.png",
+			"type": "image",
+			"name": "lv3_0_png"
+		},
+		{
+			"url": "bg0/lv4_0.png",
+			"type": "image",
+			"name": "lv4_0_png"
+		},
+		{
+			"url": "bg0/lv5_0.png",
+			"type": "image",
+			"name": "lv5_0_png"
+		},
+		{
+			"url": "bg0/lv6_0.png",
+			"type": "image",
+			"name": "lv6_0_png"
+		},
+		{
+			"url": "bg0/lv7_0.png",
+			"type": "image",
+			"name": "lv7_0_png"
+		},
+		{
+			"url": "bg0/lv8_0.png",
+			"type": "image",
+			"name": "lv8_0_png"
+		},
+		{
+			"url": "bg0/lv9_0.png",
+			"type": "image",
+			"name": "lv9_0_png"
+		},
+		{
+			"url": "bg1/lv10_0.png",
+			"type": "image",
+			"name": "lv10_0_png"
+		},
+		{
+			"url": "bg1/lv11_0.png",
+			"type": "image",
+			"name": "lv11_0_png"
+		},
+		{
+			"url": "bg1/lv12_0.png",
+			"type": "image",
+			"name": "lv12_0_png"
+		},
+		{
+			"url": "spine/zm_xiaochu.atlas",
+			"type": "text",
+			"name": "zm_xiaochu_atlas"
+		},
+		{
+			"url": "spine/zm_xiaochu.png",
+			"type": "image",
+			"name": "zm_xiaochu_png"
+		},
+		{
+			"url": "spine/zm_xiaochu.json",
+			"type": "json",
+			"name": "zm_xiaochu_json"
+		},
+		{
+			"url": "sound/ball_collide.mp3",
+			"type": "sound",
+			"name": "ball_collide_mp3"
+		},
+		{
+			"url": "sound/ballonboom.mp3",
+			"type": "sound",
+			"name": "ballonboom_mp3"
+		},
+		{
+			"url": "sound/bazhang.mp3",
+			"type": "sound",
+			"name": "bazhang_mp3"
+		},
+		{
+			"url": "sound/bgm.mp3",
+			"type": "sound",
+			"name": "bgm_mp3"
+		},
+		{
+			"url": "sound/bobo.mp3",
+			"type": "sound",
+			"name": "bobo_mp3"
+		},
+		{
+			"url": "sound/boom1.mp3",
+			"type": "sound",
+			"name": "boom1_mp3"
+		},
+		{
+			"url": "sound/boxing.mp3",
+			"type": "sound",
+			"name": "boxing_mp3"
+		},
+		{
+			"url": "sound/button.mp3",
+			"type": "sound",
+			"name": "button_mp3"
+		},
+		{
+			"url": "sound/click.mp3",
+			"type": "sound",
+			"name": "click_mp3"
+		},
+		{
+			"url": "sound/collisionObstacle.mp3",
+			"type": "sound",
+			"name": "collisionObstacle_mp3"
+		},
+		{
+			"url": "sound/danger.mp3",
+			"type": "sound",
+			"name": "danger_mp3"
+		},
+		{
+			"url": "sound/door.mp3",
+			"type": "sound",
+			"name": "door_mp3"
+		},
+		{
+			"url": "sound/drop.mp3",
+			"type": "sound",
+			"name": "drop_mp3"
+		},
+		{
+			"url": "sound/Eliminate.mp3",
+			"type": "sound",
+			"name": "Eliminate_mp3"
+		},
+		{
+			"url": "sound/error.mp3",
+			"type": "sound",
+			"name": "error_mp3"
+		},
+		{
+			"url": "sound/f35971_citie.mp3",
+			"type": "sound",
+			"name": "f35971_citie_mp3"
+		},
+		{
+			"url": "sound/f35971_down.mp3",
+			"type": "sound",
+			"name": "f35971_down_mp3"
+		},
+		{
+			"url": "sound/f35971_true.mp3",
+			"type": "sound",
+			"name": "f35971_true_mp3"
+		},
+		{
+			"url": "sound/f35971_up.mp3",
+			"type": "sound",
+			"name": "f35971_up_mp3"
+		},
+		{
+			"url": "sound/f42716_door_open.mp3",
+			"type": "sound",
+			"name": "f42716_door_open_mp3"
+		},
+		{
+			"url": "sound/f42716_item_dianji.mp3",
+			"type": "sound",
+			"name": "f42716_item_dianji_mp3"
+		},
+		{
+			"url": "sound/f42716_move_flower.mp3",
+			"type": "sound",
+			"name": "f42716_move_flower_mp3"
+		},
+		{
+			"url": "sound/f42716_move_iron.mp3",
+			"type": "sound",
+			"name": "f42716_move_iron_mp3"
+		},
+		{
+			"url": "sound/f42716_move_item.mp3",
+			"type": "sound",
+			"name": "f42716_move_item_mp3"
+		},
+		{
+			"url": "sound/f42716_move_paper.mp3",
+			"type": "sound",
+			"name": "f42716_move_paper_mp3"
+		},
+		{
+			"url": "sound/f42716_move_pintu.mp3",
+			"type": "sound",
+			"name": "f42716_move_pintu_mp3"
+		},
+		{
+			"url": "sound/f42716_move_wood.mp3",
+			"type": "sound",
+			"name": "f42716_move_wood_mp3"
+		},
+		{
+			"url": "sound/f42716_move_xuanzhuan.mp3",
+			"type": "sound",
+			"name": "f42716_move_xuanzhuan_mp3"
+		},
+		{
+			"url": "sound/f42716_OK_FAIL.mp3",
+			"type": "sound",
+			"name": "f42716_OK_FAIL_mp3"
+		},
+		{
+			"url": "sound/f42716_OK.mp3",
+			"type": "sound",
+			"name": "f42716_OK_mp3"
+		},
+		{
+			"url": "sound/f42717_boom_on.mp3",
+			"type": "sound",
+			"name": "f42717_boom_on_mp3"
+		},
+		{
+			"url": "sound/f42717_drag.mp3",
+			"type": "sound",
+			"name": "f42717_drag_mp3"
+		},
+		{
+			"url": "sound/f42720_drag.mp3",
+			"type": "sound",
+			"name": "f42720_drag_mp3"
+		},
+		{
+			"url": "sound/f42721_drag.mp3",
+			"type": "sound",
+			"name": "f42721_drag_mp3"
+		},
+		{
+			"url": "sound/f42761_drag.mp3",
+			"type": "sound",
+			"name": "f42761_drag_mp3"
+		},
+		{
+			"url": "sound/f42904_drag.mp3",
+			"type": "sound",
+			"name": "f42904_drag_mp3"
+		},
+		{
+			"url": "sound/f42908_drag.mp3",
+			"type": "sound",
+			"name": "f42908_drag_mp3"
+		},
+		{
+			"url": "sound/f43105_drag.mp3",
+			"type": "sound",
+			"name": "f43105_drag_mp3"
+		},
+		{
+			"url": "sound/f43106_drag.mp3",
+			"type": "sound",
+			"name": "f43106_drag_mp3"
+		},
+		{
+			"url": "sound/f43107_drag.mp3",
+			"type": "sound",
+			"name": "f43107_drag_mp3"
+		},
+		{
+			"url": "sound/f45771_nanxiao_effect.mp3",
+			"type": "sound",
+			"name": "f45771_nanxiao_effect_mp3"
+		},
+		{
+			"url": "sound/f45772_shanzi.mp3",
+			"type": "sound",
+			"name": "f45772_shanzi_mp3"
+		},
+		{
+			"url": "sound/f45774_dishui_effect.mp3",
+			"type": "sound",
+			"name": "f45774_dishui_effect_mp3"
+		},
+		{
+			"url": "sound/f45776_wuyafang_effect.mp3",
+			"type": "sound",
+			"name": "f45776_wuyafang_effect_mp3"
+		},
+		{
+			"url": "sound/f45776_wuyanaqi_effect.mp3",
+			"type": "sound",
+			"name": "f45776_wuyanaqi_effect_mp3"
+		},
+		{
+			"url": "sound/f45777_xiao_effect.mp3",
+			"type": "sound",
+			"name": "f45777_xiao_effect_mp3"
+		},
+		{
+			"url": "sound/f45963_suliaoban_effect.mp3",
+			"type": "sound",
+			"name": "f45963_suliaoban_effect_mp3"
+		},
+		{
+			"url": "sound/f45964_shuipao_effect.mp3",
+			"type": "sound",
+			"name": "f45964_shuipao_effect_mp3"
+		},
+		{
+			"url": "sound/f45965_mukuai_effect.mp3",
+			"type": "sound",
+			"name": "f45965_mukuai_effect_mp3"
+		},
+		{
+			"url": "sound/f45966_zhizhang_effect.mp3",
+			"type": "sound",
+			"name": "f45966_zhizhang_effect_mp3"
+		},
+		{
+			"url": "sound/f45979_jiaoban_effect.mp3",
+			"type": "sound",
+			"name": "f45979_jiaoban_effect_mp3"
+		},
+		{
+			"url": "sound/fight.mp3",
+			"type": "sound",
+			"name": "fight_mp3"
+		},
+		{
+			"url": "sound/firework.mp3",
+			"type": "sound",
+			"name": "firework_mp3"
+		},
+		{
+			"url": "sound/glass_break.mp3",
+			"type": "sound",
+			"name": "glass_break_mp3"
+		},
+		{
+			"url": "sound/handclap.mp3",
+			"type": "sound",
+			"name": "handclap_mp3"
+		},
+		{
+			"url": "sound/Hit.mp3",
+			"type": "sound",
+			"name": "Hit_mp3"
+		},
+		{
+			"url": "sound/jumpscare.mp3",
+			"type": "sound",
+			"name": "jumpscare_mp3"
+		},
+		{
+			"url": "sound/leiji.mp3",
+			"type": "sound",
+			"name": "leiji_mp3"
+		},
+		{
+			"url": "sound/mix.mp3",
+			"type": "sound",
+			"name": "mix_mp3"
+		},
+		{
+			"url": "sound/nvjianjiao.mp3",
+			"type": "sound",
+			"name": "nvjianjiao_mp3"
+		},
+		{
+			"url": "sound/page.mp3",
+			"type": "sound",
+			"name": "page_mp3"
+		},
+		{
+			"url": "sound/putdownWood.mp3",
+			"type": "sound",
+			"name": "putdownWood_mp3"
+		},
+		{
+			"url": "sound/right.mp3",
+			"type": "sound",
+			"name": "right_mp3"
+		},
+		{
+			"url": "sound/shutter_sound.mp3",
+			"type": "sound",
+			"name": "shutter_sound_mp3"
+		},
+		{
+			"url": "sound/smoke.mp3",
+			"type": "sound",
+			"name": "smoke_mp3"
+		},
+		{
+			"url": "sound/suc.mp3",
+			"type": "sound",
+			"name": "suc_mp3"
+		},
+		{
+			"url": "sound/tipClick.mp3",
+			"type": "sound",
+			"name": "tipClick_mp3"
+		},
+		{
+			"url": "sound/victory.mp3",
+			"type": "sound",
+			"name": "victory_mp3"
+		},
+		{
+			"url": "sound/xiu.mp3",
+			"type": "sound",
+			"name": "xiu_mp3"
+		},
+		{
+			"url": "sound/zhuahen.mp3",
+			"type": "sound",
+			"name": "zhuahen_mp3"
+		},
+		{
+			"url": "sound/zqddn_zhb_star.mp3",
+			"type": "sound",
+			"name": "zqddn_zhb_star_mp3"
+		},
+		{
+			"url": "spine/shouzhi.atlas",
+			"type": "text",
+			"name": "shouzhi_atlas"
+		},
+		{
+			"url": "spine/shouzhi.png",
+			"type": "image",
+			"name": "shouzhi_png"
+		},
+		{
+			"url": "spine/shouzhi.json",
+			"type": "json",
+			"name": "shouzhi_json"
+		},
+		{
+			"url": "assets/lv10_2.png",
+			"type": "image",
+			"name": "lv10_2"
+		},
+		{
+			"url": "bg1/lv13_0.png",
+			"type": "image",
+			"name": "lv13_0_png"
+		},
+		{
+			"url": "bg1/lv15_0.png",
+			"type": "image",
+			"name": "lv15_0_png"
+		},
+		{
+			"url": "bg1/lv17_0.png",
+			"type": "image",
+			"name": "lv17_0_png"
+		},
+		{
+			"url": "bg1/lv16_0.png",
+			"type": "image",
+			"name": "lv16_0_png"
+		},
+		{
+			"url": "bg1/lv14_0.png",
+			"type": "image",
+			"name": "lv14_0_png"
+		},
+		{
+			"url": "bg1/lv18_0.png",
+			"type": "image",
+			"name": "lv18_0_png"
+		},
+		{
+			"url": "bg1/lv19_0.png",
+			"type": "image",
+			"name": "lv19_0_png"
+		},
+		{
+			"url": "bg2/lv20_0.png",
+			"type": "image",
+			"name": "lv20_0_png"
+		},
+		{
+			"url": "bg2/lv21_0.png",
+			"type": "image",
+			"name": "lv21_0_png"
+		},
+		{
+			"url": "bg2/lv22_0.png",
+			"type": "image",
+			"name": "lv22_0_png"
+		},
+		{
+			"url": "bg2/lv23_0.png",
+			"type": "image",
+			"name": "lv23_0_png"
+		},
+		{
+			"url": "bg2/lv24_0.png",
+			"type": "image",
+			"name": "lv24_0_png"
+		},
+		{
+			"url": "bg2/lv25_0.png",
+			"type": "image",
+			"name": "lv25_0_png"
+		},
+		{
+			"url": "bg2/lv26_0.png",
+			"type": "image",
+			"name": "lv26_0_png"
+		},
+		{
+			"url": "bg2/lv27_0.png",
+			"type": "image",
+			"name": "lv27_0_png"
+		},
+		{
+			"url": "bg2/lv28_0.png",
+			"type": "image",
+			"name": "lv28_0_png"
+		},
+		{
+			"url": "bg2/lv29_0.png",
+			"type": "image",
+			"name": "lv29_0_png"
+		},
+		{
+			"url": "assets/tip2.json",
+			"type": "sheet",
+			"name": "tip2_json",
+			"subkeys": "lv20_tip,lv21_tip,lv22_tip,lv23_tip,lv24_tip,lv25_tip,lv26_tip,lv27_tip,lv28_tip,lv29_tip"
+		},
+		{
+			"url": "assets/level2.json",
+			"type": "sheet",
+			"name": "level2_json",
+			"subkeys": "lv20_1,lv20_2,lv21_1,lv21_2,lv21_3,lv21_4,lv21_5,lv22_1,lv22_2,lv23_1,lv23_2,lv23_3,lv23_4,lv23_5,lv24_1,lv24_2,lv24_3,lv24_4,lv24_5,lv25_1,lv25_2,lv26_1,lv26_2,lv26_3,lv26_4,lv27_1,lv27_2,lv27_3,lv27_4,lv27_5,lv27_6,lv27_7,lv27_8,lv28_1,lv28_2,lv28_3,lv28_4,lv28_5,lv29_1,lv29_2,lv29_3,lv29_4,lv29_5,lv29_6,lv29_7,lv29_8"
+		},
+		{
+			"url": "assets/level3.json",
+			"type": "sheet",
+			"name": "level3_json",
+			"subkeys": "lv30_1,lv30_2,lv31_1,lv31_2,lv31_3,lv31_4,lv32_1,lv32_2,lv32_3,lv32_4,lv33_1,lv33_2,lv33_3,lv33_4,lv33_5,lv33_6,lv33_7,lv34_1,lv34_2,lv34_3,lv34_4,lv35_1,lv35_2,lv35_3,lv35_4,lv35_5,lv35_6,lv35_7,lv35_8,lv36_1,lv36_2,lv36_3,lv36_4,lv36_5,lv37_1,lv38_1,lv38_2,lv38_3,lv38_4,lv39_1,lv39_2"
+		},
+		{
+			"url": "assets/tip3.json",
+			"type": "sheet",
+			"name": "tip3_json",
+			"subkeys": "lv30_tip,lv31_tip,lv32_tip,lv33_tip,lv34_tip,lv35_tip,lv36_tip,lv37_tip,lv38_tip,lv39_tip"
+		},
+		{
+			"url": "assets/level4_1.json",
+			"type": "sheet",
+			"name": "level4_1_json",
+			"subkeys": "lv44_1,lv45_1,lv45_2,lv47_2"
+		},
+		{
+			"url": "assets/level4.json",
+			"type": "sheet",
+			"name": "level4_json",
+			"subkeys": "lv40_1,lv40_2,lv41_1,lv41_2,lv41_3,lv41_4,lv42_1,lv42_2,lv42_3,lv42_4,lv42_5,lv42_6,lv42_8,lv43_1,lv43_2,lv43_3,lv43_4,lv43_5,lv43_6,lv43_7,lv43_8,lv44_2,lv44_3,lv44_4,lv44_5,lv44_6,lv46_1,lv46_2,lv46_3,lv46_4,lv46_5,lv46_6,lv47_1,lv48_1,lv48_2,lv48_3,lv48_4,lv48_5,lv48_6,lv48_7,lv49_1,lv49_2,lv49_3,lv49_4"
+		},
+		{
+			"url": "assets/tip4.json",
+			"type": "sheet",
+			"name": "tip4_json",
+			"subkeys": "lv40_tip,lv41_tip,lv42_tip,lv43_tip,lv44_tip,lv45_tip,lv46_tip,lv47_tip,lv48_tip,lv49_tip"
+		},
+		{
+			"url": "bg4/lv40_0.png",
+			"type": "image",
+			"name": "lv40_0_png"
+		},
+		{
+			"url": "bg4/lv41_0.png",
+			"type": "image",
+			"name": "lv41_0_png"
+		},
+		{
+			"url": "bg4/lv42_0.png",
+			"type": "image",
+			"name": "lv42_0_png"
+		},
+		{
+			"url": "bg4/lv43_0.png",
+			"type": "image",
+			"name": "lv43_0_png"
+		},
+		{
+			"url": "bg4/lv44_0.png",
+			"type": "image",
+			"name": "lv44_0_png"
+		},
+		{
+			"url": "bg4/lv45_0.png",
+			"type": "image",
+			"name": "lv45_0_png"
+		},
+		{
+			"url": "bg4/lv46_0.png",
+			"type": "image",
+			"name": "lv46_0_png"
+		},
+		{
+			"url": "bg4/lv47_0.png",
+			"type": "image",
+			"name": "lv47_0_png"
+		},
+		{
+			"url": "bg4/lv48_0.png",
+			"type": "image",
+			"name": "lv48_0_png"
+		},
+		{
+			"url": "bg4/lv49_0.png",
+			"type": "image",
+			"name": "lv49_0_png"
+		},
+		{
+			"url": "bg3/lv30_0.png",
+			"type": "image",
+			"name": "lv30_0_png"
+		},
+		{
+			"url": "bg3/lv31_0.png",
+			"type": "image",
+			"name": "lv31_0_png"
+		},
+		{
+			"url": "bg3/lv32_0.png",
+			"type": "image",
+			"name": "lv32_0_png"
+		},
+		{
+			"url": "bg3/lv33_0.png",
+			"type": "image",
+			"name": "lv33_0_png"
+		},
+		{
+			"url": "bg3/lv34_0.png",
+			"type": "image",
+			"name": "lv34_0_png"
+		},
+		{
+			"url": "bg3/lv35_0.png",
+			"type": "image",
+			"name": "lv35_0_png"
+		},
+		{
+			"url": "bg3/lv36_0.png",
+			"type": "image",
+			"name": "lv36_0_png"
+		},
+		{
+			"url": "bg3/lv37_0.png",
+			"type": "image",
+			"name": "lv37_0_png"
+		},
+		{
+			"url": "bg3/lv38_0.png",
+			"type": "image",
+			"name": "lv38_0_png"
+		},
+		{
+			"url": "bg3/lv39_0.png",
+			"type": "image",
+			"name": "lv39_0_png"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{"file":"tip0.png","frames":{
+"lv0_tip":{"x":502,"y":1004,"w":500,"h":500,"offX":0,"offY":0,"sourceW":500,"sourceH":500},
+"lv1_tip":{"x":502,"y":502,"w":500,"h":500,"offX":0,"offY":0,"sourceW":500,"sourceH":500},
+"lv2_tip":{"x":1506,"y":0,"w":500,"h":500,"offX":0,"offY":0,"sourceW":500,"sourceH":500},
+"lv3_tip":{"x":1004,"y":0,"w":500,"h":500,"offX":0,"offY":0,"sourceW":500,"sourceH":500},
+"lv4_tip":{"x":502,"y":0,"w":500,"h":500,"offX":0,"offY":0,"sourceW":500,"sourceH":500},
+"lv5_tip":{"x":0,"y":1506,"w":500,"h":500,"offX":0,"offY":0,"sourceW":500,"sourceH":500},
+"lv6_tip":{"x":0,"y":1004,"w":500,"h":500,"offX":0,"offY":0,"sourceW":500,"sourceH":500},
+"lv7_tip":{"x":0,"y":502,"w":500,"h":500,"offX":0,"offY":0,"sourceW":500,"sourceH":500},
+"lv8_tip":{"x":0,"y":0,"w":500,"h":500,"offX":0,"offY":0,"sourceW":500,"sourceH":500},
+"lv9_tip":{"x":502,"y":1506,"w":420,"h":500,"offX":0,"offY":0,"sourceW":420,"sourceH":500}}}
