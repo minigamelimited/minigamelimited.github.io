@@ -1,0 +1,125 @@
+
+skill_start.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 2
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 196, 2
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: -1
+dafengche
+  rotate: false
+  xy: 778, 120
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+dakeline_1
+  rotate: false
+  xy: 2, 159
+  size: 413, 200
+  orig: 413, 200
+  offset: 0, 0
+  index: -1
+guojianshuai
+  rotate: false
+  xy: 862, 122
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: false
+  xy: 390, 30
+  size: 133, 80
+  orig: 133, 80
+  offset: 0, 0
+  index: -1
+lanfeng
+  rotate: true
+  xy: 704, 47
+  size: 107, 67
+  orig: 107, 67
+  offset: 0, 0
+  index: -1
+line_1
+  rotate: false
+  xy: 601, 463
+  size: 366, 43
+  orig: 366, 43
+  offset: 0, 0
+  index: -1
+line_2
+  rotate: false
+  xy: 2, 361
+  size: 565, 69
+  orig: 565, 69
+  offset: 0, 0
+  index: -1
+line_3
+  rotate: false
+  xy: 2, 432
+  size: 597, 74
+  orig: 597, 74
+  offset: 0, 0
+  index: -1
+line_4
+  rotate: false
+  xy: 2, 112
+  size: 565, 45
+  orig: 565, 45
+  offset: 0, 0
+  index: -1
+long
+  rotate: true
+  xy: 778, 177
+  size: 118, 205
+  orig: 118, 205
+  offset: 0, 0
+  index: -1
+long_2
+  rotate: false
+  xy: 417, 171
+  size: 173, 188
+  orig: 173, 188
+  offset: 0, 0
+  index: -1
+long_3
+  rotate: false
+  xy: 592, 156
+  size: 184, 156
+  orig: 184, 156
+  offset: 0, 0
+  index: -1
+long_throw
+  rotate: true
+  xy: 601, 314
+  size: 147, 226
+  orig: 147, 226
+  offset: 0, 0
+  index: -1
+mahe
+  rotate: false
+  xy: 569, 77
+  size: 133, 77
+  orig: 133, 77
+  offset: 0, 0
+  index: -1
+skill_suplex
+  rotate: false
+  xy: 829, 297
+  size: 152, 164
+  orig: 152, 164
+  offset: 0, 0
+  index: -1

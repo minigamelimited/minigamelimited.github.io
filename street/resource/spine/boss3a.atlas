@@ -1,0 +1,279 @@
+
+boss3a.png
+size: 661,661
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1chip_1
+  rotate: false
+  xy: 91, 387
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_2
+  rotate: false
+  xy: 91, 387
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_3
+  rotate: false
+  xy: 91, 387
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_4
+  rotate: false
+  xy: 91, 387
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_5
+  rotate: false
+  xy: 91, 387
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_6
+  rotate: false
+  xy: 91, 387
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+a_leg_1
+  rotate: true
+  xy: 607, 183
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+a_leg_2
+  rotate: false
+  xy: 323, 6
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+attack
+  rotate: true
+  xy: 103, 353
+  size: 126, 155
+  orig: 126, 155
+  offset: 0, 0
+  index: -1
+attack1_fire0001
+  rotate: false
+  xy: 429, 75
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+attack1_fire0002
+  rotate: false
+  xy: 504, 28
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+attack1_fire0003
+  rotate: false
+  xy: 504, 115
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+attack1_fire0004
+  rotate: true
+  xy: 91, 132
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+attack1_fire0005
+  rotate: true
+  xy: 325, 43
+  size: 39, 92
+  orig: 39, 92
+  offset: 0, 0
+  index: -1
+attack1_fire0006
+  rotate: true
+  xy: 504, 2
+  size: 24, 80
+  orig: 24, 80
+  offset: 0, 0
+  index: -1
+attack2_1
+  rotate: false
+  xy: 260, 359
+  size: 126, 148
+  orig: 126, 148
+  offset: 0, 0
+  index: -1
+attack2_2
+  rotate: false
+  xy: 251, 509
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+attack2_3
+  rotate: false
+  xy: 2, 392
+  size: 99, 267
+  orig: 99, 267
+  offset: 0, 0
+  index: -1
+attack2_4
+  rotate: false
+  xy: 2, 124
+  size: 87, 266
+  orig: 87, 266
+  offset: 0, 0
+  index: -1
+attack2_5
+  rotate: false
+  xy: 228, 188
+  size: 114, 163
+  orig: 114, 163
+  offset: 0, 0
+  index: -1
+b_leg_1
+  rotate: true
+  xy: 373, 6
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+b_leg_2
+  rotate: true
+  xy: 289, 21
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+block
+  rotate: true
+  xy: 402, 545
+  size: 114, 183
+  orig: 114, 183
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 325, 84
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+bruise_1
+  rotate: true
+  xy: 2, 4
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+bruise_2
+  rotate: true
+  xy: 494, 207
+  size: 136, 111
+  orig: 136, 111
+  offset: 0, 0
+  index: -1
+bruise_3
+  rotate: false
+  xy: 103, 481
+  size: 146, 178
+  orig: 146, 178
+  offset: 0, 0
+  index: -1
+bruise_4
+  rotate: false
+  xy: 91, 189
+  size: 135, 162
+  orig: 135, 162
+  offset: 0, 0
+  index: -1
+bruise_5
+  rotate: false
+  xy: 192, 65
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1
+bruise_6
+  rotate: false
+  xy: 402, 430
+  size: 175, 113
+  orig: 175, 113
+  offset: 0, 0
+  index: -1
+bruise_7
+  rotate: true
+  xy: 587, 452
+  size: 207, 72
+  orig: 207, 72
+  offset: 0, 0
+  index: -1
+bruise_8
+  rotate: false
+  xy: 388, 345
+  size: 204, 83
+  orig: 204, 83
+  offset: 0, 0
+  index: -1
+cry
+  rotate: false
+  xy: 344, 219
+  size: 148, 124
+  orig: 148, 124
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 594, 380
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+hothand_1
+  rotate: false
+  xy: 607, 227
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+hothand_2
+  rotate: true
+  xy: 419, 25
+  size: 48, 83
+  orig: 48, 83
+  offset: 0, 0
+  index: -1
+hothand_3
+  rotate: true
+  xy: 344, 179
+  size: 38, 139
+  orig: 38, 139
+  offset: 0, 0
+  index: -1
+hothand_4
+  rotate: false
+  xy: 607, 287
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 178, 26
+  size: 109, 37
+  orig: 109, 37
+  offset: 0, 0
+  index: -1

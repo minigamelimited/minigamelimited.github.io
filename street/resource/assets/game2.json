@@ -1,0 +1,7 @@
+{"file":"game2.png","frames":{
+"RoleBg0":{"x":774,"y":1255,"w":626,"h":732,"offX":0,"offY":0,"sourceW":626,"sourceH":732},
+"StageBtn4":{"x":0,"y":0,"w":847,"h":982,"offX":69,"offY":0,"sourceW":919,"sourceH":982},
+"EquipBg":{"x":0,"y":984,"w":772,"h":923,"offX":0,"offY":0,"sourceW":772,"sourceH":923},
+"public_frame_1":{"x":1402,"y":1255,"w":596,"h":713,"offX":0,"offY":0,"sourceW":596,"sourceH":713},
+"RoleBg1":{"x":849,"y":719,"w":1035,"h":534,"offX":0,"offY":1,"sourceW":1037,"sourceH":535},
+"roleNodeBg":{"x":849,"y":0,"w":1036,"h":717,"offX":0,"offY":1,"sourceW":1037,"sourceH":718}}}

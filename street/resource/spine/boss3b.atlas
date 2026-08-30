@@ -1,0 +1,265 @@
+
+boss3b.png
+size: 630,630
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1chip_1
+  rotate: false
+  xy: 150, 296
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_2
+  rotate: false
+  xy: 150, 296
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_3
+  rotate: false
+  xy: 150, 296
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_4
+  rotate: false
+  xy: 150, 296
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_5
+  rotate: false
+  xy: 150, 296
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1chip_6
+  rotate: false
+  xy: 150, 296
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+a_leg_1
+  rotate: false
+  xy: 357, 28
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+a_leg_2
+  rotate: false
+  xy: 512, 59
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+attack
+  rotate: true
+  xy: 470, 502
+  size: 126, 155
+  orig: 126, 155
+  offset: 0, 0
+  index: -1
+attack1_fire0001
+  rotate: true
+  xy: 2, 4
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+attack1_fire0002
+  rotate: false
+  xy: 418, 82
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+attack1_fire0003
+  rotate: true
+  xy: 519, 168
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+attack1_fire0004
+  rotate: false
+  xy: 570, 286
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+attack1_fire0005
+  rotate: true
+  xy: 263, 32
+  size: 39, 92
+  orig: 39, 92
+  offset: 0, 0
+  index: -1
+attack1_fire0006
+  rotate: false
+  xy: 237, 13
+  size: 24, 80
+  orig: 24, 80
+  offset: 0, 0
+  index: -1
+attack_6
+  rotate: true
+  xy: 294, 391
+  size: 117, 149
+  orig: 117, 149
+  offset: 0, 0
+  index: -1
+attack_7
+  rotate: false
+  xy: 150, 465
+  size: 142, 163
+  orig: 142, 163
+  offset: 0, 0
+  index: -1
+attack_8
+  rotate: false
+  xy: 2, 444
+  size: 146, 184
+  orig: 146, 184
+  offset: 0, 0
+  index: -1
+b_leg_1
+  rotate: true
+  xy: 578, 71
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+b_leg_2
+  rotate: false
+  xy: 401, 48
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+block
+  rotate: false
+  xy: 2, 79
+  size: 114, 183
+  orig: 114, 183
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 415, 169
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+bruise_1
+  rotate: true
+  xy: 294, 510
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+bruise_2
+  rotate: false
+  xy: 277, 152
+  size: 136, 111
+  orig: 136, 111
+  offset: 0, 0
+  index: -1
+bruise_3
+  rotate: false
+  xy: 2, 264
+  size: 146, 178
+  orig: 146, 178
+  offset: 0, 0
+  index: -1
+bruise_4
+  rotate: false
+  xy: 150, 301
+  size: 135, 162
+  orig: 135, 162
+  offset: 0, 0
+  index: -1
+bruise_5
+  rotate: false
+  xy: 437, 264
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1
+bruise_6
+  rotate: false
+  xy: 445, 387
+  size: 175, 113
+  orig: 175, 113
+  offset: 0, 0
+  index: -1
+bruise_7
+  rotate: true
+  xy: 118, 55
+  size: 207, 72
+  orig: 207, 72
+  offset: 0, 0
+  index: -1
+bruise_8
+  rotate: true
+  xy: 192, 95
+  size: 204, 83
+  orig: 204, 83
+  offset: 0, 0
+  index: -1
+cry
+  rotate: false
+  xy: 287, 265
+  size: 148, 124
+  orig: 148, 124
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 512, 96
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+hothand_1
+  rotate: false
+  xy: 578, 108
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+hothand_2
+  rotate: true
+  xy: 106, 5
+  size: 48, 83
+  orig: 48, 83
+  offset: 0, 0
+  index: -1
+hothand_3
+  rotate: true
+  xy: 277, 112
+  size: 38, 139
+  orig: 38, 139
+  offset: 0, 0
+  index: -1
+hothand_4
+  rotate: false
+  xy: 192, 2
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 277, 73
+  size: 109, 37
+  orig: 109, 37
+  offset: 0, 0
+  index: -1

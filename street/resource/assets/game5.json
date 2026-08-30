@@ -1,0 +1,16 @@
+{"file":"game5.png","frames":{
+"Frame1":{"x":469,"y":1743,"w":648,"h":284,"offX":0,"offY":0,"sourceW":648,"sourceH":284},
+"Bg":{"x":0,"y":0,"w":1002,"h":910,"offX":0,"offY":0,"sourceW":1002,"sourceH":910},
+"Button2":{"x":1004,"y":557,"w":399,"h":200,"offX":2,"offY":0,"sourceW":401,"sourceH":200},
+"ExpBg":{"x":1004,"y":759,"w":47,"h":59,"offX":0,"offY":0,"sourceW":47,"sourceH":59},
+"farme_talk":{"x":0,"y":912,"w":1080,"h":375,"offX":0,"offY":0,"sourceW":1080,"sourceH":375},
+"frame_unlockskills":{"x":0,"y":1289,"w":467,"h":572,"offX":0,"offY":0,"sourceW":467,"sourceH":572},
+"GetBtn":{"x":1413,"y":421,"w":399,"h":200,"offX":2,"offY":0,"sourceW":401,"sourceH":200},
+"icon_diamond":{"x":0,"y":1863,"w":144,"h":83,"offX":0,"offY":0,"sourceW":145,"sourceH":83},
+"icon_money":{"x":1119,"y":1743,"w":115,"h":100,"offX":1,"offY":1,"sourceW":116,"sourceH":101},
+"PlayerHead":{"x":1004,"y":0,"w":407,"h":555,"offX":0,"offY":1,"sourceW":408,"sourceH":557},
+"Relive":{"x":1413,"y":219,"w":399,"h":200,"offX":2,"offY":0,"sourceW":401,"sourceH":200},
+"SubBg":{"x":1413,"y":0,"w":409,"h":217,"offX":0,"offY":0,"sourceW":409,"sourceH":217},
+"TitleFail":{"x":469,"y":1516,"w":880,"h":225,"offX":1,"offY":0,"sourceW":881,"sourceH":225},
+"TitleSucc":{"x":469,"y":1289,"w":880,"h":225,"offX":1,"offY":0,"sourceW":881,"sourceH":225},
+"Video":{"x":1824,"y":0,"w":65,"h":49,"offX":0,"offY":0,"sourceW":65,"sourceH":49}}}

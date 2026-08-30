@@ -1,0 +1,5 @@
+{"file":"game0.png","frames":{
+"StageBtn0":{"x":849,"y":984,"w":842,"h":982,"offX":77,"offY":0,"sourceW":919,"sourceH":982},
+"StageBtn1":{"x":849,"y":0,"w":847,"h":982,"offX":69,"offY":0,"sourceW":919,"sourceH":982},
+"StageBtn2":{"x":0,"y":984,"w":847,"h":982,"offX":69,"offY":0,"sourceW":919,"sourceH":982},
+"StageBtn3":{"x":0,"y":0,"w":847,"h":982,"offX":69,"offY":0,"sourceW":919,"sourceH":982}}}

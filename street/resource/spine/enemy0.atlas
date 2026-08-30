@@ -1,0 +1,272 @@
+
+enemy0.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: true
+  xy: 618, 134
+  size: 37, 83
+  orig: 37, 83
+  offset: 0, 0
+  index: -1
+arm_1_01
+  rotate: false
+  xy: 692, 65
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+arm_1_02
+  rotate: false
+  xy: 502, 97
+  size: 106, 35
+  orig: 106, 35
+  offset: 0, 0
+  index: -1
+arm_1_throwing
+  rotate: false
+  xy: 442, 2
+  size: 42, 88
+  orig: 42, 88
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: false
+  xy: 331, 2
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+arm_2_throwing
+  rotate: true
+  xy: 610, 88
+  size: 44, 80
+  orig: 44, 80
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 874, 180
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 414, 171
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+bruise_01
+  rotate: false
+  xy: 507, 173
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+bruise_02
+  rotate: true
+  xy: 334, 80
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+bruise_03
+  rotate: false
+  xy: 596, 173
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+chip_1
+  rotate: false
+  xy: 414, 166
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+chip_2
+  rotate: false
+  xy: 414, 166
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+chip_3
+  rotate: false
+  xy: 414, 166
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+chip_4
+  rotate: false
+  xy: 414, 166
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+chip_5
+  rotate: false
+  xy: 414, 166
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+chip_6
+  rotate: false
+  xy: 414, 166
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+none
+  rotate: false
+  xy: 414, 166
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+die
+  rotate: false
+  xy: 2, 166
+  size: 204, 88
+  orig: 204, 88
+  offset: 0, 0
+  index: -1
+falldown_1
+  rotate: false
+  xy: 123, 3
+  size: 125, 161
+  orig: 125, 161
+  offset: 0, 0
+  index: -1
+falldown_2
+  rotate: true
+  xy: 2, 2
+  size: 162, 119
+  orig: 162, 119
+  offset: 0, 0
+  index: -1
+falldown_3
+  rotate: false
+  xy: 208, 166
+  size: 204, 88
+  orig: 204, 88
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 762, 52
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 962, 145
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+leg_3
+  rotate: false
+  xy: 823, 54
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+leg_4
+  rotate: true
+  xy: 844, 127
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 507, 134
+  size: 109, 37
+  orig: 109, 37
+  offset: 0, 0
+  index: -1
+tou_01
+  rotate: false
+  xy: 250, 76
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+tou_02
+  rotate: true
+  xy: 703, 108
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+tou_03
+  rotate: false
+  xy: 419, 92
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+tou_04
+  rotate: false
+  xy: 250, 2
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+tou_05
+  rotate: false
+  xy: 962, 187
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+tou_06
+  rotate: false
+  xy: 371, 7
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+tou_07
+  rotate: true
+  xy: 774, 105
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+wp_box
+  rotate: false
+  xy: 776, 185
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+wp_iron
+  rotate: false
+  xy: 486, 14
+  size: 12, 76
+  orig: 12, 76
+  offset: 0, 0
+  index: -1
+wp_stick
+  rotate: true
+  xy: 776, 172
+  size: 11, 72
+  orig: 11, 72
+  offset: 0, 0
+  index: -1
+wp_trashcan
+  rotate: true
+  xy: 685, 175
+  size: 79, 89
+  orig: 79, 89
+  offset: 0, 0
+  index: -1

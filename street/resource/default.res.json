@@ -1,0 +1,839 @@
+{
+	"groups": [
+		{
+			"keys": "bg_png,gameBg 2_jpg,gameBg0a_jpg,gameBg1_jpg,gameBg2_jpg,gameBg3_jpg,gameBg4_jpg,game0_json,game3_json,game4_json,game1_json,game2_json,game5_json,gameBg0_jpg",
+			"name": "common"
+		},
+		{
+			"keys": "Attack_01_mp3,Attack_02_mp3,Attack_BOSS1_mp3,Attack_ground_mp3,Attackwind01_mp3,Attackwind02_mp3,Attackwind03_mp3,Attackwind04_mp3,BGM_BOSS01_mp3,BGM_Guide_mp3,BGM_Home_mp3,BGM_Stage01_mp3,BOSSdialogue_mp3,BattleFail_mp3,BattleVictory_mp3,Body_fall_mp3,Boom2_mp3,BoxBreak_mp3,ButtonClick_mp3,ButtonClick2_mp3,Car_Move_mp3,Coin_mp3,Coin_Collect_mp3,Defeated_mp3,DressEquip_mp3,EatFood_mp3,GetItem_mp3,GuideComplete_mp3,Hit01_mp3,Hit02_mp3,LevelUp_mp3,Motobike_mp3,NoClick_mp3,OpenShopBox_mp3,Pain01_mp3,Pain_BOSS01_mp3,ShopGetItem_mp3,SkillChange_mp3,StickHit_mp3,ThrowItem_mp3,Ult_mp3,VS_mp3,Warning_mp3,WaveStick_mp3,Weapon01Attackwind_mp3",
+			"name": "sound"
+		},
+		{
+			"keys": "arrowsp_atlas,arrowsp_png,boss0_atlas,boss0_png,boss1_atlas,boss1_png,boss2_atlas,boss2_png,boss3a_atlas,boss3a_png,boss3b_atlas,boss3b_png,boss4_atlas,boss4_png,boss4_2_png,boss_die_atlas,boss_die_png,car_atlas,car_png,descsp_atlas,descsp_png,effect_bash_atlas,effect_bash_png,effect_boom_atlas,effect_boom_png,effect_clear_atlas,effect_clear_png,effect_comboui_atlas,effect_comboui_png,effect_curelife_atlas,effect_curelife_png,effect_danger_atlas,effect_danger_png,effect_getbuff_atlas,effect_getbuff_png,effect_hit_atlas,effect_hit_png,effect_skillin_atlas,effect_skillin_png,effect_vs_atlas,effect_vs_png,effect_warning_atlas,effect_warning_png,enemy0_atlas,enemy0_png,enemy1_atlas,enemy1_png,enemy2_atlas,enemy2_png,enemy3_atlas,enemy3_png,enemy4_atlas,enemy4_png,enemy5_atlas,enemy5_png,enemy6_atlas,enemy6_png,enemy7_atlas,enemy7_png,enemy8_atlas,enemy8_png,finishsp_atlas,finishsp_png,go_atlas,go_png,player_atlas,player_png,player_2_png,skill_start_atlas,skill_start_png,boss0_json,boss3a_json,boss1_json,boss3b_json,boss2_json,car_json,boss4_json,boss_die_json,descsp_json,effect_bash_json,arrowsp_json,effect_clear_json,effect_boom_json,effect_comboui_json,effect_curelife_json,effect_danger_json,effect_getbuff_json,effect_hit_json,effect_skillin_json,effect_vs_json,effect_warning_json,enemy2_json,enemy0_json,enemy1_json,enemy6_json,enemy4_json,enemy3_json,finishsp_json,go_json,enemy7_json,enemy5_json,enemy8_json,player_json,skill_start_json",
+			"name": "spine"
+		}
+	],
+	"resources": [
+		{
+			"url": "sound/Attack_01.mp3",
+			"type": "sound",
+			"name": "Attack_01_mp3"
+		},
+		{
+			"url": "sound/Attack_02.mp3",
+			"type": "sound",
+			"name": "Attack_02_mp3"
+		},
+		{
+			"url": "sound/Attack_BOSS1.mp3",
+			"type": "sound",
+			"name": "Attack_BOSS1_mp3"
+		},
+		{
+			"url": "sound/Attack_ground.mp3",
+			"type": "sound",
+			"name": "Attack_ground_mp3"
+		},
+		{
+			"url": "sound/Attackwind01.mp3",
+			"type": "sound",
+			"name": "Attackwind01_mp3"
+		},
+		{
+			"url": "sound/Attackwind02.mp3",
+			"type": "sound",
+			"name": "Attackwind02_mp3"
+		},
+		{
+			"url": "sound/Attackwind03.mp3",
+			"type": "sound",
+			"name": "Attackwind03_mp3"
+		},
+		{
+			"url": "sound/Attackwind04.mp3",
+			"type": "sound",
+			"name": "Attackwind04_mp3"
+		},
+		{
+			"url": "sound/BGM_BOSS01.mp3",
+			"type": "sound",
+			"name": "BGM_BOSS01_mp3"
+		},
+		{
+			"url": "sound/BGM_Guide.mp3",
+			"type": "sound",
+			"name": "BGM_Guide_mp3"
+		},
+		{
+			"url": "sound/BGM_Home.mp3",
+			"type": "sound",
+			"name": "BGM_Home_mp3"
+		},
+		{
+			"url": "sound/BGM_Stage01.mp3",
+			"type": "sound",
+			"name": "BGM_Stage01_mp3"
+		},
+		{
+			"url": "sound/BOSSdialogue.mp3",
+			"type": "sound",
+			"name": "BOSSdialogue_mp3"
+		},
+		{
+			"url": "sound/BattleFail.mp3",
+			"type": "sound",
+			"name": "BattleFail_mp3"
+		},
+		{
+			"url": "sound/BattleVictory.mp3",
+			"type": "sound",
+			"name": "BattleVictory_mp3"
+		},
+		{
+			"url": "sound/Body_fall.mp3",
+			"type": "sound",
+			"name": "Body_fall_mp3"
+		},
+		{
+			"url": "sound/Boom2.mp3",
+			"type": "sound",
+			"name": "Boom2_mp3"
+		},
+		{
+			"url": "sound/BoxBreak.mp3",
+			"type": "sound",
+			"name": "BoxBreak_mp3"
+		},
+		{
+			"url": "sound/ButtonClick.mp3",
+			"type": "sound",
+			"name": "ButtonClick_mp3"
+		},
+		{
+			"url": "sound/ButtonClick2.mp3",
+			"type": "sound",
+			"name": "ButtonClick2_mp3"
+		},
+		{
+			"url": "sound/Car_Move.mp3",
+			"type": "sound",
+			"name": "Car_Move_mp3"
+		},
+		{
+			"url": "sound/Coin.mp3",
+			"type": "sound",
+			"name": "Coin_mp3"
+		},
+		{
+			"url": "sound/Coin_Collect.mp3",
+			"type": "sound",
+			"name": "Coin_Collect_mp3"
+		},
+		{
+			"url": "sound/Defeated.mp3",
+			"type": "sound",
+			"name": "Defeated_mp3"
+		},
+		{
+			"url": "sound/DressEquip.mp3",
+			"type": "sound",
+			"name": "DressEquip_mp3"
+		},
+		{
+			"url": "sound/EatFood.mp3",
+			"type": "sound",
+			"name": "EatFood_mp3"
+		},
+		{
+			"url": "sound/GetItem.mp3",
+			"type": "sound",
+			"name": "GetItem_mp3"
+		},
+		{
+			"url": "sound/GuideComplete.mp3",
+			"type": "sound",
+			"name": "GuideComplete_mp3"
+		},
+		{
+			"url": "sound/Hit01.mp3",
+			"type": "sound",
+			"name": "Hit01_mp3"
+		},
+		{
+			"url": "sound/Hit02.mp3",
+			"type": "sound",
+			"name": "Hit02_mp3"
+		},
+		{
+			"url": "sound/LevelUp.mp3",
+			"type": "sound",
+			"name": "LevelUp_mp3"
+		},
+		{
+			"url": "sound/Motobike.mp3",
+			"type": "sound",
+			"name": "Motobike_mp3"
+		},
+		{
+			"url": "sound/NoClick.mp3",
+			"type": "sound",
+			"name": "NoClick_mp3"
+		},
+		{
+			"url": "sound/OpenShopBox.mp3",
+			"type": "sound",
+			"name": "OpenShopBox_mp3"
+		},
+		{
+			"url": "sound/Pain01.mp3",
+			"type": "sound",
+			"name": "Pain01_mp3"
+		},
+		{
+			"url": "sound/Pain_BOSS01.mp3",
+			"type": "sound",
+			"name": "Pain_BOSS01_mp3"
+		},
+		{
+			"url": "sound/ShopGetItem.mp3",
+			"type": "sound",
+			"name": "ShopGetItem_mp3"
+		},
+		{
+			"url": "sound/SkillChange.mp3",
+			"type": "sound",
+			"name": "SkillChange_mp3"
+		},
+		{
+			"url": "sound/StickHit.mp3",
+			"type": "sound",
+			"name": "StickHit_mp3"
+		},
+		{
+			"url": "sound/ThrowItem.mp3",
+			"type": "sound",
+			"name": "ThrowItem_mp3"
+		},
+		{
+			"url": "sound/Ult.mp3",
+			"type": "sound",
+			"name": "Ult_mp3"
+		},
+		{
+			"url": "sound/VS.mp3",
+			"type": "sound",
+			"name": "VS_mp3"
+		},
+		{
+			"url": "sound/Warning.mp3",
+			"type": "sound",
+			"name": "Warning_mp3"
+		},
+		{
+			"url": "sound/WaveStick.mp3",
+			"type": "sound",
+			"name": "WaveStick_mp3"
+		},
+		{
+			"url": "sound/Weapon01Attackwind.mp3",
+			"type": "sound",
+			"name": "Weapon01Attackwind_mp3"
+		},
+		{
+			"url": "spine/arrowsp.atlas",
+			"type": "text",
+			"name": "arrowsp_atlas"
+		},
+		{
+			"url": "spine/arrowsp.png",
+			"type": "image",
+			"name": "arrowsp_png"
+		},
+		{
+			"url": "spine/boss0.atlas",
+			"type": "text",
+			"name": "boss0_atlas"
+		},
+		{
+			"url": "spine/boss0.png",
+			"type": "image",
+			"name": "boss0_png"
+		},
+		{
+			"url": "spine/boss1.atlas",
+			"type": "text",
+			"name": "boss1_atlas"
+		},
+		{
+			"url": "spine/boss1.png",
+			"type": "image",
+			"name": "boss1_png"
+		},
+		{
+			"url": "spine/boss2.atlas",
+			"type": "text",
+			"name": "boss2_atlas"
+		},
+		{
+			"url": "spine/boss2.png",
+			"type": "image",
+			"name": "boss2_png"
+		},
+		{
+			"url": "spine/boss3a.atlas",
+			"type": "text",
+			"name": "boss3a_atlas"
+		},
+		{
+			"url": "spine/boss3a.png",
+			"type": "image",
+			"name": "boss3a_png"
+		},
+		{
+			"url": "spine/boss3b.atlas",
+			"type": "text",
+			"name": "boss3b_atlas"
+		},
+		{
+			"url": "spine/boss3b.png",
+			"type": "image",
+			"name": "boss3b_png"
+		},
+		{
+			"url": "spine/boss4.atlas",
+			"type": "text",
+			"name": "boss4_atlas"
+		},
+		{
+			"url": "spine/boss4.png",
+			"type": "image",
+			"name": "boss4_png"
+		},
+		{
+			"url": "spine/boss4_2.png",
+			"type": "image",
+			"name": "boss4_2_png"
+		},
+		{
+			"url": "spine/boss_die.atlas",
+			"type": "text",
+			"name": "boss_die_atlas"
+		},
+		{
+			"url": "spine/boss_die.png",
+			"type": "image",
+			"name": "boss_die_png"
+		},
+		{
+			"url": "spine/car.atlas",
+			"type": "text",
+			"name": "car_atlas"
+		},
+		{
+			"url": "spine/car.png",
+			"type": "image",
+			"name": "car_png"
+		},
+		{
+			"url": "spine/descsp.atlas",
+			"type": "text",
+			"name": "descsp_atlas"
+		},
+		{
+			"url": "spine/descsp.png",
+			"type": "image",
+			"name": "descsp_png"
+		},
+		{
+			"url": "spine/effect_bash.atlas",
+			"type": "text",
+			"name": "effect_bash_atlas"
+		},
+		{
+			"url": "spine/effect_bash.png",
+			"type": "image",
+			"name": "effect_bash_png"
+		},
+		{
+			"url": "spine/effect_boom.atlas",
+			"type": "text",
+			"name": "effect_boom_atlas"
+		},
+		{
+			"url": "spine/effect_boom.png",
+			"type": "image",
+			"name": "effect_boom_png"
+		},
+		{
+			"url": "spine/effect_clear.atlas",
+			"type": "text",
+			"name": "effect_clear_atlas"
+		},
+		{
+			"url": "spine/effect_clear.png",
+			"type": "image",
+			"name": "effect_clear_png"
+		},
+		{
+			"url": "spine/effect_comboui.atlas",
+			"type": "text",
+			"name": "effect_comboui_atlas"
+		},
+		{
+			"url": "spine/effect_comboui.png",
+			"type": "image",
+			"name": "effect_comboui_png"
+		},
+		{
+			"url": "spine/effect_curelife.atlas",
+			"type": "text",
+			"name": "effect_curelife_atlas"
+		},
+		{
+			"url": "spine/effect_curelife.png",
+			"type": "image",
+			"name": "effect_curelife_png"
+		},
+		{
+			"url": "spine/effect_danger.atlas",
+			"type": "text",
+			"name": "effect_danger_atlas"
+		},
+		{
+			"url": "spine/effect_danger.png",
+			"type": "image",
+			"name": "effect_danger_png"
+		},
+		{
+			"url": "spine/effect_getbuff.atlas",
+			"type": "text",
+			"name": "effect_getbuff_atlas"
+		},
+		{
+			"url": "spine/effect_getbuff.png",
+			"type": "image",
+			"name": "effect_getbuff_png"
+		},
+		{
+			"url": "spine/effect_hit.atlas",
+			"type": "text",
+			"name": "effect_hit_atlas"
+		},
+		{
+			"url": "spine/effect_hit.png",
+			"type": "image",
+			"name": "effect_hit_png"
+		},
+		{
+			"url": "spine/effect_skillin.atlas",
+			"type": "text",
+			"name": "effect_skillin_atlas"
+		},
+		{
+			"url": "spine/effect_skillin.png",
+			"type": "image",
+			"name": "effect_skillin_png"
+		},
+		{
+			"url": "spine/effect_vs.atlas",
+			"type": "text",
+			"name": "effect_vs_atlas"
+		},
+		{
+			"url": "spine/effect_vs.png",
+			"type": "image",
+			"name": "effect_vs_png"
+		},
+		{
+			"url": "spine/effect_warning.atlas",
+			"type": "text",
+			"name": "effect_warning_atlas"
+		},
+		{
+			"url": "spine/effect_warning.png",
+			"type": "image",
+			"name": "effect_warning_png"
+		},
+		{
+			"url": "spine/enemy0.atlas",
+			"type": "text",
+			"name": "enemy0_atlas"
+		},
+		{
+			"url": "spine/enemy0.png",
+			"type": "image",
+			"name": "enemy0_png"
+		},
+		{
+			"url": "spine/enemy1.atlas",
+			"type": "text",
+			"name": "enemy1_atlas"
+		},
+		{
+			"url": "spine/enemy1.png",
+			"type": "image",
+			"name": "enemy1_png"
+		},
+		{
+			"url": "spine/enemy2.atlas",
+			"type": "text",
+			"name": "enemy2_atlas"
+		},
+		{
+			"url": "spine/enemy2.png",
+			"type": "image",
+			"name": "enemy2_png"
+		},
+		{
+			"url": "spine/enemy3.atlas",
+			"type": "text",
+			"name": "enemy3_atlas"
+		},
+		{
+			"url": "spine/enemy3.png",
+			"type": "image",
+			"name": "enemy3_png"
+		},
+		{
+			"url": "spine/enemy4.atlas",
+			"type": "text",
+			"name": "enemy4_atlas"
+		},
+		{
+			"url": "spine/enemy4.png",
+			"type": "image",
+			"name": "enemy4_png"
+		},
+		{
+			"url": "spine/enemy5.atlas",
+			"type": "text",
+			"name": "enemy5_atlas"
+		},
+		{
+			"url": "spine/enemy5.png",
+			"type": "image",
+			"name": "enemy5_png"
+		},
+		{
+			"url": "spine/enemy6.atlas",
+			"type": "text",
+			"name": "enemy6_atlas"
+		},
+		{
+			"url": "spine/enemy6.png",
+			"type": "image",
+			"name": "enemy6_png"
+		},
+		{
+			"url": "spine/enemy7.atlas",
+			"type": "text",
+			"name": "enemy7_atlas"
+		},
+		{
+			"url": "spine/enemy7.png",
+			"type": "image",
+			"name": "enemy7_png"
+		},
+		{
+			"url": "spine/enemy8.atlas",
+			"type": "text",
+			"name": "enemy8_atlas"
+		},
+		{
+			"url": "spine/enemy8.png",
+			"type": "image",
+			"name": "enemy8_png"
+		},
+		{
+			"url": "spine/finishsp.atlas",
+			"type": "text",
+			"name": "finishsp_atlas"
+		},
+		{
+			"url": "spine/finishsp.png",
+			"type": "image",
+			"name": "finishsp_png"
+		},
+		{
+			"url": "spine/go.atlas",
+			"type": "text",
+			"name": "go_atlas"
+		},
+		{
+			"url": "spine/go.png",
+			"type": "image",
+			"name": "go_png"
+		},
+		{
+			"url": "spine/player.atlas",
+			"type": "text",
+			"name": "player_atlas"
+		},
+		{
+			"url": "spine/player.png",
+			"type": "image",
+			"name": "player_png"
+		},
+		{
+			"url": "spine/player_2.png",
+			"type": "image",
+			"name": "player_2_png"
+		},
+		{
+			"url": "spine/skill_start.atlas",
+			"type": "text",
+			"name": "skill_start_atlas"
+		},
+		{
+			"url": "spine/skill_start.png",
+			"type": "image",
+			"name": "skill_start_png"
+		},
+		{
+			"url": "spine/boss0.json",
+			"type": "json",
+			"name": "boss0_json"
+		},
+		{
+			"url": "spine/boss3a.json",
+			"type": "json",
+			"name": "boss3a_json"
+		},
+		{
+			"url": "spine/boss1.json",
+			"type": "json",
+			"name": "boss1_json"
+		},
+		{
+			"url": "spine/boss3b.json",
+			"type": "json",
+			"name": "boss3b_json"
+		},
+		{
+			"url": "spine/boss2.json",
+			"type": "json",
+			"name": "boss2_json"
+		},
+		{
+			"url": "spine/car.json",
+			"type": "json",
+			"name": "car_json"
+		},
+		{
+			"url": "spine/boss4.json",
+			"type": "json",
+			"name": "boss4_json"
+		},
+		{
+			"url": "spine/boss_die.json",
+			"type": "json",
+			"name": "boss_die_json"
+		},
+		{
+			"url": "spine/descsp.json",
+			"type": "json",
+			"name": "descsp_json"
+		},
+		{
+			"url": "spine/effect_bash.json",
+			"type": "json",
+			"name": "effect_bash_json"
+		},
+		{
+			"url": "spine/arrowsp.json",
+			"type": "json",
+			"name": "arrowsp_json"
+		},
+		{
+			"url": "spine/effect_clear.json",
+			"type": "json",
+			"name": "effect_clear_json"
+		},
+		{
+			"url": "spine/effect_boom.json",
+			"type": "json",
+			"name": "effect_boom_json"
+		},
+		{
+			"url": "spine/effect_comboui.json",
+			"type": "json",
+			"name": "effect_comboui_json"
+		},
+		{
+			"url": "spine/effect_curelife.json",
+			"type": "json",
+			"name": "effect_curelife_json"
+		},
+		{
+			"url": "spine/effect_danger.json",
+			"type": "json",
+			"name": "effect_danger_json"
+		},
+		{
+			"url": "spine/effect_getbuff.json",
+			"type": "json",
+			"name": "effect_getbuff_json"
+		},
+		{
+			"url": "spine/effect_hit.json",
+			"type": "json",
+			"name": "effect_hit_json"
+		},
+		{
+			"url": "spine/effect_skillin.json",
+			"type": "json",
+			"name": "effect_skillin_json"
+		},
+		{
+			"url": "spine/effect_vs.json",
+			"type": "json",
+			"name": "effect_vs_json"
+		},
+		{
+			"url": "spine/effect_warning.json",
+			"type": "json",
+			"name": "effect_warning_json"
+		},
+		{
+			"url": "spine/enemy2.json",
+			"type": "json",
+			"name": "enemy2_json"
+		},
+		{
+			"url": "spine/enemy0.json",
+			"type": "json",
+			"name": "enemy0_json"
+		},
+		{
+			"url": "spine/enemy1.json",
+			"type": "json",
+			"name": "enemy1_json"
+		},
+		{
+			"url": "spine/enemy6.json",
+			"type": "json",
+			"name": "enemy6_json"
+		},
+		{
+			"url": "spine/enemy4.json",
+			"type": "json",
+			"name": "enemy4_json"
+		},
+		{
+			"url": "spine/enemy3.json",
+			"type": "json",
+			"name": "enemy3_json"
+		},
+		{
+			"url": "spine/finishsp.json",
+			"type": "json",
+			"name": "finishsp_json"
+		},
+		{
+			"url": "spine/go.json",
+			"type": "json",
+			"name": "go_json"
+		},
+		{
+			"url": "spine/enemy7.json",
+			"type": "json",
+			"name": "enemy7_json"
+		},
+		{
+			"url": "spine/enemy5.json",
+			"type": "json",
+			"name": "enemy5_json"
+		},
+		{
+			"url": "spine/enemy8.json",
+			"type": "json",
+			"name": "enemy8_json"
+		},
+		{
+			"url": "spine/player.json",
+			"type": "json",
+			"name": "player_json"
+		},
+		{
+			"url": "spine/skill_start.json",
+			"type": "json",
+			"name": "skill_start_json"
+		},
+		{
+			"url": "bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"url": "gameBg 2.jpg",
+			"type": "image",
+			"name": "gameBg 2_jpg"
+		},
+		{
+			"url": "gameBg0a.jpg",
+			"type": "image",
+			"name": "gameBg0a_jpg"
+		},
+		{
+			"url": "gameBg1.jpg",
+			"type": "image",
+			"name": "gameBg1_jpg"
+		},
+		{
+			"url": "gameBg2.jpg",
+			"type": "image",
+			"name": "gameBg2_jpg"
+		},
+		{
+			"url": "gameBg3.jpg",
+			"type": "image",
+			"name": "gameBg3_jpg"
+		},
+		{
+			"url": "gameBg4.jpg",
+			"type": "image",
+			"name": "gameBg4_jpg"
+		},
+		{
+			"url": "assets/game0.json",
+			"type": "sheet",
+			"name": "game0_json",
+			"subkeys": "StageBtn0,StageBtn1,StageBtn2,StageBtn3"
+		},
+		{
+			"url": "assets/game3.json",
+			"type": "sheet",
+			"name": "game3_json",
+			"subkeys": "DiamondIcon,GetText2,GoldIcon,HP,HpGold-HpSubBG,TishiTitle,buff0,buff1,buff10,buff11,buff12,buff13,buff2,buff3,buff4,buff5,buff6,buff7,buff8,buff9,button01_public_1,button01_public_2,button02_public_1,button02_public_2,cancelBtn,close,frame_award,frame_clothing_blue,frame_clothing_gray,frame_clothing_green,frame_clothing_orange,frame_clothing_purple,frame_clothing_red,frame_food_lv1,frame_food_lv2,frame_food_lv3,frame_shop,icon_belt0,icon_belt1,icon_belt_b,icon_decorations0,icon_decorations1,icon_decorations_b,icon_item0,icon_item1,icon_item2,icon_item3,icon_item4,icon_item5,icon_jacket0,icon_jacket1,icon_jacket_b,icon_pants0,icon_pants1,icon_pants_b,icon_shoes0,icon_shoes1,icon_shoes_b,icon_weapon0,icon_weapon1,icon_weapon_b,public_button,public_button2,sureBtn,tag_recommended,title_buff"
+		},
+		{
+			"url": "assets/game4.json",
+			"type": "sheet",
+			"name": "game4_json",
+			"subkeys": "AddBtn,Arrow,BigTextJie,Block,BossHPBar,BossHPBg,Close,Crit,DiamondBg,EXP,EquipCommonBg,EquipFull,EquipItemTitle,EquipJie,ExpBar,FightBtn,Frame0,Gold0,Gold1,Gold2,Gold3,Gold4,Gold5,GoldBg,HPBg,Head,JieFrame,LevelArrow,LevelBtn,LevelLv,LevelTipBtn0,LevelTipBtn1,Lv,Lv1,PlayerHPBar,PlayerHPBg,Right0,Right1,RockerBg,RockerSub,RoleIcon0,RoleL0,RoleL1,RoleL2,RoleL3,RoleL4,RoleLv,RoleName0,RoleSkill0,RoleSkill1,RoleSkill2,RoleSkill3,RoleSkillLocked,RoleTT,Skill0,Skill1,SkillCold0,SkillCold1,StagePassBtn,StagePassBtn1,StagePassBtn2,StagePassed,Store-button01_public_1,Store-button01_public_2,Store-button02_public_1,Store-button02_public_2,Store-icon_jewel,Store-icon_money,Store-public_cover_3,TitleInfo,TitleJie,bossDead,button_continue,button_pause,button_skill1,button_skill2,button_skill3,button_skill4,button_skill5,button_skill_locked,button_skill_none,button_throw,colock,combo_hits,danger,drop0,drop1,drop10,drop11,drop2,drop3,drop4,drop5,drop6,drop7,drop8,drop9,en_0,en_1,en_2,en_3,en_4,en_5,frame_pickup,frame_skilldebris,frame_skillslot,greenAdd,guideTouchMove,hit_01,hit_02,home_button_select_off,home_button_select_on,icon_mvskill,icon_skillbook,icon_skilldebris,icon_star_off,icon_star_on,icon_touchfinger,item0,item1,item2,item3,item4,item5,public_cover_1,public_cover_2,public_frame_2,public_frame_items,quality0,quality1,quality2,quality3,quality4,shadow,smoke,tap_handle,tips_pickup,tips_remainingenemy,titleBg,titleBg2,wanning,xie"
+		},
+		{
+			"url": "assets/game1.json",
+			"type": "sheet",
+			"name": "game1_json",
+			"subkeys": "BossHead21,BossHead23,BossHead4,BossHead5,BossHead6,CommonBg,CommonBg2,blood,btnRer"
+		},
+		{
+			"url": "assets/game2.json",
+			"type": "sheet",
+			"name": "game2_json",
+			"subkeys": "EquipBg,RoleBg0,RoleBg1,StageBtn4,public_frame_1,roleNodeBg"
+		},
+		{
+			"url": "assets/game5.json",
+			"type": "sheet",
+			"name": "game5_json",
+			"subkeys": "Bg,Button2,ExpBg,Frame1,GetBtn,PlayerHead,Relive,SubBg,TitleFail,TitleSucc,Video,farme_talk,frame_unlockskills,icon_diamond,icon_money"
+		},
+		{
+			"url": "gameBg0.jpg",
+			"type": "image",
+			"name": "gameBg0_jpg"
+		}
+	]
+}

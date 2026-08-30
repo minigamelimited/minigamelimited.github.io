@@ -1,0 +1,20 @@
+
+effect_warning.png
+size: 254,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+warning_1
+  rotate: false
+  xy: 2, 79
+  size: 168, 72
+  orig: 168, 72
+  offset: 0, 0
+  index: -1
+warning_2
+  rotate: false
+  xy: 2, 153
+  size: 250, 97
+  orig: 250, 97
+  offset: 0, 0
+  index: -1

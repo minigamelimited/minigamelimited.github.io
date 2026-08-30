@@ -1,0 +1,33 @@
+{
+	"skins": {
+		"Scene.Game.Main": "resource/eui_skins/game/Main.exml",
+		"Scene.Cover.Main": "resource/eui_skins/cover/Main.exml",
+		"Scene.Common": "resource/eui_skins/Common.exml",
+		"Scene.ItemCell": "resource/eui_skins/ItemCell.exml",
+		"Scene.EquipCell": "resource/eui_skins/EquipCell.exml",
+		"Scene.Cover.AttrCell": "resource/eui_skins/cover/AttrCell.exml",
+		"Scene.Game.GameOver": "resource/eui_skins/game/GameOver.exml",
+		"Scene.Game.PlayerHPBar": "resource/eui_skins/game/PlayerHPBar.exml",
+		"Scene.Cover.Equip": "resource/eui_skins/cover/Equip.exml",
+		"Scene.Cover.Upgrade": "resource/eui_skins/cover/Upgrade.exml",
+		"Scene.Cover.Salvage": "resource/eui_skins/cover/Salvage.exml",
+		"Scene.Cover.EquipDetail": "resource/eui_skins/cover/EquipDetail.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/Common.exml",
+		"resource/eui_skins/cover/AttrCell.exml",
+		"resource/eui_skins/cover/Equip.exml",
+		"resource/eui_skins/cover/EquipDetail.exml",
+		"resource/eui_skins/cover/Main.exml",
+		"resource/eui_skins/cover/Salvage.exml",
+		"resource/eui_skins/cover/Upgrade.exml",
+		"resource/eui_skins/EquipCell.exml",
+		"resource/eui_skins/game/GameOver.exml",
+		"resource/eui_skins/game/PlayerHPBar.exml",
+		"resource/eui_skins/game/Main.exml",
+		"resource/eui_skins/game/Pause.exml",
+		"resource/eui_skins/ItemCell.exml"
+	],
+	"path": "resource/default.thm.json"
+}
